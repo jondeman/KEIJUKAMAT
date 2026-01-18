@@ -16,6 +16,9 @@
 - [Concept 03](concepts/concept_03.md)
 
 ## Treatments
+- [jula_TREATMENT_01_20260118_181454.md](treatments/jula_TREATMENT_01_20260118_181454.md)
+- [jula_TREATMENT_02_20260118_181454.md](treatments/jula_TREATMENT_02_20260118_181454.md)
+- [jula_TREATMENT_03_20260118_181454.md](treatments/jula_TREATMENT_03_20260118_181454.md)
 
 ## One-Pagers
 - [One-Pager 01](onepagers/concept_01.png)
