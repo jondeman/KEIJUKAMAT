@@ -16,6 +16,9 @@
 - [Concept 03](concepts/concept_03.md)
 
 ## Treatments
+- [musti__mirri_TREATMENT_01_20260118_173041.md](treatments/musti__mirri_TREATMENT_01_20260118_173041.md)
+- [musti__mirri_TREATMENT_02_20260118_173041.md](treatments/musti__mirri_TREATMENT_02_20260118_173041.md)
+- [musti__mirri_TREATMENT_03_20260118_173041.md](treatments/musti__mirri_TREATMENT_03_20260118_173041.md)
 
 ## One-Pagers
 - [One-Pager 01](onepagers/concept_01.png)
