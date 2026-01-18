@@ -1,0 +1,32 @@
+services:
+  - type: web
+    name: konseptikeiju
+    env: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn src.main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /
+    autoDeploy: true
+    envVars:
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: ANTHROPIC_API_KEY
+        sync: false
+      - key: NANOBANANA_API_KEY
+        sync: false
+      - key: BRANDFETCH_API_KEY
+        sync: false
+      - key: SMTP_USER
+        sync: false
+      - key: SMTP_PASSWORD
+        sync: false
+      - key: ACCESS_CODE
+        sync: false
+      - key: DELIVERY_BASE_URL
+        sync: false
+      - key: GEMINI_IMAGE_MODEL
+        sync: false
+      - key: CLAUDE_MODEL
+        sync: false
+      - key: USE_MOCK_APIS
+        sync: false

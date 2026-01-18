@@ -1,0 +1,97 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "onepager_spec.schema.json",
+  "title": "One-Pager Specification",
+  "description": "Specification for generating a visual one-pager",
+  "type": "object",
+  "required": [
+    "concept_id",
+    "brand_styling",
+    "content",
+    "visual_direction"
+  ],
+  "properties": {
+    "concept_id": {
+      "type": "string",
+      "enum": ["concept_01", "concept_02", "concept_03"]
+    },
+    "brand_styling": {
+      "type": "object",
+      "required": ["primary_color", "secondary_color", "accent_color"],
+      "properties": {
+        "primary_color": {
+          "type": "string"
+        },
+        "secondary_color": {
+          "type": "string"
+        },
+        "accent_color": {
+          "type": "string"
+        },
+        "style_keywords": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "logo_available": {
+          "type": "boolean"
+        },
+        "logo_path": {
+          "type": ["string", "null"]
+        }
+      }
+    },
+    "content": {
+      "type": "object",
+      "required": ["headline", "subheadline", "bullets", "call_to_action"],
+      "properties": {
+        "headline": {
+          "type": "string",
+          "maxLength": 50,
+          "description": "Max 6 words"
+        },
+        "subheadline": {
+          "type": "string",
+          "maxLength": 100,
+          "description": "Max 15 words"
+        },
+        "bullets": {
+          "type": "array",
+          "maxItems": 4,
+          "items": {
+            "type": "string"
+          },
+          "description": "Max 10 words each"
+        },
+        "call_to_action": {
+          "type": "string"
+        }
+      }
+    },
+    "visual_direction": {
+      "type": "object",
+      "required": ["mood", "imagery_style"],
+      "properties": {
+        "mood": {
+          "type": "string"
+        },
+        "imagery_style": {
+          "type": "string",
+          "enum": ["photorealistic", "illustrated", "graphic", "abstract", "mixed"]
+        },
+        "composition_notes": {
+          "type": "string"
+        }
+      }
+    },
+    "generation_prompt": {
+      "type": "string"
+    },
+    "generated_at": {
+      "type": ["string", "null"],
+      "format": "date-time"
+    },
+    "output_path": {
+      "type": "string"
+    }
+  }
+}

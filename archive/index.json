@@ -1,0 +1,22 @@
+{
+  "companies": {
+    "st1": {
+      "company_name": "ST1",
+      "last_updated": "2026-01-16T22:42:28.953228",
+      "tension_count": 4,
+      "source_count": 5
+    },
+    "paulig": {
+      "company_name": "Paulig",
+      "last_updated": "2026-01-17T06:27:31.212934",
+      "tension_count": 3,
+      "source_count": 5
+    },
+    "svea-rahoitus": {
+      "company_name": "Svea rahoitus",
+      "last_updated": "2026-01-17T07:26:38.288410",
+      "tension_count": 3,
+      "source_count": 6
+    }
+  }
+}

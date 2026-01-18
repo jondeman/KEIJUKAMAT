@@ -1,0 +1,176 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "concept.schema.json",
+  "title": "Concept",
+  "description": "Complete video concept from Creative Bot",
+  "type": "object",
+  "required": [
+    "id",
+    "title",
+    "hook",
+    "premise",
+    "long_form_extension",
+    "format",
+    "platform_strategy",
+    "series_structure",
+    "brand_integration",
+    "episode_concepts",
+    "why_this_wins",
+    "execution",
+    "risks"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "enum": ["concept_01", "concept_02", "concept_03"]
+    },
+    "title": {
+      "type": "string",
+      "minLength": 3,
+      "maxLength": 100
+    },
+    "hook": {
+      "type": "string",
+      "minLength": 10,
+      "description": "One sentence for CMO"
+    },
+    "premise": {
+      "type": "string",
+      "minLength": 50,
+      "description": "2-3 sentences explaining the concept"
+    },
+    "long_form_extension": {
+      "type": "string",
+      "minLength": 10,
+      "description": "Explicit long-form/broadcast extension option (Ruutu+/Katsomo/Total-TV)"
+    },
+    "format": {
+      "type": "object",
+      "required": ["series_type", "episode_length", "cadence"],
+      "properties": {
+        "series_type": {
+          "type": "string",
+          "enum": ["ongoing", "limited", "seasonal", "event"]
+        },
+        "episode_length": {
+          "type": "string"
+        },
+        "cadence": {
+          "type": "string"
+        },
+        "season_length": {
+          "type": ["string", "null"]
+        }
+      }
+    },
+    "platform_strategy": {
+      "type": "object",
+      "required": ["primary"],
+      "properties": {
+        "primary": {
+          "type": "object",
+          "required": ["platform", "rationale"],
+          "properties": {
+            "platform": { "type": "string" },
+            "rationale": { "type": "string" }
+          }
+        },
+        "secondary": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "platform": { "type": "string" },
+              "adaptation": { "type": "string" }
+            }
+          }
+        },
+        "amplification": {
+          "type": "string"
+        }
+      }
+    },
+    "series_structure": {
+      "type": "object",
+      "properties": {
+        "recurring_elements": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "variable_elements": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "host_approach": {
+          "type": "string"
+        }
+      }
+    },
+    "brand_integration": {
+      "type": "object",
+      "required": ["philosophy"],
+      "properties": {
+        "philosophy": { "type": "string" },
+        "integration_method": { "type": "string" },
+        "screen_time_balance": { "type": "string" },
+        "cta_approach": { "type": "string" }
+      }
+    },
+    "episode_concepts": {
+      "type": "array",
+      "minItems": 6,
+      "maxItems": 6,
+      "items": {
+        "type": "object",
+        "required": ["number", "title", "description"],
+        "properties": {
+          "number": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 6
+          },
+          "title": { "type": "string" },
+          "description": { "type": "string" }
+        }
+      }
+    },
+    "why_this_wins": {
+      "type": "object",
+      "required": ["strategic_alignment", "competitive_differentiation", "audience_value_proposition"],
+      "properties": {
+        "strategic_alignment": { "type": "string" },
+        "competitive_differentiation": { "type": "string" },
+        "audience_value_proposition": { "type": "string" }
+      }
+    },
+    "execution": {
+      "type": "object",
+      "required": ["complexity", "budget_tier", "timeline_to_first_episode"],
+      "properties": {
+        "complexity": {
+          "type": "string",
+          "enum": ["low", "medium", "high"]
+        },
+        "budget_tier": {
+          "type": "string",
+          "enum": ["budget", "mid", "premium"]
+        },
+        "timeline_to_first_episode": {
+          "type": "string"
+        }
+      }
+    },
+    "risks": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["risk", "mitigation"],
+        "properties": {
+          "risk": { "type": "string" },
+          "mitigation": { "type": "string" }
+        }
+      }
+    }
+  }
+}
