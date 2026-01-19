@@ -16,6 +16,9 @@
 - [Concept 03](concepts/concept_03.md)
 
 ## Treatments
+- [outokumpu_TREATMENT_01_20260119_192903.md](treatments/outokumpu_TREATMENT_01_20260119_192903.md)
+- [outokumpu_TREATMENT_02_20260119_192903.md](treatments/outokumpu_TREATMENT_02_20260119_192903.md)
+- [outokumpu_TREATMENT_03_20260119_192903.md](treatments/outokumpu_TREATMENT_03_20260119_192903.md)
 
 ## One-Pagers
 - [One-Pager 01](onepagers/concept_01.png)
