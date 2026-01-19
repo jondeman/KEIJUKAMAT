@@ -1,0 +1,235 @@
+{
+  "company_name": "Prisma",
+  "company_slug": "prisma",
+  "generated_at": "2026-01-19T12:41:42.287124",
+  "brand_identity": {
+    "positioning": "Kansakunnan huoltoasema ja arjen logistinen ratkaisu. Yhdest\u00e4 paikasta kaikki -infrastruktuuri ruuhkavuosia el\u00e4vien perheiden ajank\u00e4ytt\u00f6ongelmaan.",
+    "visual_markers": {
+      "primary_color": "Vihre\u00e4",
+      "secondary_colors": [],
+      "style_keywords": [
+        "Avara",
+        "Valoisa",
+        "Kliininen",
+        "Selke\u00e4"
+      ],
+      "tone_keywords": [
+        "Insin\u00f6\u00f6rim\u00e4inen",
+        "Funktionaalinen"
+      ]
+    },
+    "voice_characteristics": [
+      "Pragmaattinen",
+      "Tasa-arvoinen",
+      "Toteava",
+      "Hy\u00f6tykeskeinen"
+    ]
+  },
+  "strategic_priorities": [
+    {
+      "rank": 1,
+      "priority": "Hintajohtajuuden puolustus (Inflaation j\u00e4lkihoito)",
+      "evidence": [
+        "Jatkuva 'Halpuuttaminen'-retoriikka",
+        "Xtra- ja Coop-halpamerkkien aggressiivinen nosto markkinoinnissa"
+      ],
+      "execution_assessment": "strong"
+    },
+    {
+      "rank": 2,
+      "priority": "K\u00e4ytt\u00f6tavarakaupan (Non-Food) puolustus",
+      "evidence": [
+        "'Suomen suosituin muotikauppa' -kampanjointi",
+        "Panostukset elektroniikkaan ja urheiluv\u00e4lineisiin ruoan katteen paikkaajina"
+      ],
+      "execution_assessment": "moderate"
+    },
+    {
+      "rank": 3,
+      "priority": "Retail Media & Data (Smart Marketing)",
+      "evidence": [
+        "S-ryhm\u00e4n investoinnit myym\u00e4l\u00f6iden digin\u00e4ytt\u00f6ihin",
+        "'Smart Marketing' -yksik\u00f6n perustaminen omien mediapintojen kaupallistamiseksi"
+      ],
+      "execution_assessment": "moderate"
+    }
+  ],
+  "marketing_posture": {
+    "current_content_types": [
+      "Taktinen mainonta",
+      "Luettelomainen mainonta",
+      "Hintavetoinen mainonta ('T\u00e4m\u00e4 tuote, t\u00e4m\u00e4 hinta')",
+      "Massiivinen mediapeitto"
+    ],
+    "channel_presence": {
+      "youtube": {
+        "active": true,
+        "assessment": "Passiivinen/Arkisto. Toimii l\u00e4hinn\u00e4 TV-mainosten varastona, puuttuu natiivi tubettaja-sis\u00e4lt\u00f6."
+      },
+      "tiktok": {
+        "active": true,
+        "assessment": "Heikko/Varovainen. Nojaa vaikuttajayhteist\u00f6ihin, oma orgaaninen \u00e4\u00e4ni puuttuu."
+      },
+      "instagram": {
+        "active": false,
+        "assessment": "Ei eritelty l\u00e4hdeaineistossa."
+      },
+      "linkedin": {
+        "active": false,
+        "assessment": "Ei eritelty l\u00e4hdeaineistossa."
+      }
+    },
+    "apparent_gaps": [
+      "Digitaalinen her\u00e4\u00e4minen on kesken",
+      "Puuttuu sitouttava, tarinallinen natiivisis\u00e4lt\u00f6",
+      "S-mobiilin videosis\u00e4ll\u00f6n hy\u00f6dynt\u00e4minen alitehoista"
+    ],
+    "audience_engagement": "Tavoittaa massat (lapsiperheet, seniorit) hyvin, mutta sitoutuminen on rationaalista (Bonus) eik\u00e4 emotionaalista. Gen Z:n tavoittaminen on vaikeaa."
+  },
+  "competitive_analysis": {
+    "key_competitors": [
+      {
+        "name": "K-Citymarket",
+        "content_strategy": "Ruokaparatiisi, el\u00e4myksellisyys, premium-osastot",
+        "threat_level": "high"
+      },
+      {
+        "name": "Lidl",
+        "content_strategy": "Nopea, hauska, itseironinen, vahva hintamielikuva",
+        "threat_level": "high"
+      },
+      {
+        "name": "Normal",
+        "content_strategy": "Nuorten naisten 'halvat huvit', her\u00e4teostokset",
+        "threat_level": "medium"
+      }
+    ],
+    "brand_winning_areas": [
+      "Logistinen helppous ('kaikki kerralla')",
+      "Rationaalinen luottamus ja S-Etukortti-j\u00e4rjestelm\u00e4",
+      "Fyysinen saavutettavuus ja valikoiman laajuus"
+    ],
+    "brand_losing_areas": [
+      "Emotionaalinen side ja 'fiilis'",
+      "Nopeus, huumori ja ketteryys",
+      "Relevanssi nuorille aikuisille ja Gen Z:lle"
+    ]
+  },
+  "strategic_tensions": [
+    {
+      "id": "tension_01",
+      "description": "Rationaalinen valinta vs. Emotionaalinen puute: Prisma on j\u00e4rkivalinta, jota arvostetaan, mutta jota ei rakasteta.",
+      "evidence": [
+        "Identiteetti on 'insin\u00f6\u00f6rim\u00e4inen' ja kliininen",
+        "Kilpailija K-Citymarket on onnistunut br\u00e4nd\u00e4\u00e4m\u00e4\u00e4n itsens\u00e4 'paratiisiksi'",
+        "Markkinointi on luettelomaista, ei inspiroivaa"
+      ],
+      "opportunity_type": "gap",
+      "priority_score": 5
+    },
+    {
+      "id": "tension_02",
+      "description": "'Kaikille kaikkea' vs. Kategoriakohtainen uskottavuus: Laaja valikoima sy\u00f6 uskottavuutta yksitt\u00e4isilt\u00e4 tuoteryhmilt\u00e4.",
+      "evidence": [
+        "Juhlamekkoja myyd\u00e4\u00e4n talvirenkaiden ja jauhelihan vieress\u00e4",
+        "Mielikuva on 'varastohalli' eik\u00e4 'muotitalo'",
+        "Gaming-uskottavuuden puute perhekontekstissa"
+      ],
+      "opportunity_type": "aspiration",
+      "priority_score": 4
+    },
+    {
+      "id": "tension_03",
+      "description": "Sukupolvien v\u00e4linen kuilu (Gen Z -ongelma): Prisma on 'vanhempien kauppa', joka ei resonoi nuorten aikuisten arvojen kanssa.",
+      "evidence": [
+        "TikTok-l\u00e4sn\u00e4olo on varovaista ja vailla omaa \u00e4\u00e4nt\u00e4",
+        "Normal vie nuorten her\u00e4teostokset",
+        "Asiakasomistajuus-konsepti tuntuu nuorista et\u00e4iselt\u00e4"
+      ],
+      "opportunity_type": "underserved_audience",
+      "priority_score": 5
+    },
+    {
+      "id": "tension_04",
+      "description": "Datadominanssi vs. Geneerinen viestint\u00e4: Suomen paras data, mutta ulosp\u00e4in n\u00e4kyv\u00e4 sis\u00e4lt\u00f6 on massoille suunnattua bulkkia.",
+      "evidence": [
+        "Markkinointi on 'massiivista vy\u00f6rytyst\u00e4'",
+        "Puuttuu kokemus hyper-relevanssista",
+        "S-mobiili on alihy\u00f6dynnetty sis\u00e4ll\u00f6llisesti"
+      ],
+      "opportunity_type": "gap",
+      "priority_score": 3
+    }
+  ],
+  "opportunity_zones": [
+    {
+      "id": "opp_01",
+      "description": "Arjen sankaruuden ja kaaoksen rehellinen kuvaaminen",
+      "rationale": "Ratkaisee tension_01:n (Rationaalinen vs. Emotionaalinen). Erottuu K-Citymarketin 'gourmet'-fiilistelyst\u00e4 olemalla aidompi ja samaistuttavampi ('Me ymm\u00e4rr\u00e4mme arkeasi').",
+      "risk_level": "low"
+    },
+    {
+      "id": "opp_02",
+      "description": "Uskottava alakulttuurisis\u00e4lt\u00f6 (Gaming & Streetwear)",
+      "rationale": "Ratkaisee tension_02:n ja tension_03:n. Rakentaa uskottavuutta Gen Z:n silmiss\u00e4 irrottamalla tuotteet 'market-kontekstista' ja tuottamalla sis\u00e4lt\u00f6\u00e4, joka p\u00e4rj\u00e4\u00e4 TikTokin feediss\u00e4.",
+      "risk_level": "medium"
+    },
+    {
+      "id": "opp_03",
+      "description": "Myym\u00e4l\u00e4median (Digital Signage) luova vallankumous",
+      "rationale": "Hy\u00f6dynt\u00e4\u00e4 Prisman vahvaa infrastruktuuria (Priority 3). Muuttaa passiivisen odottelun br\u00e4ndikokemukseksi luomalla \u00e4\u00e4net\u00f6nt\u00e4, visuaalisesti koukuttavaa micro-sis\u00e4lt\u00f6\u00e4.",
+      "risk_level": "low"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Uutistiedotteet S-ryhm\u00e4n kampanjoista",
+      "url": "sttinfo.fi",
+      "type": "news",
+      "date_accessed": "2026-01-19",
+      "relevance": "Kampanjatiedot"
+    },
+    {
+      "title": "Yrityksen omat strategialinjaukset",
+      "url": "s-ryhma.fi",
+      "type": "company_site",
+      "date_accessed": "2026-01-19",
+      "relevance": "Strategia"
+    },
+    {
+      "title": "Analyysit markkinoinnin tilasta",
+      "url": "markkinointiuutiset.fi",
+      "type": "news",
+      "date_accessed": "2026-01-19",
+      "relevance": "Markkina-analyysi"
+    },
+    {
+      "title": "Alueosuuskaupan tiedot",
+      "url": "pko.fi",
+      "type": "company_site",
+      "date_accessed": "2026-01-19",
+      "relevance": "Alueellinen data"
+    },
+    {
+      "title": "Tiedot Retail Media -yksik\u00f6st\u00e4",
+      "url": "smartmarketing.fi",
+      "type": "company_site",
+      "date_accessed": "2026-01-19",
+      "relevance": "Retail Media"
+    },
+    {
+      "title": "Kuluttajakeskustelut ja mielikuvat",
+      "url": "reddit.com",
+      "type": "social",
+      "date_accessed": "2026-01-19",
+      "relevance": "Kuluttajainsight"
+    },
+    {
+      "title": "S-ryhm\u00e4n raportit/materiaalit",
+      "url": "ctfassets.net",
+      "type": "report",
+      "date_accessed": "2026-01-19",
+      "relevance": "Raportit"
+    }
+  ]
+}
