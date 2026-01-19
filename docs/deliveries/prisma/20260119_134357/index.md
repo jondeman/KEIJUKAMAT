@@ -16,6 +16,9 @@
 - [Concept 03](concepts/concept_03.md)
 
 ## Treatments
+- [prisma_TREATMENT_01_20260119_135105.md](treatments/prisma_TREATMENT_01_20260119_135105.md)
+- [prisma_TREATMENT_02_20260119_135105.md](treatments/prisma_TREATMENT_02_20260119_135105.md)
+- [prisma_TREATMENT_03_20260119_135105.md](treatments/prisma_TREATMENT_03_20260119_135105.md)
 
 ## One-Pagers
 - [One-Pager 01](onepagers/concept_01.png)
