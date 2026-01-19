@@ -16,6 +16,9 @@
 - [Concept 03](concepts/concept_03.md)
 
 ## Treatments
+- [lidl_TREATMENT_01_20260119_184918.md](treatments/lidl_TREATMENT_01_20260119_184918.md)
+- [lidl_TREATMENT_02_20260119_184918.md](treatments/lidl_TREATMENT_02_20260119_184918.md)
+- [lidl_TREATMENT_03_20260119_184918.md](treatments/lidl_TREATMENT_03_20260119_184918.md)
 
 ## One-Pagers
 - [One-Pager 01](onepagers/concept_01.png)
