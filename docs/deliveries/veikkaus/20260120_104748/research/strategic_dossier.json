@@ -1,0 +1,202 @@
+{
+  "company_name": "Veikkaus",
+  "company_slug": "veikkaus",
+  "generated_at": "2026-01-20T10:50:46.988237",
+  "brand_identity": {
+    "positioning": "Turvallinen kotimainen viihdeoperaattori (ent. Koko kansan hyv\u00e4ntekij\u00e4)",
+    "visual_markers": {
+      "primary_color": "Sinivalkoinen",
+      "secondary_colors": [
+        "Modernit aksenttiv\u00e4rit"
+      ],
+      "style_keywords": [
+        "Korkea tuotantoarvo",
+        "Virastomaisen luotettava",
+        "J\u00e4ykk\u00e4"
+      ],
+      "tone_keywords": [
+        "Asiallinen",
+        "Varovainen",
+        "Puolustuskannalla"
+      ]
+    },
+    "voice_characteristics": [
+      "Skitsofreninen vaihtelu holhouksen ja viihteen v\u00e4lill\u00e4",
+      "Yritt\u00e4\u00e4 olla rento ('Ilon kautta'), mutta vastuuviestint\u00e4 toimii k\u00e4sijarruna"
+    ]
+  },
+  "strategic_priorities": [
+    {
+      "rank": 1,
+      "priority": "Kilpailukyvyn rakentaminen lisenssimarkkinaan (Digi)",
+      "evidence": [
+        "Organisaation jakaminen kahtia (Nettikasino & Vedonly\u00f6nti vs. muut)",
+        "Massiiviset investoinnit digitaaliseen kanavaan"
+      ],
+      "execution_assessment": "moderate"
+    },
+    {
+      "rank": 2,
+      "priority": "Kanalisaatio (Pelaajien pit\u00e4minen ekosysteemiss\u00e4)",
+      "evidence": [
+        "Tavoite pit\u00e4\u00e4 rahaliikenne Suomessa",
+        "Digitaalisen pelaamisen osuus >60 %"
+      ],
+      "execution_assessment": "weak"
+    },
+    {
+      "rank": 3,
+      "priority": "Kansainv\u00e4linen kasvu (Fennica Gaming)",
+      "evidence": [
+        "Strateginen painotus B2B-teknologiamyyntiin",
+        "Kotimarkkinan saturaatio"
+      ],
+      "execution_assessment": "strong"
+    }
+  ],
+  "marketing_posture": {
+    "current_content_types": [
+      "Br\u00e4ndimielikuvamainonta",
+      "Urheilusponsorointisis\u00e4lt\u00f6",
+      "Vastuullisuusvalistus"
+    ],
+    "channel_presence": {
+      "youtube": {
+        "active": true,
+        "assessment": "Implisiittinen osa TV/Lineaarista preesensi\u00e4, korkea tuotantoarvo."
+      },
+      "tiktok": {
+        "active": false,
+        "assessment": "Heikko/Olematon. Ei pysty toimimaan uskottavasti hype-alustoilla."
+      },
+      "instagram": {
+        "active": true,
+        "assessment": "Aktiivinen, mutta sis\u00e4lt\u00f6 on usein geneerist\u00e4 tai varovaista."
+      },
+      "linkedin": {
+        "active": true,
+        "assessment": "Strategisesti t\u00e4rke\u00e4 B2B-teknologiamyynnille (Fennica Gaming), vaikka ei eritelty kuluttajamarkkinoinnissa."
+      }
+    },
+    "apparent_gaps": [
+      "Pelaamisen ilo ja yhteis\u00f6llisyys puuttuu",
+      "Markkinointikieltojen pelko on desinfioinut sis\u00e4ll\u00f6st\u00e4 tunteen"
+    ],
+    "audience_engagement": "Polarisoitunut: 'Lotto-kansa' (50+) sitoutuu, 'Vedonly\u00f6j\u00e4t' (20\u201340 v) ja Gen Z kyynisi\u00e4."
+  },
+  "competitive_analysis": {
+    "key_competitors": [
+      {
+        "name": "Unibet, Betsson, Coolbet, Pikakasinot",
+        "content_strategy": "Aggressiiviset bonukset, vaikuttajamarkkinointi, korkea RTP, nopeus",
+        "threat_level": "high"
+      }
+    ],
+    "brand_winning_areas": [
+      "Luottamus ja turvallisuus (rahat varmasti tilille)",
+      "Yksinoikeus fyysisiin pelikoneisiin ja Lottoon",
+      "Syv\u00e4 integraatio kotimaiseen urheiluun"
+    ],
+    "brand_losing_areas": [
+      "Tuotteen houkuttelevuus (kertoimet, bonukset)",
+      "K\u00e4ytt\u00f6kokemuksen nopeus (raskaat tunnistautumiset)",
+      "Nuorten aikuisten tavoittaminen"
+    ]
+  },
+  "strategic_tensions": [
+    {
+      "id": "tension_01",
+      "description": "Hyv\u00e4ntekij\u00e4n kuolema vs. Kaupallinen realiteetti",
+      "evidence": [
+        "Vuoden 2024 lakimuutos tuottojen ohjauksessa",
+        "Pelaajien kyynistyminen ('Valtion lypsylehm\u00e4')"
+      ],
+      "opportunity_type": "gap",
+      "priority_score": 5
+    },
+    {
+      "id": "tension_02",
+      "description": "Vastuullinen jarru vs. Viihteen kaasu",
+      "evidence": [
+        "'Pelaa maltilla' -pakko viestinn\u00e4ss\u00e4",
+        "Markkinointikiellot vs. kilpailijoiden unelma-lupaukset"
+      ],
+      "opportunity_type": "aspiration",
+      "priority_score": 4
+    },
+    {
+      "id": "tension_03",
+      "description": "Digitaalinen insin\u00f6\u00f6ritalo vs. Kankea virasto",
+      "evidence": [
+        "Vahva B2B-teknologiavienti (Fennica)",
+        "Nuorten aikuisten kokemus 'n\u00f6ss\u00f6-yhti\u00f6st\u00e4'"
+      ],
+      "opportunity_type": "underserved_audience",
+      "priority_score": 3
+    }
+  ],
+  "opportunity_zones": [
+    {
+      "id": "opp_01",
+      "description": "Turvallisuuden uudelleenbr\u00e4nd\u00e4ys 'Pro-tason laaduksi'",
+      "rationale": "Turvallisuus on ainoa USP offshore-yhti\u00f6it\u00e4 vastaan, mutta se pit\u00e4\u00e4 kehyst\u00e4\u00e4 premium-ominaisuudeksi (luotettavuus) eik\u00e4 rajoitteeksi (holhous).",
+      "risk_level": "low"
+    },
+    {
+      "id": "opp_02",
+      "description": "Kotikentt\u00e4edun syvent\u00e4minen sis\u00e4ll\u00f6llisesti",
+      "rationale": "Hy\u00f6dynnet\u00e4\u00e4n yksinoikeuksia ja dataa luomalla syv\u00e4\u00e4 urheilusis\u00e4lt\u00f6\u00e4, jota kilpailijat eiv\u00e4t voi kopioida pelkill\u00e4 kertoimilla.",
+      "risk_level": "medium"
+    },
+    {
+      "id": "opp_03",
+      "description": "'Suomalainen peliteknologia' ylpeydenaiheena",
+      "rationale": "Fennica Gamingin vientimenestyksen tuominen osaksi kuluttajabr\u00e4ndi\u00e4 nostaisi statusta Gen Z:n silmiss\u00e4.",
+      "risk_level": "medium"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Strateginen Dossier: Veikkaus",
+      "url": "internal://dossier-2026",
+      "type": "report",
+      "date_accessed": "2026-01-20",
+      "relevance": "Primary source text"
+    },
+    {
+      "title": "rahapelisanomat.fi - Uutiset s\u00e4\u00e4ntelyst\u00e4 ja markkinasta",
+      "url": "https://rahapelisanomat.fi",
+      "type": "news",
+      "date_accessed": "2026-01-20",
+      "relevance": "Market context"
+    },
+    {
+      "title": "veikkaus.fi / veikkausgroup.com - Vuosikertomukset",
+      "url": "https://veikkausgroup.com",
+      "type": "company_site",
+      "date_accessed": "2026-01-20",
+      "relevance": "Financial and strategic data"
+    },
+    {
+      "title": "veikkausliiga.com - Yhteisty\u00f6tiedot",
+      "url": "https://veikkausliiga.com",
+      "type": "other",
+      "date_accessed": "2026-01-20",
+      "relevance": "Sponsorship details"
+    },
+    {
+      "title": "arpajaislaki.fi - Lains\u00e4\u00e4d\u00e4nn\u00f6llinen kehys",
+      "url": "https://arpajaislaki.fi",
+      "type": "other",
+      "date_accessed": "2026-01-20",
+      "relevance": "Regulatory framework"
+    },
+    {
+      "title": "onlinecasino.fi - Kilpailijavertailut",
+      "url": "https://onlinecasino.fi",
+      "type": "other",
+      "date_accessed": "2026-01-20",
+      "relevance": "Competitor benchmarking"
+    }
+  ]
+}
