@@ -16,6 +16,9 @@
 - [Concept 03](concepts/concept_03.md)
 
 ## Treatments
+- [veikkaus_TREATMENT_01_20260120_110021.md](treatments/veikkaus_TREATMENT_01_20260120_110021.md)
+- [veikkaus_TREATMENT_02_20260120_110021.md](treatments/veikkaus_TREATMENT_02_20260120_110021.md)
+- [veikkaus_TREATMENT_03_20260120_110021.md](treatments/veikkaus_TREATMENT_03_20260120_110021.md)
 
 ## One-Pagers
 - [One-Pager 01](onepagers/concept_01.png)
