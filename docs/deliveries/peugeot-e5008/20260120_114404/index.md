@@ -16,6 +16,9 @@
 - [Concept 03](concepts/concept_03.md)
 
 ## Treatments
+- [peugeot_e5008_TREATMENT_01_20260120_115428.md](treatments/peugeot_e5008_TREATMENT_01_20260120_115428.md)
+- [peugeot_e5008_TREATMENT_02_20260120_115428.md](treatments/peugeot_e5008_TREATMENT_02_20260120_115428.md)
+- [peugeot_e5008_TREATMENT_03_20260120_115428.md](treatments/peugeot_e5008_TREATMENT_03_20260120_115428.md)
 
 ## One-Pagers
 - [One-Pager 01](onepagers/concept_01.png)
