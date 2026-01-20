@@ -16,6 +16,9 @@
 - [Concept 03](concepts/concept_03.md)
 
 ## Treatments
+- [tokmanni_TREATMENT_01_20260120_175311.md](treatments/tokmanni_TREATMENT_01_20260120_175311.md)
+- [tokmanni_TREATMENT_02_20260120_175311.md](treatments/tokmanni_TREATMENT_02_20260120_175311.md)
+- [tokmanni_TREATMENT_03_20260120_175311.md](treatments/tokmanni_TREATMENT_03_20260120_175311.md)
 
 ## One-Pagers
 - [One-Pager 01](onepagers/concept_01.png)
