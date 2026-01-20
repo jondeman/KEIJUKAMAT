@@ -1,0 +1,197 @@
+{
+  "company_name": "Nissen optikkoliike",
+  "company_slug": "nissen-optikkoliike",
+  "generated_at": "2026-01-20T11:31:25.746978",
+  "brand_identity": {
+    "positioning": "Kaikkien optikko - matalan kynnyksen toimija, joka on mutkaton, helppo ja ennen kaikkea edullinen.",
+    "visual_markers": {
+      "primary_color": "Kliininen sinivalkoinen",
+      "secondary_colors": [
+        "Kirkas punainen",
+        "Keltainen"
+      ],
+      "style_keywords": [
+        "Selke\u00e4",
+        "Pelkistetty",
+        "Kaupallinen",
+        "Hintapisteet hallitsevia"
+      ],
+      "tone_keywords": [
+        "Suora",
+        "Aktivoiva",
+        "Reipas"
+      ]
+    },
+    "voice_characteristics": [
+      "The Everyman (Jokamies)",
+      "The Jester (Ilveilij\u00e4)",
+      "Kansanomainen",
+      "Ei liian vakava"
+    ]
+  },
+  "strategic_priorities": [
+    {
+      "rank": 1,
+      "priority": "Volyymin maksimointi (Traffic Driver)",
+      "evidence": [
+        "Aggressiivinen 'Ilmainen n\u00e4\u00f6ntarkastus' -sis\u00e4\u00e4nheittotuote",
+        "Markkinointi viritetty tuottamaan ovien avauksia"
+      ],
+      "execution_assessment": "strong"
+    },
+    {
+      "rank": 2,
+      "priority": "Keskiostoksen kasvattaminen (Basket Size)",
+      "evidence": [
+        "'3 yksien hinnalla' pysyv\u00e4 liiketoimintamalli",
+        "Sitouttaminen isompaan pakettiin kerralla"
+      ],
+      "execution_assessment": "strong"
+    },
+    {
+      "rank": 3,
+      "priority": "Nuorten aikuisten (Gen Z) tavoittaminen",
+      "evidence": [
+        "Unofficial-br\u00e4ndin lanseeraus",
+        "'Express yourself' -teemat TikTokissa"
+      ],
+      "execution_assessment": "moderate"
+    }
+  ],
+  "marketing_posture": {
+    "current_content_types": [
+      "Taktiset TV-spotit (lyhyet vitsit + CTA)",
+      "Tuotekuvat ja mikrovaikuttajayhteisty\u00f6t",
+      "Verkkokauppamainen hard sell -viestint\u00e4"
+    ],
+    "channel_presence": {
+      "youtube": {
+        "active": true,
+        "assessment": "Aktiivinen. Lyhyit\u00e4, toistuvia mainoksia. Laatu on funktionaalista."
+      },
+      "tiktok": {
+        "active": true,
+        "assessment": "Aktiivinen (Unofficial-kulmalla). Yritys tavoittaa nuoret, mutta kaupallisuus paistaa l\u00e4pi."
+      },
+      "instagram": {
+        "active": true,
+        "assessment": "Aktiivinen. Visuaalisesti siistimpi, mutta sitoutuminen vaihtelevaa."
+      },
+      "linkedin": {
+        "active": false,
+        "assessment": "Ei mainittu analyysissa."
+      }
+    },
+    "apparent_gaps": [
+      "Syv\u00e4llinen asiantuntijuus (l\u00e4\u00e4ketieteellinen uskottavuus)",
+      "Lifestyle-tarinankerronta"
+    ],
+    "audience_engagement": "Transaktionaalista. Asiakkaat reagoivat tarjouksiin, mutta br\u00e4ndiuskollisuus on v\u00e4h\u00e4ist\u00e4."
+  },
+  "competitive_analysis": {
+    "key_competitors": [
+      {
+        "name": "Specsavers",
+        "content_strategy": "Huumori ('Should've gone to...') yhdistettyn\u00e4 aggressiiviseen hintaan",
+        "threat_level": "high"
+      },
+      {
+        "name": "Synsam",
+        "content_strategy": "Lifestyle-sopimus ja muoti edell\u00e4, lasit asusteena",
+        "threat_level": "high"
+      }
+    ],
+    "brand_winning_areas": [
+      "Selkeys ja nopeus",
+      "Volyymitarjoukset (3 lasit kerralla)"
+    ],
+    "brand_losing_areas": [
+      "Mielikuvallinen haluttavuus",
+      "Markkinoinnin oivaltavuus",
+      "L\u00e4\u00e4ketieteellinen auktoriteetti"
+    ]
+  },
+  "strategic_tensions": [
+    {
+      "id": "tension_01",
+      "description": "Yksil\u00f6llisyys vs. Tukkumyynti: Br\u00e4ndi kehottaa nuoria olemaan uniikkeja, mutta myyntimekaniikka pakottaa ostamaan tukkupaketin.",
+      "evidence": [
+        "Sloganit 'Express yourself' vs. tarjous '3 yksien hinnalla'",
+        "Trendik\u00e4s TikTok-sis\u00e4lt\u00f6 vs. markettimainen myym\u00e4l\u00e4ilme"
+      ],
+      "opportunity_type": "aspiration",
+      "priority_score": 5
+    },
+    {
+      "id": "tension_02",
+      "description": "Optikko vs. Ilmainen \u00e4mp\u00e4ri: L\u00e4\u00e4ketieteellinen toimenpide sis\u00e4\u00e4nheittotuotteena sy\u00f6 asiantuntijamielikuvaa.",
+      "evidence": [
+        "Jatkuva 'Ilmainen n\u00e4\u00f6ntarkastus' -rummutus",
+        "Markkinointi keskittyy hintaan, ei silmien terveyteen"
+      ],
+      "opportunity_type": "gap",
+      "priority_score": 4
+    },
+    {
+      "id": "tension_03",
+      "description": "El\u00e4m\u00e4ntyyli vs. Kertak\u00e4ytt\u00f6kulttuuri: Kilpailijat siirtyneet palvelumalliin, Nissen jumissa 'osta ja omista' -mallissa.",
+      "evidence": [
+        "Synsamin nopea kasvu tilausmallilla",
+        "Nissenin viestint\u00e4 puhtaasti transaktionaalista"
+      ],
+      "opportunity_type": "threat",
+      "priority_score": 3
+    }
+  ],
+  "opportunity_zones": [
+    {
+      "id": "opp_01",
+      "description": "Smart Buying \u2013 Halpa hinta fiksuutena, ei kompromissina",
+      "rationale": "K\u00e4\u00e4nnet\u00e4\u00e4n edullisuus tarinaksi el\u00e4m\u00e4nhallinnasta. 3 lasit mahdollistavat lasien olemisen aina siell\u00e4 miss\u00e4 sin\u00e4kin. Vetoaa pragmaattisuuteen.",
+      "risk_level": "low"
+    },
+    {
+      "id": "opp_02",
+      "description": "Asiantuntijuuden kansanomaistaminen",
+      "rationale": "Tuodaan optikon asiantuntijuus esiin rennolla tavalla ilman valkoista takkia. Erottautuminen Instrun j\u00e4ykkyydest\u00e4 ja Specsaversin pelk\u00e4st\u00e4 huumorista.",
+      "risk_level": "medium"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Nissen Mainonta (Video 1)",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqi44Pa5JBqoQJ-Pw5MreFKHq8eGf_r4lnZBEsa9S7zbIGOY0pccXrlmHlQ2phQPWUiiL-gZhNpasqckZfphYt9xUn9EBtSaaARyitqbM70GpeXF_be-9I0RNIhcQnQw3pJv4tKlU=",
+      "type": "video",
+      "date_accessed": "2023-10-27",
+      "relevance": "Mainonnan tyyli ja tone-of-voice"
+    },
+    {
+      "title": "Nissen Mainonta (Video 2)",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjsFoVaZeNP0nruLrfEJ8kYf64RY7OIZrXW3g2ky0FDa-0GtbbG7vvwFBhReANszkBwGzR_1hZ7Wq2zUHxQnbXzwyjBoViEFCKERcMMqlKuEeV_hhQSkjPURXLExi3lB1jsBnsYE6PyHarog==",
+      "type": "video",
+      "date_accessed": "2023-10-27",
+      "relevance": "Mainonnan tyyli ja tone-of-voice"
+    },
+    {
+      "title": "Razao Automovel (Tausta)",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdspG8MLTeMwhuZ0DjjVDEkOliJJOXjAi6dBb-LWbyxHBfOxq1JmH35XzX2ASox8cSINDc5VLsgX4nmwNCn6G-qDFVQlNxMh215SoU3PvXjlerF6en_L6MFWsX3CYSI9OpCHVNqxmHMJ5wV8wdSk8yLZcaS3_G7tCDSK-qHvvLpd0VZHhz8F6buiG8P__LWIDfVbU=",
+      "type": "other",
+      "date_accessed": "2023-10-27",
+      "relevance": "Taustatieto"
+    },
+    {
+      "title": "Nissan News (Yritystieto)",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSoTekruWE7WbGcVTQNp05OF4b5sZjtRoPCOQPP1lksS1Zwb51NpqNxsQmc0U4SvedIVRh-YL9x8JMECQczsvVCEZuekRewikz_YBmtqUbbQd1jjjzDNLbtCvDECHoJ9il14Pmwrg2oYBMs2fkSx9q",
+      "type": "company_site",
+      "date_accessed": "2023-10-27",
+      "relevance": "Yritystieto (Huom: L\u00e4hde viittaa Nissaniin, mutta sis\u00e4ltyi analyysiaineistoon)"
+    },
+    {
+      "title": "Jumbo (Sijainti)",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFW_JVOoAYZX0M-SfnaKHoFa8epnURsqYSZYCv9eq-ro4q4OUDghcvLuwaoMNaUOmiOR5Ji9XUReQaSyNVoNUatumHZfz8Kgwz8AP1j",
+      "type": "other",
+      "date_accessed": "2023-10-27",
+      "relevance": "V\u00e4hitt\u00e4iskauppaymp\u00e4rist\u00f6"
+    }
+  ]
+}
