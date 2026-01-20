@@ -16,6 +16,9 @@
 - [Concept 03](concepts/concept_03.md)
 
 ## Treatments
+- [jalkapalloliiga_ry__veikkausliiga_TREATMENT_01_20260120_125521.md](treatments/jalkapalloliiga_ry__veikkausliiga_TREATMENT_01_20260120_125521.md)
+- [jalkapalloliiga_ry__veikkausliiga_TREATMENT_02_20260120_125521.md](treatments/jalkapalloliiga_ry__veikkausliiga_TREATMENT_02_20260120_125521.md)
+- [jalkapalloliiga_ry__veikkausliiga_TREATMENT_03_20260120_125521.md](treatments/jalkapalloliiga_ry__veikkausliiga_TREATMENT_03_20260120_125521.md)
 
 ## One-Pagers
 - [One-Pager 01](onepagers/concept_01.png)
