@@ -1,0 +1,232 @@
+{
+  "company_name": "Nissen optiikkaketju",
+  "company_slug": "nissen-optiikkaketju",
+  "generated_at": "2026-01-20T12:10:14.270898",
+  "brand_identity": {
+    "positioning": "Optikkokent\u00e4n 'helppo ja iloinen haastaja', joka demokratisoi silm\u00e4lasimuodin tekem\u00e4ll\u00e4 siit\u00e4 mutkatonta ja kaikkien saavutettavissa olevaa.",
+    "visual_markers": {
+      "primary_color": "Keltainen (huomiov\u00e4ri)",
+      "secondary_colors": [],
+      "style_keywords": [
+        "Ihmisl\u00e4heinen",
+        "Konstailematon",
+        "Ei korkeakiiltoinen",
+        "Tarjousvetoinen"
+      ],
+      "tone_keywords": [
+        "Energinen",
+        "Suora",
+        "Kaupallinen",
+        "Hymy huulilla"
+      ]
+    },
+    "voice_characteristics": [
+      "The Everyman",
+      "The Jester",
+      "Miksi maksaisit liikaa?"
+    ]
+  },
+  "strategic_priorities": [
+    {
+      "rank": 1,
+      "priority": "Volyymin maksimointi (Traffic Driver)",
+      "evidence": [
+        "Jatkuva '3 lasit 1 hinnalla' -kivijalkaviesti",
+        "Aggressiivinen, taktinen mainonta",
+        "GrandVision-konsernin ty\u00f6njako (Instrumentarium hoitaa premium/l\u00e4\u00e4ketieteen, Nissen volyymin)"
+      ],
+      "execution_assessment": "strong"
+    },
+    {
+      "rank": 2,
+      "priority": "Siirtym\u00e4 kertaostoksista jatkuvaan laskutukseen (All Inclusive)",
+      "evidence": [
+        "Toimialan yleinen trendi ja vastaus Synsamin Lifestyle -haasteeseen",
+        "Tarve sitouttaa asiakas pidemm\u00e4ksi aikaa ja tasata kassavirtaa"
+      ],
+      "execution_assessment": "moderate"
+    },
+    {
+      "rank": 3,
+      "priority": "Nuoremman asiakaskunnan her\u00e4tt\u00e4minen",
+      "evidence": [
+        "Unofficial-br\u00e4ndin lanseeraus ja kohdennus",
+        "Pelko asiakaskunnan 'ukkoutumisesta'"
+      ],
+      "execution_assessment": "weak"
+    }
+  ],
+  "marketing_posture": {
+    "current_content_types": [
+      "\u00c4\u00e4rimm\u00e4isen taktinen videosis\u00e4lt\u00f6",
+      "15\u201330 sekunnin TV-spotit",
+      "Tarjoushuudot"
+    ],
+    "channel_presence": {
+      "youtube": {
+        "active": true,
+        "assessment": "Passiivinen/Varasto. TV-mainosten kaatopaikka, ei natiivia tubettaja-sis\u00e4lt\u00f6\u00e4."
+      },
+      "tiktok": {
+        "active": true,
+        "assessment": "Visuaalisempi ote, Unofficial-sis\u00e4lt\u00f6 yritt\u00e4\u00e4 tavoittaa nuoria, mutta p\u00e4\u00e4kanava geneerinen."
+      },
+      "instagram": {
+        "active": true,
+        "assessment": "Visuaalisempi ote, keskittyy kehyksiin."
+      },
+      "linkedin": {
+        "active": false,
+        "assessment": "Ei mainittu analyysissa."
+      }
+    },
+    "apparent_gaps": [
+      "Br\u00e4ndillinen tarinankerronta puuttuu",
+      "Sis\u00e4lt\u00f6 vastaa kysymykseen 'Mit\u00e4 maksaa?' mutta ei 'Kuka min\u00e4 olen?'",
+      "Puuttuu sis\u00e4lt\u00f6, joka oikeuttaisi All Inclusive -sopimuksen hy\u00f6dyt arjessa"
+    ],
+    "audience_engagement": "Transaktionaalista. Asiakkaat tulevat tarjouksen per\u00e4ss\u00e4, eiv\u00e4t br\u00e4ndirakkaudesta."
+  },
+  "competitive_analysis": {
+    "key_competitors": [
+      {
+        "name": "Specsavers",
+        "content_strategy": "Yhdist\u00e4\u00e4 halvan hinnan, huumorin ('Olisit k\u00e4ynyt...') ja optikko-omistajuuden tuoman luottamuksen.",
+        "threat_level": "high"
+      },
+      {
+        "name": "Synsam",
+        "content_strategy": "Omistaa 'tyylin' ja 'lifestylen'. Markkinajohtaja tilausmalleissa. Visuaalisesti korkeatasoista.",
+        "threat_level": "high"
+      },
+      {
+        "name": "Silm\u00e4asema",
+        "content_strategy": "L\u00e4\u00e4ketieteellinen dominanssi ja silm\u00e4sairaalayhteys.",
+        "threat_level": "low"
+      }
+    ],
+    "brand_winning_areas": [
+      "Hinta ja helppous",
+      "Matala kynnys astua liikkeeseen"
+    ],
+    "brand_losing_areas": [
+      "Mielikuvallinen arvo (halpa = huono?)",
+      "Sitouttaminen",
+      "Tyylijohtajuus",
+      "Asiantuntijamielikuva"
+    ]
+  },
+  "strategic_tensions": [
+    {
+      "id": "tension_01",
+      "description": "Transaktio vs. Suhde (The Loyalty Gap): Markkinointi optimoitu kertaostoksiin, mutta liiketoiminta tarvitsee sopimusasiakkaita.",
+      "evidence": [
+        "P\u00e4\u00e4viesti '3 lasit 1 hinnalla' on taktinen kertaetu",
+        "Tilausmallin myyminen vaatii luottamusta, jota 'alehuuto' ei rakenna"
+      ],
+      "opportunity_type": "gap",
+      "priority_score": 5
+    },
+    {
+      "id": "tension_02",
+      "description": "'Halpa' vs. 'Fiksu' (The Smart Choice): Vaara leimautua 'k\u00f6yhien kaupaksi' vs. Specsaversin 'fiksu valinta'.",
+      "evidence": [
+        "Specsaversin huumori ja vihre\u00e4 v\u00e4ri vs. Nissenin keltainen 'tarjouslehtinen'",
+        "Pelkk\u00e4 halpuus ei en\u00e4\u00e4 erota kilpailijoista"
+      ],
+      "opportunity_type": "threat",
+      "priority_score": 4
+    },
+    {
+      "id": "tension_03",
+      "description": "Geneerisyys vs. Persoona (The Blandness Trap): Haluaa olla 'iloinen ja energinen', mutta sis\u00e4lt\u00f6 on geneerist\u00e4 studiokuvaa.",
+      "evidence": [
+        "Mainokset voisivat olla mink\u00e4 tahansa alennusmyynnin mainoksia ilman logoa",
+        "Visuaalisuus on 'market-tasoa'"
+      ],
+      "opportunity_type": "aspiration",
+      "priority_score": 4
+    },
+    {
+      "id": "tension_04",
+      "description": "Emobr\u00e4ndi vs. Unofficial (The Generation Gap): Unofficial-br\u00e4ndi on irrallinen ja ristiriidassa p\u00e4\u00e4br\u00e4ndin kanssa.",
+      "evidence": [
+        "Nuoret pit\u00e4v\u00e4t Nisseni\u00e4 'vanhempien kauppana'",
+        "Unofficial puhuu yksil\u00f6llisyydest\u00e4, Nissen massatarjouksista"
+      ],
+      "opportunity_type": "underserved_audience",
+      "priority_score": 3
+    }
+  ],
+  "opportunity_zones": [
+    {
+      "id": "opp_01",
+      "description": "'Fiksun kuluttajan' manifesti (Re-framing Cheap)",
+      "rationale": "Muutetaan 'halpa hinta' tarinaksi 'fiksusta rahank\u00e4yt\u00f6st\u00e4'. Antaa asiakkaalle luvan olla ylpe\u00e4 valinnasta.",
+      "risk_level": "low"
+    },
+    {
+      "id": "opp_02",
+      "description": "All Inclusive -el\u00e4m\u00e4ntapa (Beyond the Price)",
+      "rationale": "Videosis\u00e4lt\u00f6, joka myy mielenrauhaa ja helppoutta hinnan sijaan. Ratkaisee lojaalisuusongelman.",
+      "risk_level": "medium"
+    },
+    {
+      "id": "opp_03",
+      "description": "Nissenin 'oma \u00e4\u00e4ni' (The Jester Unleashed)",
+      "rationale": "Tuodaan br\u00e4ndin 'iloinen haastaja' -arkkityyppi oikeasti videolle. Enemm\u00e4n rosoa ja tilannekomiikkaa.",
+      "risk_level": "high"
+    }
+  ],
+  "sources": [
+    {
+      "title": "uwbadgers.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/...",
+      "type": "other",
+      "date_accessed": "2023-10-27",
+      "relevance": "Taustatietoa"
+    },
+    {
+      "title": "specsavers.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/...",
+      "type": "company_site",
+      "date_accessed": "2023-10-27",
+      "relevance": "Kilpailija-analyysi"
+    },
+    {
+      "title": "nissen.fi",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/...",
+      "type": "company_site",
+      "date_accessed": "2023-10-27",
+      "relevance": "Br\u00e4ndin omat sivut, tarjooma"
+    },
+    {
+      "title": "youtube.com (Nissen)",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/...",
+      "type": "video",
+      "date_accessed": "2023-10-27",
+      "relevance": "Nykyisen videosis\u00e4ll\u00f6n analyysi"
+    },
+    {
+      "title": "imagewear.fi",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/...",
+      "type": "other",
+      "date_accessed": "2023-10-27",
+      "relevance": "Taustatietoa"
+    },
+    {
+      "title": "cision.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/...",
+      "type": "news",
+      "date_accessed": "2023-10-27",
+      "relevance": "Uutiset, Unofficial-lanseeraus"
+    },
+    {
+      "title": "synsam.fi",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/...",
+      "type": "company_site",
+      "date_accessed": "2023-10-27",
+      "relevance": "Kilpailija-analyysi"
+    }
+  ]
+}
