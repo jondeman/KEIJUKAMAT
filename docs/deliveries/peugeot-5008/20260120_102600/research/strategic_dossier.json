@@ -1,0 +1,217 @@
+{
+  "company_name": "Peugeot 5008",
+  "company_slug": "peugeot-5008",
+  "generated_at": "2026-01-20T10:29:07.091385",
+  "brand_identity": {
+    "positioning": "High-End Generalist: Allure (Vetovoima) \u2013 asema massamerkkien ja premium-merkkien v\u00e4limaastossa.",
+    "visual_markers": {
+      "primary_color": "Kryptonite Green",
+      "secondary_colors": [
+        "Tumma ja dramaattinen valaistus",
+        "Neon-s\u00e4vyt"
+      ],
+      "style_keywords": [
+        "Ter\u00e4v\u00e4t kulmat",
+        "Leijonan kynnet",
+        "Aggressiivinen",
+        "Maskuliininen"
+      ],
+      "tone_keywords": [
+        "Itsevarma",
+        "Niukka",
+        "Teknologinen",
+        "Kissanmainen (feline)"
+      ]
+    },
+    "voice_characteristics": [
+      "Viile\u00e4 mutta intohimoinen",
+      "Ei n\u00f6yristelev\u00e4",
+      "V\u00e4ltt\u00e4\u00e4 perinteist\u00e4 perheautojen pehmeytt\u00e4"
+    ]
+  },
+  "strategic_priorities": [
+    {
+      "rank": 1,
+      "priority": "S\u00e4hk\u00f6istymisen johtajuus (E-LION Project)",
+      "evidence": [
+        "Tavoite olla Euroopan s\u00e4hk\u00f6autojohtaja",
+        "Markkinointi luokkansa ainoana s\u00e4hk\u00f6isen\u00e4 7-paikkaisena SUV:na",
+        "Lupaus 660 km toimintamatkasta"
+      ],
+      "execution_assessment": "strong"
+    },
+    {
+      "rank": 2,
+      "priority": "Siirtyminen yl\u00f6sp\u00e4in (Up-market Move)",
+      "evidence": [
+        "CEO Linda Jacksonin painotus: Allure, Emotion, Excellence",
+        "Pyrkimys korkeampiin katteisiin mielikuvilla ja varustelulla",
+        "Erottautuminen Stellantiksen halvemmista merkeist\u00e4"
+      ],
+      "execution_assessment": "moderate"
+    },
+    {
+      "rank": 3,
+      "priority": "Teknologinen el\u00e4mys (i-Cockpit)",
+      "evidence": [
+        "Panoramic i-Cockpitin keskeinen rooli markkinoinnissa",
+        "Auto myyd\u00e4\u00e4n ohjaamona ja digitaalisena el\u00e4myksen\u00e4",
+        "ChatGPT-integraatiot"
+      ],
+      "execution_assessment": "strong"
+    }
+  ],
+  "marketing_posture": {
+    "current_content_types": [
+      "Tyylitellyt TV-mainosleikkaukset",
+      "Product Reveal -videot",
+      "Korkealaatuiset still-kuvat",
+      "Muotimainosmainen estetiikka"
+    ],
+    "channel_presence": {
+      "youtube": {
+        "active": true,
+        "assessment": "Passiivinen/Mainoskeskeinen. P\u00e4\u00e4osin TVC-materiaalia ja teknisi\u00e4 esittelyj\u00e4."
+      },
+      "tiktok": {
+        "active": true,
+        "assessment": "Visuaalisesti korkealaatuinen, lifestyle-painotteinen. Vaikuttajat tyyli-ihmisi\u00e4."
+      },
+      "instagram": {
+        "active": true,
+        "assessment": "Visuaalisesti korkealaatuinen, lifestyle-painotteinen."
+      },
+      "linkedin": {
+        "active": false,
+        "assessment": "Ei mainittu analyysiss\u00e4."
+      }
+    },
+    "apparent_gaps": [
+      "Real life -sis\u00e4ll\u00f6n puute",
+      "3. penkkirivin ja perhe-el\u00e4m\u00e4n kaaoksen piilottaminen",
+      "Dokumentaarisen todistusaineiston puute arjesta (road tripit, lastaus, talvi)"
+    ],
+    "audience_engagement": "Sitoutuminen perustuu estetiikkaan ('hieno auto'), mutta syvempi luottamus k\u00e4yt\u00e4nn\u00f6llisyyteen j\u00e4\u00e4 ohueksi."
+  },
+  "competitive_analysis": {
+    "key_competitors": [
+      {
+        "name": "Skoda Kodiaq",
+        "content_strategy": "J\u00e4rjen \u00e4\u00e4ni, inhimillinen ja tilaa korostava markkinointi.",
+        "threat_level": "high"
+      },
+      {
+        "name": "Kia EV9",
+        "content_strategy": "Teknologiajohtaja, futuristinen, 'tietokone py\u00f6rill\u00e4'.",
+        "threat_level": "high"
+      },
+      {
+        "name": "Tesla Model Y (7p)",
+        "content_strategy": "Benchmark, markkinajohtaja.",
+        "threat_level": "high"
+      }
+    ],
+    "brand_winning_areas": [
+      "Muotoilu (Allure)",
+      "Sis\u00e4tilojen fiilis (i-Cockpit)",
+      "Ranskalainen tyyli",
+      "Ainoa eurooppalainen 7-paikkainen s\u00e4hk\u00f6-SUV hintaluokassaan"
+    ],
+    "brand_losing_areas": [
+      "Tilat ja k\u00e4yt\u00e4nn\u00f6llisyys (vs. Skoda)",
+      "Teknologinen uskottavuus (vs. Kia/Tesla)",
+      "Hinta/laatu-mielikuva (vs. Dacia/Skoda)"
+    ]
+  },
+  "strategic_tensions": [
+    {
+      "id": "tension_01",
+      "description": "The 'Cool Parent' Paradox (Ego vs. Utility): Br\u00e4ndi myy kuljettajalle yksil\u00f6llist\u00e4 viileytt\u00e4, mutta tuote ostetaan perhekaaoksen hallintaan.",
+      "evidence": [
+        "Markkinointikuvasto: nuorekkaat pariskunnat vs. 7 hengen todellisuus",
+        "Kohderyhm\u00e4n pelko 'minivan-kuolemasta'"
+      ],
+      "opportunity_type": "aspiration",
+      "priority_score": 5
+    },
+    {
+      "id": "tension_02",
+      "description": "Range Promise vs. Reality Anxiety: Lupaus 660 km toimintamatkasta vs. perheasiakkaan pelko todellisesta suorituskyvyst\u00e4.",
+      "evidence": [
+        "WLTP-lupaus 660 km",
+        "Yleinen s\u00e4hk\u00f6autoskeptisyys perhek\u00e4yt\u00f6ss\u00e4",
+        "Markkinoinnin keskittyminen ideaaliolosuhteisiin"
+      ],
+      "opportunity_type": "threat",
+      "priority_score": 4
+    },
+    {
+      "id": "tension_03",
+      "description": "High-Tech Isolation vs. Family Connection: Auto markkinoidaan kuljettajakeskeisen\u00e4 'cockpitina', vaikka perheautoilun ydin on yhteys.",
+      "evidence": [
+        "Panoramic i-Cockpit -keskeisyys",
+        "Puuttuva narratiivi matkustajien teknologiasta",
+        "Kilpailijoiden panostus matkustamon muunneltavuuteen"
+      ],
+      "opportunity_type": "underserved_audience",
+      "priority_score": 3
+    }
+  ],
+  "opportunity_zones": [
+    {
+      "id": "opp_01",
+      "description": "'The Third Row Reality' \u2013 Kaaoksen estetiikka",
+      "rationale": "Ratkaisee 'Cool Parent' -j\u00e4nnitteen tekem\u00e4ll\u00e4 7 hengen kuljettamisesta tyylik\u00e4st\u00e4. Erottuu Skodan tylsyydest\u00e4 ja Kian scifist\u00e4.",
+      "risk_level": "medium"
+    },
+    {
+      "id": "opp_02",
+      "description": "Ranskalainen 'Art de Vivre' lataustauolla",
+      "rationale": "K\u00e4\u00e4nt\u00e4\u00e4 latauspakon nautinnoksi hy\u00f6dynt\u00e4m\u00e4ll\u00e4 ranskalaista alkuper\u00e4\u00e4. Tekee heikkoudesta br\u00e4ndinmukaisen vahvuuden.",
+      "risk_level": "low"
+    },
+    {
+      "id": "opp_03",
+      "description": "Visuaalinen ASMR ja laadun tuntu",
+      "rationale": "Hy\u00f6dynt\u00e4\u00e4 \u00e4\u00e4nt\u00e4 ja l\u00e4hikuvaa perustelemaan korkeampaa hintapistett\u00e4 ja tukemaan 'Up-market' -siirtym\u00e4\u00e4.",
+      "risk_level": "low"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Strateginen Dossier: Peugeot 5008 (E-5008)",
+      "url": "internal://report/peugeot-5008-dossier",
+      "type": "report",
+      "date_accessed": "2026-01-20",
+      "relevance": "Ensisijainen l\u00e4hdemateriaali: br\u00e4ndi, strategia, kilpailijat."
+    },
+    {
+      "title": "Linda Jackson (CEO) Statements on Brand Strategy",
+      "url": "internal://interview/linda-jackson",
+      "type": "interview",
+      "date_accessed": "2026-01-20",
+      "relevance": "L\u00e4hde 'Up-market Move' -strategialle ja Allure-k\u00e4sitteelle."
+    },
+    {
+      "title": "E-LION Project Documentation",
+      "url": "https://www.peugeot.com/e-lion",
+      "type": "company_site",
+      "date_accessed": "2026-01-20",
+      "relevance": "L\u00e4hde s\u00e4hk\u00f6istymisstrategialle ja tavoitteille."
+    },
+    {
+      "title": "WLTP Technical Specifications (E-5008)",
+      "url": "https://www.peugeot.com/specs",
+      "type": "other",
+      "date_accessed": "2026-01-20",
+      "relevance": "L\u00e4hde 660 km toimintamatkalupaukselle."
+    },
+    {
+      "title": "Competitor Marketing Analysis (Skoda, Kia, Tesla)",
+      "url": "internal://analysis/competitors",
+      "type": "report",
+      "date_accessed": "2026-01-20",
+      "relevance": "L\u00e4hde kilpailija-analyysille ja uhkatasoille."
+    }
+  ]
+}
