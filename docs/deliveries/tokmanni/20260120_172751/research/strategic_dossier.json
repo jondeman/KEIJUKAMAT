@@ -1,0 +1,222 @@
+{
+  "company_name": "Tokmanni",
+  "company_slug": "tokmanni",
+  "generated_at": "2026-01-20T17:45:18.335407",
+  "brand_identity": {
+    "positioning": "Koko kansan kauppa, joka on Fiksun ostamisen puolesta",
+    "visual_markers": {
+      "primary_color": "#FF0000 (Punainen)",
+      "secondary_colors": [
+        "Keltainen (Huomiov\u00e4ri)"
+      ],
+      "style_keywords": [
+        "\u00c4mp\u00e4ri-estetiikka",
+        "Selke\u00e4t hintalaput",
+        "Basaarimainen",
+        "Hallittu kaaos"
+      ],
+      "tone_keywords": [
+        "Suora",
+        "Konstailematon",
+        "Kansanomainen",
+        "\u00c4ij\u00e4m\u00e4inen",
+        "Perheyst\u00e4v\u00e4llinen"
+      ]
+    },
+    "voice_characteristics": [
+      "Jokamies (The Everyman)",
+      "Maalaisj\u00e4rki"
+    ]
+  },
+  "strategic_priorities": [
+    {
+      "rank": 1,
+      "priority": "Pohjoismainen laajentuminen ja skaalaedut",
+      "evidence": [
+        "Dollarstore-yrityskauppa",
+        "Siirtyminen suomalaisesta toimijasta pohjoismaiseksi j\u00e4ttil\u00e4iseksi"
+      ],
+      "execution_assessment": "strong"
+    },
+    {
+      "rank": 2,
+      "priority": "Omien merkkien (Private Label) kasvattaminen",
+      "evidence": [
+        "Br\u00fccke, Pisara, Kotikulta -br\u00e4ndien osuuden kasvattaminen",
+        "Katteen parantaminen"
+      ],
+      "execution_assessment": "moderate"
+    },
+    {
+      "rank": 3,
+      "priority": "Asiakaskokemus ja L\u00f6yt\u00f6retki (Treasure Hunt)",
+      "evidence": [
+        "Myym\u00e4l\u00e4konseptien uudistus",
+        "Her\u00e4teostosajattelun korostaminen (Dollarstore-vaikutteet)"
+      ],
+      "execution_assessment": "weak"
+    },
+    {
+      "rank": 4,
+      "priority": "Vastuullisuus halpakauppakontekstissa",
+      "evidence": [
+        "Viestint\u00e4 kierr\u00e4tyksest\u00e4",
+        "Energiatehokkuus ja hankintaketjut"
+      ],
+      "execution_assessment": "moderate"
+    }
+  ],
+  "marketing_posture": {
+    "current_content_types": [
+      "Taktinen tarjousmarkkinointi (TV/Radio)",
+      "Arvonnat ja tykk\u00e4\u00e4 ja voita -sis\u00e4ll\u00f6t",
+      "Tuote-esittelyt ja ty\u00f6ntekij\u00e4l\u00e4hettil\u00e4\u00e4t"
+    ],
+    "channel_presence": {
+      "youtube": {
+        "active": false,
+        "assessment": "Ei mainittu l\u00e4hdeaineistossa (TV ja Radio dominoivat)"
+      },
+      "tiktok": {
+        "active": true,
+        "assessment": "L\u00e4sn\u00e4. Sis\u00e4lt\u00f6 kivaa ja turvallista, mutta harvoin viraalia tai kulttuurisesti merkitt\u00e4v\u00e4\u00e4."
+      },
+      "instagram": {
+        "active": true,
+        "assessment": "L\u00e4sn\u00e4 (Reels). Sis\u00e4lt\u00f6 usein tuote-esittelyj\u00e4, puuttuu anarkia."
+      },
+      "linkedin": {
+        "active": false,
+        "assessment": "Ei mainittu l\u00e4hdeaineistossa"
+      }
+    },
+    "apparent_gaps": [
+      "Sis\u00e4ll\u00f6st\u00e4 puuttuu anarkia, yll\u00e4tyksellisyys ja aito viihdearvo",
+      "Markkinointi on liian kontrolloitua ollakseen uskottavasti rentoa"
+    ],
+    "audience_engagement": "Vanhempi v\u00e4est\u00f6 sitoutuu hyvin arvontoihin. Nuorempi urbaani yleis\u00f6 (Gen Z / Millenniaalit) puuttuu tai on passiivinen."
+  },
+  "competitive_analysis": {
+    "key_competitors": [
+      {
+        "name": "Normal",
+        "content_strategy": "Itseironinen, meemipohjainen, FOMO, kokemuksen myyminen",
+        "threat_level": "high"
+      },
+      {
+        "name": "Puuilo",
+        "content_strategy": "Morjensta p\u00f6yt\u00e4\u00e4n, rosoinen huumori, aito \u00e4ij\u00e4m\u00e4isyys",
+        "threat_level": "high"
+      },
+      {
+        "name": "Verkkokauppa.com / Amazon / Temu",
+        "content_strategy": "Valtava valikoima, algoritminen kohdennus",
+        "threat_level": "medium"
+      }
+    ],
+    "brand_winning_areas": [
+      "Fyysinen saavutettavuus",
+      "Tuttuus",
+      "\u00c4mp\u00e4ri-symboliikka",
+      "Taktiset sis\u00e4\u00e4nheittotuotteet"
+    ],
+    "brand_losing_areas": [
+      "Coolius-kerroin",
+      "Viraali potentiaali",
+      "Aito rosoisuus (vs. Puuilo)",
+      "Trendikkyys (vs. Normal)"
+    ]
+  },
+  "strategic_tensions": [
+    {
+      "id": "tension_01",
+      "description": "Rationaalinen hinta vs. Emotionaalinen l\u00f6yt\u00f6",
+      "evidence": [
+        "Tokmannin mainonta keskittyy euroihin ja prosentteihin",
+        "Normalin mainonta keskittyy 'mit\u00e4 outoa l\u00f6ysin' -kokemukseen",
+        "Asiakkaat haluavat el\u00e4myksi\u00e4, eiv\u00e4t vain tavaraa"
+      ],
+      "opportunity_type": "gap",
+      "priority_score": 5
+    },
+    {
+      "id": "tension_02",
+      "description": "P\u00f6rssij\u00e4ttil\u00e4inen vs. Kyl\u00e4kauppias-illuusio",
+      "evidence": [
+        "Herra Tokmanni ja rekka viittaavat menneeseen maailmaan",
+        "Todellisuus on automaatiovarastoja ja Dollarstore-fuusioita",
+        "Skaalaa ei hy\u00f6dynnet\u00e4 markkinoinnissa"
+      ],
+      "opportunity_type": "aspiration",
+      "priority_score": 4
+    },
+    {
+      "id": "tension_03",
+      "description": "Turvallinen perhebr\u00e4ndi vs. Kulttuurinen relevanssi (Kaaos)",
+      "evidence": [
+        "TikTok-sis\u00e4lt\u00f6 on siisti\u00e4 ja 'kivaa', ei viraalia",
+        "Kilpailijat ottavat riskej\u00e4 ja voittavat huomion",
+        "Br\u00e4ndi on vaarassa muuttua harmaaksi"
+      ],
+      "opportunity_type": "threat",
+      "priority_score": 4
+    }
+  ],
+  "opportunity_zones": [
+    {
+      "id": "opp_01",
+      "description": "Private Label -tuotteiden kulttimaineen rakentaminen",
+      "rationale": "Muutetaan geneeriset omat merkit (Pisara, Br\u00fccke) persoonallisiksi hahmoiksi tai kultti-ilmi\u00f6iksi. Ratkaisee tension_01:n tuomalla emootiota halpaan hintaan.",
+      "risk_level": "medium"
+    },
+    {
+      "id": "opp_02",
+      "description": "Absurdiuden ja kaaoksen juhliminen (Gamification)",
+      "rationale": "Hy\u00f6dynnet\u00e4\u00e4n valikoiman eklektisyytt\u00e4 viihteen l\u00e4hteen\u00e4 ('Shopping Haul 2.0'). K\u00e4\u00e4nt\u00e4\u00e4 laajan valikoiman (rationaalinen) viihteeksi (emotionaalinen).",
+      "risk_level": "low"
+    },
+    {
+      "id": "opp_03",
+      "description": "Logistiikka-spektaakkeli (Scale as Entertainment)",
+      "rationale": "Tuodaan esiin Tokmannin massiivinen skaala visuaalisesti tyydytt\u00e4v\u00e4n\u00e4 sis\u00e4lt\u00f6n\u00e4. Ratkaisee tension_02:n olemalla ylpe\u00e4sti j\u00e4ttil\u00e4inen.",
+      "risk_level": "low"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Strateginen Dossier: Tokmanni",
+      "url": "internal://research-bot/tokmanni-dossier",
+      "type": "report",
+      "date_accessed": "2026-01-20",
+      "relevance": "Ensisijainen l\u00e4hde kaikelle datalle"
+    },
+    {
+      "title": "Tokmanni Group Financial Reports (Derived)",
+      "url": "https://ir.tokmanni.fi/",
+      "type": "company_site",
+      "date_accessed": "2026-01-20",
+      "relevance": "L\u00e4hde Dollarstore-kaupalle ja Private Label -strategialle"
+    },
+    {
+      "title": "Tokmanni Social Media Channels (Derived)",
+      "url": "https://www.tiktok.com/@tokmanni",
+      "type": "social",
+      "date_accessed": "2026-01-20",
+      "relevance": "L\u00e4hde sis\u00e4lt\u00f6analyysille ja kanavapresenssille"
+    },
+    {
+      "title": "Competitor Analysis: Normal (Derived)",
+      "url": "https://www.normal.fi",
+      "type": "other",
+      "date_accessed": "2026-01-20",
+      "relevance": "Vertailukohta kilpailija-analyysiss\u00e4"
+    },
+    {
+      "title": "Competitor Analysis: Puuilo (Derived)",
+      "url": "https://www.puuilo.fi",
+      "type": "other",
+      "date_accessed": "2026-01-20",
+      "relevance": "Vertailukohta kilpailija-analyysiss\u00e4"
+    }
+  ]
+}
