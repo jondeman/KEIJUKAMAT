@@ -1,0 +1,209 @@
+{
+  "company_name": "Peugeot E5008",
+  "company_slug": "peugeot-e5008",
+  "generated_at": "2026-01-20T11:47:12.527457",
+  "brand_identity": {
+    "positioning": "Upper Mainstream / Access Premium - The Power of Allure",
+    "visual_markers": {
+      "primary_color": "Tumma, elokuvallinen korkea kontrasti",
+      "secondary_colors": [
+        "Leijona-valot (LED)",
+        "Metalliset s\u00e4vyt"
+      ],
+      "style_keywords": [
+        "Elokuvallinen",
+        "Futuristinen",
+        "Urbaani eleganssi",
+        "Kissanm\u00e4inen"
+      ],
+      "tone_keywords": [
+        "Itsevarma",
+        "Viettelev\u00e4",
+        "Tunteikas",
+        "Abstrakti"
+      ]
+    },
+    "voice_characteristics": [
+      "Muotimainonnan estetiikka",
+      "Hajuvesimainonnan abstraktio",
+      "Ei perinteist\u00e4 perhekuvastoa"
+    ]
+  },
+  "strategic_priorities": [
+    {
+      "rank": 1,
+      "priority": "S\u00e4hk\u00f6inen uskottavuus (EV Leadership)",
+      "evidence": [
+        "E-Lion Project -strategia",
+        "Markkinointi ainoana s\u00e4hk\u00f6isen\u00e4 7-paikkaisena omassa luokassaan"
+      ],
+      "execution_assessment": "strong"
+    },
+    {
+      "rank": 2,
+      "priority": "Luottamuksen rakentaminen (Trust)",
+      "evidence": [
+        "Allure Care -takuu: 8 vuotta / 160 000 km"
+      ],
+      "execution_assessment": "moderate"
+    },
+    {
+      "rank": 3,
+      "priority": "Teknologinen erottautuminen (The Screen War)",
+      "evidence": [
+        "Panoramic i-Cockpit (21-tuumainen kaareva n\u00e4ytt\u00f6)",
+        "Markkinoinnin fokus ohjaamon wow-efektiin"
+      ],
+      "execution_assessment": "strong"
+    }
+  ],
+  "marketing_posture": {
+    "current_content_types": [
+      "Korkean tuotantoarvon TV-mainokset",
+      "Tyylitellyt tuotevideot",
+      "Abstrakti fiilistely"
+    ],
+    "channel_presence": {
+      "youtube": {
+        "active": true,
+        "assessment": "Aktiivinen. P\u00e4\u00e4osin virallisia mainosfilmej\u00e4 ja staattisia esittelyj\u00e4."
+      },
+      "tiktok": {
+        "active": true,
+        "assessment": "Keskittyy estetiikkaan."
+      },
+      "instagram": {
+        "active": true,
+        "assessment": "Keskittyy estetiikkaan."
+      },
+      "linkedin": {
+        "active": false,
+        "assessment": "Ei mainittu analyysiss\u00e4."
+      }
+    },
+    "apparent_gaps": [
+      "Aitous: Lapset, kura ja arki puuttuvat",
+      "K\u00e4ytt\u00e4j\u00e4kokemus: Ekosysteemi 'n\u00e4in se toimii' -videoille on ohut",
+      "Takuun hy\u00f6dynt\u00e4minen: Allure Care j\u00e4\u00e4 visuaalisuuden jalkoihin"
+    ],
+    "audience_engagement": "Visuaalisuus ker\u00e4\u00e4 ihailua, mutta et\u00e4isyys arkeen voi vieraannuttaa pragmaattista perheostajaa."
+  },
+  "competitive_analysis": {
+    "key_competitors": [
+      {
+        "name": "Kia EV9",
+        "content_strategy": "Maskuliininen, tekninen, 'iso ja aito'. Vahva tech-uskottavuus.",
+        "threat_level": "high"
+      },
+      {
+        "name": "Tesla Model Y",
+        "content_strategy": "Oletusvalinta. Ylivoimainen softa ja latausverkosto.",
+        "threat_level": "high"
+      },
+      {
+        "name": "Skoda Enyaq",
+        "content_strategy": "Simply Clever. J\u00e4rkiper\u00e4inen, tilava, turvallinen valinta.",
+        "threat_level": "medium"
+      }
+    ],
+    "brand_winning_areas": [
+      "Muotoilu & Tunne (haluttava esine)",
+      "Sis\u00e4tilojen wow-efekti (i-Cockpit)",
+      "Uniikki positio (ainoa s\u00e4hk\u00f6inen 7-paikkainen hintaluokassaan)"
+    ],
+    "brand_losing_areas": [
+      "Tilank\u00e4yt\u00f6n tehokkuus (muotoilu sy\u00f6 tilaa)",
+      "Softa-uskottavuus (Stellantis vs. Tesla/Kia)"
+    ]
+  },
+  "strategic_tensions": [
+    {
+      "id": "tension_01",
+      "description": "Catwalk vs. Car Pool: Br\u00e4ndi markkinoi autoa viettelev\u00e4n\u00e4 design-esineen\u00e4, mutta kohderyhm\u00e4 ostaa sen ratkaistakseen kaoottisen perhearjen logistiikan.",
+      "evidence": [
+        "Mainoksissa tyylikk\u00e4it\u00e4 pariskuntia, ei sotkuisia lapsiperheit\u00e4",
+        "Terminologia: 'Allure' vs. asiakkaan tarve 'Tila'"
+      ],
+      "opportunity_type": "gap",
+      "priority_score": 5
+    },
+    {
+      "id": "tension_02",
+      "description": "EV-ahdistus vs. Piilotettu l\u00e4\u00e4ke: Asiakkaan suurin este on pelko kest\u00e4vyydest\u00e4, mutta Peugeot piilottaa parhaan vastal\u00e4\u00e4kkeens\u00e4 (Allure Care) fiilistelyn alle.",
+      "evidence": [
+        "Tutkimus: Perheet pelk\u00e4\u00e4v\u00e4t akun hyytymist\u00e4",
+        "Markkinointi: Takuu on usein alaviite"
+      ],
+      "opportunity_type": "gap",
+      "priority_score": 5
+    },
+    {
+      "id": "tension_03",
+      "description": "Premium-hinta vs. Massamerkin perint\u00f6: Hinta nousee tasolle (n. 60k\u20ac), jossa asiakas on tottunut ostamaan Audia tai Volvoa.",
+      "evidence": [
+        "Hinta noussut merkitt\u00e4v\u00e4sti polttomoottoriajoista",
+        "Kuluttajien mielikuvissa muutos hitaampi kuin br\u00e4ndin tavoite"
+      ],
+      "opportunity_type": "aspiration",
+      "priority_score": 4
+    }
+  ],
+  "opportunity_zones": [
+    {
+      "id": "opp_01",
+      "description": "Tyylik\u00e4s kaaos (Stylish Chaos)",
+      "rationale": "Tuodaan perhearki mukaan markkinointiin 'Allure'-filtterin l\u00e4pi. Ratkaisee j\u00e4nnitteen 'Catwalk vs. Car Pool' tekem\u00e4ll\u00e4 autosta samaistuttavan tinkim\u00e4tt\u00e4 tyylist\u00e4.",
+      "risk_level": "medium"
+    },
+    {
+      "id": "opp_02",
+      "description": "Takuu vapauden mahdollistajana",
+      "rationale": "Muutetaan Allure Care -takuu tyls\u00e4st\u00e4 sopimustekstist\u00e4 tunteikkaaksi lupaukseksi vapaudesta ja mielenrauhasta. Ratkaisee EV-ahdistuksen.",
+      "risk_level": "low"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Peugeot E-5008 Reviews & Ads",
+      "url": "youtube.com",
+      "type": "video",
+      "date_accessed": "2024-05-21",
+      "relevance": "Visuaalinen analyysi, tone-of-voice"
+    },
+    {
+      "title": "Peugeot E-5008 Review",
+      "url": "businesscar.co.uk",
+      "type": "news",
+      "date_accessed": "2024-05-21",
+      "relevance": "Tuotetiedot, kilpailutilanne"
+    },
+    {
+      "title": "Technical Data",
+      "url": "ultimatespecs.com",
+      "type": "other",
+      "date_accessed": "2024-05-21",
+      "relevance": "Tekniset faktat, mitat"
+    },
+    {
+      "title": "Stellantis Press Releases",
+      "url": "stellantis.com",
+      "type": "company_site",
+      "date_accessed": "2024-05-21",
+      "relevance": "Strategiset tavoitteet (E-Lion, Allure Care)"
+    },
+    {
+      "title": "Competitor Comparison",
+      "url": "carwow.co.uk",
+      "type": "report",
+      "date_accessed": "2024-05-21",
+      "relevance": "Kilpailijavertailu (Kia, Tesla, Skoda)"
+    },
+    {
+      "title": "Market Positioning",
+      "url": "carsguide.com.au",
+      "type": "news",
+      "date_accessed": "2024-05-21",
+      "relevance": "Globaali positiointi"
+    }
+  ]
+}
