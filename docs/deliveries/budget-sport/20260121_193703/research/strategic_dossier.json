@@ -1,0 +1,227 @@
+{
+  "company_name": "Budget Sport",
+  "company_slug": "budget-sport",
+  "generated_at": "2026-01-21T19:39:47.202896",
+  "brand_identity": {
+    "positioning": "Liikuttavan halpa - Urheilukaupan Lidl tai Jokamiehen varasto. Saavutettava mahdollistaja, joka poistaa hinnan esteen\u00e4 liikkumiselle.",
+    "visual_markers": {
+      "primary_color": "Musta, keltainen ja oranssi",
+      "secondary_colors": [
+        "Huomiov\u00e4rit",
+        "Varoitusv\u00e4rit"
+      ],
+      "style_keywords": [
+        "Taktinen",
+        "Huutava",
+        "Raskas typografia",
+        "Laatikot esill\u00e4"
+      ],
+      "tone_keywords": [
+        "Suora",
+        "Konstailematon",
+        "K\u00e4skev\u00e4",
+        "Transaktionaalinen"
+      ]
+    },
+    "voice_characteristics": [
+      "Rationaalinen hinta-argumentaatio",
+      "Ei inspiroivaa tarinankerrontaa",
+      "Osta t\u00e4st\u00e4 -tyylinen k\u00e4skevyys"
+    ]
+  },
+  "strategic_priorities": [
+    {
+      "rank": 1,
+      "priority": "Markkina-aseman puolustaminen hintajohtajuudella",
+      "evidence": [
+        "Liikuttavan halpa -lupaus",
+        "Aggressiivinen taktinen mainonta",
+        "Sijoittuminen K-ryhm\u00e4n salkussa halvaksi vaihtoehdoksi"
+      ],
+      "execution_assessment": "strong"
+    },
+    {
+      "rank": 2,
+      "priority": "Operatiivinen tehokkuus ja volyymi",
+      "evidence": [
+        "Big box -myym\u00e4l\u00e4konsepti",
+        "Laatikot esill\u00e4 -estetiikka",
+        "Karsittu palvelumalli",
+        "Raportointi Autokauppa-toimialan alla"
+      ],
+      "execution_assessment": "strong"
+    },
+    {
+      "rank": 3,
+      "priority": "Omnichannel-konversio (Verkosta kivijalkaan)",
+      "evidence": [
+        "Verkkokaupan vahva integraatio",
+        "Click & Collect -painotus",
+        "Sis\u00e4ll\u00f6llinen painotus tuoteluettelossa"
+      ],
+      "execution_assessment": "moderate"
+    }
+  ],
+  "marketing_posture": {
+    "current_content_types": [
+      "Taktinen tuotemainonta",
+      "Hintavetoiset kampanjat (Black Friday, Ale)",
+      "Staattiset tuotenostot"
+    ],
+    "channel_presence": {
+      "youtube": {
+        "active": false,
+        "assessment": "Passiivinen (TV-mainosten arkisto). Ei How-to -sis\u00e4lt\u00f6\u00e4."
+      },
+      "tiktok": {
+        "active": false,
+        "assessment": "Olematon/N\u00e4kym\u00e4t\u00f6n. Kriittinen puute nuoren kohderyhm\u00e4n tavoittamisessa."
+      },
+      "instagram": {
+        "active": true,
+        "assessment": "Staattinen, katalogimainen, v\u00e4h\u00e4inen vuorovaikutus."
+      },
+      "linkedin": {
+        "active": false,
+        "assessment": "Ei mainittu analyysiss\u00e4 / Ei relevantti kuluttajastrategiassa."
+      }
+    },
+    "apparent_gaps": [
+      "Inspiraation puute",
+      "Asiantuntijuuden puute",
+      "Yhteis\u00f6llisyyden puute",
+      "Markkinointi puhuu tuotteista, ei identiteetist\u00e4"
+    ],
+    "audience_engagement": "Transaktionaalinen. Yleis\u00f6 reagoi hintaan, mutta br\u00e4ndisuhde on ohut. Sitoutuminen sis\u00e4lt\u00f6\u00f6n on matalaa."
+  },
+  "competitive_analysis": {
+    "key_competitors": [
+      {
+        "name": "Prisma / K-Citymarket (Hypermarketit)",
+        "content_strategy": "Arjen helppous, volyymi, kaikki samalla kerralla.",
+        "threat_level": "high"
+      },
+      {
+        "name": "XXL",
+        "content_strategy": "Big box yhdistettyn\u00e4 mielikuvaan asiantuntijuudesta.",
+        "threat_level": "medium"
+      },
+      {
+        "name": "Stadium Outlet",
+        "content_strategy": "Halpa voi olla tyylik\u00e4st\u00e4 (Athleisure), vetoaa nuorempiin.",
+        "threat_level": "medium"
+      }
+    ],
+    "brand_winning_areas": [
+      "Hintamielikuva",
+      "Keskon logistinen voima",
+      "Selke\u00e4 lupaus (halpa)"
+    ],
+    "brand_losing_areas": [
+      "Emotionaalinen side",
+      "Asiantuntijamielikuva",
+      "Tyylikkyys/trendikkyys",
+      "Helppous (vs. hypermarketit)"
+    ]
+  },
+  "strategic_tensions": [
+    {
+      "id": "tension_01",
+      "description": "Transaktio vs. Transformaatio: Br\u00e4ndin slogan lupaa liikuttavuutta (tunne), mutta toteutus on pelkk\u00e4\u00e4 hintalappua (transaktio).",
+      "evidence": [
+        "Slogan Liikuttavan halpa",
+        "Sis\u00e4lt\u00f6 pelkk\u00e4\u00e4 tuoteluetteloa",
+        "Puuttuva tarinankerronta liikkumisen ilosta"
+      ],
+      "opportunity_type": "gap",
+      "priority_score": 5
+    },
+    {
+      "id": "tension_02",
+      "description": "Halpuuden paradoksi (Ep\u00e4ily vs. Luottamus): Kuluttaja ep\u00e4ilee halvan teknisen v\u00e4lineen laatua, eik\u00e4 br\u00e4ndi h\u00e4lvenn\u00e4 t\u00e4t\u00e4.",
+      "evidence": [
+        "Halvat hinnat ilman selityst\u00e4 (miksi halpa)",
+        "Puuttuva laatuargumentaatio (testit, asiantuntijat)"
+      ],
+      "opportunity_type": "threat",
+      "priority_score": 4
+    },
+    {
+      "id": "tension_03",
+      "description": "Asiantuntija vs. Varastomies: Erikoisliike k\u00e4ytt\u00e4ytyy kuin sekatavarakauppa, hukaten Smart Expert -position.",
+      "evidence": [
+        "YouTube-kanavan tyhjyys opasvideoista",
+        "Asiakkaan ohjautuminen Intersportiin neuvojen per\u00e4ss\u00e4"
+      ],
+      "opportunity_type": "aspiration",
+      "priority_score": 4
+    },
+    {
+      "id": "tension_04",
+      "description": "Tuote vs. Identiteetti (Gen Z -kuilu): Nuoret etsiv\u00e4t inspiraatiota (GymTok), Budget Sport tarjoaa vain v\u00e4lineit\u00e4.",
+      "evidence": [
+        "Olematon TikTok-l\u00e4sn\u00e4olo",
+        "Staattinen some-sis\u00e4lt\u00f6"
+      ],
+      "opportunity_type": "underserved_audience",
+      "priority_score": 3
+    }
+  ],
+  "opportunity_zones": [
+    {
+      "id": "opp_01",
+      "description": "Aloittamisen kynnyksen madaltaja (The Enabler)",
+      "rationale": "Sis\u00e4lt\u00f6, joka normalisoi tavallisen liikkumisen. Budget Sport voi omia aloittamisen ja tavallisuuden, erottuen suorituskeskeisist\u00e4 kilpailijoista.",
+      "risk_level": "low"
+    },
+    {
+      "id": "opp_02",
+      "description": "Fiksun ostajan ylpeys (Smart Shopper Pride)",
+      "rationale": "K\u00e4\u00e4nnet\u00e4\u00e4n halpuus h\u00e4pe\u00e4st\u00e4 ylpeydeksi. Lifehack-tyyppinen sis\u00e4lt\u00f6, joka selitt\u00e4\u00e4 hinnan muodostumisen ja rakentaa luottamusta.",
+      "risk_level": "medium"
+    },
+    {
+      "id": "opp_03",
+      "description": "Demystifiointi (Jargon Buster)",
+      "rationale": "Urheiluteknologian selitt\u00e4minen kansankielell\u00e4. Osoittaa asiantuntijuutta ilman elitismi\u00e4, t\u00e4ytt\u00e4en tyhji\u00f6n varastomiehen ja asiantuntijan v\u00e4lill\u00e4.",
+      "risk_level": "low"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Kesko Group (Reports & Strategy)",
+      "url": "kesko.fi",
+      "type": "report",
+      "date_accessed": "2026-01-21",
+      "relevance": "Strateginen konteksti ja prioriteetit."
+    },
+    {
+      "title": "Budget Sport Verkkokauppa",
+      "url": "budgetsport.fi",
+      "type": "company_site",
+      "date_accessed": "2026-01-21",
+      "relevance": "Visuaalinen ilme, valikoima, palvelulupaus."
+    },
+    {
+      "title": "Wikipedia (Kesko/Budget Sport)",
+      "url": "wikipedia.org",
+      "type": "other",
+      "date_accessed": "2026-01-21",
+      "relevance": "Organisaatiorakenne ja historia."
+    },
+    {
+      "title": "Markkinahavainnot (AI Synthesis)",
+      "url": "N/A",
+      "type": "other",
+      "date_accessed": "2026-01-21",
+      "relevance": "Perustuu toimitettuun Strategic Dossier -aineistoon."
+    },
+    {
+      "title": "Strategic Dossier -aineisto",
+      "url": "Internal Document",
+      "type": "report",
+      "date_accessed": "2026-01-21",
+      "relevance": "Analyysin pohjana k\u00e4ytetty raaka-aineisto (mainittu johdannossa)."
+    }
+  ]
+}
