@@ -1,0 +1,210 @@
+{
+  "company_name": "Hau-Hau Champion",
+  "company_slug": "hau-hau-champion",
+  "generated_at": "2026-01-21T12:05:32.289514",
+  "brand_identity": {
+    "positioning": "Marketin Premium ja Jokakoiranoikeus - laadun demokratisointi helposti l\u00e4hestytt\u00e4v\u00e4n\u00e4 vaihtoehtona p\u00e4ivitt\u00e4istavarakaupassa.",
+    "visual_markers": {
+      "primary_color": "#FF6600 (Dominoiva oranssi)",
+      "secondary_colors": [],
+      "style_keywords": [
+        "Informatiivinen",
+        "Selke\u00e4",
+        "Aktiivinen",
+        "Ulkoileva",
+        "Kumisaappaat jalassa -estetiikka"
+      ],
+      "tone_keywords": [
+        "Rehti",
+        "Iloinen",
+        "Maanl\u00e4heinen",
+        "Suomalainen"
+      ]
+    },
+    "voice_characteristics": [
+      "Rehti kaveri",
+      "V\u00e4ltt\u00e4\u00e4 l\u00e4\u00e4ketieteellist\u00e4 jargonia",
+      "Ei liiallista s\u00f6p\u00f6ily\u00e4",
+      "Puhuu koiranomistajalta koiranomistajalle"
+    ]
+  },
+  "strategic_priorities": [
+    {
+      "rank": 1,
+      "priority": "Kotimainen valmistus (Nokian tehdas)",
+      "evidence": [
+        "Vuonna 2023 avattu tehdas Nokialla",
+        "Mahdollistaa 'Suomalainen'-viestin",
+        "Konkreettinen laadunvalvonta"
+      ],
+      "execution_assessment": "strong"
+    },
+    {
+      "rank": 2,
+      "priority": "Tuoteportfolion siivous (Viljattomuus & Vehn\u00e4tt\u00f6myys)",
+      "evidence": [
+        "Valikoiman muokkaus herkk\u00e4vatsaisille",
+        "Lihapitoisuuden korostaminen pakkauksissa"
+      ],
+      "execution_assessment": "moderate"
+    },
+    {
+      "rank": 3,
+      "priority": "Vastuullisuus (Hiilineutraalius)",
+      "evidence": [
+        "Hiilijalanj\u00e4ljen kompensointi",
+        "Biopohjaiset pakkaukset"
+      ],
+      "execution_assessment": "moderate"
+    }
+  ],
+  "marketing_posture": {
+    "current_content_types": [
+      "TV-viihde (Koti koiralle)",
+      "Taktinen digimainonta",
+      "Arvonnat",
+      "Koirakuvat",
+      "Asiantuntijayhteisty\u00f6 (Kennelliitto)"
+    ],
+    "channel_presence": {
+      "youtube": {
+        "active": false,
+        "assessment": "Arkistoiva / Matala prioriteetti"
+      },
+      "tiktok": {
+        "active": false,
+        "assessment": "Ei mainittu analyysissa"
+      },
+      "instagram": {
+        "active": true,
+        "assessment": "Aktiivinen / Taktinen. Sitouttaa arvonnoilla ja yhteis\u00f6llisyydell\u00e4."
+      },
+      "linkedin": {
+        "active": false,
+        "assessment": "Ei mainittu analyysissa"
+      }
+    },
+    "apparent_gaps": [
+      "Middle-funnel -sis\u00e4lt\u00f6 puuttuu",
+      "Visuaalinen todistusaineisto laadusta/valmistuksesta puuttuu",
+      "Asiantuntijuus j\u00e4\u00e4 logo-tasolle"
+    ],
+    "audience_engagement": "TV-ohjelma her\u00e4tt\u00e4\u00e4 vahvaa tunnesitoutumista, mutta t\u00e4m\u00e4 tunne ei siirry t\u00e4ysim\u00e4\u00e4r\u00e4isesti taktiseen 'osta pussi' -someviestint\u00e4\u00e4n."
+  },
+  "competitive_analysis": {
+    "key_competitors": [
+      {
+        "name": "Alvar Pet",
+        "content_strategy": "Personointi, data, helppous (DTC), vastuullisuusbr\u00e4nd\u00e4ys",
+        "threat_level": "high"
+      },
+      {
+        "name": "Private Label (Pirkka, Rainbow, Coop)",
+        "content_strategy": "Hinta edell\u00e4, 'riitt\u00e4v\u00e4n hyv\u00e4' laatu",
+        "threat_level": "medium"
+      },
+      {
+        "name": "Erikoisliikebr\u00e4ndit (esim. Royal Canin, Brit)",
+        "content_strategy": "Tiede, terveysongelmien ratkaisu, asiantuntija-auktoriteetti",
+        "threat_level": "medium"
+      }
+    ],
+    "brand_winning_areas": [
+      "Saatavuus (S-ryhm\u00e4, K-ryhm\u00e4)",
+      "Hinta-laatusuhde",
+      "Kotimaisuus (Nokian tehdas)"
+    ],
+    "brand_losing_areas": [
+      "Personointi",
+      "Status / Snob-appeal"
+    ]
+  },
+  "strategic_tensions": [
+    {
+      "id": "tension_01",
+      "description": "Tunnepitoinen TV vs. Transaktionaalinen Arki: Br\u00e4ndi on TV:ss\u00e4 hyv\u00e4ntekij\u00e4, mutta somessa vain lihapitoinen nappulapussi.",
+      "evidence": [
+        "Koti koiralle -ohjelman itkett\u00e4v\u00e4t tarinat vs. somen arvonnat",
+        "Tunteen siirtym\u00e4 katkeaa kanavien v\u00e4lill\u00e4"
+      ],
+      "opportunity_type": "gap",
+      "priority_score": 5
+    },
+    {
+      "id": "tension_02",
+      "description": "Marketlaatu-stigma vs. Nokian High-Tech todellisuus: Kuluttajilla ennakkoluulo marketruoasta, vaikka tehdas on huippumoderni.",
+      "evidence": [
+        "Laadusta puhutaan tekstin\u00e4, mutta valmistusta ei n\u00e4ytet\u00e4",
+        "Tehdas on 'piilossa' pusseissa"
+      ],
+      "opportunity_type": "aspiration",
+      "priority_score": 4
+    },
+    {
+      "id": "tension_03",
+      "description": "Suomalainen identiteetti vs. Kansainv\u00e4linen omistus: Vahva suomalaisuusbr\u00e4nd\u00e4ys vs. t\u0161ekkil\u00e4inen omistus.",
+      "evidence": [
+        "Avainlippu-merkin k\u00e4ytt\u00f6 vs. Vafo Groupin omistus"
+      ],
+      "opportunity_type": "threat",
+      "priority_score": 3
+    }
+  ],
+  "opportunity_zones": [
+    {
+      "id": "opp_01",
+      "description": "Beyond the Bag \u2013 Radikaali l\u00e4pin\u00e4kyvyys",
+      "rationale": "Ratkaisee tension_02:n n\u00e4ytt\u00e4m\u00e4ll\u00e4 visuaalisesti valmistusprosessin ja kumoamalla marketm\u00f6ss\u00f6-ennakkoluulot. Tekee suomalaisuudesta konkreettista.",
+      "risk_level": "low"
+    },
+    {
+      "id": "opp_02",
+      "description": "Asiantuntijuuden inhimillist\u00e4minen",
+      "rationale": "Valjastetaan kasvattajat puhuviksi p\u00e4iksi antamaan sosiaalinen lupa ostaa marketruokaa. Poistaa ep\u00e4varmuuden.",
+      "risk_level": "medium"
+    },
+    {
+      "id": "opp_03",
+      "description": "Koti koiralle -ilmi\u00f6n 365-laajennus",
+      "rationale": "Ratkaisee tension_01:n tuomalla br\u00e4ndin syd\u00e4men osaksi jatkuvaa tekemist\u00e4, ei vain TV-kauden ajaksi.",
+      "risk_level": "low"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Prima Pet Premium (Yrityssivusto)",
+      "url": "primapetpremium.com",
+      "type": "company_site",
+      "date_accessed": "2026-01-21",
+      "relevance": "L\u00e4hde yrityksen strategialle ja tehdasinfolle."
+    },
+    {
+      "title": "Hau-Hau Champion (Br\u00e4ndisivusto)",
+      "url": "hauhau.fi",
+      "type": "company_site",
+      "date_accessed": "2026-01-21",
+      "relevance": "L\u00e4hde tuotetiedoille ja br\u00e4ndilupaukselle."
+    },
+    {
+      "title": "Kennelliitto",
+      "url": "kennelliitto.fi",
+      "type": "other",
+      "date_accessed": "2026-01-21",
+      "relevance": "L\u00e4hde yhteisty\u00f6n laadulle."
+    },
+    {
+      "title": "ECO3 (Nokian yritysalue)",
+      "url": "eco3.fi",
+      "type": "other",
+      "date_accessed": "2026-01-21",
+      "relevance": "L\u00e4hde tehtaan ymp\u00e4rist\u00f6v\u00e4itt\u00e4mille."
+    },
+    {
+      "title": "Strateginen Dossier",
+      "url": "N/A",
+      "type": "report",
+      "date_accessed": "2026-01-21",
+      "relevance": "P\u00e4\u00e4l\u00e4hde analyysille."
+    }
+  ]
+}
