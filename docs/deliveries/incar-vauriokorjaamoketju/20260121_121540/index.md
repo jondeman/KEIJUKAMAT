@@ -16,6 +16,9 @@
 - [Concept 03](concepts/concept_03.md)
 
 ## Treatments
+- [incar_vauriokorjaamoketju_TREATMENT_01_20260121_122703.md](treatments/incar_vauriokorjaamoketju_TREATMENT_01_20260121_122703.md)
+- [incar_vauriokorjaamoketju_TREATMENT_02_20260121_122703.md](treatments/incar_vauriokorjaamoketju_TREATMENT_02_20260121_122703.md)
+- [incar_vauriokorjaamoketju_TREATMENT_03_20260121_122703.md](treatments/incar_vauriokorjaamoketju_TREATMENT_03_20260121_122703.md)
 
 ## One-Pagers
 - [One-Pager 01](onepagers/concept_01.png)
