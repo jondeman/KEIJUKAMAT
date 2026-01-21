@@ -16,6 +16,9 @@
 - [Concept 03](concepts/concept_03.md)
 
 ## Treatments
+- [elixia_liikuntakeskus_TREATMENT_01_20260121_102755.md](treatments/elixia_liikuntakeskus_TREATMENT_01_20260121_102755.md)
+- [elixia_liikuntakeskus_TREATMENT_02_20260121_102755.md](treatments/elixia_liikuntakeskus_TREATMENT_02_20260121_102755.md)
+- [elixia_liikuntakeskus_TREATMENT_03_20260121_102755.md](treatments/elixia_liikuntakeskus_TREATMENT_03_20260121_102755.md)
 
 ## One-Pagers
 - [One-Pager 01](onepagers/concept_01.png)
