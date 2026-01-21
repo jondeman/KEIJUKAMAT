@@ -1,0 +1,220 @@
+{
+  "company_name": "Incar vauriokorjaamoketju",
+  "company_slug": "incar-vauriokorjaamoketju",
+  "generated_at": "2026-01-21T12:19:15.636032",
+  "brand_identity": {
+    "positioning": "Suomen vaivattomin vauriokorjaamo",
+    "visual_markers": {
+      "primary_color": "Sininen ja valkoinen",
+      "secondary_colors": [
+        "Valkoinen"
+      ],
+      "style_keywords": [
+        "Asiallinen",
+        "Siisti",
+        "Moderni",
+        "Kliininen"
+      ],
+      "tone_keywords": [
+        "Rauhoittava",
+        "Selke\u00e4",
+        "Ammattimainen",
+        "Ei-tekninen"
+      ]
+    },
+    "voice_characteristics": [
+      "The Caregiver",
+      "The Sage",
+      "Huolehtiva asiantuntija",
+      "Luotettava auktoriteetti"
+    ]
+  },
+  "strategic_priorities": [
+    {
+      "rank": 1,
+      "priority": "Kuluttajatunnettuuden kasvu (B2C-transformaatio)",
+      "evidence": [
+        "Laaja yhteisty\u00f6 Sanoman kanssa (TV/Radio)",
+        "Tavoite irtautua vakuutusyhti\u00f6riippuvuudesta kohti Top of Mind -asemaa"
+      ],
+      "execution_assessment": "moderate"
+    },
+    {
+      "rank": 2,
+      "priority": "Ekosysteemin hy\u00f6dynt\u00e4minen ja tehokkuus",
+      "evidence": [
+        "Suvia Groupin rakenne (SVT tarkastus + AutoBodyParts osat + Incar korjaus)",
+        "AutoBodyPartsin osto 2025"
+      ],
+      "execution_assessment": "strong"
+    },
+    {
+      "rank": 3,
+      "priority": "Vihre\u00e4 siirtym\u00e4 (ESG)",
+      "evidence": [
+        "Vihre\u00e4 korjaamo -konsepti",
+        "Strateginen linjaus korjata osa mieluummin kuin vaihtaa uuteen"
+      ],
+      "execution_assessment": "strong"
+    },
+    {
+      "rank": 4,
+      "priority": "Digitaalinen asiakaspolku",
+      "evidence": [
+        "Kuvapohjainen vahinkotarkastus mobiilissa",
+        "Tavoite minimoida fyysiset k\u00e4ynnit"
+      ],
+      "execution_assessment": "moderate"
+    }
+  ],
+  "marketing_posture": {
+    "current_content_types": [
+      "Br\u00e4ndillinen TV- ja radiomainonta",
+      "Asialliset some-postaukset",
+      "Rekrytointi-ilmoitukset"
+    ],
+    "channel_presence": {
+      "youtube": {
+        "active": false,
+        "assessment": "Passiivinen/Heikko. L\u00e4sn\u00e4olo olematonta tai vanhentunutta. Ei selke\u00e4\u00e4 videostrategiaa."
+      },
+      "tiktok": {
+        "active": false,
+        "assessment": "Heikko. Ei merkitt\u00e4v\u00e4\u00e4 kuluttajavetoista, viihdytt\u00e4v\u00e4\u00e4 tai tarinallista sis\u00e4lt\u00f6\u00e4."
+      },
+      "instagram": {
+        "active": false,
+        "assessment": "Heikko. Ei merkitt\u00e4v\u00e4\u00e4 kuluttajavetoista sis\u00e4lt\u00f6\u00e4."
+      },
+      "linkedin": {
+        "active": true,
+        "assessment": "Aktiivinen. Sis\u00e4lt\u00f6 on informatiivista ja korporaatiomaista. Rekrytointi korostuu."
+      }
+    },
+    "apparent_gaps": [
+      "Puuttuu inhimillinen ja empaattinen videosis\u00e4lt\u00f6",
+      "Sis\u00e4lt\u00f6 on liian kuivaa verrattuna kilpailijaan",
+      "Magic of repair -visualisointi puuttuu"
+    ],
+    "audience_engagement": "Sitoutuminen on todenn\u00e4k\u00f6isesti matalaa ja pragmaattista. Br\u00e4ndi ei her\u00e4t\u00e4 tunteita, vaan n\u00e4hd\u00e4\u00e4n v\u00e4ltt\u00e4m\u00e4tt\u00f6m\u00e4n\u00e4 pahana."
+  },
+  "competitive_analysis": {
+    "key_competitors": [
+      {
+        "name": "Autoklinikka (Werksta)",
+        "content_strategy": "K\u00e4ytt\u00e4\u00e4 huumoria, hahmoja ja tarinallisuutta. Mainostaa aggressiivisesti Tesla-hyv\u00e4ksynt\u00e4\u00e4.",
+        "threat_level": "high"
+      }
+    ],
+    "brand_winning_areas": [
+      "Prosessitehokkuus",
+      "Ekosysteemin laajuus (Suvia)",
+      "Visuaalinen ammattimaisuus/kliinisyys (luottamus)"
+    ],
+    "brand_losing_areas": [
+      "Inhimillisyys",
+      "L\u00e4hestytt\u00e4vyys",
+      "Tech-mielikuva",
+      "Tarinankerronta"
+    ]
+  },
+  "strategic_tensions": [
+    {
+      "id": "tension_01",
+      "description": "Koneisto vs. Empatia: Incar on osa optimoitua teollisuusj\u00e4tti\u00e4, mutta asiakas kaipaa inhimillist\u00e4 ymm\u00e4rryst\u00e4 ahdingossa.",
+      "evidence": [
+        "Strategia korostaa prosessitehokkuutta",
+        "Asiakas on h\u00e4t\u00e4\u00e4ntynyt autoilija",
+        "Kilpailija k\u00e4ytt\u00e4\u00e4 huumoria inhimillist\u00e4miseen"
+      ],
+      "opportunity_type": "aspiration",
+      "priority_score": 5
+    },
+    {
+      "id": "tension_02",
+      "description": "High-Tech vs. Dirty Hands: Br\u00e4ndi puhuu digitaalisuudesta, mutta ei osaa visualisoida fyysist\u00e4 k\u00e4sity\u00f6t\u00e4 arvokkaana high-tech -suorituksena.",
+      "evidence": [
+        "Kilpailija mainostaa Tesla-hyv\u00e4ksynt\u00e4\u00e4",
+        "Incarin sis\u00e4lt\u00f6 on abstraktia br\u00e4ndikuvaa tai rekrytointia",
+        "Ala k\u00e4rsii likaisen ty\u00f6n leimasta"
+      ],
+      "opportunity_type": "gap",
+      "priority_score": 4
+    },
+    {
+      "id": "tension_03",
+      "description": "Halu vs. Pakko: Incar rakentaa br\u00e4ndi\u00e4 palvelulle, jota kukaan ei halua k\u00e4ytt\u00e4\u00e4.",
+      "evidence": [
+        "Asiakkaan ensisijainen tunne on negatiivinen",
+        "Markkinointi keskittyy olemme t\u00e4\u00e4ll\u00e4 -viestiin eik\u00e4 helpotuksen tunteeseen"
+      ],
+      "opportunity_type": "underserved_audience",
+      "priority_score": 3
+    }
+  ],
+  "opportunity_zones": [
+    {
+      "id": "opp_01",
+      "description": "The Invisible Tech (N\u00e4kym\u00e4t\u00f6n teknologia n\u00e4kyv\u00e4ksi)",
+      "rationale": "Vastaa suoraan Autoklinikan Tesla-haasteeseen ja k\u00e4\u00e4nt\u00e4\u00e4 Incarin suuren koon asiakkaan hy\u00f6dyksi tekem\u00e4ll\u00e4 likaisesta ty\u00f6st\u00e4 huipputeknologiaa.",
+      "risk_level": "medium"
+    },
+    {
+      "id": "opp_02",
+      "description": "Radical Relief (Radikaali helpotus)",
+      "rationale": "Erottautuu kilpailijan huumorista syvemm\u00e4ll\u00e4, rauhoittavalla tunteella ja ratkaisee Halu vs. Pakko -j\u00e4nnitteen.",
+      "risk_level": "low"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Suvia Group - Etusivu",
+      "url": "suviagroup.com",
+      "type": "company_site",
+      "date_accessed": "2023-10-27",
+      "relevance": "Taustatieto konsernirakenteesta"
+    },
+    {
+      "title": "Incar - Etusivu",
+      "url": "incar.fi",
+      "type": "company_site",
+      "date_accessed": "2023-10-27",
+      "relevance": "Br\u00e4ndilupaus ja visuaalinen ilme"
+    },
+    {
+      "title": "Autoklinikka - Etusivu",
+      "url": "autoklinikka.fi",
+      "type": "company_site",
+      "date_accessed": "2023-10-27",
+      "relevance": "Kilpailija-analyysi ja asemointi"
+    },
+    {
+      "title": "Finder - Incar Oy",
+      "url": "finder.fi",
+      "type": "other",
+      "date_accessed": "2023-10-27",
+      "relevance": "Yritystiedot"
+    },
+    {
+      "title": "STT Info - Suvia Group tiedotteet",
+      "url": "sttinfo.fi",
+      "type": "news",
+      "date_accessed": "2023-10-27",
+      "relevance": "Tiedot yrityskaupoista (AutoBodyParts)"
+    },
+    {
+      "title": "YouTube - Autoklinikka/Incar haut",
+      "url": "youtube.com",
+      "type": "social",
+      "date_accessed": "2023-10-27",
+      "relevance": "Videostrategian auditointi"
+    },
+    {
+      "title": "CBS News / Fox LA / TSN",
+      "url": "various",
+      "type": "news",
+      "date_accessed": "2023-10-27",
+      "relevance": "Yleinen taustatieto toimialan trendeist\u00e4"
+    }
+  ]
+}
