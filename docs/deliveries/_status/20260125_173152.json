@@ -2,8 +2,8 @@
   "run_id": "20260125_173152",
   "company_slug": "outokumpu",
   "created_at": "2026-01-25T17:31:52.087976",
-  "updated_at": "2026-01-25T17:31:52.087990",
-  "current_phase": "input",
+  "updated_at": "2026-01-25T17:35:26.567764",
+  "current_phase": "research",
   "user_input": {
     "company_name": "Outokumpu",
     "user_email": "joona.kortesmaki@wbitvp.fi",
@@ -12,7 +12,211 @@
     "onepager_layout": "landscape",
     "use_cached_research": false
   },
-  "dossier": null,
+  "dossier": {
+    "company_name": "Outokumpu",
+    "company_slug": "outokumpu",
+    "generated_at": "2026-01-25T17:35:26.557246",
+    "brand_identity": {
+      "positioning": "Ruostumattoman ter\u00e4ksen vastuullisuusjohtaja, joka tarjoaa 'maailman kest\u00e4vint\u00e4 materiaalia' (Circle Green) ja kiertotalouden ratkaisua, joka kest\u00e4\u00e4 ikuisesti.",
+      "visual_markers": {
+        "primary_color": "Dominoiva sininen ja valkoinen",
+        "secondary_colors": [
+          "Metallin kiilto",
+          "Harmaan s\u00e4vyt"
+        ],
+        "style_keywords": [
+          "Teollinen",
+          "Puhdas",
+          "Kliininen",
+          "Insin\u00f6\u00f6rim\u00e4inen"
+        ],
+        "tone_keywords": [
+          "Asiallinen",
+          "Korrekti",
+          "Vakava",
+          "Nordic cool"
+        ]
+      },
+      "voice_characteristics": [
+        "Dataan ja faktoihin nojaava ('We rely on facts, not fiction')",
+        "Hieman et\u00e4inen ja varovainen",
+        "V\u00e4ltt\u00e4\u00e4 liioittelua"
+      ]
+    },
+    "strategic_priorities": [
+      {
+        "rank": 1,
+        "priority": "Vastuullisuusjohtajuus (Decarbonization)",
+        "evidence": [
+          "Circle Green -tuotelinjan lanseeraus",
+          "Sitoutuminen SBTi 1.5\u00b0C -ilmastotavoitteeseen",
+          "Viestint\u00e4 pienimm\u00e4st\u00e4 hiilijalanj\u00e4ljest\u00e4"
+        ],
+        "execution_assessment": "moderate"
+      },
+      {
+        "rank": 2,
+        "priority": "Arvoketjun hallinta ja omavaraisuus",
+        "evidence": [
+          "Omat kromikaivokset (Kemi)",
+          "Kierr\u00e4tyster\u00e4ksen osuuden maksimointi (>90 %)",
+          "Korostus toimitusvarmuudesta"
+        ],
+        "execution_assessment": "strong"
+      },
+      {
+        "rank": 3,
+        "priority": "Kilpailukyky Amerikassa ja Euroopassa",
+        "evidence": [
+          "Investoinnit Yhdysvaltoihin",
+          "Euroopan toimintojen tehostaminen",
+          "Globaalin uskottavuuden rakentaminen"
+        ],
+        "execution_assessment": "moderate"
+      }
+    ],
+    "marketing_posture": {
+      "current_content_types": [
+        "Lehdist\u00f6tiedotteet",
+        "Tekniset speksit",
+        "Uratarinat (Our people)",
+        "Messumateriaalit",
+        "Corporate-videot"
+      ],
+      "channel_presence": {
+        "youtube": {
+          "active": false,
+          "assessment": "Passiivinen varasto; videoesitteiden arkisto, ei sarjallista sis\u00e4lt\u00f6\u00e4."
+        },
+        "tiktok": {
+          "active": false,
+          "assessment": "Ei merkitt\u00e4v\u00e4\u00e4 l\u00e4sn\u00e4oloa."
+        },
+        "instagram": {
+          "active": true,
+          "assessment": "Visuaalinen portfolio; keskittyy estetiikkaan ('ter\u00e4sporno'), ei tarinankerrontaan."
+        },
+        "linkedin": {
+          "active": true,
+          "assessment": "P\u00e4\u00e4kanava uutisille ja sijoittajaviestinn\u00e4lle; sitoutuminen kohtalaista."
+        }
+      },
+      "apparent_gaps": [
+        "Asiakaskeskeisyys puuttuu (puhutaan tuotteesta, ei asiakkaan tunteesta)",
+        "Tarinankerronta on kuivaa ja faktapohjaista",
+        "Puuttuu rohkeus haastaa kilpailijoiden narratiiveja"
+      ],
+      "audience_engagement": "Rationaalinen hyv\u00e4ksynt\u00e4, emotionaalinen v\u00e4linpit\u00e4m\u00e4tt\u00f6myys. Sidosryhm\u00e4t arvostavat dataa, mutta suuri yleis\u00f6 ei tunne br\u00e4ndi\u00e4."
+    },
+    "competitive_analysis": {
+      "key_competitors": [
+        {
+          "name": "SSAB (Ruotsi)",
+          "content_strategy": "Vision\u00e4\u00e4rinen tarinankerronta; myy tulevaisuuden 'fossiilivapaata ter\u00e4st\u00e4' (HYBRIT).",
+          "threat_level": "high"
+        },
+        {
+          "name": "Aasialainen tuonti",
+          "content_strategy": "Hinta edell\u00e4.",
+          "threat_level": "medium"
+        }
+      ],
+      "brand_winning_areas": [
+        "Nykyhetken realismi: markkinoiden pienin hiilijalanj\u00e4lki t\u00e4n\u00e4\u00e4n",
+        "Kiertotalous: korkea kierr\u00e4tysaste (>90 %)"
+      ],
+      "brand_losing_areas": [
+        "Narratiivinen sota: 'Tyls\u00e4 insin\u00f6\u00f6ri' vs. 'Tulevaisuuden pelastaja'",
+        "Tunne: Br\u00e4ndi koetaan kylm\u00e4ksi ja tekniseksi"
+      ]
+    },
+    "strategic_tensions": [
+      {
+        "id": "tension_01",
+        "description": "The Reality vs. Hype Gap: Outokumpu on tekninen johtaja t\u00e4n\u00e4\u00e4n, mutta kilpailija voittaa mielikuvat huomisen visioilla.",
+        "evidence": [
+          "Outokummun viesti: 'Pienin hiilijalanj\u00e4lki nyt' (fakta)",
+          "SSAB:n viesti: 'Fossiilivapaa ter\u00e4s tulossa' (visio)",
+          "Media palkitsee vision\u00e4\u00e4risyyden suorittamisen sijaan"
+        ],
+        "opportunity_type": "threat",
+        "priority_score": 5
+      },
+      {
+        "id": "tension_02",
+        "description": "The Invisible Giant: Tuote on kaikkialla, mutta br\u00e4ndi on n\u00e4kym\u00e4t\u00f6n ja vailla emotionaalista arvoa.",
+        "evidence": [
+          "Ter\u00e4s on 'n\u00e4kym\u00e4t\u00f6n mahdollistaja'",
+          "Markkinointi on tuotekeskeist\u00e4 B2B-viestint\u00e4\u00e4",
+          "Lopputuotteen br\u00e4ndi saa kunnian, materiaali j\u00e4\u00e4 bulkiksi"
+        ],
+        "opportunity_type": "underserved_audience",
+        "priority_score": 4
+      },
+      {
+        "id": "tension_03",
+        "description": "Data vs. Emotion: Asiakkaiden paine on emotionaalinen, mutta vastaus on rationaalinen data.",
+        "evidence": [
+          "Viestint\u00e4 t\u00e4ynn\u00e4 tonneja ja sertifikaatteja",
+          "Br\u00e4ndipersoona on 'viile\u00e4 asiantuntija'",
+          "Ostajat etsiv\u00e4t mielenrauhaa, eiv\u00e4t vain speksej\u00e4"
+        ],
+        "opportunity_type": "gap",
+        "priority_score": 4
+      }
+    ],
+    "opportunity_zones": [
+      {
+        "id": "opp_01",
+        "description": "Radical Nordic Honesty (No Bullshit)",
+        "rationale": "K\u00e4\u00e4nnet\u00e4\u00e4n tyls\u00e4 insin\u00f6\u00f6rim\u00e4isyys ja rehellisyys valtiksi viherpesua vastaan. Raaka rehellisyys ja nykyhetken teot erottuvat 'punk'-henkisen\u00e4 asenteena hypen keskell\u00e4.",
+        "risk_level": "medium"
+      },
+      {
+        "id": "opp_02",
+        "description": "The Soul of the Invisible",
+        "rationale": "Tehd\u00e4\u00e4n n\u00e4kym\u00e4tt\u00f6m\u00e4st\u00e4 materiaalista emotionaalinen sankari. Ter\u00e4ksen paradoksi ja atomien ikuinen kierto tarjoavat syv\u00e4llist\u00e4 tarinankerrontaa, joka nostaa br\u00e4ndin merkitykselliseksi.",
+        "risk_level": "low"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Outokumpu Annual Report 2023",
+        "url": "https://www.outokumpu.com/en/investors/financial-information/annual-reports",
+        "type": "report",
+        "date_accessed": "2026-01-25",
+        "relevance": "Strategia ja taloudellinen tilanne"
+      },
+      {
+        "title": "Outokumpu Strategy Update 2024/2025",
+        "url": "https://www.outokumpu.com/en/investors",
+        "type": "report",
+        "date_accessed": "2026-01-25",
+        "relevance": "Strategiset prioriteetit"
+      },
+      {
+        "title": "Outokumpu Press Releases: Circle Green launches",
+        "url": "https://www.outokumpu.com/en/news",
+        "type": "news",
+        "date_accessed": "2026-01-25",
+        "relevance": "Tuotetiedot ja viestint\u00e4k\u00e4rjet"
+      },
+      {
+        "title": "SSAB / Hybrit verkkosivut",
+        "url": "https://www.ssab.com",
+        "type": "company_site",
+        "date_accessed": "2026-01-25",
+        "relevance": "Kilpailija-analyysi ja narratiivivertailu"
+      },
+      {
+        "title": "Outokumpu Official LinkedIn & YouTube channels",
+        "url": "https://www.linkedin.com/company/outokumpu",
+        "type": "social",
+        "date_accessed": "2026-01-25",
+        "relevance": "Kanava-auditointi ja sis\u00e4lt\u00f6analyysi"
+      }
+    ]
+  },
   "concept_briefs": [],
   "concepts": [],
   "treatment_files": [],
@@ -20,6 +224,34 @@
   "onepagers_skipped": false,
   "onepagers_error": null,
   "pitch_email": "",
-  "phase_history": [],
+  "phase_history": [
+    {
+      "phase": "validate",
+      "started_at": "2026-01-25T17:33:07.215710",
+      "completed_at": "2026-01-25T17:33:07.223257",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "check_archive",
+      "started_at": "2026-01-25T17:33:07.249281",
+      "completed_at": "2026-01-25T17:33:07.258814",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "research",
+      "started_at": "2026-01-25T17:33:07.270317",
+      "completed_at": null,
+      "success": false,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    }
+  ],
   "archive_ref": null
 }
