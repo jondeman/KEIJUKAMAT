@@ -2,8 +2,8 @@
   "run_id": "20260125_194918",
   "company_slug": "evidensia-elinlkripalvelut",
   "created_at": "2026-01-25T19:49:18.959616",
-  "updated_at": "2026-01-25T20:01:59.603269",
-  "current_phase": "visualize",
+  "updated_at": "2026-01-25T20:02:15.352703",
+  "current_phase": "compose_pitch",
   "user_input": {
     "company_name": "Evidensia el\u00e4inl\u00e4\u00e4k\u00e4ripalvelut",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -673,7 +673,7 @@
   ],
   "onepagers_skipped": false,
   "onepagers_error": null,
-  "pitch_email": "",
+  "pitch_email": "Subject: Three video concepts for Evidensia el\u00e4inl\u00e4\u00e4k\u00e4ripalvelut \u2014 addressing Luottamuskriisi hinnan ja arvon v\u00e4lill\u00e4: Asiakk...\n\n---\n\nHi [Contact Name],\n\nI've been studying Evidensia el\u00e4inl\u00e4\u00e4k\u00e4ripalvelut's recent marketing activities and strategic direction, and I noticed an opportunity in aitous ja rosoisuus puuttuu (behind the scenes).\n\nBased on this analysis, I've developed three branded entertainment concepts that I believe could help Evidensia el\u00e4inl\u00e4\u00e4k\u00e4ripalvelut achieve stronger positioning in markkinadominanssin ja volyymin varmistaminen:\n\n**Concept 1: \"24 Tuntia P\u00e4ivystyksess\u00e4\"**\nDokumenttisarja, joka n\u00e4ytt\u00e4\u00e4 mit\u00e4 oikeasti tapahtuu el\u00e4inp\u00e4ivystyksess\u00e4 keskiy\u00f6ll\u00e4 \u2013 ja miksi se maksaa sen mink\u00e4 maksaa.\n\n**Concept 2: \"El\u00e4inl\u00e4\u00e4k\u00e4rin Tunnustukset\"**\nTikTok-sarja, jossa oikeat Evidensian el\u00e4inl\u00e4\u00e4k\u00e4rit kertovat sen mit\u00e4 eiv\u00e4t koskaan sano vastaanotolla \u2013 raaka, hauska ja inhimillinen.\n\n**Concept 3: \"Toinen Mahdollisuus\"**\nSuomen ensimm\u00e4inen el\u00e4inten pelastus-reality, jossa Evidensian erikoisl\u00e4\u00e4k\u00e4rit hoitavat tapauksia, joista muut ovat luopuneet \u2013 live-seurannalla ja yleis\u00f6\u00e4\u00e4nestyksill\u00e4.\n\nI've attached visual one-pagers for each concept, along with detailed format specifications.\n\n---\n\n## Strategic Hypothesis\n\nBased on my research into Evidensia el\u00e4inl\u00e4\u00e4k\u00e4ripalvelut's current positioning and market dynamics, I believe there's a significant opportunity in branded entertainment that addresses three distinct strategic needs:\n\n**1. 24 Tuntia P\u00e4ivystyksess\u00e4** addresses ratkaisee suoraan hinnan ja arvon v\u00e4lisen luottamuskriisin n\u00e4ytt\u00e4m\u00e4ll\u00e4 konkreettisesti, mit\u00e4 24/7-valmius ja huippuosaaminen vaativat. ei puolustele \u2013 todistaa.\n\n**2. El\u00e4inl\u00e4\u00e4k\u00e4rin Tunnustukset** addresses ratkaisee 'kliininen tiede vs. emotionaalinen lohtu' -j\u00e4nnitteen inhimillist\u00e4m\u00e4ll\u00e4 valkotakin. evidensia ei ole korporaatio \u2013 se on tuhansia v\u00e4litt\u00e4vi\u00e4 ihmisi\u00e4.\n\n**3. Toinen Mahdollisuus** addresses k\u00e4sittelee kaikkia kolmea strategista j\u00e4nnitett\u00e4: n\u00e4ytt\u00e4\u00e4 hinnan arvon (pelastusty\u00f6), inhimillist\u00e4\u00e4 br\u00e4ndin (v\u00e4litt\u00e4v\u00e4t l\u00e4\u00e4k\u00e4rit) ja tekee globaalista j\u00e4tist\u00e4 paikallisen sankarin (pelastaa suomalaisia el\u00e4imi\u00e4).\n\nTogether, these concepts represent a portfolio approach\u2014from low-risk proven formats to bold differentiators\u2014giving Evidensia el\u00e4inl\u00e4\u00e4k\u00e4ripalvelut options across the risk spectrum while maintaining strategic coherence.\n\n---\n\nI'd welcome 15 minutes to walk through these ideas and get your initial reactions.\n\nBest,\n[Your Name]\n\n---\n\n\ud83d\udcce Attachments:\n- Concept 1 One-Pager (24 Tuntia P\u00e4ivystyksess\u00e4.png)\n- Concept 2 One-Pager (El\u00e4inl\u00e4\u00e4k\u00e4rin Tunnustukset.png)\n- Concept 3 One-Pager (Toinen Mahdollisuus.png)\n- Detailed Concept Documents (PDF)\n\n[Link to full materials folder: https://jondeman.github.io/KEIJUKAMAT/deliveries/evidensia-elinlkripalvelut/20260125_194918/index.html]",
   "phase_history": [
     {
       "phase": "validate",
@@ -723,6 +723,15 @@
     {
       "phase": "visualize",
       "started_at": "2026-01-25T19:58:03.943941",
+      "completed_at": "2026-01-25T20:02:15.311240",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "compose_pitch",
+      "started_at": "2026-01-25T20:02:15.335571",
       "completed_at": null,
       "success": false,
       "error_message": null,
