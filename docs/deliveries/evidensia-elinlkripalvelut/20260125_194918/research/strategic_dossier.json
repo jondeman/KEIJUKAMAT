@@ -1,0 +1,212 @@
+{
+  "company_name": "Evidensia el\u00e4inl\u00e4\u00e4k\u00e4ripalvelut",
+  "company_slug": "evidensia-elinlkripalvelut",
+  "generated_at": "2026-01-25T19:51:53.635865",
+  "brand_identity": {
+    "positioning": "El\u00e4inl\u00e4\u00e4ketieteen yliopistosairaalatasoinen toimija",
+    "visual_markers": {
+      "primary_color": "Kliininen valkoinen",
+      "secondary_colors": [
+        "Br\u00e4ndivihre\u00e4"
+      ],
+      "style_keywords": [
+        "Puhdas",
+        "Steriili",
+        "Institutionaalinen",
+        "Lavastettu",
+        "Korkealaatuinen"
+      ],
+      "tone_keywords": [
+        "Asiantunteva",
+        "Rauhallinen",
+        "Turvallinen",
+        "Et\u00e4inen",
+        "Korporaatiomainen"
+      ]
+    },
+    "voice_characteristics": [
+      "Kohtaamme tunteella \u2013 hoidamme tieteell\u00e4",
+      "L\u00e4\u00e4ketieteellinen auktoriteetti",
+      "Hieman et\u00e4inen"
+    ]
+  },
+  "strategic_priorities": [
+    {
+      "rank": 1,
+      "priority": "Markkinadominanssin ja volyymin varmistaminen",
+      "evidence": [
+        "Aggressiivinen yritysostostrategia (mm. Omael\u00e4inklinikka)",
+        "Valtakunnallinen 24/7-p\u00e4ivystysverkosto"
+      ],
+      "execution_assessment": "strong"
+    },
+    {
+      "rank": 2,
+      "priority": "Erikoissairaanhoidon kasvu (High-Margin)",
+      "evidence": [
+        "Investoinnit raskaaseen laitekantaan (MRI, CT, t\u00e4hystys)",
+        "Strategia ohjata perusasiakkaat talon sis\u00e4ll\u00e4 kalliimpiin toimenpiteisiin"
+      ],
+      "execution_assessment": "strong"
+    },
+    {
+      "rank": 3,
+      "priority": "Ty\u00f6nantajamielikuva (Rekrytointi)",
+      "evidence": [
+        "Working with Pride -tapahtumat",
+        "Graduate Academy -koulutusohjelmat"
+      ],
+      "execution_assessment": "moderate"
+    },
+    {
+      "rank": 4,
+      "priority": "Vastuullisuus (ESG)",
+      "evidence": [
+        "Positive Pawprint -strategia (IVC Evidensia -tasolla)"
+      ],
+      "execution_assessment": "weak"
+    }
+  ],
+  "marketing_posture": {
+    "current_content_types": [
+      "Taktiset kampanjat (rokotukset, tarkastukset)",
+      "Koulutukselliset asiantuntijavideot",
+      "Br\u00e4ndispotit (turvallisuus, 24/7)"
+    ],
+    "channel_presence": {
+      "youtube": {
+        "active": true,
+        "assessment": "Aktiivinen, mutta sis\u00e4lt\u00f6 on luentomaista/kliinist\u00e4. Matala sitoutuminen."
+      },
+      "tiktok": {
+        "active": false,
+        "assessment": "Ei merkitt\u00e4v\u00e4\u00e4 strategista preesenssi\u00e4 (missattu mahdollisuus inhimillist\u00e4miseen)."
+      },
+      "instagram": {
+        "active": true,
+        "assessment": "Aktiivinen. S\u00f6p\u00f6j\u00e4 el\u00e4inkuvia ja aukioloaikoja. Puuttuu aito vuorovaikutus."
+      },
+      "linkedin": {
+        "active": true,
+        "assessment": "K\u00e4yt\u00f6ss\u00e4 rekrytointiin (Working with Pride), ei eritelty markkinointianalyysissa."
+      }
+    },
+    "apparent_gaps": [
+      "Aitous ja rosoisuus puuttuu (Behind the scenes)",
+      "Hinnan perusteleminen arvon kautta puuttuu t\u00e4ysin",
+      "Tunteen v\u00e4littyminen on p\u00e4\u00e4lleliimatun oloista"
+    ],
+    "audience_engagement": "Funktionaalinen sitoutuminen on olemassa (ajanvaraus), mutta emotionaalinen sitoutuminen on heikkoa tai negatiivista (hintakeskustelut)."
+  },
+  "competitive_analysis": {
+    "key_competitors": [
+      {
+        "name": "Pienet itsen\u00e4iset klinikat (Friendly Local Vet)",
+        "content_strategy": "Korostavat paikallisuutta, tuttuja kasvoja, joustavuutta ja reilua hinnoittelua.",
+        "threat_level": "high"
+      }
+    ],
+    "brand_winning_areas": [
+      "L\u00e4\u00e4ketieteellinen kyvykkyys (vaativat leikkaukset, diagnostiikka)",
+      "Saatavuus (24/7, aina auki)",
+      "Turvallisuus (standardoidut prosessit)"
+    ],
+    "brand_losing_areas": [
+      "Hintamielikuva (koetaan kalliiksi/rahastukseksi)",
+      "Emotionaalinen yhteys (koetaan kasvottomaksi ketjuksi)",
+      "Sympatia (Daavid vs. Goljat -asetelma)"
+    ]
+  },
+  "strategic_tensions": [
+    {
+      "id": "tension_01",
+      "description": "Luottamuskriisi hinnan ja arvon v\u00e4lill\u00e4: Asiakkaat tarvitsevat huippuosaamista, mutta kokevat tulevansa taloudellisesti hyv\u00e4ksik\u00e4ytetyiksi.",
+      "evidence": [
+        "KKV:n selvitys (2024): hinnat nousseet 28 %",
+        "Keskustelupalstat t\u00e4ynn\u00e4 rahastus-narratiivia",
+        "Br\u00e4ndilupaus riitelee laskun loppusumman kanssa"
+      ],
+      "opportunity_type": "threat",
+      "priority_score": 5
+    },
+    {
+      "id": "tension_02",
+      "description": "Kliininen tiede vs. Emotionaalinen lohtu: Br\u00e4ndi viestii High-Tech, asiakas kaipaa High-Touch.",
+      "evidence": [
+        "Markkinointimateriaalit esittelev\u00e4t laitteita ja valkoisia takkeja",
+        "Asiakaskokemus on prosessikeskeinen",
+        "Slogan 'hoidamme tieteell\u00e4' luo et\u00e4isyytt\u00e4"
+      ],
+      "opportunity_type": "gap",
+      "priority_score": 4
+    },
+    {
+      "id": "tension_03",
+      "description": "Globaali koneisto vs. Paikallinen sankari: Suomalaiset luottavat paikalliseen, Evidensia on kansainv\u00e4linen j\u00e4tti.",
+      "evidence": [
+        "Omistuspohja (IVC Evidensia, Nestl\u00e9) on julkista tietoa",
+        "Ketjumaisuus yhdistet\u00e4\u00e4n tehokkuusajatteluun laadun kustannuksella",
+        "Yksitt\u00e4iset el\u00e4inl\u00e4\u00e4k\u00e4rit hukkuvat br\u00e4ndin alle"
+      ],
+      "opportunity_type": "aspiration",
+      "priority_score": 3
+    }
+  ],
+  "opportunity_zones": [
+    {
+      "id": "opp_01",
+      "description": "N\u00e4kym\u00e4t\u00f6n ty\u00f6 n\u00e4kyv\u00e4ksi (Hinnan perustelu)",
+      "rationale": "Purkaa ahneus-myytti\u00e4 ja muuttaa keskustelun hinnasta hoidon laatuun ja turvallisuuteen (esim. MRI-laitteen todelliset kulut).",
+      "risk_level": "high"
+    },
+    {
+      "id": "opp_02",
+      "description": "Valkotakin inhimillist\u00e4minen",
+      "rationale": "Ratkaisee kasvottoman korporaation ongelman tuomalla esiin ty\u00f6ntekij\u00f6iden aidon arjen, v\u00e4symyksen ja empatian.",
+      "risk_level": "medium"
+    },
+    {
+      "id": "opp_03",
+      "description": "Ennaltaehk\u00e4isy porttina luottamukseen",
+      "rationale": "Positiivinen ensikosketus (pentuneuvolat) rakentaa luottamuspankkia ennen kallista kriisihoitoa.",
+      "risk_level": "low"
+    }
+  ],
+  "sources": [
+    {
+      "title": "KKV:n selvitys pienel\u00e4inl\u00e4\u00e4k\u00e4ripalveluiden kilpailutilanteesta",
+      "url": "kkv.fi",
+      "type": "report",
+      "date_accessed": "2024-05-20",
+      "relevance": "Kriittinen (Hintaongelman l\u00e4hde)"
+    },
+    {
+      "title": "IVC Evidensia Positive Pawprint Report 2024",
+      "url": "ivcevidensia.com",
+      "type": "report",
+      "date_accessed": "2024-05-20",
+      "relevance": "Tausta ESG-strategialle"
+    },
+    {
+      "title": "Evidensia.fi (Strategia ja Hinnastot)",
+      "url": "evidensia.fi",
+      "type": "company_site",
+      "date_accessed": "2024-05-20",
+      "relevance": "Br\u00e4ndilupaus ja visuaalinen ilme"
+    },
+    {
+      "title": "Reddit r/Suomi (Sosiaalisen median auditointi)",
+      "url": "reddit.com",
+      "type": "social",
+      "date_accessed": "2024-05-20",
+      "relevance": "Asiakasymm\u00e4rrys ja sentimenttianalyysi"
+    },
+    {
+      "title": "YouTube (Sosiaalisen median auditointi)",
+      "url": "youtube.com",
+      "type": "video",
+      "date_accessed": "2024-05-20",
+      "relevance": "Sis\u00e4lt\u00f6analyysi ja sitoutumisen arviointi"
+    }
+  ]
+}
