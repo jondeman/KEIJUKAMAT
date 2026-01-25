@@ -2,8 +2,8 @@
   "run_id": "20260125_173152",
   "company_slug": "outokumpu",
   "created_at": "2026-01-25T17:31:52.087976",
-  "updated_at": "2026-01-25T17:36:39.059939",
-  "current_phase": "strategize",
+  "updated_at": "2026-01-25T17:43:30.349313",
+  "current_phase": "create",
   "user_input": {
     "company_name": "Outokumpu",
     "user_email": "joona.kortesmaki@wbitvp.fi",
@@ -249,8 +249,342 @@
       "success_hypothesis": "This concept unlocks an untapped opportunity for Outokumpu by addressing their underserved audience in a way that creates cultural relevance and positions the brand as an innovator in their space."
     }
   ],
-  "concepts": [],
-  "treatment_files": [],
+  "concepts": [
+    {
+      "id": "concept_01",
+      "title": "Ikuinen Kierto",
+      "hook": "Dokumenttisarja, joka todistaa mit\u00e4 kilpailijat vain lupaavat: seuraamme yhden ter\u00e4ser\u00e4n matkaa kierr\u00e4tyksest\u00e4 uuteen el\u00e4m\u00e4\u00e4n \u2013 ja paljastamme samalla koko teollisuuden viherpesun.",
+      "premise": "Ikuinen Kierto on 8-osainen dokumenttisarja, jossa seuraamme konkreettisesti yhden kierr\u00e4tyster\u00e4ser\u00e4n matkaa romukuormasta huipputuotteeksi. Jokainen jakso paljastaa uuden vaiheen arvoketjussa \u2013 ja vertaa sit\u00e4 armottomasti kilpailijoiden lupauksiin. Sarja on 'No Bullshit' -l\u00e4hestymistapa ter\u00e4steollisuuden vihre\u00e4\u00e4n siirtym\u00e4\u00e4n: faktoja, ei fiktiota.",
+      "long_form_extension": "Sarja soveltuu suoraan Ruutu+/Katsomo-jakeluun 8x25min dokumenttisarjana. Lis\u00e4ksi tuotetaan 3x52min broadcast-versio kansainv\u00e4lisille markkinoille (Discovery/National Geographic -tyylinen formaatti).",
+      "format": {
+        "series_type": "limited",
+        "episode_length": "20-25 minuuttia",
+        "cadence": "Viikoittain",
+        "season_length": "8 jaksoa"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "YouTube",
+          "rationale": "YouTube on B2B-p\u00e4\u00e4tt\u00e4jien ja teollisuuden asiantuntijoiden luontainen alusta pitk\u00e4lle dokumentaariselle sis\u00e4ll\u00f6lle. Hakuoptimoidut jaksot tavoittavat p\u00e4\u00e4tt\u00e4ji\u00e4, jotka etsiv\u00e4t tietoa kest\u00e4v\u00e4st\u00e4 ter\u00e4ksest\u00e4.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "LinkedIn",
+            "rationale": "",
+            "adaptation": "3-5 minuutin 'Executive Summary' -versiot jokaisesta jaksosta, suunnattu C-tason p\u00e4\u00e4tt\u00e4jille. Behind-the-scenes -sis\u00e4lt\u00f6\u00e4 tuotannosta."
+          },
+          {
+            "platform": "TikTok/Reels",
+            "rationale": "",
+            "adaptation": "60 sekunnin 'Myth vs. Reality' -klipit, joissa verrataan kilpailijoiden lupauksia Outokummun todellisuuteen. Visuaalisesti n\u00e4ytt\u00e4vi\u00e4 tehdaskuvia."
+          }
+        ],
+        "amplification": "Kumppanuus teollisuusmedia-julkaisujen kanssa (Tekniikka&Talous, Talousel\u00e4m\u00e4). PR-kampanja jossa haastetaan kilpailijat avoimeen vertailuun."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "'Fakta vs. Fiktio' -segmentti: jokainen jakso alkaa kilpailijan v\u00e4itteell\u00e4 ja p\u00e4\u00e4ttyy todistusaineistoon",
+          "Sama ter\u00e4ser\u00e4 seurannassa l\u00e4pi sarjan \u2013 konkreettinen, fyysinen objekti",
+          "Data-overlay: hiilijalanj\u00e4lkilaskuri n\u00e4kyy ruudulla reaaliajassa",
+          "Ty\u00f6ntekij\u00e4haastattelut: insin\u00f6\u00f6rit ja sulattoty\u00f6ntekij\u00e4t kertovat oman n\u00e4k\u00f6kulmansa"
+        ],
+        "variable_elements": [
+          "Eri tuotantovaiheet ja tehtaat (Tornio, Kemi, Euroopan toimipisteet)",
+          "Vierailevat asiantuntijat (yliopistot, riippumattomat tutkijat)",
+          "Lopputuote vaihtelee: jakso p\u00e4\u00e4ttyy aina eri tuotteeseen (kirurginen instrumentti, silta, luksusauto)"
+        ],
+        "host_approach": "Ei perinteist\u00e4 juontajaa. Kertoja\u00e4\u00e4ni on neutraali dokumentti-tyylinen, mutta tarinan 'sankarit' ovat Outokummun ty\u00f6ntekij\u00e4t \u2013 erityisesti pitk\u00e4n linjan ammattilaiset, jotka puhuvat suoraan ja rehellisesti."
+      },
+      "brand_integration": {
+        "philosophy": "Br\u00e4ndi on tarinan mahdollistaja, ei mainostaja. Outokumpu n\u00e4kyy luonnollisena osana tuotantoprosessia \u2013 tehtaat, logot, ihmiset. Fokus on toiminnassa, ei sloganeissa.",
+        "integration_method": "Embedded documentation: kamerat seuraavat aitoa tuotantoa, Outokumpu-br\u00e4ndi n\u00e4kyy orgaanisesti ymp\u00e4rist\u00f6ss\u00e4. Ei erillisi\u00e4 'br\u00e4ndimomentteja'.",
+        "screen_time_balance": "85% sis\u00e4lt\u00f6 (prosessi, ihmiset, tiede), 15% br\u00e4ndi (logo n\u00e4kyviss\u00e4 luonnollisesti)",
+        "cta_approach": "Jakson lopussa 'Lue lis\u00e4\u00e4 Circle Green -tuotteista' -teksti ja QR-koodi. Ei aggressiivista myynti\u00e4."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Romun arvo",
+          "description": "Seuraamme kierr\u00e4tyster\u00e4ksen ker\u00e4yst\u00e4 ymp\u00e4ri Eurooppaa ja paljastamme, miksi Outokummun 94% kierr\u00e4tysaste on poikkeuksellinen."
+        },
+        {
+          "number": 2,
+          "title": "Sulaton syd\u00e4mess\u00e4",
+          "description": "Tornion tehtaan valokaariuunissa tapahtuu muutos \u2013 ja vertaamme energiankulutusta perinteiseen masuunitekniikkaan."
+        },
+        {
+          "number": 3,
+          "title": "Kemin kromi",
+          "description": "Vierailu Euroopan ainoalla kromikaivoksella paljastaa, miksi omavaraisuus on strateginen etu ep\u00e4vakaassa maailmassa."
+        },
+        {
+          "number": 4,
+          "title": "Lupaus vs. todellisuus",
+          "description": "Riippumattomat tutkijat vertaavat Outokummun todistettua hiilijalanj\u00e4lke\u00e4 kilpailijoiden tulevaisuuden lupauksiin."
+        },
+        {
+          "number": 5,
+          "title": "Kirurgin k\u00e4siss\u00e4",
+          "description": "Ter\u00e4ksemme p\u00e4\u00e4tyy kirurgisiin instrumentteihin \u2013 seuraamme matkaa tehtaalta leikkaussaliin."
+        },
+        {
+          "number": 6,
+          "title": "Ikuisesti kierrossa",
+          "description": "Sarjan p\u00e4\u00e4t\u00f6s: sama ter\u00e4ser\u00e4 on valmis uuteen el\u00e4m\u00e4\u00e4n. Epilogissa n\u00e4ytet\u00e4\u00e4n, minne se seuraavaksi p\u00e4\u00e4tyy."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee suoraan 'Reality vs. Hype' -j\u00e4nnitteen: tekee nykyhetken teknisest\u00e4 johtajuudesta n\u00e4kyv\u00e4\u00e4 ja todistettavaa sis\u00e4lt\u00f6\u00e4, joka haastaa kilpailijoiden tulevaisuuslupaukset.",
+        "competitive_differentiation": "SSAB myy unelmia, Outokumpu n\u00e4ytt\u00e4\u00e4 todellisuuden. Kukaan kilpailija ei ole uskaltanut avata tuotantoaan n\u00e4in l\u00e4pin\u00e4kyv\u00e4sti \u2013 se on rohkea vet\u00e4j\u00e4.",
+        "audience_value_proposition": "Dokumenttisarja tarjoaa aitoa behind-the-scenes -p\u00e4\u00e4sy\u00e4 teollisuuteen, jota harvoin n\u00e4hd\u00e4\u00e4n. Teollisuusp\u00e4\u00e4tt\u00e4jille se on arvokasta benchmarking-materiaalia, laajemmalle yleis\u00f6lle fascinoivaa 'How It's Made' -tyylist\u00e4 sis\u00e4lt\u00f6\u00e4."
+      },
+      "execution": {
+        "complexity": "medium",
+        "budget_tier": "mid",
+        "timeline_to_first_episode": "10-12 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Tuotantoprosessin avoimuus voi paljastaa my\u00f6s haasteita tai ep\u00e4t\u00e4ydellisyyksi\u00e4.",
+          "mitigation": "Rehellisyys on osa konseptia: pienet haasteet tekev\u00e4t tarinasta uskottavamman. Valitaan etuk\u00e4teen, mit\u00e4 prosesseja kuvataan."
+        },
+        {
+          "risk": "B2B-sis\u00e4lt\u00f6 voi j\u00e4\u00e4d\u00e4 kapealle yleis\u00f6lle.",
+          "mitigation": "Tarinankerronta keskittyy ihmisiin ja konkreettisiin esineisiin, ei teknisiin spekseihin. Someklipit laajentavat tavoittavuutta."
+        }
+      ]
+    },
+    {
+      "id": "concept_02",
+      "title": "Ter\u00e4snervi",
+      "hook": "TikTok-sarja, jossa suomalaiset ammattilaiset paljastavat mit\u00e4 heid\u00e4n ty\u00f6ns\u00e4 oikeasti vaatii \u2013 ja miksi huono ter\u00e4s voi tappaa.",
+      "premise": "Ter\u00e4snervi on 30 jakson pystyvideoformaatti, jossa eri alojen ammattilaiset (kirurgit, kellosep\u00e4t, kokit, siltaty\u00f6ntekij\u00e4t) kertovat suoraan kameralle, miksi materiaalin laatu ratkaisee heid\u00e4n ty\u00f6ss\u00e4\u00e4n. Formaatti on raaka, autenttinen ja haastaa katsojaa: 'Tiesitk\u00f6, ett\u00e4 halvalla ter\u00e4ksell\u00e4 on hintansa?' Jokainen video p\u00e4\u00e4ttyy kysymykseen, joka j\u00e4\u00e4 kaivertamaan.",
+      "long_form_extension": "Suosituimmista aiheista tuotetaan 6x15min YouTube-dokumenttisarja 'Ter\u00e4snervi: Syv\u00e4sukellus', joka laajentaa yksitt\u00e4isten ammattilaisten tarinat kokonaisiksi jaksoiksi. Soveltuu my\u00f6s Ruutu+ short-doc -sarjaksi.",
+      "format": {
+        "series_type": "ongoing",
+        "episode_length": "45-90 sekuntia",
+        "cadence": "3 kertaa viikossa",
+        "season_length": null
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "TikTok",
+          "rationale": "TikTok tavoittaa nuoremmat ammattilaiset ja insin\u00f6\u00f6riopiskelijat, jotka ovat huomisen p\u00e4\u00e4tt\u00e4ji\u00e4. Alusta suosii autenttista, opettavaista sis\u00e4lt\u00f6\u00e4.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "Instagram Reels",
+            "rationale": "",
+            "adaptation": "Sama sis\u00e4lt\u00f6, mutta visuaalisesti hieman kiillotetumpi. Kohdennus 25-45v ammattilaisille."
+          },
+          {
+            "platform": "YouTube Shorts",
+            "rationale": "",
+            "adaptation": "Hakuoptimoitu versio, joka linkitt\u00e4\u00e4 pidempiin dokumentteihin."
+          },
+          {
+            "platform": "LinkedIn",
+            "rationale": "",
+            "adaptation": "Valitut 'Executive cut' -versiot, joissa ammattilaisten sitaatit nostetaan B2B-kontekstiin."
+          }
+        ],
+        "amplification": "Yhteisty\u00f6 ammattiliittojen ja -j\u00e4rjest\u00f6jen kanssa. Haastetaan eri alojen ammattilaiset osallistumaan omilla tarinoillaan (UGC-elementti)."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Sama avaus: 'Tied\u00e4tk\u00f6 mit\u00e4 tapahtuu, jos [asia menee pieleen]?'",
+          "Ammattilainen k\u00e4dess\u00e4\u00e4n ty\u00f6kalunsa tai materiaalinsa",
+          "Yksi konkreettinen 'ter\u00e4sfakta' ruudulla",
+          "P\u00e4\u00e4t\u00f6s: provosoiva kysymys tai toteamus"
+        ],
+        "variable_elements": [
+          "Eri ammatit ja toimialat (terveydenhuolto, ruoka, rakentaminen, luksustuotteet)",
+          "Eri ymp\u00e4rist\u00f6t (leikkaussali, keitti\u00f6, ty\u00f6maa, verstas)",
+          "Vaihteleva s\u00e4vy: vakava (kirurgi) vs. humoristinen (kokki)"
+        ],
+        "host_approach": "Ei erillist\u00e4 juontajaa. Jokaisen videon t\u00e4hti on oman alansa ammattilainen, joka puhuu suoraan kameralle omalla tyylill\u00e4\u00e4n. Autenttisuus on formaatin ydin."
+      },
+      "brand_integration": {
+        "philosophy": "Br\u00e4ndi on 'silent enabler'. Outokumpu ei puhu itsest\u00e4\u00e4n \u2013 ammattilaiset puhuvat materiaalin merkityksest\u00e4. Br\u00e4ndi paljastuu vasta lopussa.",
+        "integration_method": "Videon lopussa pieni teksti: 'Ter\u00e4s: Outokumpu Circle Green'. Ei mainospuhetta, ei tuote-esittely\u00e4. Br\u00e4ndiyhteys syntyy assosiaation kautta.",
+        "screen_time_balance": "95% ammattilaisen tarina, 5% br\u00e4nditunniste",
+        "cta_approach": "Profiilissa linkki 'Miksi ter\u00e4ksen laatu ratkaisee?' -landing pagelle. Ei videon sis\u00e4ll\u00e4."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Kirurgin 0.3 sekuntia",
+          "description": "Neurokirurgi kertoo, miksi h\u00e4nen instrumenttinsa materiaali ratkaisee potilaan kohtalon millisekunteissa."
+        },
+        {
+          "number": 2,
+          "title": "Kokin viha",
+          "description": "Huippukokki n\u00e4ytt\u00e4\u00e4, miten huono veitsi pilaa annoksen \u2013 ja miksi h\u00e4n k\u00e4ytt\u00e4\u00e4 vain tietty\u00e4 ter\u00e4st\u00e4."
+        },
+        {
+          "number": 3,
+          "title": "Siltaty\u00f6ntekij\u00e4n painajainen",
+          "description": "Hitsaaja kertoo, mit\u00e4 tapahtuu kun sillan ter\u00e4ksess\u00e4 on vikaa \u2013 ja miten h\u00e4n tunnistaa laadun."
+        },
+        {
+          "number": 4,
+          "title": "Kellosep\u00e4n 0.01mm",
+          "description": "Luksuskellon tekij\u00e4 paljastaa, miksi mikrometrin tarkkuus vaatii t\u00e4ydellist\u00e4 materiaalia."
+        },
+        {
+          "number": 5,
+          "title": "Palomiehen luottamus",
+          "description": "Palomies kertoo, miksi h\u00e4nen tikkaansa materiaaliin on voitava luottaa sataprosenttisesti."
+        },
+        {
+          "number": 6,
+          "title": "Panimomestarin puhtaus",
+          "description": "Oluen valmistaja selitt\u00e4\u00e4, miksi s\u00e4ili\u00f6n ter\u00e4s vaikuttaa suoraan makuun \u2013 ja miksi ruostumaton on ainoa vaihtoehto."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee 'Invisible Giant' ja 'Data vs. Emotion' -j\u00e4nnitteet: tekee n\u00e4kym\u00e4tt\u00f6m\u00e4st\u00e4 materiaalista emotionaalisesti merkitt\u00e4v\u00e4n ammattilaisten kautta, ei datapisteiden.",
+        "competitive_differentiation": "Kilpailijat puhuvat itsest\u00e4\u00e4n. Outokumpu antaa \u00e4\u00e4nen niille, jotka oikeasti k\u00e4ytt\u00e4v\u00e4t materiaalia. T\u00e4m\u00e4 on 'earned trust' vs. 'claimed leadership'.",
+        "audience_value_proposition": "Katsojat rakastavat behind-the-scenes -sis\u00e4lt\u00f6\u00e4 ammateista. TikTokissa 'opettavainen' ja 'yll\u00e4tt\u00e4v\u00e4' sis\u00e4lt\u00f6 levi\u00e4\u00e4 orgaanisesti. Jokainen video on jaettava."
+      },
+      "execution": {
+        "complexity": "low",
+        "budget_tier": "budget",
+        "timeline_to_first_episode": "4-6 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Ammattilaisten rekrytointi voi olla haastavaa ja aikaa viev\u00e4\u00e4.",
+          "mitigation": "Aloitetaan Outokummun olemassa olevista asiakaskontakteista. Luodaan 'casting call' -kampanja somessa."
+        },
+        {
+          "risk": "Br\u00e4ndiyhteys voi j\u00e4\u00e4d\u00e4 liian ohueksi.",
+          "mitigation": "Jokainen video on osa sarjaa, joka rakentaa kumulatiivisen br\u00e4ndimielikuvan. LinkedIn-versiot tekev\u00e4t yhteyden eksplisiittisemm\u00e4ksi."
+        }
+      ]
+    },
+    {
+      "id": "concept_03",
+      "title": "Ter\u00e4ksen muisti",
+      "hook": "Immersive cross-platform -kokemus, jossa katsoja seuraa yhden ter\u00e4satomin matkaa 100 vuoden l\u00e4pi \u2013 menneisyydest\u00e4 tulevaisuuteen.",
+      "premise": "Ter\u00e4ksen muisti on kunnianhimoinen tarinankerrontakokemus, joka yhdist\u00e4\u00e4 dokumentin, fiktion ja interaktiivisuuden. Seuraamme yht\u00e4 ter\u00e4satomia, joka on ollut 1920-luvun tehtaassa, 1960-luvun autossa, 2000-luvun pilvenpiirt\u00e4j\u00e4ss\u00e4 \u2013 ja lopulta 2025 Outokummun Circle Green -prosessissa. Kokemus alkaa somessa, syvenee verkkodokumenttina ja huipentuu live-tapahtumaan.",
+      "long_form_extension": "Ydintuotanto on 3x45min dokumenttisarja 'Ter\u00e4ksen muisti', joka soveltuu Total-TV -jakeluun (Nelonen/MTV) sek\u00e4 kansainv\u00e4liseen myyntiin. Lis\u00e4ksi tuotetaan 6-osainen mikrodraama (pystymuoto, 8min/jakso) nuoremmalle yleis\u00f6lle.",
+      "format": {
+        "series_type": "event",
+        "episode_length": "Vaihteleva: 60s some, 8min mikrodraama, 45min dokumentti",
+        "cadence": "Kampanja-aaltoina: 3 kuukauden lanseeraus",
+        "season_length": "Yksi kokonaisuus, mahdollinen jatko eri n\u00e4k\u00f6kulmasta"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "Cross-platform (YouTube + some + live)",
+          "rationale": "T\u00e4m\u00e4 on br\u00e4ndirakennus-kampanja, joka vaatii monikerroksisen l\u00e4hestymisen: laaja tavoittavuus somessa, syv\u00e4llinen sitoutuminen YouTubessa, huipentuma live-kokemuksessa.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "TikTok/Reels",
+            "rationale": "",
+            "adaptation": "'Ter\u00e4ksen aikajana' -sarja: 60s videot eri vuosikymmenilt\u00e4. Visuaalisesti tyyliteltyj\u00e4, genAI-tehostettuja aikakausikuvia."
+          },
+          {
+            "platform": "YouTube",
+            "rationale": "",
+            "adaptation": "3x45min dokumenttisarja + interaktiivinen aikajana-kokemus, jossa katsoja voi valita, mit\u00e4 ajanjaksoa tutkii."
+          },
+          {
+            "platform": "Akun Tehdas (live)",
+            "rationale": "",
+            "adaptation": "Immersive-n\u00e4yttely, jossa fyysinen ter\u00e4ser\u00e4 on esill\u00e4 ja k\u00e4vij\u00e4t voivat 'matkustaa' sen historian l\u00e4pi AR-kokemuksella."
+          }
+        ],
+        "amplification": "PR-kampanja: 'Mik\u00e4 on vanhin ter\u00e4sesine kodissasi?' -haaste. Kumppanuus museoiden kanssa (Tekniikan museo). Lanseeraus Slushissa tai vastaavassa tapahtumassa."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Sama ter\u00e4satomi seurannassa \u2013 personoitu 'hahmo' ilman antropomorfismia",
+          "Aikakausien v\u00e4liset siirtym\u00e4t: visuaalinen 'sulaminen' ja uudelleenmuotoutuminen",
+          "Voiceover-kerronta: poetiikkaa ja faktaa yhdist\u00e4v\u00e4 tyyli",
+          "Jokainen aikakausi p\u00e4\u00e4ttyy kysymykseen: 'Mit\u00e4 seuraavaksi?'"
+        ],
+        "variable_elements": [
+          "Eri aikakaudet ja tuotteet (sota-ajan tehdas, 60-luvun auto, moderni sairaala)",
+          "Vaihteleva visuaalinen tyyli aikakausien mukaan",
+          "Eri ihmiskohtalot, jotka kytkeytyv\u00e4t ter\u00e4kseen"
+        ],
+        "host_approach": "Kertoja\u00e4\u00e4ni on suomalainen tunnettu n\u00e4yttelij\u00e4 (esim. Krista Kosonen tai Jasper P\u00e4\u00e4kk\u00f6nen), joka tuo emotionaalista painoarvoa. Ei n\u00e4kyv\u00e4\u00e4 juontajaa, vaan \u00e4\u00e4ni ohjaa matkaa."
+      },
+      "brand_integration": {
+        "philosophy": "Br\u00e4ndi on tarinan mahdollistaja ja kierr\u00e4tyksen symbolinen 'pelastaja'. Outokumpu n\u00e4kyy selke\u00e4sti vasta nykyhetkess\u00e4 \u2013 tarinan huipentumana.",
+        "integration_method": "Ensimm\u00e4iset aikakaudet n\u00e4ytt\u00e4v\u00e4t ter\u00e4ksen historian ilman br\u00e4ndimainintoja. Vasta 2020-luvulla paljastuu, ett\u00e4 t\u00e4m\u00e4 atomi p\u00e4\u00e4tyy Outokummun Circle Green -prosessiin. Br\u00e4ndi on 'reveal', ei l\u00e4ht\u00f6kohta.",
+        "screen_time_balance": "70% historiallinen tarina, 30% nykyhetki ja Outokumpu",
+        "cta_approach": "Dokumentin lopussa kutsu Akun Tehtaan n\u00e4yttelyyn. QR-koodi Circle Green -sivulle."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Syntym\u00e4 (1920-luku)",
+          "description": "Ter\u00e4satomi syntyy suomalaisessa ruukissa \u2013 n\u00e4emme teollistuvan Suomen ja ensimm\u00e4isen tuotteen."
+        },
+        {
+          "number": 2,
+          "title": "Sota ja selviytyminen (1940-luku)",
+          "description": "Sama ter\u00e4s on osa sota-ajan konetta \u2013 tarina kertoo materiaalin roolista kriisiaikana."
+        },
+        {
+          "number": 3,
+          "title": "Unelman auto (1960-luku)",
+          "description": "Ter\u00e4s on osa suomalaisen perheen ensimm\u00e4ist\u00e4 autoa \u2013 nostalgia ja edistyksen lupaus."
+        },
+        {
+          "number": 4,
+          "title": "Pilvenpiirt\u00e4j\u00e4 (1990-luku)",
+          "description": "Kierr\u00e4tetty ter\u00e4s p\u00e4\u00e4tyy moderniin arkkitehtuuriin \u2013 globalisaation ja kunnianhimon tarina."
+        },
+        {
+          "number": 5,
+          "title": "Uusi el\u00e4m\u00e4 (2025)",
+          "description": "Ter\u00e4satomi palaa Outokummun Circle Green -prosessiin \u2013 kierr\u00e4tyksen teknologia ja tulevaisuus."
+        },
+        {
+          "number": 6,
+          "title": "Ikuisuus",
+          "description": "Filosofinen p\u00e4\u00e4t\u00f6s: mit\u00e4 tarkoittaa materiaali, joka ei koskaan katoa? Mihin t\u00e4m\u00e4 atomi p\u00e4\u00e4tyy seuraavaksi?"
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee kaikki kolme j\u00e4nnitett\u00e4: tekee kierr\u00e4tyksen filosofiasta emotionaalisen tarinan (Data vs. Emotion), tuo n\u00e4kym\u00e4tt\u00f6m\u00e4n materiaalin n\u00e4kyv\u00e4ksi historian kautta (Invisible Giant), ja osoittaa konkreettisesti miksi 'nyt' on t\u00e4rke\u00e4mp\u00e4\u00e4 kuin 'huomenna' (Reality vs. Hype).",
+        "competitive_differentiation": "Kukaan ter\u00e4syhti\u00f6 ei ole kertonut materiaalinsa tarinaa n\u00e4in kunnianhimoisesti. T\u00e4m\u00e4 on 'Intel Inside' -strategia seuraavalle tasolle vietyn\u00e4.",
+        "audience_value_proposition": "Tarina resonoi universaalisti: se kertoo Suomen historiasta, teknologiasta ja tulevaisuudesta yhden atomin kautta. Se on jaettavaa, keskustelua her\u00e4tt\u00e4v\u00e4\u00e4 ja emotionaalisesti koskettavaa."
+      },
+      "execution": {
+        "complexity": "high",
+        "budget_tier": "premium",
+        "timeline_to_first_episode": "16-20 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Konsepti on kunnianhimoinen ja vaatii merkitt\u00e4vi\u00e4 resursseja.",
+          "mitigation": "Modulaarinen tuotanto: aloitetaan some-sis\u00e4ll\u00f6ll\u00e4, laajennetaan dokumenttiin vasta kun konsepti on todistanut toimivuutensa."
+        },
+        {
+          "risk": "Historiallinen sis\u00e4lt\u00f6 voi tuntua et\u00e4iselt\u00e4 nuoremmasta yleis\u00f6st\u00e4.",
+          "mitigation": "Mikrodraama-versio ja genAI-tehostetut visuaalit tuovat modernia ilmett\u00e4. TikTok-sis\u00e4lt\u00f6 on nykyaikaista ja nopeatempoista."
+        },
+        {
+          "risk": "Br\u00e4ndi-integraatio voi tuntua pakotetulta tarinan loppupuolella.",
+          "mitigation": "Outokumpu on tarinan luonnollinen huipentuma, ei mainoskatkos. Kierr\u00e4tys on koko tarinan teema alusta asti."
+        }
+      ]
+    }
+  ],
+  "treatment_files": [
+    "/opt/render/project/src/runs/outokumpu/TREATMENTS/outokumpu_TREATMENT_01_20260125_174330.md",
+    "/opt/render/project/src/runs/outokumpu/TREATMENTS/outokumpu_TREATMENT_02_20260125_174330.md",
+    "/opt/render/project/src/runs/outokumpu/TREATMENTS/outokumpu_TREATMENT_03_20260125_174330.md"
+  ],
   "onepager_specs": [],
   "onepagers_skipped": false,
   "onepagers_error": null,
@@ -286,6 +620,15 @@
     {
       "phase": "strategize",
       "started_at": "2026-01-25T17:36:38.996405",
+      "completed_at": "2026-01-25T17:37:54.287938",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "create",
+      "started_at": "2026-01-25T17:37:54.298918",
       "completed_at": null,
       "success": false,
       "error_message": null,
