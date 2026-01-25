@@ -2,8 +2,8 @@
   "run_id": "20260125_180643",
   "company_slug": "outokumpu",
   "created_at": "2026-01-25T18:06:43.957831",
-  "updated_at": "2026-01-25T18:15:58.308256",
-  "current_phase": "package",
+  "updated_at": "2026-01-25T18:16:10.322305",
+  "current_phase": "deliver",
   "user_input": {
     "company_name": "Outokumpu",
     "user_email": "joona.kortesmaki@wbitvp.fi",
@@ -722,6 +722,15 @@
     {
       "phase": "package",
       "started_at": "2026-01-25T18:15:58.308233",
+      "completed_at": "2026-01-25T18:16:10.297750",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "deliver",
+      "started_at": "2026-01-25T18:16:10.322286",
       "completed_at": null,
       "success": false,
       "error_message": null,
