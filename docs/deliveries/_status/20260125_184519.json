@@ -2,8 +2,8 @@
   "run_id": "20260125_184519",
   "company_slug": "halton-oy",
   "created_at": "2026-01-25T18:45:19.716764",
-  "updated_at": "2026-01-25T18:45:19.716778",
-  "current_phase": "input",
+  "updated_at": "2026-01-25T18:47:34.010061",
+  "current_phase": "research",
   "user_input": {
     "company_name": "Halton Oy",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -12,7 +12,219 @@
     "onepager_layout": "portrait",
     "use_cached_research": true
   },
-  "dossier": null,
+  "dossier": {
+    "company_name": "Halton Oy",
+    "company_slug": "halton-oy",
+    "generated_at": "2026-01-25T18:47:34.001065",
+    "brand_identity": {
+      "positioning": "Sis\u00e4ilmastoratkaisujen kumppani vaativimpiin ymp\u00e4rist\u00f6ihin (Partner for indoor climate solutions in the most demanding environments)",
+      "visual_markers": {
+        "primary_color": "Halton Blue",
+        "secondary_colors": [
+          "Clinical White",
+          "Stainless Steel"
+        ],
+        "style_keywords": [
+          "Asiallinen",
+          "Tekninen",
+          "Puhdas",
+          "Steriili"
+        ],
+        "tone_keywords": [
+          "Insin\u00f6\u00f6rim\u00e4inen",
+          "Faktapohjainen",
+          "Hillitty",
+          "Draamaton"
+        ]
+      },
+      "voice_characteristics": [
+        "Rationaalinen",
+        "Ei emotionaalinen",
+        "Teemme mit\u00e4 lupaamme"
+      ]
+    },
+    "strategic_priorities": [
+      {
+        "rank": 1,
+        "priority": "Turvallisuus ja infektioriskin hallinta (Halton Vita)",
+        "evidence": [
+          "Halton Vita OR Space -konseptin voimakas markkinointi",
+          "Validointi simulaatioilla ja tutkimuksilla"
+        ],
+        "execution_assessment": "strong"
+      },
+      {
+        "rank": 2,
+        "priority": "Kest\u00e4v\u00e4 kehitys ja energiatehokkuus",
+        "evidence": [
+          "Sitoumus hiilineutraaliuteen",
+          "Demand Based Ventilation -ratkaisut"
+        ],
+        "execution_assessment": "moderate"
+      },
+      {
+        "rank": 3,
+        "priority": "Elinkaarikumppanuus (Halton Care & Services)",
+        "evidence": [
+          "Siirtym\u00e4 CAPEXista OPEXiin",
+          "Huoltopalveluiden korostaminen Pohjoismaissa"
+        ],
+        "execution_assessment": "moderate"
+      }
+    ],
+    "marketing_posture": {
+      "current_content_types": [
+        "Tekniset tuoteanimaatiot",
+        "Asennusvideot",
+        "Webinaaritallenteet",
+        "Referenssitarinat (case studyt)"
+      ],
+      "channel_presence": {
+        "youtube": {
+          "active": true,
+          "assessment": "Passiivinen kirjasto teknisille animaatioille, ei tarinankerrontaa."
+        },
+        "tiktok": {
+          "active": false,
+          "assessment": "Ei l\u00e4sn\u00e4oloa."
+        },
+        "instagram": {
+          "active": false,
+          "assessment": "Ei l\u00e4sn\u00e4oloa."
+        },
+        "linkedin": {
+          "active": true,
+          "assessment": "P\u00e4\u00e4kanava B2B-viestinn\u00e4lle, sis\u00e4lt\u00f6 yrityskeskeist\u00e4 ja asiallista."
+        }
+      },
+      "apparent_gaps": [
+        "Proaktiivisuuden puute",
+        "Inhimillinen ja emotionaalinen taso puuttuu",
+        "Markkinointi reagoi tarpeisiin sen sijaan ett\u00e4 loisi visiota"
+      ],
+      "audience_engagement": "LVI-suunnittelijat sitoutuvat tekniseen dataan hyvin. Ylempi johto ja arkkitehdit eiv\u00e4t l\u00f6yd\u00e4 tarttumapintaa sis\u00e4ll\u00f6n insin\u00f6\u00f6rim\u00e4isyyden vuoksi."
+    },
+    "competitive_analysis": {
+      "key_competitors": [
+        {
+          "name": "Swegon",
+          "content_strategy": "Feel good inside - moderni, ihmisl\u00e4heinen br\u00e4ndi.",
+          "threat_level": "high"
+        },
+        {
+          "name": "Fl\u00e4ktGroup",
+          "content_strategy": "Vahva tekninen portfolio, perinteinen B2B.",
+          "threat_level": "medium"
+        }
+      ],
+      "brand_winning_areas": [
+        "Syv\u00e4 tekninen asiantuntijuus niche-kohteissa (leikkaussalit)",
+        "R&D-fasiliteetit (Innovation Hub) ja uskottavuus"
+      ],
+      "brand_losing_areas": [
+        "Emotionaalinen yhteys ja mielikuvamarkkinointi",
+        "Mielikuva raskaasta ja kalliista toimijasta verrattuna moderneihin kilpailijoihin"
+      ]
+    },
+    "strategic_tensions": [
+      {
+        "id": "tension_01",
+        "description": "Wellbeing vs. Ruostumaton ter\u00e4s: Br\u00e4ndilupaus on inhimillinen hyvinvointi, mutta visuaalinen viestint\u00e4 on kylm\u00e4\u00e4 teollisuutta.",
+        "evidence": [
+          "Slogan 'Enabling Wellbeing' vs. ter\u00e4skuvasto",
+          "Ihmisten puute videoissa"
+        ],
+        "opportunity_type": "underserved_audience",
+        "priority_score": 5
+      },
+      {
+        "id": "tension_02",
+        "description": "N\u00e4kym\u00e4t\u00f6n sankari vs. Arvon osoittaminen: Tuotteen arvo on n\u00e4kym\u00e4tt\u00f6myydess\u00e4, mik\u00e4 vaikeuttaa preemiohinnan perustelua.",
+        "evidence": [
+          "Markkinointi n\u00e4ytt\u00e4\u00e4 laitteen, ei sen luomaa suojakilpe\u00e4",
+          "Vaikeus myyd\u00e4 preemiota ilman n\u00e4kyv\u00e4\u00e4 elementti\u00e4"
+        ],
+        "opportunity_type": "threat",
+        "priority_score": 4
+      },
+      {
+        "id": "tension_03",
+        "description": "Dynaaminen tiede vs. Staattinen markkinointi: R&D:n visuaalinen potentiaali (savu, laserit) on hy\u00f6dynt\u00e4m\u00e4tt\u00e4 markkinoinnissa.",
+        "evidence": [
+          "Innovation Hubin kyvykkyydet vs. YouTube-kanavan staattiset animaatiot"
+        ],
+        "opportunity_type": "aspiration",
+        "priority_score": 4
+      },
+      {
+        "id": "tension_04",
+        "description": "Tekninen laatu vs. Mielenrauha: Markkinointi myy speksej\u00e4, asiakas ostaa turvallisuutta.",
+        "evidence": [
+          "Viestint\u00e4 keskittyy 'miten' eik\u00e4 'miksi'",
+          "Kilpailijoiden hintaetu ilman turva-argumentaatiota"
+        ],
+        "opportunity_type": "gap",
+        "priority_score": 3
+      }
+    ],
+    "opportunity_zones": [
+      {
+        "id": "opp_01",
+        "description": "The Art of Invisible Safety (N\u00e4kym\u00e4tt\u00f6m\u00e4n visualisointi)",
+        "rationale": "Hy\u00f6dynnet\u00e4\u00e4n Innovation Hubin visuaalisia keinoja (savu, laser) tekem\u00e4\u00e4n ilmasta konkreettista taidetta, erottuen staattisista kilpailijoista.",
+        "risk_level": "low"
+      },
+      {
+        "id": "opp_02",
+        "description": "The Guardian Angel (Henkivartija-n\u00e4k\u00f6kulma)",
+        "rationale": "Siirret\u00e4\u00e4n fokus katosta leikkausp\u00f6yd\u00e4lle ja asemoidaan Halton kirurgin partneriksi ja potilaan henkivartijaksi. Perustelee preemiohinnan.",
+        "risk_level": "medium"
+      },
+      {
+        "id": "opp_03",
+        "description": "Faces of Engineering (Inhimillinen asiantuntijuus)",
+        "rationale": "Tuodaan esiin asiantuntijat ja perheyrityksen arvot rakentamaan luottamusta ja inhimillist\u00e4m\u00e4\u00e4n teknist\u00e4 br\u00e4ndi\u00e4.",
+        "risk_level": "low"
+      }
+    ],
+    "sources": [
+      {
+        "title": "STRATEGINEN DOSSIER: HALTON OY (Health & Clean Room)",
+        "url": "internal://reports/halton-strategic-dossier",
+        "type": "report",
+        "date_accessed": "2026-01-25",
+        "relevance": "Ensisijainen l\u00e4hde: br\u00e4ndianalyysi ja sis\u00e4iset havainnot."
+      },
+      {
+        "title": "Halton Group Official Website (Health Segment)",
+        "url": "https://www.halton.com/health",
+        "type": "company_site",
+        "date_accessed": "2026-01-25",
+        "relevance": "L\u00e4hde visuaalisen ilmeen ja tuotepositioinnin analyysiin."
+      },
+      {
+        "title": "Halton Group LinkedIn Page",
+        "url": "https://www.linkedin.com/company/halton-group",
+        "type": "social",
+        "date_accessed": "2026-01-25",
+        "relevance": "L\u00e4hde B2B-viestinn\u00e4n s\u00e4vyn ja sitoutumisen analyysiin."
+      },
+      {
+        "title": "Halton Group YouTube Channel",
+        "url": "https://www.youtube.com/user/HaltonGroup",
+        "type": "video",
+        "date_accessed": "2026-01-25",
+        "relevance": "L\u00e4hde videosis\u00e4lt\u00f6jen tyypin ja passiivisuuden todentamiseen."
+      },
+      {
+        "title": "Swegon Competitor Analysis",
+        "url": "https://www.swegon.com",
+        "type": "company_site",
+        "date_accessed": "2026-01-25",
+        "relevance": "Vertailukohta kilpailija-analyysille (Feel good inside -konsepti)."
+      }
+    ]
+  },
   "concept_briefs": [],
   "concepts": [],
   "treatment_files": [],
@@ -20,6 +232,34 @@
   "onepagers_skipped": false,
   "onepagers_error": null,
   "pitch_email": "",
-  "phase_history": [],
+  "phase_history": [
+    {
+      "phase": "validate",
+      "started_at": "2026-01-25T18:45:21.174485",
+      "completed_at": "2026-01-25T18:45:21.179256",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "check_archive",
+      "started_at": "2026-01-25T18:45:21.185468",
+      "completed_at": "2026-01-25T18:45:21.512784",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "research",
+      "started_at": "2026-01-25T18:45:21.519185",
+      "completed_at": null,
+      "success": false,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    }
+  ],
   "archive_ref": null
 }
