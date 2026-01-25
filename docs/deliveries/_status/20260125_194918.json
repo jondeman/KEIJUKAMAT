@@ -2,8 +2,8 @@
   "run_id": "20260125_194918",
   "company_slug": "evidensia-elinlkripalvelut",
   "created_at": "2026-01-25T19:49:18.959616",
-  "updated_at": "2026-01-25T20:02:26.173828",
-  "current_phase": "package",
+  "updated_at": "2026-01-25T20:02:37.680181",
+  "current_phase": "deliver",
   "user_input": {
     "company_name": "Evidensia el\u00e4inl\u00e4\u00e4k\u00e4ripalvelut",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -741,6 +741,15 @@
     {
       "phase": "package",
       "started_at": "2026-01-25T20:02:26.173809",
+      "completed_at": "2026-01-25T20:02:37.672439",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "deliver",
+      "started_at": "2026-01-25T20:02:37.680163",
       "completed_at": null,
       "success": false,
       "error_message": null,
