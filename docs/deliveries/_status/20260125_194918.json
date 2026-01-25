@@ -2,8 +2,8 @@
   "run_id": "20260125_194918",
   "company_slug": "evidensia-elinlkripalvelut",
   "created_at": "2026-01-25T19:49:18.959616",
-  "updated_at": "2026-01-25T19:51:53.643323",
-  "current_phase": "research",
+  "updated_at": "2026-01-25T19:51:55.162579",
+  "current_phase": "strategize",
   "user_input": {
     "company_name": "Evidensia el\u00e4inl\u00e4\u00e4k\u00e4ripalvelut",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -224,7 +224,38 @@
       }
     ]
   },
-  "concept_briefs": [],
+  "concept_briefs": [
+    {
+      "slot_id": "01",
+      "slot_type": "safe_bet",
+      "assigned_tension_id": "tension_01",
+      "strategic_focus": "Luottamuskriisi hinnan ja arvon v\u00e4lill\u00e4: Asiakkaat tarvitsevat huippuosaamista, mutta kokevat tulevansa taloudellisesti hyv\u00e4ksik\u00e4ytetyiksi.",
+      "platform_focus": "youtube",
+      "format_guidance": "Focus on proven YouTube formats: documentary-style, interview series, or educational content. Episodes should be 8-15 minutes. Prioritize professional production quality and clear brand alignment. The series should have obvious rewatch and share value.",
+      "risk_profile": "low",
+      "success_hypothesis": "This concept directly addresses Evidensia el\u00e4inl\u00e4\u00e4k\u00e4ripalvelut's top strategic priority (threat) with a proven format that minimizes execution risk while delivering measurable brand value."
+    },
+    {
+      "slot_id": "02",
+      "slot_type": "challenger",
+      "assigned_tension_id": "tension_02",
+      "strategic_focus": "Kliininen tiede vs. Emotionaalinen lohtu: Br\u00e4ndi viestii High-Tech, asiakas kaipaa High-Touch.",
+      "platform_focus": "tiktok",
+      "format_guidance": "Design for TikTok/Reels first: vertical format, 30-90 seconds, hook in first 3 seconds. Embrace platform-native aesthetics and trends. Consider creator collaborations. Content should feel bold and contemporary, not like traditional brand advertising.",
+      "risk_profile": "medium",
+      "success_hypothesis": "This concept enables Evidensia el\u00e4inl\u00e4\u00e4k\u00e4ripalvelut to aggressively address their gap with bold positioning that differentiates them in the market and captures attention on high-engagement platforms."
+    },
+    {
+      "slot_id": "03",
+      "slot_type": "moonshot",
+      "assigned_tension_id": "tension_03",
+      "strategic_focus": "Globaali koneisto vs. Paikallinen sankari: Suomalaiset luottavat paikalliseen, Evidensia on kansainv\u00e4linen j\u00e4tti.",
+      "platform_focus": "cross_platform",
+      "format_guidance": "Think beyond single-platform content: interactive experiences, live events with digital extensions, user participation mechanics, or innovative cross-platform storytelling. This should feel like something the industry hasn't seen before. High production ambition is acceptable given the differentiation potential.",
+      "risk_profile": "high",
+      "success_hypothesis": "This concept unlocks an untapped opportunity for Evidensia el\u00e4inl\u00e4\u00e4k\u00e4ripalvelut by addressing their aspiration in a way that creates cultural relevance and positions the brand as an innovator in their space."
+    }
+  ],
   "concepts": [],
   "treatment_files": [],
   "onepager_specs": [],
@@ -253,6 +284,15 @@
     {
       "phase": "research",
       "started_at": "2026-01-25T19:49:20.763032",
+      "completed_at": "2026-01-25T19:51:55.151080",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "strategize",
+      "started_at": "2026-01-25T19:51:55.156959",
       "completed_at": null,
       "success": false,
       "error_message": null,
