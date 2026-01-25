@@ -2,8 +2,8 @@
   "run_id": "20260125_194918",
   "company_slug": "evidensia-elinlkripalvelut",
   "created_at": "2026-01-25T19:49:18.959616",
-  "updated_at": "2026-01-25T19:51:55.162579",
-  "current_phase": "strategize",
+  "updated_at": "2026-01-25T19:58:00.317207",
+  "current_phase": "create",
   "user_input": {
     "company_name": "Evidensia el\u00e4inl\u00e4\u00e4k\u00e4ripalvelut",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -256,8 +256,344 @@
       "success_hypothesis": "This concept unlocks an untapped opportunity for Evidensia el\u00e4inl\u00e4\u00e4k\u00e4ripalvelut by addressing their aspiration in a way that creates cultural relevance and positions the brand as an innovator in their space."
     }
   ],
-  "concepts": [],
-  "treatment_files": [],
+  "concepts": [
+    {
+      "id": "concept_01",
+      "title": "24 Tuntia P\u00e4ivystyksess\u00e4",
+      "hook": "Dokumenttisarja, joka n\u00e4ytt\u00e4\u00e4 mit\u00e4 oikeasti tapahtuu el\u00e4inp\u00e4ivystyksess\u00e4 keskiy\u00f6ll\u00e4 \u2013 ja miksi se maksaa sen mink\u00e4 maksaa.",
+      "premise": "Seuraamme Evidensian 24/7-p\u00e4ivystyksen arkea reaaliajassa: h\u00e4t\u00e4leikkauksia, omistajien tunteiden vuoristoradan ja el\u00e4inl\u00e4\u00e4k\u00e4reiden v\u00e4symyksen. Jokainen jakso kattaa yhden 24 tunnin vuoron, jossa n\u00e4ytet\u00e4\u00e4n mit\u00e4 huippuosaaminen ja v\u00e4lit\u00f6n valmius vaativat. Sarjassa 'n\u00e4kym\u00e4t\u00f6n' hoitoty\u00f6 tulee n\u00e4kyv\u00e4ksi \u2013 ei puolustellen hintaa, vaan n\u00e4ytt\u00e4m\u00e4ll\u00e4 totuuden.",
+      "long_form_extension": "8-osainen dokumenttisarja Ruutu+/Katsomo-palveluihin (45 min/jakso), lis\u00e4ksi broadcast-versio Neloselle (8x42 min). Mahdollinen jatkokausi eri klinikoilta ymp\u00e4ri Suomea.",
+      "format": {
+        "series_type": "limited",
+        "episode_length": "45 minuuttia",
+        "cadence": "Viikoittain",
+        "season_length": "8 jaksoa"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "YouTube",
+          "rationale": "Pidempi dokumentaarinen sis\u00e4lt\u00f6 toimii YouTubessa, jossa katsojat sitoutuvat emotionaalisiin tarinoihin. Mahdollistaa my\u00f6s algoritmivetoisen l\u00f6ydett\u00e4vyyden lemmikinomistajien keskuudessa.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "TikTok",
+            "rationale": "",
+            "adaptation": "60 sekunnin 'Mit\u00e4 tapahtui y\u00f6ll\u00e4' -klipit: dramaattisin hetki jokaisesta vuorosta, cliffhanger-koukulla t\u00e4yspitk\u00e4\u00e4n jaksoon."
+          },
+          {
+            "platform": "Instagram",
+            "rationale": "",
+            "adaptation": "Reels: 'Ennen ja j\u00e4lkeen' -tarinat pelastuneista el\u00e4imist\u00e4. Stories: reaaliaikaiset p\u00e4ivitykset kuvausten aikana."
+          }
+        ],
+        "amplification": "PR-yhteisty\u00f6 Ilta-Sanomien ja MTV:n kanssa ensi-illan yhteydess\u00e4. El\u00e4inl\u00e4\u00e4k\u00e4riliitto ja Kennelliitto jakavat sis\u00e4lt\u00f6\u00e4 j\u00e4senilleen."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Jakso alkaa aina vuoronvaihtohetkell\u00e4: edellinen el\u00e4inl\u00e4\u00e4k\u00e4ri raportoi tilanteen",
+          "'Kello 03:00' -tyyppiset aikaleimaukset luovat j\u00e4nnitett\u00e4",
+          "Jokaisen jakson lopussa 'Mit\u00e4 heille kuuluu nyt' -p\u00e4ivitys hoidettujen el\u00e4inten voinnista",
+          "Kustannuserittely-insertti: mit\u00e4 yksitt\u00e4inen toimenpide vaati (laitteet, henkil\u00f6kunta, aika)"
+        ],
+        "variable_elements": [
+          "Eri klinikat ja kaupungit (Helsinki, Tampere, Oulu)",
+          "Erilaiset tapaukset: h\u00e4t\u00e4synnytykset, myrkytykset, liikenneonnettomuudet, kroonisten sairauksien kriisiytyminen",
+          "Eri el\u00e4inl\u00e4\u00e4k\u00e4rit p\u00e4\u00e4henkil\u00f6in\u00e4 \u2013 nuoret ja kokeneet"
+        ],
+        "host_approach": "Ei erillist\u00e4 juontajaa. El\u00e4inl\u00e4\u00e4k\u00e4rit ja omistajat kertovat itse tarinansa. Voice-over vain kontekstin rakentamiseen."
+      },
+      "brand_integration": {
+        "philosophy": "Evidensia ei ole sponsori vaan tapahtumapaikka. Br\u00e4ndi n\u00e4kyy luontevana osana ymp\u00e4rist\u00f6\u00e4, ei mainoksena.",
+        "integration_method": "Klinikoiden tilat, laitteet ja henkil\u00f6kunta ovat orgaanisesti esill\u00e4. Kustannuserittely-insertit n\u00e4ytt\u00e4v\u00e4t konkreettisesti, mit\u00e4 huippuhoito vaatii.",
+        "screen_time_balance": "85% puhdasta sis\u00e4lt\u00f6\u00e4, 15% luontevaa br\u00e4ndin\u00e4kyvyytt\u00e4 (tilat, vaatteet, laitteet)",
+        "cta_approach": "Jakson lopussa hienovarainen teksti: 'Evidensian p\u00e4ivystys palvelee 24/7' + QR-koodi l\u00e4himp\u00e4\u00e4n klinikkaan."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Uudenvuodeny\u00f6",
+          "description": "Vuoden kiireisin y\u00f6: ilotulitepelot, suklaansy\u00f6nnit ja paleltuneet kulkukissat."
+        },
+        {
+          "number": 2,
+          "title": "Syntym\u00e4 ja kuolema",
+          "description": "Sama y\u00f6 tuo sek\u00e4 h\u00e4t\u00e4keisarileikkauksen ett\u00e4 vaikean eutanasiap\u00e4\u00e4t\u00f6ksen \u2013 el\u00e4inl\u00e4\u00e4k\u00e4rin tunneskaala \u00e4\u00e4rirajoilla."
+        },
+        {
+          "number": 3,
+          "title": "Ensimm\u00e4inen y\u00f6vuoro",
+          "description": "Vastavalmistunut el\u00e4inl\u00e4\u00e4k\u00e4ri kohtaa ensimm\u00e4isen h\u00e4t\u00e4tilanteensa yksin \u2013 mentori tukena puhelimessa."
+        },
+        {
+          "number": 4,
+          "title": "Viisi minuuttia",
+          "description": "Koira nielaissut vierasesineen. Kello tikitt\u00e4\u00e4: kuinka nopeasti tiimi saa leikkaussalin valmiiksi?"
+        },
+        {
+          "number": 5,
+          "title": "Kun raha ei riit\u00e4",
+          "description": "Perhe kamppailee hoitokustannusten kanssa. El\u00e4inl\u00e4\u00e4k\u00e4ri etsii ratkaisuja \u2013 mit\u00e4 vaihtoehtoja on?"
+        },
+        {
+          "number": 6,
+          "title": "Hiljainen aamu",
+          "description": "Vuoron loppu: el\u00e4inl\u00e4\u00e4k\u00e4ri ajaa kotiin auringonnousun aikaan. Mit\u00e4 y\u00f6 opetti? Jakso p\u00e4\u00e4ttyy kaikkien kauden el\u00e4inten 'kuulumisiin'."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee suoraan hinnan ja arvon v\u00e4lisen luottamuskriisin n\u00e4ytt\u00e4m\u00e4ll\u00e4 konkreettisesti, mit\u00e4 24/7-valmius ja huippuosaaminen vaativat. Ei puolustele \u2013 todistaa.",
+        "competitive_differentiation": "Pienet klinikat eiv\u00e4t voi tehd\u00e4 t\u00e4t\u00e4: heill\u00e4 ei ole p\u00e4ivystyst\u00e4, MRI-laitteita tai vastaavaa tarinapotentiaalia. Evidensian koko on t\u00e4ss\u00e4 vahvuus, ei heikkous.",
+        "audience_value_proposition": "El\u00e4inp\u00e4ivystys on universaalisti j\u00e4nnitt\u00e4v\u00e4 aihe. Jokainen lemmikinomistaja on ollut tai pelk\u00e4\u00e4 olevansa siin\u00e4 tilanteessa. Sarja on sek\u00e4 opettavainen ett\u00e4 emotionaalisesti koukuttava."
+      },
+      "execution": {
+        "complexity": "medium",
+        "budget_tier": "mid",
+        "timeline_to_first_episode": "10-12 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Negatiivinen tarinankaari: ent\u00e4 jos el\u00e4in kuolee hoidosta huolimatta?",
+          "mitigation": "K\u00e4sitell\u00e4\u00e4n avoimesti ja kunnioittavasti. Kuolema on osa el\u00e4inl\u00e4\u00e4k\u00e4rin ty\u00f6t\u00e4 \u2013 sen piilottaminen olisi ep\u00e4aitoa. Fokus siirret\u00e4\u00e4n hoitoon ja lohdutukseen."
+        },
+        {
+          "risk": "Asiakkaiden yksityisyys ja suostumukset",
+          "mitigation": "Kaikki omistajat allekirjoittavat suostumuksen ennen kuvauksia. Mahdollisuus anonymisoida kasvot j\u00e4lkik\u00e4teen. Juridinen tarkistus jokaiselle jaksolle."
+        },
+        {
+          "risk": "Hintakeskustelu k\u00e4\u00e4ntyy negatiiviseksi",
+          "mitigation": "Kustannuserittely-insertit ovat faktuaalisia, eiv\u00e4t puolustelevia. N\u00e4ytet\u00e4\u00e4n mit\u00e4 rahalla saa, ei selitell\u00e4 miksi se maksaa."
+        }
+      ]
+    },
+    {
+      "id": "concept_02",
+      "title": "El\u00e4inl\u00e4\u00e4k\u00e4rin Tunnustukset",
+      "hook": "TikTok-sarja, jossa oikeat Evidensian el\u00e4inl\u00e4\u00e4k\u00e4rit kertovat sen mit\u00e4 eiv\u00e4t koskaan sano vastaanotolla \u2013 raaka, hauska ja inhimillinen.",
+      "premise": "Formaatti, jossa el\u00e4inl\u00e4\u00e4k\u00e4rit istuvat kameran eteen ja vastaavat provosoiviin kysymyksiin: 'Mik\u00e4 on tyhmint\u00e4 mit\u00e4 lemmikinomistaja on tehnyt?', 'Oletko itkenyt ty\u00f6ss\u00e4?', 'Mik\u00e4 sinua \u00e4rsytt\u00e4\u00e4 eniten?'. Sis\u00e4lt\u00f6 on rosoista, aitoa ja rikkoo valkotakki-mielikuvan. El\u00e4inl\u00e4\u00e4k\u00e4rit eiv\u00e4t ole koneiston osia \u2013 he ovat ihmisi\u00e4, jotka v\u00e4litt\u00e4v\u00e4t.",
+      "long_form_extension": "YouTube-koontijaksot (4x15 min) teemoittain: 'Parhaat omistajatarinat', 'Vaikeimmat p\u00e4\u00e4t\u00f6kset', 'Hauskat hetket'. Mahdollinen Ruutu+-erikoisjakso: 'Tunnin tunnustukset' \u2013 pidempi, syv\u00e4llisempi versio suosituimmista el\u00e4inl\u00e4\u00e4k\u00e4reist\u00e4.",
+      "format": {
+        "series_type": "ongoing",
+        "episode_length": "45-90 sekuntia",
+        "cadence": "3 kertaa viikossa",
+        "season_length": null
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "TikTok",
+          "rationale": "Confessional-formaatti on TikTokin ydingenre\u00e4. Algoritmivetoinen levitys tavoittaa nuoret lemmikinomistajat, jotka eiv\u00e4t viel\u00e4 tunne Evidensiaa.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "Instagram Reels",
+            "rationale": "",
+            "adaptation": "Sama sis\u00e4lt\u00f6, mutta thumbnail-optimoitu. Korostetaan visuaalisesti kiinnostavia hetki\u00e4."
+          },
+          {
+            "platform": "YouTube Shorts",
+            "rationale": "",
+            "adaptation": "Sama sis\u00e4lt\u00f6. Toimii sis\u00e4\u00e4nheittotuotteena pidemmille koontivideoille."
+          }
+        ],
+        "amplification": "El\u00e4inl\u00e4\u00e4k\u00e4rit jakavat omilla tileill\u00e4\u00e4n. Duet-haasteet: 'Kerro sin\u00e4kin tunnustuksesi'. Yhteisty\u00f6 lemmikinomistaja-vaikuttajien kanssa (esim. @koiratkoirissa)."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Aina sama visuaalinen setup: el\u00e4inl\u00e4\u00e4k\u00e4ri istuu, taustalla klinikka (ei steriili studio)",
+          "Kysymys ilmestyy ruudulle tekstin\u00e4 ennen vastausta",
+          "Lopussa aina 'nimi + titteli + Evidensia [kaupunki]'",
+          "Musiikkivalinta: trendi-\u00e4\u00e4net TikTokista, ei geneerinen taustamusiikki"
+        ],
+        "variable_elements": [
+          "Eri el\u00e4inl\u00e4\u00e4k\u00e4rit ymp\u00e4ri Suomea \u2013 eri persoonat, murteet, ik\u00e4ryhm\u00e4t",
+          "Eri kysymystyypit: hauskat, vakavat, provosoivat, opettavaiset",
+          "Teemasarjat: 'Kissal\u00e4\u00e4k\u00e4reiden tunnustukset', 'Y\u00f6vuoron tunnustukset'"
+        ],
+        "host_approach": "Ei juontajaa. Jokainen el\u00e4inl\u00e4\u00e4k\u00e4ri on oman klippins\u00e4 't\u00e4hti'. Autenttisuus on formaatin ydin."
+      },
+      "brand_integration": {
+        "philosophy": "Evidensia n\u00e4kyy el\u00e4inl\u00e4\u00e4k\u00e4reiden kautta, ei logona. Br\u00e4ndi = ihmiset.",
+        "integration_method": "El\u00e4inl\u00e4\u00e4k\u00e4reiden ty\u00f6vaatteet ja tausta paljastavat br\u00e4ndin. Lopputeksti mainitsee klinikan. Ei erillisi\u00e4 br\u00e4ndipuheenvuoroja.",
+        "screen_time_balance": "95% sis\u00e4lt\u00f6\u00e4, 5% hienovaraista br\u00e4ndi\u00e4 (vaatteet, lopputeksti)",
+        "cta_approach": "Ei suoraa CTA:ta. Bio-linkki Evidensian sivuille. Kommenteissa voi vastata kysymyksiin."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Mik\u00e4 on h\u00e4mment\u00e4vint\u00e4 mit\u00e4 omistaja on kysynyt?",
+          "description": "El\u00e4inl\u00e4\u00e4k\u00e4rit kertovat absurdeimmat kysymykset \u2013 huumori avaa keskustelun."
+        },
+        {
+          "number": 2,
+          "title": "Oletko koskaan itkenyt t\u00f6iss\u00e4?",
+          "description": "Vakava hetki: el\u00e4inl\u00e4\u00e4k\u00e4rit kertovat emotionaalisesti vaikeimmista tilanteista."
+        },
+        {
+          "number": 3,
+          "title": "Mit\u00e4 et koskaan sanoisi \u00e4\u00e4neen vastaanotolla?",
+          "description": "Rehellisi\u00e4 ajatuksia, joita ammattirooli est\u00e4\u00e4 sanomasta."
+        },
+        {
+          "number": 4,
+          "title": "Mik\u00e4 on paras p\u00e4iv\u00e4 ty\u00f6ss\u00e4si?",
+          "description": "Positiivinen k\u00e4\u00e4nne: tarinoita ihmeellisist\u00e4 paranemisista."
+        },
+        {
+          "number": 5,
+          "title": "Miksi valitsit t\u00e4m\u00e4n ammatin?",
+          "description": "Henkil\u00f6kohtainen tarina: mik\u00e4 ajoi el\u00e4inl\u00e4\u00e4k\u00e4riksi? Usein lapsuuden el\u00e4in."
+        },
+        {
+          "number": 6,
+          "title": "Mit\u00e4 toivoisit omistajien ymm\u00e4rt\u00e4v\u00e4n?",
+          "description": "Suora viesti katsojille: mit\u00e4 el\u00e4inl\u00e4\u00e4k\u00e4ri haluaisi sanoa mutta ei voi."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee 'kliininen tiede vs. emotionaalinen lohtu' -j\u00e4nnitteen inhimillist\u00e4m\u00e4ll\u00e4 valkotakin. Evidensia ei ole korporaatio \u2013 se on tuhansia v\u00e4litt\u00e4vi\u00e4 ihmisi\u00e4.",
+        "competitive_differentiation": "Pienet klinikat eiv\u00e4t tee somea systemaattisesti. Evidensia voi dominoida TikTokin el\u00e4inl\u00e4\u00e4k\u00e4rikategorian ja tulla 'se br\u00e4ndi, jonka el\u00e4inl\u00e4\u00e4k\u00e4rit tunnetaan'.",
+        "audience_value_proposition": "Confessional-sis\u00e4lt\u00f6 on addiktoivaa. Katsojat haluavat tiet\u00e4\u00e4 mit\u00e4 l\u00e4\u00e4k\u00e4rit oikeasti ajattelevat. Formaatti on jaettava, kommentoitava ja algoritmiyst\u00e4v\u00e4llinen."
+      },
+      "execution": {
+        "complexity": "low",
+        "budget_tier": "budget",
+        "timeline_to_first_episode": "4-6 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "El\u00e4inl\u00e4\u00e4k\u00e4ri sanoo jotain, joka aiheuttaa PR-kriisin",
+          "mitigation": "Kaikki klipit tarkistetaan ennen julkaisua. Briefataan el\u00e4inl\u00e4\u00e4k\u00e4rit selke\u00e4sti: mik\u00e4 on ok, mik\u00e4 ei. Ei pakkoa osallistua."
+        },
+        {
+          "risk": "Sis\u00e4lt\u00f6 tuntuu teenn\u00e4iselt\u00e4 tai k\u00e4sikirjoitetulta",
+          "mitigation": "Ei k\u00e4sikirjoituksia. Kysymykset annetaan etuk\u00e4teen, mutta vastaukset ovat spontaaneja. Valitaan luontevasti kameralla esiintyvi\u00e4 el\u00e4inl\u00e4\u00e4k\u00e4reit\u00e4."
+        },
+        {
+          "risk": "Negatiivinen huomio: 'Evidensia k\u00e4ytt\u00e4\u00e4 ty\u00f6ntekij\u00f6it\u00e4\u00e4n markkinointiin'",
+          "mitigation": "Osallistuminen on vapaaehtoista ja el\u00e4inl\u00e4\u00e4k\u00e4rit saavat itse hyv\u00e4ksy\u00e4 klippins\u00e4. Korostetaan, ett\u00e4 he ovat ylpeit\u00e4 ty\u00f6st\u00e4\u00e4n."
+        }
+      ]
+    },
+    {
+      "id": "concept_03",
+      "title": "Toinen Mahdollisuus",
+      "hook": "Suomen ensimm\u00e4inen el\u00e4inten pelastus-reality, jossa Evidensian erikoisl\u00e4\u00e4k\u00e4rit hoitavat tapauksia, joista muut ovat luopuneet \u2013 live-seurannalla ja yleis\u00f6\u00e4\u00e4nestyksill\u00e4.",
+      "premise": "Formaatti, jossa seurataan 'mahdottomia' tapauksia: hyl\u00e4ttyj\u00e4, vaikeasti loukkaantuneita tai kroonisesti sairaita el\u00e4imi\u00e4, joille etsit\u00e4\u00e4n uutta kotia hoidon j\u00e4lkeen. Jokainen jakso yhdist\u00e4\u00e4 l\u00e4\u00e4ketieteellisen draaman, tunnesiteen rakentamisen ja adoptiomatkan. Yleis\u00f6 voi \u00e4\u00e4nest\u00e4\u00e4 nimist\u00e4, seurata toipumista reaaliajassa ja hakea adoptoimaan. Evidensia n\u00e4ytt\u00e4ytyy pelastajana, ei rahastajana.",
+      "long_form_extension": "10-osainen TV-sarja Neloselle/MTV3:lle (45 min/jakso) + Ruutu+/Katsomo-extended cut (55 min lis\u00e4materiaalilla). Live-adoptiotapahtuma kauden p\u00e4\u00e4tteeksi Akun Tehtaalla, josta suora l\u00e4hetys someen.",
+      "format": {
+        "series_type": "seasonal",
+        "episode_length": "45 minuuttia (TV), 3-5 min (some)",
+        "cadence": "Viikoittain (TV), p\u00e4ivitt\u00e4in (some)",
+        "season_length": "10 jaksoa + live-finaali"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "Cross-platform",
+          "rationale": "TV tuo massakattavuuden ja uskottavuuden, some rakentaa p\u00e4ivitt\u00e4isen siteen el\u00e4imiin. Yhdess\u00e4 ne luovat 360-kokemuksen, jossa katsoja tuntee olevansa osa tarinaa.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "TikTok/Instagram",
+            "rationale": "",
+            "adaptation": "P\u00e4ivitt\u00e4iset 'toipumisp\u00e4iv\u00e4kirja'-klipit: 30-60 sek p\u00e4ivityksi\u00e4 jokaisen el\u00e4imen voinnista. Live-streamit hoitotoimenpiteist\u00e4 (kun sopivaa)."
+          },
+          {
+            "platform": "YouTube",
+            "rationale": "",
+            "adaptation": "Pidennetyt 'Behind the Surgery' -videot: 10-15 min syv\u00e4luotaukset monimutkaisiin toimenpiteisiin."
+          }
+        ],
+        "amplification": "Yhteisty\u00f6 el\u00e4insuojeluj\u00e4rjest\u00f6jen kanssa (SEY, HESY). Julkkis-kummi jokaiselle el\u00e4imelle (esim. Sami Hedberg, Sara Sieppi). Live-finaali Akun Tehtaalla: adoptiotapahtuma, johon voi osallistua paikan p\u00e4\u00e4ll\u00e4 tai et\u00e4n\u00e4."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Jokainen jakso alkaa 'ennen'-tilalla: el\u00e4imen tarina ja miten se p\u00e4\u00e4tyi Evidensialle",
+          "L\u00e4\u00e4ketieteellinen 'case briefing': erikoisl\u00e4\u00e4k\u00e4ri selitt\u00e4\u00e4 haasteen ja hoitosuunnitelman",
+          "Toipumisen seuranta aikahypyill\u00e4: p\u00e4iv\u00e4 1, viikko 1, kuukausi 1",
+          "Jakson lopussa 'adoptio-update': onko uutta kotia l\u00f6ytynyt?"
+        ],
+        "variable_elements": [
+          "Erilaiset el\u00e4imet ja tapaukset: koirat, kissat, eksoottisemmat (kanit, fretit)",
+          "Erilaiset erikoisalat: ortopedia, neurologia, onkologia, sis\u00e4taudit",
+          "Erilaiset taustatarinat: hyl\u00e4tyt, kaltoinkohdelut, onnettomuuksien uhrit"
+        ],
+        "host_approach": "Tunnistettava julkkisjuontaja, joka on itse el\u00e4inrakas (esim. Jenni P\u00e4\u00e4skysaari, Riku Nieminen). Juontaja toimii katsojan 'silmin\u00e4' ja kysyy el\u00e4inl\u00e4\u00e4k\u00e4reilt\u00e4 selvent\u00e4vi\u00e4 kysymyksi\u00e4."
+      },
+      "brand_integration": {
+        "philosophy": "Evidensia on mahdollistaja: ilman heid\u00e4n huippuosaamistaan n\u00e4m\u00e4 el\u00e4imet eiv\u00e4t saisi toista mahdollisuutta. Br\u00e4ndi = pelastaja.",
+        "integration_method": "Kaikki hoidot tapahtuvat Evidensian klinikoilla. Erikoisl\u00e4\u00e4k\u00e4rit ovat sarjan asiantuntijat\u00e4hti\u00e4. Laitteet ja osaaminen n\u00e4kyv\u00e4t luontevasti osana tarinaa.",
+        "screen_time_balance": "75% el\u00e4inten ja omistajien tarinat, 25% l\u00e4\u00e4ketieteellinen sis\u00e4lt\u00f6 (jossa br\u00e4ndi n\u00e4kyy)",
+        "cta_approach": "Jakson lopussa: 'Haluatko adoptoida? K\u00e4y evidensia.fi/toinenmahdollisuus'. Live-finaalissa suora adoptiomahdollisuus."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Kolmijalkainen Toivo",
+          "description": "Auto-onnettomuudessa jalkansa menett\u00e4nyt koira saa proteesin ja uuden kodin \u2013 tai saakohan?"
+        },
+        {
+          "number": 2,
+          "title": "Sokea luottamus",
+          "description": "Sokea kissa, joka on oppinut navigoimaan \u00e4\u00e4nill\u00e4. Kuka uskaltaa adoptoida erityisel\u00e4imen?"
+        },
+        {
+          "number": 3,
+          "title": "Viimeiset viikot vai uusi alku?",
+          "description": "Sy\u00f6p\u00e4diagnoosin saanut koira. Onko hoito mahdollinen vai onko rakkaus p\u00e4\u00e4st\u00e4mist\u00e4?"
+        },
+        {
+          "number": 4,
+          "title": "Pentutehtaan uhri",
+          "description": "Laittomasta pentutoiminnasta pelastettu koira, jolla on sek\u00e4 fyysisi\u00e4 ett\u00e4 psyykkisi\u00e4 vammoja."
+        },
+        {
+          "number": 5,
+          "title": "Ik\u00e4\u00e4ntyneenkin arvokas",
+          "description": "14-vuotias kissa, jonka omistaja kuoli. Kuka haluaa vanhan el\u00e4imen?"
+        },
+        {
+          "number": 6,
+          "title": "Finaali: Kotiin",
+          "description": "Live-l\u00e4hetys Akun Tehtaalta: kauden el\u00e4imet tapaavat uudet perheens\u00e4. Yll\u00e4tysadoptiot ja kyyneleet taattu."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "K\u00e4sittelee kaikkia kolmea strategista j\u00e4nnitett\u00e4: n\u00e4ytt\u00e4\u00e4 hinnan arvon (pelastusty\u00f6), inhimillist\u00e4\u00e4 br\u00e4ndin (v\u00e4litt\u00e4v\u00e4t l\u00e4\u00e4k\u00e4rit) ja tekee globaalista j\u00e4tist\u00e4 paikallisen sankarin (pelastaa suomalaisia el\u00e4imi\u00e4).",
+        "competitive_differentiation": "Ei kukaan muu voi tehd\u00e4 t\u00e4t\u00e4: pienet klinikat eiv\u00e4t pysty hoitamaan n\u00e4in vaikeita tapauksia. Evidensian erikoisosaaminen on v\u00e4ltt\u00e4m\u00e4t\u00f6n osa formaattia. Formaatti on my\u00f6s vientituote: toimii muissa maissa Evidensia-br\u00e4ndin alla.",
+        "audience_value_proposition": "Pelastusreality on todistettu genre (Bondi Vet, Dr. Pol). Suomalaisille r\u00e4\u00e4t\u00e4l\u00f6ity versio, jossa yleis\u00f6 p\u00e4\u00e4see osaksi tarinaa (\u00e4\u00e4nestykset, adoptiot). Tunteellinen, jaettava, puheenaihetta her\u00e4tt\u00e4v\u00e4."
+      },
+      "execution": {
+        "complexity": "high",
+        "budget_tier": "premium",
+        "timeline_to_first_episode": "16-20 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "El\u00e4in kuolee kesken kauden",
+          "mitigation": "K\u00e4sitell\u00e4\u00e4n avoimesti ja kunnioittavasti. Eutanasia voi olla osa tarinaa \u2013 se on joskus oikea p\u00e4\u00e4t\u00f6s. Fokus siirtyy el\u00e4imen el\u00e4m\u00e4n kunnioittamiseen."
+        },
+        {
+          "risk": "Adoptoijat osoittautuvat sopimattomiksi",
+          "mitigation": "Tiukka seulontaprosessi yhteisty\u00f6ss\u00e4 el\u00e4insuojeluj\u00e4rjest\u00f6jen kanssa. Seurantajakso osoittaa, ett\u00e4 adoptointi on vastuullista."
+        },
+        {
+          "risk": "Kritiikki: 'Evidensia k\u00e4ytt\u00e4\u00e4 sairaita el\u00e4imi\u00e4 markkinointiin'",
+          "mitigation": "Yhteisty\u00f6 riippumattomien el\u00e4insuojeluj\u00e4rjest\u00f6jen kanssa legitimoi hankkeen. Osa tuotoista lahjoitetaan el\u00e4insuojeluty\u00f6h\u00f6n. L\u00e4pin\u00e4kyvyys hoidon kustannuksista."
+        },
+        {
+          "risk": "Live-finaali ep\u00e4onnistuu teknisesti tai emotionaalisesti",
+          "mitigation": "Akun Tehdas -tiimin kokemus live-tuotannoista. Varasuunnitelmat jokaiselle skenaariolle. Etuk\u00e4teen sovitut 'varmat' adoptiot, joiden rinnalla yll\u00e4tyksi\u00e4."
+        }
+      ]
+    }
+  ],
+  "treatment_files": [
+    "/opt/render/project/src/runs/evidensia_elinlkripalvelut/TREATMENTS/evidensia_elinlkripalvelut_TREATMENT_01_20260125_195800.md",
+    "/opt/render/project/src/runs/evidensia_elinlkripalvelut/TREATMENTS/evidensia_elinlkripalvelut_TREATMENT_02_20260125_195800.md",
+    "/opt/render/project/src/runs/evidensia_elinlkripalvelut/TREATMENTS/evidensia_elinlkripalvelut_TREATMENT_03_20260125_195800.md"
+  ],
   "onepager_specs": [],
   "onepagers_skipped": false,
   "onepagers_error": null,
@@ -293,6 +629,15 @@
     {
       "phase": "strategize",
       "started_at": "2026-01-25T19:51:55.156959",
+      "completed_at": "2026-01-25T19:51:56.670296",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "create",
+      "started_at": "2026-01-25T19:51:56.677595",
       "completed_at": null,
       "success": false,
       "error_message": null,

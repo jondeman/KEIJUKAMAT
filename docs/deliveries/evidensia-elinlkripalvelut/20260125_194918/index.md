@@ -16,6 +16,9 @@
 - [Concept 03](concepts/concept_03.md)
 
 ## Treatments
+- [evidensia_elinlkripalvelut_TREATMENT_01_20260125_195800.md](treatments/evidensia_elinlkripalvelut_TREATMENT_01_20260125_195800.md)
+- [evidensia_elinlkripalvelut_TREATMENT_02_20260125_195800.md](treatments/evidensia_elinlkripalvelut_TREATMENT_02_20260125_195800.md)
+- [evidensia_elinlkripalvelut_TREATMENT_03_20260125_195800.md](treatments/evidensia_elinlkripalvelut_TREATMENT_03_20260125_195800.md)
 
 ## One-Pagers
 - [One-Pager 01](onepagers/concept_01.png)
