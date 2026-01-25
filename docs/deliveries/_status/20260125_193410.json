@@ -2,8 +2,8 @@
   "run_id": "20260125_193410",
   "company_slug": "fitness24seven",
   "created_at": "2026-01-25T19:34:10.193611",
-  "updated_at": "2026-01-25T19:41:53.411047",
-  "current_phase": "create",
+  "updated_at": "2026-01-25T19:44:25.509872",
+  "current_phase": "visualize",
   "user_input": {
     "company_name": "Fitness24Seven",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -592,7 +592,83 @@
     "/opt/render/project/src/runs/fitness24seven/TREATMENTS/fitness24seven_TREATMENT_02_20260125_194153.md",
     "/opt/render/project/src/runs/fitness24seven/TREATMENTS/fitness24seven_TREATMENT_03_20260125_194153.md"
   ],
-  "onepager_specs": [],
+  "onepager_specs": [
+    {
+      "concept_id": "concept_01",
+      "brand_styling": {
+        "primary_color": "#002a4e",
+        "secondary_color": "#f9423a",
+        "accent_color": "#f5f5f5",
+        "style_keywords": [],
+        "logo_available": false,
+        "logo_path": null
+      },
+      "content": {
+        "headline": "Y\u00f6salin Sankarit",
+        "subheadline": "Dokumentaarinen YouTube-sarja, joka seuraa Fitness24Sevenin y\u00f6salien todellisia k\u00e4vij\u00f6it\u00e4 \u2013 vuoroty\u00f6",
+        "bullets": [],
+        "call_to_action": "Let's bring this to life \u2192"
+      },
+      "visual_direction": {
+        "mood": "professional, inspiring, clean",
+        "imagery_style": "photorealistic",
+        "composition_notes": "A4 portrait infographic layout with multiple sections."
+      },
+      "generation_prompt": "High-quality horizontal infographic one-pager in 16:9 landscape ratio. Final output should be 3840x2160 (4K UHD) for screen presentation.\n\n## OVERALL VISUAL STYLE\nProfessional, warm, trustworthy Finnish aesthetic. Clean lines, bright natural lighting, approachable imagery. Documentary/editorial feel inspired by premium Nordic design. Soft gradients, clean whitespace, corporate elegance with warmth.\nThe design must feel premium, professional, and pitch-ready \u2013 like it could be presented at a top creative agency.\nMood: trustworthy, professional, inspiring\n\n## LOGO PLACEMENT (CRITICAL)\n- TOP LEFT CORNER: Small, elegant Warner Bros. International Television Production Finland logo (use light/white version if dark background)\n- TOP RIGHT CORNER: Small, elegant Fitness24Seven company logo\n- Both logos are placed discretely at the very top edge (approximately 3-4% of image height), maintaining balance and symmetry\n- Logos must NOT dominate \u2013 they are subtle professional identifiers only\nJos et l\u00f6yd\u00e4 tarkkaa logoa tai br\u00e4ndiv\u00e4rej\u00e4, k\u00e4yt\u00e4 Fitness24Sevenn virallista logoa sek\u00e4 logoon ja br\u00e4ndi-ilmeeseen sopivia v\u00e4ris\u00e4vyj\u00e4.\n\n## HEADER SECTION (top 18%)\nBelow the logos:\n- LARGE BOLD TITLE: \"Y\u00f6salin Sankarit\"\n- Subtitle: \"Dokumentaarinen YouTube-sarja, joka seuraa Fitness24Sevenin y\u00f6salien todellisia k\u00e4vij\u00f6it\u00e4 \u2013 vuoro...\"\nTypography: Bold, modern Finnish advertising style, highly legible, strong visual impact\n\n## TIIVISTYS (TOP)\nImmediately after the title, include a compact 3-line summary block:\n- **MIT\u00c4?** Dokumentaarinen YouTube-sarja, joka seuraa Fitness24Sevenin y\u00f6salien todellisia k\u00e4vij\u00f6it\u00e4 \u2013 vuoroty\u00f6l\u00e4isi\u00e4, y\u00f6ky\u00f6peleit\u00e4, unettomia ja oman polkunsa kulkijoi...\n- **MITEN?** **P\u00e4\u00e4formaatti:**   8-osainen dokumentaarisarja YouTubessa. Jokainen jakso 10\u201312 minuuttia, julkaistaan viikoittain tiistaisin klo 22 (symbolinen ajankohta:...\n- **MIKSI?** Tekee Fitness24Sevensta puheenaiheen ja muuttaa kiinnostuksen toiminnaksi.\nThese lines must be punchy and attention-grabbing, capturing the core idea fast.\n\n\n\n## MAIN VISUAL SECTION (middle 52%)\nSection title: \"KONSEPTIN YDIN\"\n\nDokumentaarinen YouTube-sarja, joka seuraa Fitness24Sevenin y\u00f6salien todellisia k\u00e4vij\u00f6it\u00e4 \u2013 vuoroty\u00f6l\u00e4isi\u00e4, y\u00f6ky\u00f6peleit\u00e4, unettomia ja oman polkunsa kulkijoita. Jokainen 10\u201312 minuutin jakso esittelee yhden ihmisen ja h\u00e4nen tarinansa: miksi h\u00e4n treenaa silloin kun muut nukkuvat, ja mit\u00e4 sali merkitsee h\u00e4nen el\u00e4m\u00e4ss\u00e4\u00e4n. Sarja muuttaa F24S:n \"24/7\"-lupauksen abstraktista myyntiargumentista konkreettisiksi ihmiskohtaloiksi ja osoittaa, ett\u00e4 tyhj\u00e4 sali keskiy\u00f6ll\u00e4 ei ole pelottava paikka \u2013 se on turv...\n\nThis section should visually communicate the core concept in a rich, infographic style.\nUse stylized illustrations, photo compositions, and graphic elements that match the brand aesthetic.\nInclude key characters, settings, or scenarios that bring the concept to life.\nThis must feel like a fully art-directed pitch visual, not a minimal poster.\n\n## PROCESS/FORMAT SECTION (20%)\nTitle: \"N\u00c4IN SE TOIMII\"\n\n**P\u00e4\u00e4formaatti:**  \n8-osainen dokumentaarisarja YouTubessa. Jokainen jakso 10\u201312 minuuttia, julkaistaan viikoittain tiistaisin klo 22 (symbolinen ajankohta: ilta muuttuu y\u00f6ksi).\n\n**Julkaisurytmi ja kaari:**  \n- Viikko 1\u20138: Yksi p\u00e4\u00e4jakso/vko YouTubeen\n- Kauden finale: \"Y\u00f6salin Yhteis\u00f6\" \u2013 kaikki kauden henkil\u00f6t kohtaavat ensimm\u00e4ist\u00e4 kertaa samassa salissa\n\n**Laajennukset:**  \n- **TikTok/Reels (60\u201390s):** \"Kello 03:17\" \u2013 lyhyet teaserileikkeet, joissa n\u00e4ytet\u00e4\u00e4n treenihetki ja yksi lause tarinasta. Julkaistaan 2\u20133 p\u00e4iv\u00e4\u00e4 ennen p\u00e4\u00e4jaksoa.\n- **Podcast-versio (Spotify):** Pidennetyt haastattelut \u2013 \"mit\u00e4 j\u00e4i kameran ulkopuolelle\"\n- **OOH:** Julisteet F24S-salien sis\u00e4ll\u00e4: \"T\u00e4ss\u00e4 salissa treenaa [Nimi]. Katso h\u00e4nen tarinansa.\" + QR-koodi\n- **PR:** Tarinat tarjotaan paikallismedioille (esim. \"Turun y\u00f6salin tarina\" Turun Sanomille)\n\n---\n\nPresent as a clear visual flowchart or step-by-step (3-5 stages) with:\n- Each stage in a colored box connected by arrows or visual flow\n- Icon or small visual + short descriptive text per stage\n- Color-coded using brand palette\n\n## BOTTOM SECTION (10%)\nTitle: \"STRATEGINEN MONIALUSTAINEN ILMI\u00d6\"\n\nThree-column layout showing distribution:\n- Primary channel icon + name\n- Secondary channels\n- Impact/reach indicators\n\n## FOOTER\n\"Konsepti joka tekee Fitness24Sevensta puheenaiheen ja tavoittaa uusia yleis\u00f6j\u00e4.\"\nA compelling summary of why this concept is perfect for this brand.\n\n## COLOR PALETTE\n- Primary brand color: #002a4e\n- Secondary color: #f9423a\n- Accent color: #f5f5f5\n- Background: Light, airy background with subtle brand color accents or soft gradient\n- Text: High contrast for excellent readability\n\n## TECHNICAL REQUIREMENTS\n- 16:9 landscape layout (target 3840x2160)\n- Wide, cinematic composition with clear horizontal flow\n- All Finnish text must be clearly readable and well-spaced\n- Professional marketing document quality matching top creative agencies\n- Avoid generic stock photo aesthetics\n- No AI-looking artifacts or distortions in faces\n- Clean, sharp typography throughout\n- Premium infographic design language\n- The one-pager should immediately communicate value and create desire to learn more\n",
+      "generated_at": "2026-01-25T19:42:45.157944",
+      "output_path": "/opt/render/project/src/runs/2026-01-25_fitness24seven_20260125_193410/artifacts/onepagers/concept_01.png"
+    },
+    {
+      "concept_id": "concept_02",
+      "brand_styling": {
+        "primary_color": "#002a4e",
+        "secondary_color": "#f9423a",
+        "accent_color": "#f5f5f5",
+        "style_keywords": [],
+        "logo_available": false,
+        "logo_path": null
+      },
+      "content": {
+        "headline": "Salitunnustukset",
+        "subheadline": "Anonyymi tunnustusformaatti, jossa tavalliset salilla k\u00e4vij\u00e4t kertovat h\u00e4pe\u00e4llisimm\u00e4t, noloimm\u00e4t ja",
+        "bullets": [],
+        "call_to_action": "Let's bring this to life \u2192"
+      },
+      "visual_direction": {
+        "mood": "bold, energetic, contemporary",
+        "imagery_style": "graphic",
+        "composition_notes": "A4 portrait infographic layout with multiple sections."
+      },
+      "generation_prompt": "High-quality horizontal infographic one-pager in 16:9 landscape ratio. Final output should be 3840x2160 (4K UHD) for screen presentation.\n\n## OVERALL VISUAL STYLE\nBold, energetic, contemporary Finnish style. Strong graphics, dynamic composition, social-media-native visual language. Urban, fresh, attention-grabbing. High contrast, unexpected color pops, modern edge.\nThe design must feel premium, professional, and pitch-ready \u2013 like it could be presented at a top creative agency.\nMood: bold, energetic, contemporary\n\n## LOGO PLACEMENT (CRITICAL)\n- TOP LEFT CORNER: Small, elegant Warner Bros. International Television Production Finland logo (use light/white version if dark background)\n- TOP RIGHT CORNER: Small, elegant Fitness24Seven company logo\n- Both logos are placed discretely at the very top edge (approximately 3-4% of image height), maintaining balance and symmetry\n- Logos must NOT dominate \u2013 they are subtle professional identifiers only\nJos et l\u00f6yd\u00e4 tarkkaa logoa tai br\u00e4ndiv\u00e4rej\u00e4, k\u00e4yt\u00e4 Fitness24Sevenn virallista logoa sek\u00e4 logoon ja br\u00e4ndi-ilmeeseen sopivia v\u00e4ris\u00e4vyj\u00e4.\n\n## HEADER SECTION (top 18%)\nBelow the logos:\n- LARGE BOLD TITLE: \"Salitunnustukset\"\n- Subtitle: \"Anonyymi tunnustusformaatti, jossa tavalliset salilla k\u00e4vij\u00e4t kertovat h\u00e4pe\u00e4llisimm\u00e4t, noloimm\u00e4t ...\"\nTypography: Bold, modern Finnish advertising style, highly legible, strong visual impact\n\n## TIIVISTYS (TOP)\nImmediately after the title, include a compact 3-line summary block:\n- **MIT\u00c4?** Anonyymi tunnustusformaatti, jossa tavalliset salilla k\u00e4vij\u00e4t kertovat h\u00e4pe\u00e4llisimm\u00e4t, noloimm\u00e4t ja rehellisimm\u00e4t ajatuksensa treenaamisesta \u2013 \u00e4\u00e4nitettyin\u00e4 \"...\n- **MITEN?** **P\u00e4\u00e4formaatti:** 30\u201360 sekunnin pystyvideoita, joissa yksi tunnustus kerrallaan. Visuaalinen tyyli: h\u00e4m\u00e4r\u00e4 valaistus, l\u00e4hikuva kasvoista (tai siluetista ano...\n- **MIKSI?** Tekee Fitness24Sevensta puheenaiheen ja muuttaa kiinnostuksen toiminnaksi.\nThese lines must be punchy and attention-grabbing, capturing the core idea fast.\n\n\n\n## MAIN VISUAL SECTION (middle 52%)\nSection title: \"KONSEPTIN YDIN\"\n\nAnonyymi tunnustusformaatti, jossa tavalliset salilla k\u00e4vij\u00e4t kertovat h\u00e4pe\u00e4llisimm\u00e4t, noloimm\u00e4t ja rehellisimm\u00e4t ajatuksensa treenaamisesta \u2013 \u00e4\u00e4nitettyin\u00e4 \"tunnustuskopissa\" Fitness24Seven-salien pukuhuoneissa. Sis\u00e4lt\u00f6 on raakaa, editoimatonta ja tunnistettavaa: \"En tied\u00e4 miten tota laitetta k\u00e4ytet\u00e4\u00e4n, joten teen vaan hauisk\u00e4\u00e4nt\u00f6j\u00e4.\" \"K\u00e4yn salilla jotta saan sy\u00f6d\u00e4 pizzaa ilman syyllisyytt\u00e4.\" \"Valitsen aina sen salin miss\u00e4 on v\u00e4hiten ihmisi\u00e4.\" Formaatti k\u00e4\u00e4nt\u00e4\u00e4 kuntosalikulttuurin kiiltokuvan p\u00e4...\n\nThis section should visually communicate the core concept in a rich, infographic style.\nUse stylized illustrations, photo compositions, and graphic elements that match the brand aesthetic.\nInclude key characters, settings, or scenarios that bring the concept to life.\nThis must feel like a fully art-directed pitch visual, not a minimal poster.\n\n## PROCESS/FORMAT SECTION (20%)\nTitle: \"N\u00c4IN SE TOIMII\"\n\n**P\u00e4\u00e4formaatti:** 30\u201360 sekunnin pystyvideoita, joissa yksi tunnustus kerrallaan. Visuaalinen tyyli: h\u00e4m\u00e4r\u00e4 valaistus, l\u00e4hikuva kasvoista (tai siluetista anonymiteetin s\u00e4ilytt\u00e4miseksi), tekstitys tunnustuksesta, minimalistinen \u00e4\u00e4nimaailma.\n\n**Julkaisurytmi:** 3\u20134 videota viikossa ensimm\u00e4iset 8 viikkoa, sitten 2 viikossa. Sarjamuotoisuus: teemaviikot kuten \"Aloittelijoiden viikko\", \"Y\u00f6lintujen tunnustukset\", \"Ryhm\u00e4liikunnan totuudet\".\n\n**Laajennukset:**\n- **Duet-haaste:** \"Tunnusta sin\u00e4kin\" \u2013 katsojat tekev\u00e4t omia versioitaan\n- **Salikohtaiset n\u00e4yt\u00f6t:** Parhaat tunnustukset py\u00f6riv\u00e4t salien sis\u00e4\u00e4nk\u00e4yntin\u00e4yt\u00f6ill\u00e4\n- **PR:** \"Suomen rehellisimm\u00e4t salilla k\u00e4vij\u00e4t\" -kulma medialle\n- **Compilations:** Viikoittaiset koosteet YouTubeen ja pidemp\u00e4\u00e4n katseluun\n\n---\n\nPresent as a clear visual flowchart or step-by-step (3-5 stages) with:\n- Each stage in a colored box connected by arrows or visual flow\n- Icon or small visual + short descriptive text per stage\n- Color-coded using brand palette\n\n## BOTTOM SECTION (10%)\nTitle: \"STRATEGINEN MONIALUSTAINEN ILMI\u00d6\"\n\nThree-column layout showing distribution:\n- Primary channel icon + name\n- Secondary channels\n- Impact/reach indicators\n\n## FOOTER\n\"Konsepti joka tekee Fitness24Sevensta puheenaiheen ja tavoittaa uusia yleis\u00f6j\u00e4.\"\nA compelling summary of why this concept is perfect for this brand.\n\n## COLOR PALETTE\n- Primary brand color: #002a4e\n- Secondary color: #f9423a\n- Accent color: #f5f5f5\n- Background: Dynamic gradient or bold brand color with graphic elements\n- Text: High contrast for excellent readability\n\n## TECHNICAL REQUIREMENTS\n- 16:9 landscape layout (target 3840x2160)\n- Wide, cinematic composition with clear horizontal flow\n- All Finnish text must be clearly readable and well-spaced\n- Professional marketing document quality matching top creative agencies\n- Avoid generic stock photo aesthetics\n- No AI-looking artifacts or distortions in faces\n- Clean, sharp typography throughout\n- Premium infographic design language\n- The one-pager should immediately communicate value and create desire to learn more\n",
+      "generated_at": "2026-01-25T19:43:38.366944",
+      "output_path": "/opt/render/project/src/runs/2026-01-25_fitness24seven_20260125_193410/artifacts/onepagers/concept_02.png"
+    },
+    {
+      "concept_id": "concept_03",
+      "brand_styling": {
+        "primary_color": "#002a4e",
+        "secondary_color": "#f9423a",
+        "accent_color": "#f5f5f5",
+        "style_keywords": [],
+        "logo_available": false,
+        "logo_path": null
+      },
+      "content": {
+        "headline": "Suomen Pisin Treeni",
+        "subheadline": "Fitness24Seven j\u00e4rjest\u00e4\u00e4 maailmanenn\u00e4tysyrityksen: **yhden vuorokauden mittaisen, 24 tunnin live-tre",
+        "bullets": [],
+        "call_to_action": "Let's bring this to life \u2192"
+      },
+      "visual_direction": {
+        "mood": "visionary, impactful, premium",
+        "imagery_style": "mixed",
+        "composition_notes": "A4 portrait infographic layout with multiple sections."
+      },
+      "generation_prompt": "High-quality horizontal infographic one-pager in 16:9 landscape ratio. Final output should be 3840x2160 (4K UHD) for screen presentation.\n\n## OVERALL VISUAL STYLE\nVisionary, cinematic, premium Finnish aesthetic. Award-worthy design quality, sophisticated layering, dramatic lighting. Editorial boldness, statement-making, the kind of design that wins at Cannes Lions.\nThe design must feel premium, professional, and pitch-ready \u2013 like it could be presented at a top creative agency.\nMood: visionary, impactful, premium\n\n## LOGO PLACEMENT (CRITICAL)\n- TOP LEFT CORNER: Small, elegant Warner Bros. International Television Production Finland logo (use light/white version if dark background)\n- TOP RIGHT CORNER: Small, elegant Fitness24Seven company logo\n- Both logos are placed discretely at the very top edge (approximately 3-4% of image height), maintaining balance and symmetry\n- Logos must NOT dominate \u2013 they are subtle professional identifiers only\nJos et l\u00f6yd\u00e4 tarkkaa logoa tai br\u00e4ndiv\u00e4rej\u00e4, k\u00e4yt\u00e4 Fitness24Sevenn virallista logoa sek\u00e4 logoon ja br\u00e4ndi-ilmeeseen sopivia v\u00e4ris\u00e4vyj\u00e4.\n\n## HEADER SECTION (top 18%)\nBelow the logos:\n- LARGE BOLD TITLE: \"Suomen Pisin Treeni\"\n- Subtitle: \"Fitness24Seven j\u00e4rjest\u00e4\u00e4 maailmanenn\u00e4tysyrityksen: **yhden vuorokauden mittaisen, 24 tunnin live-...\"\nTypography: Bold, modern Finnish advertising style, highly legible, strong visual impact\n\n## TIIVISTYS (TOP)\nImmediately after the title, include a compact 3-line summary block:\n- **MIT\u00c4?** Fitness24Seven j\u00e4rjest\u00e4\u00e4 maailmanenn\u00e4tysyrityksen: **yhden vuorokauden mittaisen, 24 tunnin live-treenimaratonin**, joka kiert\u00e4\u00e4 ketjun saleilla ymp\u00e4ri Suome...\n- **MITEN?** **P\u00e4\u00e4formaatti:** - **24h live-striimi** (YouTube + Twitch) \u2013 studiotason tuotanto, joka leikkaa salilta salille ymp\u00e4ri Suomen - Ammattijuontajat + PT:t pit\u00e4...\n- **MIKSI?** Tekee Fitness24Sevensta puheenaiheen ja muuttaa kiinnostuksen toiminnaksi.\nThese lines must be punchy and attention-grabbing, capturing the core idea fast.\n\n\n\n## MAIN VISUAL SECTION (middle 52%)\nSection title: \"KONSEPTIN YDIN\"\n\nFitness24Seven j\u00e4rjest\u00e4\u00e4 maailmanenn\u00e4tysyrityksen: **yhden vuorokauden mittaisen, 24 tunnin live-treenimaratonin**, joka kiert\u00e4\u00e4 ketjun saleilla ymp\u00e4ri Suomen ja striimaa reaaliaikaisesti. Kuka tahansa voi hyp\u00e4t\u00e4 mukaan omalla salillaan, omassa kaupungissaan \u2013 tai seurata suorana. Konsepti k\u00e4\u00e4nt\u00e4\u00e4 br\u00e4ndin suurimman kritiikin (miehitt\u00e4m\u00e4tt\u00f6myys, yksin\u00e4isyys) voimaksi: kun koko Suomi treenaa yhdess\u00e4 vuorokauden ymp\u00e4ri, kukaan ei ole yksin. Tapahtuma huipentuu viralliseen Guinness-enn\u00e4tysyritykseen...\n\nThis section should visually communicate the core concept in a rich, infographic style.\nUse stylized illustrations, photo compositions, and graphic elements that match the brand aesthetic.\nInclude key characters, settings, or scenarios that bring the concept to life.\nThis must feel like a fully art-directed pitch visual, not a minimal poster.\n\n## PROCESS/FORMAT SECTION (20%)\nTitle: \"N\u00c4IN SE TOIMII\"\n\n**P\u00e4\u00e4formaatti:**\n- **24h live-striimi** (YouTube + Twitch) \u2013 studiotason tuotanto, joka leikkaa salilta salille ymp\u00e4ri Suomen\n- Ammattijuontajat + PT:t pit\u00e4v\u00e4t virran k\u00e4ynniss\u00e4, haastattelevat treenaajia, opettavat liikkeit\u00e4\n- \"Y\u00f6vuoro-ohjelma\" (klo 00-06) erikoisosio: intiimimp\u00e4\u00e4, dokumentaarisempaa, rauhallisempaa\n\n**Julkaisurytmi ja kaari:**\n1. **Pre-hype (4 viikkoa ennen):** Casting \"24h-kapteeneille\" \u2013 paikalliset mikrovaikuttajat/aktiivij\u00e4senet jotka johtavat omaa saliaan\n2. **D-Day:** 24h live-tapahtuma\n3. **J\u00e4lkipyykki (2 viikkoa):** 8-osainen YouTube-dokkarisarja \"Suomen Pisin Treeni \u2013 Tarinat\", joka syventyy osallistujien el\u00e4m\u00e4\u00e4n\n\n**Laajennukset:**\n- **TikTok/Reels:** Reaaliaikainen klippitehdas \u2013 paras sis\u00e4lt\u00f6 ulos 15 min sis\u00e4ll\u00e4 tapahtumasta\n- **IG Stories:** Kulissien takana, kapteenien POV\n- **OOH:** Countdown-laskurit kaupungeissa (\"47 tuntia enn\u00e4tykseen\")\n- **PR:** Guinness World Records -partnerointi, media-akkreditointi striimiin\n- **Podcast-erikoisjakso:** 24h aikana nauhoitettu \"y\u00f6radio\" treenaajien tarinoilla\n\n---\n\nPresent as a clear visual flowchart or step-by-step (3-5 stages) with:\n- Each stage in a colored box connected by arrows or visual flow\n- Icon or small visual + short descriptive text per stage\n- Color-coded using brand palette\n\n## BOTTOM SECTION (10%)\nTitle: \"STRATEGINEN MONIALUSTAINEN ILMI\u00d6\"\n\nThree-column layout showing distribution:\n- Primary channel icon + name\n- Secondary channels\n- Impact/reach indicators\n\n## FOOTER\n\"Konsepti joka tekee Fitness24Sevensta puheenaiheen ja tavoittaa uusia yleis\u00f6j\u00e4.\"\nA compelling summary of why this concept is perfect for this brand.\n\n## COLOR PALETTE\n- Primary brand color: #002a4e\n- Secondary color: #f9423a\n- Accent color: #f5f5f5\n- Background: Rich dark base with premium lighting effects and depth, or striking bold color statement\n- Text: High contrast for excellent readability\n\n## TECHNICAL REQUIREMENTS\n- 16:9 landscape layout (target 3840x2160)\n- Wide, cinematic composition with clear horizontal flow\n- All Finnish text must be clearly readable and well-spaced\n- Professional marketing document quality matching top creative agencies\n- Avoid generic stock photo aesthetics\n- No AI-looking artifacts or distortions in faces\n- Clean, sharp typography throughout\n- Premium infographic design language\n- The one-pager should immediately communicate value and create desire to learn more\n",
+      "generated_at": "2026-01-25T19:44:25.507898",
+      "output_path": "/opt/render/project/src/runs/2026-01-25_fitness24seven_20260125_193410/artifacts/onepagers/concept_03.png"
+    }
+  ],
   "onepagers_skipped": false,
   "onepagers_error": null,
   "pitch_email": "",
@@ -636,6 +712,15 @@
     {
       "phase": "create",
       "started_at": "2026-01-25T19:36:17.049841",
+      "completed_at": "2026-01-25T19:41:56.861601",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "visualize",
+      "started_at": "2026-01-25T19:41:56.872644",
       "completed_at": null,
       "success": false,
       "error_message": null,
