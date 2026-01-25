@@ -2,8 +2,8 @@
   "run_id": "20260125_190442",
   "company_slug": "elixia-liikuntakeskus",
   "created_at": "2026-01-25T19:04:42.646109",
-  "updated_at": "2026-01-25T19:04:42.646122",
-  "current_phase": "input",
+  "updated_at": "2026-01-25T19:04:45.086824",
+  "current_phase": "strategize",
   "user_input": {
     "company_name": "Elixia -liikuntakeskus",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -12,14 +12,242 @@
     "onepager_layout": "landscape",
     "use_cached_research": true
   },
-  "dossier": null,
-  "concept_briefs": [],
+  "dossier": {
+    "company_name": "Elixia liikuntakeskus",
+    "company_slug": "elixia-liikuntakeskus",
+    "generated_at": "2026-01-21T08:45:50.583280",
+    "brand_identity": {
+      "positioning": "Leading the digital transformation through sustainable innovation (Placeholder)",
+      "visual_markers": {
+        "primary_color": "#0052CC (Blue)",
+        "secondary_colors": [
+          "#FFFFFF",
+          "#F4F5F7"
+        ],
+        "style_keywords": [
+          "Minimalist",
+          "Corporate",
+          "Clean"
+        ],
+        "tone_keywords": [
+          "Professional",
+          "Trustworthy",
+          "Forward-thinking"
+        ]
+      },
+      "voice_characteristics": [
+        "Authoritative",
+        "Educational",
+        "Optimistic"
+      ]
+    },
+    "strategic_priorities": [
+      {
+        "rank": 1,
+        "priority": "Expand market share in EMEA region",
+        "evidence": [
+          "Recent opening of Berlin office",
+          "Hiring spree in sales department"
+        ],
+        "execution_assessment": "moderate"
+      }
+    ],
+    "marketing_posture": {
+      "current_content_types": [
+        "Blog posts",
+        "Whitepapers",
+        "Webinars"
+      ],
+      "channel_presence": {
+        "youtube": {
+          "active": true,
+          "assessment": "Low frequency, high production value"
+        },
+        "tiktok": {
+          "active": false,
+          "assessment": "No presence detected"
+        },
+        "instagram": {
+          "active": true,
+          "assessment": "Used primarily for employer branding"
+        },
+        "linkedin": {
+          "active": true,
+          "assessment": "Primary channel, high engagement"
+        }
+      },
+      "apparent_gaps": [
+        "Short-form video content",
+        "User-generated content campaigns"
+      ],
+      "audience_engagement": "High on professional networks, low on consumer platforms"
+    },
+    "competitive_analysis": {
+      "key_competitors": [
+        {
+          "name": "Competitor A",
+          "content_strategy": "Aggressive social media marketing",
+          "threat_level": "high"
+        },
+        {
+          "name": "Competitor B",
+          "content_strategy": "Thought leadership and events",
+          "threat_level": "medium"
+        }
+      ],
+      "brand_winning_areas": [
+        "Technical reliability",
+        "Customer support"
+      ],
+      "brand_losing_areas": [
+        "Price competitiveness",
+        "Speed of innovation"
+      ]
+    },
+    "strategic_tensions": [
+      {
+        "id": "tension_01",
+        "description": "Enterprise Focus vs. SMB Accessibility",
+        "evidence": [
+          "Pricing structure excludes smaller players",
+          "Marketing language is highly technical"
+        ],
+        "opportunity_type": "underserved_audience",
+        "priority_score": 4
+      },
+      {
+        "id": "tension_02",
+        "description": "Legacy Reliability vs. AI Innovation",
+        "evidence": [
+          "Product roadmap emphasizes stability over new AI features",
+          "Competitors are marketing 'AI-first' solutions"
+        ],
+        "opportunity_type": "threat",
+        "priority_score": 5
+      },
+      {
+        "id": "tension_03",
+        "description": "Direct Sales vs. Partner Ecosystem",
+        "evidence": [
+          "Conflict between internal sales team and channel partners",
+          "Inconsistent messaging across channels"
+        ],
+        "opportunity_type": "gap",
+        "priority_score": 3
+      }
+    ],
+    "opportunity_zones": [
+      {
+        "id": "opp_01",
+        "description": "Launch a self-service tier for SMBs",
+        "rationale": "Capture the growing mid-market segment that finds enterprise solutions too complex.",
+        "risk_level": "medium"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Q3 Financial Report",
+        "url": "https://example.com/investors/q3-report",
+        "type": "report",
+        "date_accessed": "2023-10-15",
+        "relevance": "high"
+      },
+      {
+        "title": "CEO Interview on TechDaily",
+        "url": "https://techdaily.example.com/interview",
+        "type": "interview",
+        "date_accessed": "2023-09-20",
+        "relevance": "medium"
+      },
+      {
+        "title": "Official LinkedIn Page",
+        "url": "https://linkedin.com/company/placeholder",
+        "type": "social",
+        "date_accessed": "2023-10-27",
+        "relevance": "high"
+      },
+      {
+        "title": "Competitor Analysis Blog",
+        "url": "https://industry-watch.example.com/analysis",
+        "type": "news",
+        "date_accessed": "2023-10-25",
+        "relevance": "medium"
+      },
+      {
+        "title": "Product Launch Video",
+        "url": "https://youtube.com/watch?v=example",
+        "type": "video",
+        "date_accessed": "2023-08-10",
+        "relevance": "low"
+      }
+    ]
+  },
+  "concept_briefs": [
+    {
+      "slot_id": "01",
+      "slot_type": "safe_bet",
+      "assigned_tension_id": "tension_02",
+      "strategic_focus": "Legacy Reliability vs. AI Innovation",
+      "platform_focus": "youtube",
+      "format_guidance": "Focus on proven YouTube formats: documentary-style, interview series, or educational content. Episodes should be 8-15 minutes. Prioritize professional production quality and clear brand alignment. The series should have obvious rewatch and share value.",
+      "risk_profile": "low",
+      "success_hypothesis": "This concept directly addresses Elixia liikuntakeskus's top strategic priority (threat) with a proven format that minimizes execution risk while delivering measurable brand value."
+    },
+    {
+      "slot_id": "02",
+      "slot_type": "challenger",
+      "assigned_tension_id": "tension_03",
+      "strategic_focus": "Direct Sales vs. Partner Ecosystem",
+      "platform_focus": "tiktok",
+      "format_guidance": "Design for TikTok/Reels first: vertical format, 30-90 seconds, hook in first 3 seconds. Embrace platform-native aesthetics and trends. Consider creator collaborations. Content should feel bold and contemporary, not like traditional brand advertising.",
+      "risk_profile": "medium",
+      "success_hypothesis": "This concept enables Elixia liikuntakeskus to aggressively address their gap with bold positioning that differentiates them in the market and captures attention on high-engagement platforms."
+    },
+    {
+      "slot_id": "03",
+      "slot_type": "moonshot",
+      "assigned_tension_id": "tension_01",
+      "strategic_focus": "Enterprise Focus vs. SMB Accessibility",
+      "platform_focus": "cross_platform",
+      "format_guidance": "Think beyond single-platform content: interactive experiences, live events with digital extensions, user participation mechanics, or innovative cross-platform storytelling. This should feel like something the industry hasn't seen before. High production ambition is acceptable given the differentiation potential.",
+      "risk_profile": "high",
+      "success_hypothesis": "This concept unlocks an untapped opportunity for Elixia liikuntakeskus by addressing their underserved audience in a way that creates cultural relevance and positions the brand as an innovator in their space."
+    }
+  ],
   "concepts": [],
   "treatment_files": [],
   "onepager_specs": [],
   "onepagers_skipped": false,
   "onepagers_error": null,
   "pitch_email": "",
-  "phase_history": [],
-  "archive_ref": null
+  "phase_history": [
+    {
+      "phase": "validate",
+      "started_at": "2026-01-25T19:04:44.142792",
+      "completed_at": "2026-01-25T19:04:44.147497",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "check_archive",
+      "started_at": "2026-01-25T19:04:44.158688",
+      "completed_at": "2026-01-25T19:04:45.075457",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "strategize",
+      "started_at": "2026-01-25T19:04:45.080972",
+      "completed_at": null,
+      "success": false,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    }
+  ],
+  "archive_ref": "deliveries:elixia-liikuntakeskus/20260121_084059"
 }
