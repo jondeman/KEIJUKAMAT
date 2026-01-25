@@ -2,8 +2,8 @@
   "run_id": "20260125_190442",
   "company_slug": "elixia-liikuntakeskus",
   "created_at": "2026-01-25T19:04:42.646109",
-  "updated_at": "2026-01-25T19:04:45.086824",
-  "current_phase": "strategize",
+  "updated_at": "2026-01-25T19:12:55.669118",
+  "current_phase": "create",
   "user_input": {
     "company_name": "Elixia -liikuntakeskus",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -214,8 +214,340 @@
       "success_hypothesis": "This concept unlocks an untapped opportunity for Elixia liikuntakeskus by addressing their underserved audience in a way that creates cultural relevance and positions the brand as an innovator in their space."
     }
   ],
-  "concepts": [],
-  "treatment_files": [],
+  "concepts": [
+    {
+      "id": "concept_01",
+      "title": "Ensimm\u00e4inen Kerta",
+      "hook": "Dokumenttisarja, joka n\u00e4ytt\u00e4\u00e4 rehellisesti sen, mit\u00e4 kukaan ei n\u00e4e: aikuisten ensimm\u00e4isen kerran salilla \u2013 pelot, k\u00f6mpelyydet ja pienet voitot.",
+      "premise": "Joka jaksossa seuraamme yht\u00e4 tavallista suomalaista, joka astuu ensimm\u00e4ist\u00e4 kertaa kuntosalille aikuisi\u00e4ll\u00e4. Ei transformaatioita, ei ennen-j\u00e4lkeen-kuvia \u2013 vaan aito, inhimillinen matka siit\u00e4 hetkest\u00e4 kun ovi avautuu. PT:t toimivat oppaina, mutta p\u00e4\u00e4osassa on aloittelijan kokemus: h\u00e4pe\u00e4, oivallukset ja se hetki kun laite alkaa tuntua omalta.",
+      "long_form_extension": "Ruutu+ tai Nelonen: 6x30min dokumenttisarja 'Ensimm\u00e4inen Vuosi', jossa palataan samojen henkil\u00f6iden luokse 12 kuukauden j\u00e4lkeen \u2013 mit\u00e4 tapahtui, kun kamerat sammuivat?",
+      "format": {
+        "series_type": "limited",
+        "episode_length": "10-14 minuuttia",
+        "cadence": "Viikoittain",
+        "season_length": "8 jaksoa"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "YouTube",
+          "rationale": "YouTube on dokumentaarisen sis\u00e4ll\u00f6n koti, jossa katsojat ovat valmiita sitoutumaan pidempiin tarinoihin. Hakuoptimoidut jaksot ('ensimm\u00e4inen kerta kuntosalilla') tuovat orgaanista liikennett\u00e4 vuosiksi.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "TikTok",
+            "rationale": "",
+            "adaptation": "60-90 sekunnin 'Pelottavin hetki' -klipit: p\u00e4\u00e4henkil\u00f6 kertoo kameralle ennen salia, mit\u00e4 pelk\u00e4\u00e4 \u2013 ja sitten leikkaus siihen, miten se meni oikeasti."
+          },
+          {
+            "platform": "Instagram",
+            "rationale": "",
+            "adaptation": "Carousel-postaukset '5 asiaa, jotka opin ensimm\u00e4isell\u00e4 kerralla' \u2013 p\u00e4\u00e4henkil\u00f6iden omin sanoin, helposti jaettavassa muodossa."
+          }
+        ],
+        "amplification": "Jokainen p\u00e4\u00e4henkil\u00f6 jakaa omaa jaksoaan omissa kanavissaan. Elixian PT:t aktivoidaan jakamaan ohjaajina. Paikallismedian kiinnostus 'tavallisten ihmisten tarinoihin'."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Avaus: p\u00e4\u00e4henkil\u00f6 kertoo kotona/autossa, miksi t\u00e4m\u00e4 on niin vaikeaa",
+          "Ensimm\u00e4inen askel: saapuminen Elixian ovelle, vastaanotto",
+          "PT-tapaaminen: tavoitteiden l\u00e4pik\u00e4ynti ilman tuomitsemista",
+          "Ensimm\u00e4inen treeni: k\u00f6mpelyydet, oivallukset, pienet voitot",
+          "Lopetus: p\u00e4\u00e4henkil\u00f6n oma reflektio \u2013 tulenko takaisin?"
+        ],
+        "variable_elements": [
+          "P\u00e4\u00e4henkil\u00f6n tausta ja este (kiire-\u00e4iti, toimistoty\u00f6l\u00e4inen selk\u00e4kivuilla, el\u00e4keik\u00e4\u00e4 l\u00e4hestyv\u00e4)",
+          "Sali vaihtuu eri Elixia-keskusten v\u00e4lill\u00e4",
+          "PT:n persoona ja erikoisosaaminen"
+        ],
+        "host_approach": "Ei erillist\u00e4 juontajaa. Dokumentaarinen 'seuraa mukana' -tyyli. PT:t toimivat luonnollisina oppaina, eiv\u00e4t esiintyjin\u00e4."
+      },
+      "brand_integration": {
+        "philosophy": "Elixia on turvallinen paikka aloittaa. Br\u00e4ndi n\u00e4kyy ymp\u00e4rist\u00f6n\u00e4 ja henkil\u00f6kunnan l\u00e4mpim\u00e4n\u00e4 ammattitaitona, ei logojen pommituksena.",
+        "integration_method": "Salin tilat, laitteet ja henkil\u00f6kunta ovat luonnollisesti l\u00e4sn\u00e4. PT:iden asiantuntemus korostuu heid\u00e4n tavassaan kohdata aloittelijat.",
+        "screen_time_balance": "85% sis\u00e4lt\u00f6 (p\u00e4\u00e4henkil\u00f6n tarina), 15% br\u00e4ndi (tila, PT, palvelut n\u00e4kyv\u00e4t orgaanisesti)",
+        "cta_approach": "Jakson lopussa teksti: 'Elixia \u2013 ensimm\u00e4inen kerta on vaikein. Varaa ilmainen PT-tapaaminen.' Ei aggressiivista myynti\u00e4."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Marko, 47, 'En ole k\u00e4ynyt salilla 20 vuoteen'",
+          "description": "IT-p\u00e4\u00e4llikk\u00f6, jonka selk\u00e4 on jumissa ja l\u00e4\u00e4k\u00e4ri suositteli liikuntaa \u2013 mutta sali tuntuu nuorten paikalta."
+        },
+        {
+          "number": 2,
+          "title": "Sanna, 34, 'Pelk\u00e4\u00e4n, ett\u00e4 kaikki tuijottavat'",
+          "description": "Kolmen lapsen \u00e4iti, joka ei ole liikkunut synnytysten j\u00e4lkeen ja kamppailee kehonkuvan kanssa."
+        },
+        {
+          "number": 3,
+          "title": "Juhani, 62, 'El\u00e4kkeelle j\u00e4\u00e4nti yll\u00e4tti'",
+          "description": "Entinen rakennusmies, jonka keho tottui fyysiseen ty\u00f6h\u00f6n \u2013 nyt pit\u00e4isi liikkua vapaaehtoisesti."
+        },
+        {
+          "number": 4,
+          "title": "Nadia, 28, 'CrossFit-ihmiset pelottavat'",
+          "description": "Nuori asiantuntija, joka on kokeillut kaikkea mutta luovuttanut aina kun vertaa itse\u00e4\u00e4n muihin."
+        },
+        {
+          "number": 5,
+          "title": "Petri ja Minna, 'Parisuhteen pelastusoperaatio'",
+          "description": "Pariskunta, joka haluaa yhteisen harrastuksen mutta pelk\u00e4\u00e4, ettei toinen jaksa motivoida."
+        },
+        {
+          "number": 6,
+          "title": "Aino, 19, 'Lukion j\u00e4lkeen kaikki muuttui'",
+          "description": "Opiskelija, jolle liikunta oli pakollinen koulussa \u2013 nyt pit\u00e4isi l\u00f6yt\u00e4\u00e4 oma syy liikkua."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee suoraan j\u00e4nnitteen 'Kaikille sopiva vs. Suorittajien temppeli'. N\u00e4ytt\u00e4\u00e4, ett\u00e4 Elixia on turvallinen paikka aloittelijoille, ei vain fitnessharrastajille.",
+        "competitive_differentiation": "Halpaketjut eiv\u00e4t tarjoa PT-tukea, boutique-studiot ovat pelottavia. Elixia voi omistaa 'ensimm\u00e4isen kerran' -momentin premium-palvelulla, joka tekee aloittamisesta helppoa.",
+        "audience_value_proposition": "Jokainen on joskus ollut aloittelija jossain. Samaistuttavat tarinat tuottavat tunnereaktioita ja jaettavuutta. Katsoja ajattelee: 'Min\u00e4kin voisin yritt\u00e4\u00e4.'"
+      },
+      "execution": {
+        "complexity": "low",
+        "budget_tier": "mid",
+        "timeline_to_first_episode": "6-8 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "P\u00e4\u00e4henkil\u00f6iden l\u00f6yt\u00e4minen: ihmiset eiv\u00e4t v\u00e4ltt\u00e4m\u00e4tt\u00e4 halua esiinty\u00e4 haavoittuvassa tilanteessa.",
+          "mitigation": "Casting tehd\u00e4\u00e4n Elixian nykyisten j\u00e4senten ja uusien kokeilujaksolaisten kautta. Tarjotaan PT-paketti korvauksena. Korostetaan, ett\u00e4 tarina on inspiroiva, ei nolaaminen."
+        },
+        {
+          "risk": "Liian 'slow TV' \u2013 ei tarpeeksi draamaa YouTubeen.",
+          "mitigation": "Editoinnilla korostetaan mikromomentit: hermostuminen, oivallus, helpotus. TikTok-klipit testataan ensin, mik\u00e4 resonoi."
+        }
+      ]
+    },
+    {
+      "id": "concept_02",
+      "title": "Sali vs. Sohva",
+      "hook": "Kilpailullinen realitysarja, jossa julkkisparit haastavat toisensa: toinen treenaa Elixialla, toinen 'treenaa' kotona YouTuben avulla \u2013 kumpi voittaa?",
+      "premise": "Nelj\u00e4 tunnettua julkkisparia (koomikot, artistit, somet\u00e4hdet) osallistuvat 6 viikon haasteeseen. Pareista toinen saa Elixian PT:n ja t\u00e4yden palvelupaketin, toinen vain puhelimen ja ilmaiset treenivideot netist\u00e4. Voittaja ratkaistaan monipuolisilla testeill\u00e4: voima, kest\u00e4vyys, jaksaminen arjessa ja \u2013 yll\u00e4tyksen\u00e4 \u2013 miten he nukkuvat ja voivat henkisesti.",
+      "long_form_extension": "MTV3/Nelonen: 6x45min viihdekilpailu 'Sali vs. Sohva' prime time -slotissa. Formaatti on lisensoitavissa kansainv\u00e4lisesti (SATS-konserni, muut maat).",
+      "format": {
+        "series_type": "seasonal",
+        "episode_length": "12-18 minuuttia",
+        "cadence": "Kahdesti viikossa",
+        "season_length": "8 jaksoa + finaali"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "TikTok",
+          "rationale": "Kilpailullinen, humoristinen sis\u00e4lt\u00f6 levi\u00e4\u00e4 TikTokissa orgaanisesti. Julkkisten osallistuminen tuo valmiin yleis\u00f6n. 'Kumpi voittaa' -formaatti on alustalle natiivi.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "YouTube",
+            "rationale": "",
+            "adaptation": "Pidemm\u00e4t 'viikko X yhteenveto' -jaksot (12-18 min), jotka n\u00e4ytt\u00e4v\u00e4t treenit, haasteet ja parien v\u00e4liset keskustelut."
+          },
+          {
+            "platform": "Instagram",
+            "rationale": "",
+            "adaptation": "Reels-kilpailut: 'Arvaa kumpi voittaa t\u00e4m\u00e4n haasteen' -\u00e4\u00e4nestykset. Stories behind-the-scenes PT-sessioista."
+          }
+        ],
+        "amplification": "Julkkisten omat kanavat (yhteens\u00e4 500k+ seuraajaa), Elixian kanavat, median kiinnostus 'julkkis-treenihaaste' -kulmalla. Mahdollinen Iltalehtisponsorointi tuloksista."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Viikon haaste esittely: mit\u00e4 testataan (penkkipunnerrus, portaita 10 kerrokseen, stressitesti)",
+          "Sali-osapuolen PT-sessio: ammattivalmennus, tekniikka, motivointi",
+          "Sohva-osapuolen kotiharjoittelu: hauskasti ep\u00e4onnistuvia YouTube-treenej\u00e4",
+          "Haasteen ratkaisu: konkreettinen mittaus ja voittajan julistus",
+          "Parien reaktiot ja l\u00e4p\u00e4n heitto"
+        ],
+        "variable_elements": [
+          "Julkkispari vaihtuu joka toinen jakso (4 paria, 2 jaksoa per pari)",
+          "Haasteen luonne: fyysinen, henkinen, k\u00e4yt\u00e4nn\u00f6n arki",
+          "Yll\u00e4tyshaasteet: esim. 'Treenaajan pit\u00e4\u00e4 opettaa taitonsa toiselle'"
+        ],
+        "host_approach": "Tunnettu koomikko juontaa (esim. Aku Hirviniemi, Jenni Kokander). Juontaja vierailee molempien luona, kommentoi ja provosoi kevyesti."
+      },
+      "brand_integration": {
+        "philosophy": "Elixia voittaa todistamalla arvonsa. Ei kerrota, ett\u00e4 PT on hyv\u00e4 \u2013 n\u00e4ytet\u00e4\u00e4n konkreettinen ero tuloksissa ja fiiliksess\u00e4.",
+        "integration_method": "Sali-osapuoli treenaa aina Elixia-keskuksissa. PT:t ovat aitoja Elixian valmentajia, jotka saavat kasvoaikaa. Mentra-sovellus n\u00e4kyy treenisuunnittelussa.",
+        "screen_time_balance": "70% sis\u00e4lt\u00f6 (kilpailu, hauskuus, draama), 30% br\u00e4ndi (Elixia tilana ja palveluna, PT-osaaminen)",
+        "cta_approach": "Jakson lopussa: 'Haluatko tiet\u00e4\u00e4, mit\u00e4 PT oikeasti tekee? Varaa ilmainen kartoitus.' Finaalissa isompi kampanjakoodi."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Aloitus: Roope & Venla l\u00e4ht\u00f6viivalla",
+          "description": "Koomikkopari mittautetaan, ja erot alkavat: toinen tapaa PT:n, toinen googlailee 'paras kotitreeni'."
+        },
+        {
+          "number": 2,
+          "title": "Ensimm\u00e4inen haaste: Kuka jaksaa kantaa kauppakassit 5. kerrokseen?",
+          "description": "Arkinen mutta paljastava testi \u2013 ja yll\u00e4tt\u00e4v\u00e4t reaktiot, kun sohvatreenari huomaa olevansa heng\u00e4stynyt."
+        },
+        {
+          "number": 3,
+          "title": "Artistipari: Sara & Mikko treenaavat keikkakuntoa",
+          "description": "Muusikkopari valmistautuu 90 minuutin keikkaan \u2013 kumman hengitys kest\u00e4\u00e4?"
+        },
+        {
+          "number": 4,
+          "title": "Stressiviikko: Uni ja palautuminen",
+          "description": "Mitataan, kumpi nukkuu paremmin ja palautuu nopeammin \u2013 PT:n kokonaisvaltainen ote vs. satunnainen kotijumppa."
+        },
+        {
+          "number": 5,
+          "title": "Somettajapari: Inflat kokeilevat toistensa metodeja",
+          "description": "Plot twist -jakso: osapuolet vaihtavat rooleja viikoksi. Mit\u00e4 sohvatreenari oppii salilla?"
+        },
+        {
+          "number": 6,
+          "title": "Finaali: Suuri loppumittaus ja tuomariston arvio",
+          "description": "Kaikki nelj\u00e4 paria paljastavat tuloksensa. Voittajapari saa Elixian vuosij\u00e4senyyden \u2013 ja h\u00e4vi\u00e4j\u00e4 lupaa aloittaa oikeasti."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee j\u00e4nnitteen 'Digitaalinen vs. Fyysinen'. Osoittaa konkreettisesti, miksi Elixian PT + sali voittaa pelk\u00e4n digisis\u00e4ll\u00f6n. Tukee PT-myynnin kasvattamista.",
+        "competitive_differentiation": "Kilpailijat eiv\u00e4t voi kopioida: halpaketjuilla ei ole PT:it\u00e4, boutique-studiot ovat liian niche. Elixia omistaa 't\u00e4ysi palvelu vs. tee-se-itse' -keskustelun.",
+        "audience_value_proposition": "Viihteellinen, humoristinen ja samaistuttava. Julkkisten kamppailu on viihdett\u00e4, mutta viesti on selke\u00e4: oikea valmennus toimii."
+      },
+      "execution": {
+        "complexity": "medium",
+        "budget_tier": "mid",
+        "timeline_to_first_episode": "10-12 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Julkkisten sitoutuminen 6 viikon kuvauksiin voi olla haastavaa aikataulujen takia.",
+          "mitigation": "Kuvataan modulaarisesti: jokaisen parin osuus kuvataan tiiviiss\u00e4 2 viikon jaksossa. Valitaan julkkikset, joilla on motivaatio (esim. oma kiinnostus terveyteen)."
+        },
+        {
+          "risk": "Tulokset eiv\u00e4t ole tarpeeksi dramaattisia \u2013 sali ei 'voita' selke\u00e4sti.",
+          "mitigation": "Mittarit valitaan niin, ett\u00e4 kokonaisvaltainen hyvinvointi (uni, stressi, jaksaminen) n\u00e4kyy, ei vain lihaskasvu. PT:n rooli on laajempi kuin pelkk\u00e4 treeni."
+        }
+      ]
+    },
+    {
+      "id": "concept_03",
+      "title": "Suomen Vahvin Ty\u00f6paikka",
+      "hook": "Valtakunnallinen ty\u00f6paikkakilpailu, jossa yritystiimit kisaavat Suomen vahvimman ty\u00f6paikan tittelist\u00e4 \u2013 ja koko Suomi seuraa, kannustaa ja treenaa mukana.",
+      "premise": "10 suomalaista yrityst\u00e4 l\u00e4hett\u00e4\u00e4 5 hengen tiimin 8 viikon valmennusohjelmaan Elixian saleilla ymp\u00e4ri Suomea. Viikottaiset haasteet testaavat tiimity\u00f6t\u00e4, yksil\u00f6suorituksia ja yhteishenke\u00e4. Yleis\u00f6 voi \u00e4\u00e4nest\u00e4\u00e4 suosikkejaan ja osallistua samoihin haasteisiin omilla ty\u00f6paikoillaan. Finaali j\u00e4rjestet\u00e4\u00e4n liven\u00e4 Akun Tehtaalla, ja voittajatiimi saa 'Suomen Vahvin Ty\u00f6paikka 2026' -tittelin.",
+      "long_form_extension": "Nelonen/MTV3 prime time: 8x60min realitykilpailu 'Suomen Vahvin Ty\u00f6paikka'. Formaatti on lisensoitavissa SATS-konsernin muihin maihin (Norja, Ruotsi, Tanska). B2B-myyntipotentiaali: yritykset ostavat osallistumispaikkoja.",
+      "format": {
+        "series_type": "seasonal",
+        "episode_length": "15-22 minuuttia",
+        "cadence": "Viikoittain (YouTube) + p\u00e4ivitt\u00e4iset some-p\u00e4ivitykset",
+        "season_length": "8 jaksoa + live-finaali"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "cross_platform",
+          "rationale": "T\u00e4m\u00e4 on 360-kampanja: YouTube pitk\u00e4t jaksot, TikTok/Reels p\u00e4ivitt\u00e4iset haasteet, Instagram yhteis\u00f6n rakentaminen, LinkedIn B2B-kulma, live-finaali Akun Tehtaalla. Mik\u00e4\u00e4n yksitt\u00e4inen alusta ei riit\u00e4 t\u00e4m\u00e4n kokoluokan konseptille.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "TikTok",
+            "rationale": "",
+            "adaptation": "'P\u00e4iv\u00e4n haaste' -videot: 60 sekunnin ty\u00f6paikkahaasteet, jotka kuka tahansa voi tehd\u00e4 (esim. 'Kuinka monta kyykky\u00e4 tiimisi tekee lounastauolla?'). Hashtag #SuomenVahvin."
+          },
+          {
+            "platform": "LinkedIn",
+            "rationale": "",
+            "adaptation": "Viralisis\u00e4lt\u00f6 HR-p\u00e4\u00e4tt\u00e4jille: 'Miksi ty\u00f6paikkaliikunta nostaa tuottavuutta' + tiimien tarinat. B2B-myyntifunneli Elixian yrityspalveluihin."
+          },
+          {
+            "platform": "Live",
+            "rationale": "",
+            "adaptation": "Finaali Akun Tehtaalla: 500 hengen live-yleis\u00f6, livestriimaus YouTubeen. Sponsoroidut yritysloosit, VIP-kokemukset."
+          }
+        ],
+        "amplification": "Osallistuvat yritykset markkinoivat omissa kanavissaan (10 yrityst\u00e4 = valtava orgaaninen reach). Median kiinnostus 'ty\u00f6paikkahyvinvointi' -kulmalla. Mahdollinen kumppanuus Duunitorin tai Oikotien kanssa."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Viikon haaste-esittely: mit\u00e4 tiimit kohtaavat (yhteisty\u00f6haaste, yksil\u00f6suoritus, yll\u00e4tystesti)",
+          "Tiimien valmistautuminen: PT-sessiot, strategiapalaverit, sis\u00e4iset j\u00e4nnitteet",
+          "Haasteen toteutus: kilpailu ja mittaus",
+          "Pudotus tai pisteet: joka viikko heikoin tiimi putoaa tai pisteet kumuloituvat",
+          "Yleis\u00f6n osallistuminen: viikon some-haaste, jossa katsojat voivat vaikuttaa"
+        ],
+        "variable_elements": [
+          "Tiimien toimialat ja persoonallisuudet (IT-firma vs. rakennusyhti\u00f6 vs. startup)",
+          "Haasteen luonne: fyysinen, taktinen, yll\u00e4tyselementti",
+          "Vierastuomarit: urheilijat, yritysjohtajat, hyvinvointiasiantuntijat"
+        ],
+        "host_approach": "Tunnettu urheilujuontaja (esim. Riku Riski, Eva Wahlstr\u00f6m) + Elixian p\u00e4\u00e4valmentaja. Juontaja tuo energiaa, valmentaja uskottavuutta."
+      },
+      "brand_integration": {
+        "philosophy": "Elixia ei ole sponsori \u2013 Elixia on mahdollistaja. Br\u00e4ndi on syy, miksi t\u00e4m\u00e4 kilpailu on mahdollinen: salit, PT:t, ohjelmat, yhteis\u00f6.",
+        "integration_method": "Kaikki treenit tapahtuvat Elixia-keskuksissa ymp\u00e4ri Suomea. Jokaisen tiimin PT on Elixian valmentaja. Mentra-sovellus n\u00e4kyy treenisuunnittelussa. Finaali Akun Tehtaalla (WBITVP-yhteys).",
+        "screen_time_balance": "65% sis\u00e4lt\u00f6 (kilpailu, tiimien tarinat, draama), 35% br\u00e4ndi (Elixia tilana, PT:t, yrityspalvelut)",
+        "cta_approach": "B2B: 'Haluaako teid\u00e4n yrityksenne mukaan ensi kaudelle? Ota yhteytt\u00e4 Elixian yrityspalveluihin.' B2C: 'Treenaa kuin vahvimmat \u2013 liity Elixiaan.'"
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "L\u00e4ht\u00f6laukaus: 10 tiimi\u00e4, 1 tavoite",
+          "description": "Tiimit esitell\u00e4\u00e4n, alkumittaukset tehd\u00e4\u00e4n ja ensimm\u00e4inen haaste paljastetaan: tiimisoutu \u2013 kuka synkronoi parhaiten?"
+        },
+        {
+          "number": 2,
+          "title": "Johtajuushaaste: Kuka vie tiimin eteenp\u00e4in?",
+          "description": "Tiimien pit\u00e4\u00e4 valita kapteeni lennosta. Haaste testaa, miten nopeasti ryhm\u00e4 organisoituu paineen alla."
+        },
+        {
+          "number": 3,
+          "title": "Kest\u00e4vyysp\u00e4iv\u00e4: 12 tunnin ty\u00f6p\u00e4iv\u00e4simulaatio",
+          "description": "Haaste, joka testaa jaksamista pitk\u00e4ss\u00e4 juoksussa \u2013 fyysisesti ja henkisesti. Kuka romahtaa?"
+        },
+        {
+          "number": 4,
+          "title": "Yll\u00e4tysvieras: Olympiaurheilija haastaa tiimit",
+          "description": "Tunnettu suomalaisurheilija (esim. Krista P\u00e4rm\u00e4koski) tuo oman haasteensa ja arvioi suoritukset."
+        },
+        {
+          "number": 5,
+          "title": "Palautumisp\u00e4iv\u00e4: Uni, stressi ja recovery",
+          "description": "Plot twist: voittaja on tiimi, joka osaa lev\u00e4t\u00e4 parhaiten. Mitataan unidataa ja stressitasoja."
+        },
+        {
+          "number": 6,
+          "title": "Finaali Akun Tehtaalla: Suomen Vahvin Ty\u00f6paikka kruunataan",
+          "description": "Live-tapahtuma, jossa 4 finalistia kohtaavat viimeisess\u00e4 superhaastessa. Yleis\u00f6 paikalla, Suomi katsoo."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Avaa kokonaan uuden B2B-segmentin: yritysasiakkaat, jotka ostavat Elixian palveluita ty\u00f6ntekij\u00f6illeen. Tukee yield-strategiaa laajentamalla asiakaskuntaa yksil\u00f6ist\u00e4 organisaatioihin.",
+        "competitive_differentiation": "Kukaan kilpailija ei voi toteuttaa t\u00e4t\u00e4: tarvitaan valtakunnallinen saliverkosto (Elixia), tuotanto-osaaminen (WBITVP), live-kapasiteetti (Akun Tehdas) ja B2B-myyntiorganisaatio.",
+        "audience_value_proposition": "Realitykilpailu, jossa on helppo kannattaa omaa suosikkia. Ty\u00f6paikkakonteksti tekee siit\u00e4 samaistuttavan: 'Meid\u00e4n firman pit\u00e4isi olla mukana!' Osallistava some-kulma sitouttaa."
+      },
+      "execution": {
+        "complexity": "high",
+        "budget_tier": "premium",
+        "timeline_to_first_episode": "16-20 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Yritysten rekrytointi kilpailuun: HR-p\u00e4\u00e4tt\u00e4j\u00e4t voivat pel\u00e4t\u00e4 negatiivista julkisuutta, jos tiimi h\u00e4vi\u00e4\u00e4.",
+          "mitigation": "Positiivinen kehystys: kaikki osallistujat ovat 'voittajia', jotka panostavat ty\u00f6hyvinvointiin. Ei n\u00f6yryytyst\u00e4, vain reilua kilpailua. Tarjotaan osallistuville yrityksille markkinointimateriaalia."
+        },
+        {
+          "risk": "Budjetin hallinta: live-finaali ja 10 tiimin seuraaminen 8 viikkoa on iso operaatio.",
+          "mitigation": "Modulaarinen tuotanto: tiimien valmistautuminen kuvataan kevyell\u00e4 otteella (oma materiaali + 1 kuvausp\u00e4iv\u00e4/viikko). Haasteet keskitet\u00e4\u00e4n muutamaan isoon kuvausp\u00e4iv\u00e4\u00e4n. Sponsorimyynti finaalitapahtumaan kattaa osan kuluista."
+        },
+        {
+          "risk": "B2B-myyntisykli on pitk\u00e4: yritykset eiv\u00e4t osta Elixian palveluita heti ohjelman j\u00e4lkeen.",
+          "mitigation": "Rakennetaan 'Suomen Vahvin Ty\u00f6paikka' -br\u00e4ndi, joka el\u00e4\u00e4 ohjelman ulkopuolella: sertifikaatti, vuosittainen kilpailu, yhteis\u00f6. Elixia omistaa konseptin ja voi lisensoida sen."
+        }
+      ]
+    }
+  ],
+  "treatment_files": [
+    "/opt/render/project/src/runs/elixia_liikuntakeskus/TREATMENTS/elixia_liikuntakeskus_TREATMENT_01_20260125_191255.md",
+    "/opt/render/project/src/runs/elixia_liikuntakeskus/TREATMENTS/elixia_liikuntakeskus_TREATMENT_02_20260125_191255.md",
+    "/opt/render/project/src/runs/elixia_liikuntakeskus/TREATMENTS/elixia_liikuntakeskus_TREATMENT_03_20260125_191255.md"
+  ],
   "onepager_specs": [],
   "onepagers_skipped": false,
   "onepagers_error": null,
@@ -242,6 +574,15 @@
     {
       "phase": "strategize",
       "started_at": "2026-01-25T19:04:45.080972",
+      "completed_at": "2026-01-25T19:04:46.450303",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "create",
+      "started_at": "2026-01-25T19:04:46.457054",
       "completed_at": null,
       "success": false,
       "error_message": null,
