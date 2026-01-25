@@ -2,8 +2,8 @@
   "run_id": "20260125_195054",
   "company_slug": "synsam-optikko",
   "created_at": "2026-01-25T19:50:54.873011",
-  "updated_at": "2026-01-25T19:50:54.873025",
-  "current_phase": "input",
+  "updated_at": "2026-01-25T19:53:09.632106",
+  "current_phase": "research",
   "user_input": {
     "company_name": "Synsam Optikko",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -12,7 +12,230 @@
     "onepager_layout": "landscape",
     "use_cached_research": true
   },
-  "dossier": null,
+  "dossier": {
+    "company_name": "Synsam Optikko",
+    "company_slug": "synsam-optikko",
+    "generated_at": "2026-01-25T19:53:09.624492",
+    "brand_identity": {
+      "positioning": "Optiikka-alan muotitalo ('Optiikka-alan Zara/H&M palvelulla'). Br\u00e4ndilupaus 'N\u00e4e itsesi uudessa valossa' siirt\u00e4\u00e4 fokuksen l\u00e4\u00e4ketieteest\u00e4 identiteetin ilmaisuun.",
+      "visual_markers": {
+        "primary_color": "Moniv\u00e4rinen/Rohkea (Erottuva paletti)",
+        "secondary_colors": [
+          "Musta (Kehykset)",
+          "Kirkkaat aksenttiv\u00e4rit"
+        ],
+        "style_keywords": [
+          "Style Lab",
+          "Muoti",
+          "Trendik\u00e4s",
+          "Lifestyle"
+        ],
+        "tone_keywords": [
+          "Itsevarma",
+          "Inspiroiva",
+          "Kaupallinen",
+          "Dynaaminen"
+        ]
+      },
+      "voice_characteristics": [
+        "V\u00e4hemm\u00e4n kliininen, enemm\u00e4n lifestyle-sanastoa",
+        "Madaltaa kynnyst\u00e4",
+        "Hauska ja helposti l\u00e4hestytt\u00e4v\u00e4"
+      ]
+    },
+    "strategic_priorities": [
+      {
+        "rank": 1,
+        "priority": "Synsam Lifestyle\u2122 (Subscription Model)",
+        "evidence": [
+          "Markkinointibudjetin p\u00e4\u00e4paino 'Kaikki sis\u00e4ltyy' -viestiss\u00e4",
+          "Johdon painotus Recurring Revenue -kasvussa",
+          "Asiakaspolku ohjaa vahvasti sopimusmalliin"
+        ],
+        "execution_assessment": "strong"
+      },
+      {
+        "rank": 2,
+        "priority": "Vastuullisuus ja 'Made in Sweden'",
+        "evidence": [
+          "Ostersundin tehtaan avaaminen",
+          "Synsam Recycling Outlet -konsepti",
+          "Ocean-mallistot"
+        ],
+        "execution_assessment": "moderate"
+      },
+      {
+        "rank": 3,
+        "priority": "Fyysinen laajentuminen ja konseptimyynti",
+        "evidence": [
+          "Aggressiivinen uusien liikkeiden avaustahdi",
+          "Lippulaivamyym\u00e4l\u00f6iden visuaalinen uudistus (Style Lab)"
+        ],
+        "execution_assessment": "strong"
+      },
+      {
+        "rank": 4,
+        "priority": "Silm\u00e4terveyspalveluiden integrointi lifestyleen",
+        "evidence": [
+          "Eye Health -palvelut mainitaan sopimuksen turvaverkkona"
+        ],
+        "execution_assessment": "weak"
+      }
+    ],
+    "marketing_posture": {
+      "current_content_types": [
+        "Korkean frekvenssin taktinen mainonta (TVC, ulkomainonta)",
+        "Tuotel\u00e4ht\u00f6iset some-postaukset",
+        "Vaikuttajayhteisty\u00f6t"
+      ],
+      "channel_presence": {
+        "youtube": {
+          "active": false,
+          "assessment": "Passiivinen. Toimii TV-mainosten arkistona. Ei omaa sis\u00e4lt\u00f6strategiaa."
+        },
+        "tiktok": {
+          "active": true,
+          "assessment": "Aktiivinen, mutta pinnallinen. Keskittyy visuaalisuuteen ja tuote-esittelyyn."
+        },
+        "instagram": {
+          "active": true,
+          "assessment": "Aktiivinen. Keskittyy visuaalisuuteen ja tuote-esittelyyn."
+        },
+        "linkedin": {
+          "active": false,
+          "assessment": "Ei mainittu analyysiss\u00e4, oletettavasti keskittyy yritysviestint\u00e4\u00e4n."
+        }
+      },
+      "apparent_gaps": [
+        "Syv\u00e4llinen tarinankerronta puuttuu",
+        "Made in Sweden -tehtaan tarinaa ei hy\u00f6dynnet\u00e4 videosis\u00e4ll\u00f6iss\u00e4",
+        "Aito asiantuntijuus puuttuu sis\u00e4ll\u00f6ist\u00e4",
+        "Sis\u00e4lt\u00f6 on julistavaa eik\u00e4 todistavaa"
+      ],
+      "audience_engagement": "Massan\u00e4kyvyys korkea, mutta syv\u00e4 sitoutuminen matalaa. Yleis\u00f6 reagoi tarjouksiin, mutta yhteis\u00f6llisyys puuttuu."
+    },
+    "competitive_analysis": {
+      "key_competitors": [
+        {
+          "name": "Specsavers",
+          "content_strategy": "Kansanomainen huumori ja selke\u00e4 hintaviesti",
+          "threat_level": "high"
+        },
+        {
+          "name": "Silm\u00e4asema",
+          "content_strategy": "L\u00e4\u00e4ketieteellinen auktoriteetti ja silm\u00e4sairaala-mielikuva",
+          "threat_level": "high"
+        },
+        {
+          "name": "Instrumentarium",
+          "content_strategy": "Perinteinen premium, luotettavuus ja hillitty tyylikkyys",
+          "threat_level": "medium"
+        }
+      ],
+      "brand_winning_areas": [
+        "Muoti-imago ja trendikkyys",
+        "Ostamisen helppous ja joustavuus (Lifestyle-sopimus)",
+        "Myym\u00e4l\u00e4kokemuksen visuaalisuus"
+      ],
+      "brand_losing_areas": [
+        "L\u00e4\u00e4ketieteellinen syv\u00e4uskottavuus",
+        "Hinta-mielikuva",
+        "Aitous ja samaistuttavuus"
+      ]
+    },
+    "strategic_tensions": [
+      {
+        "id": "tension_01",
+        "description": "Kest\u00e4vyysparadoksi: Br\u00e4ndi markkinoi vastuullisuutta, mutta malli kannustaa jatkuvaan kulutukseen.",
+        "evidence": [
+          "Vahva Made in Sweden -viestint\u00e4",
+          "Lifestyle-sopimus kannustaa vaihtamaan lasit usein",
+          "Puuttuva visuaalinen todistusaineisto kierr\u00e4tyksest\u00e4"
+        ],
+        "opportunity_type": "gap",
+        "priority_score": 5
+      },
+      {
+        "id": "tension_02",
+        "description": "'Style Expert' vs. Myyntitykki: Lupaus tyylikonsultaatiosta vs. kokemus aggressiivisesta myynnist\u00e4.",
+        "evidence": [
+          "Markkinointi korostaa asiantuntijuutta",
+          "Liiketoimintamalli vaatii kovaa konversiota",
+          "Inhimillist\u00e4v\u00e4 asiantuntijasis\u00e4lt\u00f6 puuttuu"
+        ],
+        "opportunity_type": "threat",
+        "priority_score": 4
+      },
+      {
+        "id": "tension_03",
+        "description": "High Fashion vs. Suomalainen pragmaattisuus: Vogue-tason markkinointi vs. arjen kest\u00e4vyyden tarve.",
+        "evidence": [
+          "Kuvasto eritt\u00e4in muotipainotteista",
+          "Suomalainen massakuluttaja arvostaa toimivuutta",
+          "Tavallisen ihmisen tarinat puuttuvat"
+        ],
+        "opportunity_type": "underserved_audience",
+        "priority_score": 3
+      }
+    ],
+    "opportunity_zones": [
+      {
+        "id": "opp_01",
+        "description": "Radikaali l\u00e4pin\u00e4kyvyys (Made in Sweden -tarina)",
+        "rationale": "Ratkaisee tension_01:n siirtym\u00e4ll\u00e4 v\u00e4itteist\u00e4 todistamiseen (dokumentaarinen sis\u00e4lt\u00f6 tehtaalta). Erottaa kilpailijoista.",
+        "risk_level": "low"
+      },
+      {
+        "id": "opp_02",
+        "description": "Asiantuntijuuden inhimillist\u00e4minen",
+        "rationale": "Ratkaisee tension_02:n n\u00e4ytt\u00e4m\u00e4ll\u00e4 'behind the scenes' -sis\u00e4lt\u00f6\u00e4 ilman myyntipuhetta, rakentaen luottamusta.",
+        "risk_level": "medium"
+      },
+      {
+        "id": "opp_03",
+        "description": "Lifestyle-sopimuksen 'Peace of Mind' -emotionaalistaminen",
+        "rationale": "Ratkaisee tension_03:n siirt\u00e4m\u00e4ll\u00e4 viestinn\u00e4n hinnasta vapauden tunteeseen ja arjen kest\u00e4vyyteen.",
+        "risk_level": "low"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Synsam Group Annual Report 2023",
+        "url": "company_internal",
+        "type": "company_site",
+        "date_accessed": "2023-12-31",
+        "relevance": "Financial & Strategic Direction"
+      },
+      {
+        "title": "Synsam Group Press Releases",
+        "url": "company_newsroom",
+        "type": "news",
+        "date_accessed": "2023-12-31",
+        "relevance": "Operational Updates"
+      },
+      {
+        "title": "Markkinointihavainnot Synsam Suomi (Social)",
+        "url": "social_media_monitoring",
+        "type": "social",
+        "date_accessed": "2023-12-31",
+        "relevance": "Content Strategy Analysis"
+      },
+      {
+        "title": "Kilpailija-analyysi (Specsavers, Silm\u00e4asema, Instrumentarium)",
+        "url": "market_research",
+        "type": "report",
+        "date_accessed": "2023-12-31",
+        "relevance": "Competitive Landscape"
+      },
+      {
+        "title": "Synsam Verkkosivut & Ajanvaraus",
+        "url": "www.synsam.fi",
+        "type": "company_site",
+        "date_accessed": "2023-12-31",
+        "relevance": "UX & Conversion Path Analysis"
+      }
+    ]
+  },
   "concept_briefs": [],
   "concepts": [],
   "treatment_files": [],
@@ -20,6 +243,34 @@
   "onepagers_skipped": false,
   "onepagers_error": null,
   "pitch_email": "",
-  "phase_history": [],
+  "phase_history": [
+    {
+      "phase": "validate",
+      "started_at": "2026-01-25T19:50:57.001376",
+      "completed_at": "2026-01-25T19:50:57.124701",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "check_archive",
+      "started_at": "2026-01-25T19:50:57.233372",
+      "completed_at": "2026-01-25T19:50:57.588799",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "research",
+      "started_at": "2026-01-25T19:50:57.676175",
+      "completed_at": null,
+      "success": false,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    }
+  ],
   "archive_ref": null
 }
