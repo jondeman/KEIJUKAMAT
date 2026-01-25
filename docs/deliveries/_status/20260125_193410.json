@@ -2,8 +2,8 @@
   "run_id": "20260125_193410",
   "company_slug": "fitness24seven",
   "created_at": "2026-01-25T19:34:10.193611",
-  "updated_at": "2026-01-25T19:34:10.193627",
-  "current_phase": "input",
+  "updated_at": "2026-01-25T19:36:14.149451",
+  "current_phase": "research",
   "user_input": {
     "company_name": "Fitness24Seven",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -12,7 +12,214 @@
     "onepager_layout": "landscape",
     "use_cached_research": true
   },
-  "dossier": null,
+  "dossier": {
+    "company_name": "Fitness24Seven",
+    "company_slug": "fitness24seven",
+    "generated_at": "2026-01-25T19:36:14.142405",
+    "brand_identity": {
+      "positioning": "Markkinoiden demokraattisin toimija. 'Fitness on your terms' \u2013 liikuntaa ilman esteit\u00e4 (hinta, aika, sitoutuminen).",
+      "visual_markers": {
+        "primary_color": "Sininen ja oranssi",
+        "secondary_colors": [
+          "Harmaa",
+          "Valkoinen"
+        ],
+        "style_keywords": [
+          "Funktionaalinen",
+          "Teollinen",
+          "Riisuttu",
+          "Stock-kuvamainen"
+        ],
+        "tone_keywords": [
+          "Suora",
+          "Konstailematon",
+          "Rationaalinen",
+          "Hintavetoinen"
+        ]
+      },
+      "voice_characteristics": [
+        "The Everyman / The Realist",
+        "Puhuu diileist\u00e4 ja saavutettavuudesta",
+        "V\u00e4ltt\u00e4\u00e4 unelmia ja transformaatio-jargonia"
+      ]
+    },
+    "strategic_priorities": [
+      {
+        "rank": 1,
+        "priority": "Konseptin 'Premiumisointi' (2.0 -konsepti)",
+        "evidence": [
+          "Investoinnit 'Gym for Her' -osastoihin",
+          "Ryhm\u00e4liikunnan lis\u00e4\u00e4minen tarjoomaan",
+          "Yritys nostaa keskiostosta ja pitoa"
+        ],
+        "execution_assessment": "moderate"
+      },
+      {
+        "rank": 2,
+        "priority": "Volyymikasvu ja saavutettavuus",
+        "evidence": [
+          "Aggressiivinen uusien salien avaaminen Pohjoismaissa ja globaalisti",
+          "Strategia perustuu massaan ja matalaan katteeseen"
+        ],
+        "execution_assessment": "strong"
+      },
+      {
+        "rank": 3,
+        "priority": "Kest\u00e4v\u00e4 kehitys (CSR)",
+        "evidence": [
+          "Viestint\u00e4 veden s\u00e4\u00e4st\u00f6st\u00e4",
+          "Hyv\u00e4ntekev\u00e4isyysprojektit (esim. Kolumbia)"
+        ],
+        "execution_assessment": "weak"
+      }
+    ],
+    "marketing_posture": {
+      "current_content_types": [
+        "Taktiset hintatarjoukset",
+        "Geneeriset treenivinkit",
+        "Kuroimattomat asiakasrepostaukset"
+      ],
+      "channel_presence": {
+        "youtube": {
+          "active": false,
+          "assessment": "Passiivinen/Kuollut. Toimii TV-mainosten arkistona, ei sarjamuotoista sis\u00e4lt\u00f6\u00e4."
+        },
+        "tiktok": {
+          "active": true,
+          "assessment": "Aktiivinen mutta heikko laatu. Sis\u00e4lt\u00f6 stock-kuvamaista tai liian kotikutoista ilman punaista lankaa."
+        },
+        "instagram": {
+          "active": true,
+          "assessment": "Aktiivinen mutta heikko laatu. Sis\u00e4lt\u00f6 stock-kuvamaista tai liian kotikutoista ilman punaista lankaa."
+        },
+        "linkedin": {
+          "active": false,
+          "assessment": "Ei mainittu analyysiss\u00e4, oletettavasti ei strategisessa fokuksessa kuluttajamarkkinoinnissa."
+        }
+      },
+      "apparent_gaps": [
+        "'Miksi'-sis\u00e4ll\u00f6n puute (ei tarinoita)",
+        "Yhteis\u00f6n puute (ei aitoja heimoja)",
+        "Valmennuksellinen tyhji\u00f6 (ei laiteopastusta)"
+      ],
+      "audience_engagement": "Matala. Seurataan asiakaspalvelun tai tarjousten vuoksi, ei inspiraation."
+    },
+    "competitive_analysis": {
+      "key_competitors": [
+        {
+          "name": "ELIXIA / SATS",
+          "content_strategy": "Lifestyle-br\u00e4nd\u00e4ys, status, laadukas sis\u00e4lt\u00f6, yhteis\u00f6t",
+          "threat_level": "high"
+        },
+        {
+          "name": "Liikku",
+          "content_strategy": "Raikas, helppo, inhimillinen ('Paras treeni on se joka toteutuu')",
+          "threat_level": "medium"
+        },
+        {
+          "name": "PTVGYM",
+          "content_strategy": "Tositreenaajien koti, hardcore-asenne",
+          "threat_level": "low"
+        }
+      ],
+      "brand_winning_areas": [
+        "Hinta (markkinoiden alhaisimpia)",
+        "Saavutettavuus (sijaintien m\u00e4\u00e4r\u00e4 ja 24/7 aukiolo)",
+        "Matala kynnys (ei sitoutumispakkoa)"
+      ],
+      "brand_losing_areas": [
+        "Br\u00e4ndisielu ja tunneside",
+        "Turvallisuuden tunne (miehitt\u00e4m\u00e4tt\u00f6myys)",
+        "Mielikuva laadusta"
+      ]
+    },
+    "strategic_tensions": [
+      {
+        "id": "tension_01",
+        "description": "'Aina auki' vs. 'Olet omillasi' \u2013 Br\u00e4ndi lupaa vapautta, mutta miehitt\u00e4m\u00e4tt\u00f6myys luo turvattomuutta.",
+        "evidence": [
+          "Lupaus: 'Fitness on your terms'",
+          "Todellisuus: Tyhj\u00e4t salit y\u00f6aikaan ilman henkil\u00f6kuntaa",
+          "Kohderyhm\u00e4havainto: 'Gym Intimidated' -segmentin pelko"
+        ],
+        "opportunity_type": "underserved_audience",
+        "priority_score": 5
+      },
+      {
+        "id": "tension_02",
+        "description": "Demokraattisuus vs. Geneerisyys \u2013 Halutaan olla kaikille, mutta n\u00e4ytet\u00e4\u00e4n silt\u00e4 ettei olla kenellek\u00e4\u00e4n.",
+        "evidence": [
+          "Kuvasto: Stock-kuvat vs. aidot vartalot",
+          "Sitoutuminen: Matala samaistumispinta",
+          "Kilpailijoiden inhimillisempi ote"
+        ],
+        "opportunity_type": "gap",
+        "priority_score": 4
+      },
+      {
+        "id": "tension_03",
+        "description": "Hinta vs. Arvo \u2013 Halpa hinta sy\u00f6 uskottavuutta 2.0-konseptin laadulta.",
+        "evidence": [
+          "Viestint\u00e4: '9,90\u20ac' dominoi",
+          "Tuote: Gym for Her / Group Training",
+          "Ristiriita: Halpa hinta = oletus heikosta laadusta"
+        ],
+        "opportunity_type": "aspiration",
+        "priority_score": 3
+      }
+    ],
+    "opportunity_zones": [
+      {
+        "id": "opp_01",
+        "description": "The Anti-Influencer Gym (Vastal\u00e4\u00e4ke t\u00e4ydellisyydelle)",
+        "rationale": "Ratkaisee j\u00e4nnitteen tension_02. Erottuu Elixian kiiltokuvamaisuudesta ja puhuttelee tavallista ihmist\u00e4 ('The Everyman'). K\u00e4\u00e4nt\u00e4\u00e4 teollisen ilmeen eduksi.",
+        "risk_level": "low"
+      },
+      {
+        "id": "opp_02",
+        "description": "Digitaalinen turvaverkko (Content as Service)",
+        "rationale": "Ratkaisee j\u00e4nnitteen tension_01. Tuotetaan sarjamuotoista 'digitaalinen PT' -sis\u00e4lt\u00f6\u00e4, joka korvaa puuttuvan henkil\u00f6kunnan ja opastaa laitteiden k\u00e4yt\u00f6ss\u00e4.",
+        "risk_level": "medium"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Strateginen Dossier: Fitness24Seven (FI)",
+        "url": "internal://dossier-2026",
+        "type": "report",
+        "date_accessed": "2026-01-25",
+        "relevance": "Ensisijainen l\u00e4hde kaikelle analyysitiedolle."
+      },
+      {
+        "title": "Fitness24Seven Verkkosivut",
+        "url": "https://fi.fitness24seven.com/",
+        "type": "company_site",
+        "date_accessed": "2026-01-25",
+        "relevance": "L\u00e4hde palvelukuvauksille, hinnoittelulle ja visuaaliselle ilmeelle."
+      },
+      {
+        "title": "Fitness24Seven Instagram (FI)",
+        "url": "https://www.instagram.com/fitness24sevenfinland/",
+        "type": "social",
+        "date_accessed": "2026-01-25",
+        "relevance": "L\u00e4hde sis\u00e4lt\u00f6tyyppien ja sitoutumisen analyysille."
+      },
+      {
+        "title": "Fitness24Seven YouTube Channel",
+        "url": "https://www.youtube.com/user/Fitness24Seven",
+        "type": "video",
+        "date_accessed": "2026-01-25",
+        "relevance": "L\u00e4hde kanavan passiivisuuden todentamiselle."
+      },
+      {
+        "title": "Kilpailijavertailu: Elixia & Liikku",
+        "url": "https://www.elixia.fi / https://www.liikku.fi",
+        "type": "other",
+        "date_accessed": "2026-01-25",
+        "relevance": "L\u00e4hde kilpailija-analyysin havainnoille ja erottautumistekij\u00f6ille."
+      }
+    ]
+  },
   "concept_briefs": [],
   "concepts": [],
   "treatment_files": [],
@@ -20,6 +227,34 @@
   "onepagers_skipped": false,
   "onepagers_error": null,
   "pitch_email": "",
-  "phase_history": [],
+  "phase_history": [
+    {
+      "phase": "validate",
+      "started_at": "2026-01-25T19:34:11.666041",
+      "completed_at": "2026-01-25T19:34:11.670224",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "check_archive",
+      "started_at": "2026-01-25T19:34:11.675090",
+      "completed_at": "2026-01-25T19:34:11.990906",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "research",
+      "started_at": "2026-01-25T19:34:11.996273",
+      "completed_at": null,
+      "success": false,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    }
+  ],
   "archive_ref": null
 }
