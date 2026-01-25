@@ -2,8 +2,8 @@
   "run_id": "20260125_191238",
   "company_slug": "halton-oy",
   "created_at": "2026-01-25T19:12:38.514748",
-  "updated_at": "2026-01-25T19:22:03.679389",
-  "current_phase": "package",
+  "updated_at": "2026-01-25T19:22:15.146221",
+  "current_phase": "deliver",
   "user_input": {
     "company_name": "Halton Oy",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -729,6 +729,15 @@
     {
       "phase": "package",
       "started_at": "2026-01-25T19:22:03.679366",
+      "completed_at": "2026-01-25T19:22:15.137936",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "deliver",
+      "started_at": "2026-01-25T19:22:15.146199",
       "completed_at": null,
       "success": false,
       "error_message": null,
