@@ -2,8 +2,8 @@
   "run_id": "20260125_180643",
   "company_slug": "outokumpu",
   "created_at": "2026-01-25T18:06:43.957831",
-  "updated_at": "2026-01-25T18:06:46.241986",
-  "current_phase": "strategize",
+  "updated_at": "2026-01-25T18:12:33.820135",
+  "current_phase": "create",
   "user_input": {
     "company_name": "Outokumpu",
     "user_email": "joona.kortesmaki@wbitvp.fi",
@@ -249,8 +249,341 @@
       "success_hypothesis": "This concept unlocks an untapped opportunity for Outokumpu by addressing their underserved audience in a way that creates cultural relevance and positions the brand as an innovator in their space."
     }
   ],
-  "concepts": [],
-  "treatment_files": [],
+  "concepts": [
+    {
+      "id": "concept_01",
+      "title": "Ikuinen Kierto",
+      "hook": "Dokumenttisarja, joka seuraa yhden ter\u00e4satomin matkaa l\u00e4pi vuosikymmenten \u2013 ja todistaa, miksi kierr\u00e4tys ei ole tulevaisuutta vaan Outokummun nykyhetke\u00e4.",
+      "premise": "Ikuinen Kierto on 8-osainen dokumenttisarja, jossa j\u00e4ljit\u00e4mme ruostumattoman ter\u00e4ksen todellisen elinkaaren: samasta materiaalista valmistettu haarukka 1970-luvulta p\u00e4\u00e4tyy romuksi, sulaa uudelleen ja syntyy uudelleen sairaalainstrumenttina 2025. Jokainen jakso seuraa eri 'ter\u00e4sel\u00e4m\u00e4\u00e4' ja sen takana olevia ihmisi\u00e4 \u2013 romukauppiaita, metallurgeja, suunnittelijoita \u2013 ja osoittaa, ett\u00e4 Outokummun kiertotalous ei ole markkinointilupaus vaan mitattava todellisuus.",
+      "long_form_extension": "Sarja tuotetaan ensisijaisesti 8x25min jaksoja Ruutu+/Katsomo-jakeluun, mink\u00e4 lis\u00e4ksi leikataan 3x45min broadcast-versio Neloselle/MTV3:lle prime time -dokumenttisarjaksi.",
+      "format": {
+        "series_type": "limited",
+        "episode_length": "22-28 minuuttia",
+        "cadence": "Viikoittain",
+        "season_length": "8 jaksoa"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "YouTube",
+          "rationale": "YouTube on B2B-p\u00e4\u00e4tt\u00e4jien ja teollisuusyleis\u00f6n luonteva dokumenttialusta, jossa pitk\u00e4muotoinen sis\u00e4lt\u00f6 toimii ja hakukonel\u00f6ydett\u00e4vyys on vahva.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "LinkedIn",
+            "rationale": "",
+            "adaptation": "3-5 min 'Executive Cut' -versiot jokaisesta jaksosta, jotka tiivist\u00e4v\u00e4t bisnesn\u00e4k\u00f6kulman ja datan p\u00e4\u00e4tt\u00e4jille."
+          },
+          {
+            "platform": "TikTok/Reels",
+            "rationale": "",
+            "adaptation": "60 sekunnin 'Miss\u00e4 t\u00e4m\u00e4 ter\u00e4s on ollut?' -mysteeriklipsit, joissa paljastetaan yll\u00e4tt\u00e4vi\u00e4 ter\u00e4sel\u00e4mi\u00e4."
+          }
+        ],
+        "amplification": "PR-kampanja teollisuusmediaan, Outokummun asiakaswebinaarit jaksojen ymp\u00e4rille, LinkedIn Thought Leadership -postaukset johtoryhm\u00e4lt\u00e4."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Jakson alussa 'Ter\u00e4satomi X' -animaatio, joka visualisoi kiertokulun",
+          "Aina mukana v\u00e4hint\u00e4\u00e4n yksi Outokummun ty\u00f6ntekij\u00e4 asiantuntijana",
+          "Jakson lopussa 'Seuraava el\u00e4m\u00e4' -teaser: mihin t\u00e4m\u00e4 ter\u00e4s p\u00e4\u00e4tyy seuraavaksi",
+          "Datapiste: CO2-s\u00e4\u00e4st\u00f6 verrattuna neitseelliseen ter\u00e4kseen"
+        ],
+        "variable_elements": [
+          "Eri ter\u00e4slaadut ja k\u00e4ytt\u00f6kohteet (l\u00e4\u00e4ketiede, arkkitehtuuri, ruoka, liikenne)",
+          "Eri maantieteelliset sijainnit (Tornio, Saksa, USA)",
+          "Eri aikakaudet ja historialliset kontekstit"
+        ],
+        "host_approach": "Ei perinteist\u00e4 juontajaa. Tarina etenee haastateltavien ja voice-over-kerronnan kautta. Kertojana tunnettu suomalainen \u00e4\u00e4nin\u00e4yttelij\u00e4 (esim. Krista Kosonen tai Jasper P\u00e4\u00e4kk\u00f6nen)."
+      },
+      "brand_integration": {
+        "philosophy": "Outokumpu on tarinan mahdollistaja, ei p\u00e4\u00e4henkil\u00f6. Br\u00e4ndi n\u00e4kyy siell\u00e4, miss\u00e4 se luontevasti on: tehtaalla, prosesseissa, asiantuntijoiden suulla.",
+        "integration_method": "Tehdaskuvaukset Torniossa, Outokummun metallurgit asiantuntijoina, Circle Green -tuotemerkki n\u00e4kyy luontevasti lopputuotteissa.",
+        "screen_time_balance": "85% sis\u00e4lt\u00f6\u00e4 (tarinat, ihmiset, prosessit), 15% eksplisiittist\u00e4 Outokumpu-n\u00e4kyvyytt\u00e4",
+        "cta_approach": "Jakson lopussa 'Lue lis\u00e4\u00e4 kierr\u00e4tyster\u00e4ksest\u00e4: outokumpu.com/circlegreen' \u2013 ei aggressiivista myynti\u00e4."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Haarukasta leikkaussaliin",
+          "description": "1970-luvun aterinsetin ter\u00e4s sulaa Torniossa ja syntyy uudelleen kirurgisena instrumenttina Saksassa."
+        },
+        {
+          "number": 2,
+          "title": "Laivan viimeinen matka",
+          "description": "Romutettavan laivan ter\u00e4s p\u00e4\u00e4tyy uuden risteilyaluksen keitti\u00f6\u00f6n \u2013 seuraamme matkaa Intian romuttamolta Meyerin telakalle."
+        },
+        {
+          "number": 3,
+          "title": "Silta sukupolvien yli",
+          "description": "1950-luvun teollisuussillan ter\u00e4s el\u00e4\u00e4 nyt modernissa pilvenpiirt\u00e4j\u00e4ss\u00e4 \u2013 arkkitehti ja metallurgi kohtaavat."
+        },
+        {
+          "number": 4,
+          "title": "Romukuningas",
+          "description": "Suomalainen romukauppias kolmannessa polvessa kertoo, miten ter\u00e4ksen arvo on muuttunut \u2013 ja miksi kierr\u00e4tys on bisnest\u00e4, ei hyv\u00e4ntekev\u00e4isyytt\u00e4."
+        },
+        {
+          "number": 5,
+          "title": "Puhdas p\u00f6yt\u00e4",
+          "description": "Ravintolan tiskip\u00f6yd\u00e4n ter\u00e4s j\u00e4ljitet\u00e4\u00e4n takaisin 30 vuoden p\u00e4\u00e4h\u00e4n \u2013 ja eteenp\u00e4in seuraavaan el\u00e4m\u00e4\u00e4n."
+        },
+        {
+          "number": 6,
+          "title": "Atomin muisti",
+          "description": "Metallurgian professori selitt\u00e4\u00e4, miksi ruostumaton ter\u00e4s on ainoa materiaali, joka ei koskaan menet\u00e4 laatuaan kierr\u00e4tyksess\u00e4."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee suoraan 'Reality vs. Hype' -j\u00e4nnitteen: sen sijaan ett\u00e4 lupaamme tulevaisuutta, todistamme nykyhetken toimivuuden konkreettisilla tarinoilla.",
+        "competitive_differentiation": "SSAB puhuu tulevaisuuden fossiilivapaasta ter\u00e4ksest\u00e4 \u2013 Outokumpu n\u00e4ytt\u00e4\u00e4, ett\u00e4 kiertotalous toimii jo nyt. T\u00e4m\u00e4 on 'receipts over promises'.",
+        "audience_value_proposition": "Katsoja oppii jotain yll\u00e4tt\u00e4v\u00e4\u00e4 arkisista esineist\u00e4 ja n\u00e4kee teollisuuden inhimillisen puolen \u2013 dokumentaarinen viihde, joka ei tunnu mainokselta."
+      },
+      "execution": {
+        "complexity": "medium",
+        "budget_tier": "mid",
+        "timeline_to_first_episode": "12-14 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Ter\u00e4ksen j\u00e4ljitt\u00e4minen voi olla vaikeaa todentaa t\u00e4ydellisesti",
+          "mitigation": "K\u00e4ytet\u00e4\u00e4n 'edustavaa matkaa' -l\u00e4hestymistapaa: tarina perustuu todellisiin prosesseihin, vaikka yksitt\u00e4ist\u00e4 atomia ei kirjaimellisesti seurata."
+        },
+        {
+          "risk": "Dokumentaarinen formaatti voi tuntua liian hitaalta nuoremmalle yleis\u00f6lle",
+          "mitigation": "TikTok-leikkaukset ja 'mysteeriklipsit' tuovat nopeatempoisen sis\u00e4ll\u00f6n rinnalle ja ohjaavat pitk\u00e4\u00e4n muotoon."
+        }
+      ]
+    },
+    {
+      "id": "concept_02",
+      "title": "Ter\u00e4smies vs. Ter\u00e4smies",
+      "hook": "Suomen suorapuheisin teollisuusduellisarja, jossa Outokummun asiantuntijat haastavat kilpailijoiden v\u00e4itteet \u2013 faktat p\u00f6yt\u00e4\u00e4n, bullshit ulos.",
+      "premise": "Ter\u00e4smies vs. Ter\u00e4smies on provokatiivinen TikTok-first -sarja, jossa Outokummun metallurgit ja insin\u00f6\u00f6rit ottavat kantaa ter\u00e4steollisuuden v\u00e4itteisiin ja myytteihin. Joka jaksossa 'Ter\u00e4smies' (Outokummun asiantuntija) kohtaa yhden v\u00e4itteen \u2013 kilpailijan markkinointilupauksen, somemyytin tai yleisen harhaluulon \u2013 ja purkaa sen 60 sekunnissa datalla, demonstraatiolla tai suoralla puheella. Pohjoismainen 'no bullshit' -asenne tekee teollisuusfaktoista viihdett\u00e4.",
+      "long_form_extension": "Kauden p\u00e4\u00e4tteeksi kootaan 3x15min 'Ter\u00e4smiehen tuomio' -erikoisjaksot YouTubeen, joissa syvennet\u00e4\u00e4n kiistanalaisimpia aiheita ja kutsutaan ulkopuolisia asiantuntijoita kommentoimaan.",
+      "format": {
+        "series_type": "ongoing",
+        "episode_length": "45-90 sekuntia",
+        "cadence": "3 kertaa viikossa",
+        "season_length": null
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "TikTok",
+          "rationale": "TikTok on paras alusta provosoivalle, nopealle ja jaettavalle sis\u00e4ll\u00f6lle, joka haastaa oletuksia ja synnytt\u00e4\u00e4 keskustelua.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "Instagram Reels",
+            "rationale": "",
+            "adaptation": "Sama sis\u00e4lt\u00f6, hieman hiotumpi visuaalinen ilme ammattimaisemmalle yleis\u00f6lle."
+          },
+          {
+            "platform": "LinkedIn",
+            "rationale": "",
+            "adaptation": "Valitut 'kuumimmat' jaksot jaetaan tekstipostauksina, jotka linkitt\u00e4v\u00e4t videoon ja kutsuvat keskusteluun."
+          }
+        ],
+        "amplification": "Provosoivimmat v\u00e4itteet nostetaan PR-uutisiksi teollisuusmediaan, kommenttiosioiden keskustelut ruokitaan aktiivisesti."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Jakso alkaa aina v\u00e4itteell\u00e4/myytill\u00e4 ruudulla: 'SSAB sanoo...' tai 'Somessa v\u00e4itet\u00e4\u00e4n...'",
+          "Ter\u00e4smies reagoi v\u00e4litt\u00f6m\u00e4sti: 'Okei, katsotaan faktoja.'",
+          "Nopea demonstraatio tai datavisualisointi",
+          "Lopussa 'Tuomio': TRUE / FALSE / BULLSHIT -leima"
+        ],
+        "variable_elements": [
+          "Eri v\u00e4itteet ja aiheet (p\u00e4\u00e4st\u00f6t, kierr\u00e4tys, kest\u00e4vyys, hinta)",
+          "Eri Outokummun asiantuntijat (metallurgit, insin\u00f6\u00f6rit, tuotantoty\u00f6ntekij\u00e4t)",
+          "Vaihtelevat demonstraatiotyylit (laboratorio, tehdas, arkiymp\u00e4rist\u00f6)"
+        ],
+        "host_approach": "Useita 'Ter\u00e4smiehi\u00e4' \u2013 Outokummun ty\u00f6ntekij\u00f6it\u00e4, jotka ovat persoonallisia ja uskottavia. Ei ulkopuolisia vaikuttajia, vaan aidot asiantuntijat, joista rakennetaan somet\u00e4hti\u00e4."
+      },
+      "brand_integration": {
+        "philosophy": "Outokumpu on rohkea haastaja, joka ei pelk\u00e4\u00e4 sanoa suoraan. Br\u00e4ndi n\u00e4kyy asiantuntijoiden kautta ja 'totuuden puolustajana'.",
+        "integration_method": "Asiantuntijat ovat selke\u00e4sti Outokummun ty\u00f6ntekij\u00f6it\u00e4 (ty\u00f6vaatteet, tehdaskonteksti), mutta eiv\u00e4t 'myy' \u2013 he 'opettavat ja haastavat'.",
+        "screen_time_balance": "90% sis\u00e4lt\u00f6\u00e4 ja persoonaa, 10% eksplisiittist\u00e4 br\u00e4ndi\u00e4 (logo jakson lopussa, ty\u00f6vaatteet)",
+        "cta_approach": "Ei perinteist\u00e4 CTA:ta. Lopussa: 'Lis\u00e4\u00e4 faktoja: linkki biossa.'"
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Fossiilivapaa vs. v\u00e4h\u00e4p\u00e4\u00e4st\u00f6inen",
+          "description": "Ter\u00e4smies purkaa eron 'fossiilivapaan' lupauksen ja 'v\u00e4h\u00e4p\u00e4\u00e4st\u00f6isen' todellisuuden v\u00e4lill\u00e4 \u2013 kumpi on oikeasti saatavilla nyt?"
+        },
+        {
+          "number": 2,
+          "title": "Kierr\u00e4tyster\u00e4s on huonompaa?",
+          "description": "Somemyytti haastetaan: demonstraatio todistaa, ett\u00e4 90% kierr\u00e4tetty ter\u00e4s on identtist\u00e4 neitseellisen kanssa."
+        },
+        {
+          "number": 3,
+          "title": "Aasialainen ter\u00e4s on yht\u00e4 hyv\u00e4\u00e4?",
+          "description": "Hintaero selitet\u00e4\u00e4n \u2013 ja n\u00e4ytet\u00e4\u00e4n, mit\u00e4 CO2-jalanj\u00e4ljess\u00e4 tapahtuu, kun ter\u00e4s tulee Kiinasta."
+        },
+        {
+          "number": 4,
+          "title": "Vihre\u00e4 ter\u00e4s on vain markkinointia?",
+          "description": "Ter\u00e4smies avaa Circle Greenin sertifikaatit ja kolmannen osapuolen todennukset 60 sekunnissa."
+        },
+        {
+          "number": 5,
+          "title": "Ruostumaton ruostuu?",
+          "description": "Klassinen kuluttajamyytti testataan laboratoriossa \u2013 ja selitet\u00e4\u00e4n, milloin v\u00e4ite pit\u00e4\u00e4 paikkansa."
+        },
+        {
+          "number": 6,
+          "title": "Ter\u00e4s on ilmastopaholainen?",
+          "description": "Ter\u00e4smies vertaa ter\u00e4ksen, muovin ja alumiinin elinkaarip\u00e4\u00e4st\u00f6j\u00e4 \u2013 yll\u00e4tt\u00e4v\u00e4 voittaja paljastuu."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee suoraan 'Reality vs. Hype' -j\u00e4nnitteen hy\u00f6kk\u00e4\u00e4m\u00e4ll\u00e4 kilpailijoiden visiopuheeseen faktoilla. K\u00e4ytt\u00e4\u00e4 'Radical Nordic Honesty' -mahdollisuutta t\u00e4ysill\u00e4.",
+        "competitive_differentiation": "Kukaan ter\u00e4syhti\u00f6 ei ole uskaltanut tehd\u00e4 n\u00e4in suoraa, nimelt\u00e4 haastavaa sis\u00e4lt\u00f6\u00e4. T\u00e4m\u00e4 positioi Outokummun rohkeana totuudenpuhujana.",
+        "audience_value_proposition": "Katsoja saa 'gotcha'-hetken ja oppii jotain \u2013 edutainment, joka tuntuu TikTok-natiivilt\u00e4, ei corporate-videolta."
+      },
+      "execution": {
+        "complexity": "low",
+        "budget_tier": "budget",
+        "timeline_to_first_episode": "4-6 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Kilpailijat voivat reagoida negatiivisesti tai juridisesti",
+          "mitigation": "Kaikki v\u00e4itteet faktantarkistetaan kolmannen osapuolen toimesta. Ei valheellisia v\u00e4itteit\u00e4, vain tulkintojen haastamista."
+        },
+        {
+          "risk": "Outokummun sis\u00e4inen kulttuuri voi olla liian varovainen t\u00e4lle tyylille",
+          "mitigation": "Pilotoidaan 3-5 jaksoa sis\u00e4isesti ennen julkaisua. Rakennetaan 'Ter\u00e4smies'-hahmoille selke\u00e4t pelis\u00e4\u00e4nn\u00f6t."
+        },
+        {
+          "risk": "Asiantuntijat eiv\u00e4t ole luontevia kameran edess\u00e4",
+          "mitigation": "Media-koulutus ja useita kuvausvaihtoehtoja \u2013 valitaan ne, jotka toimivat parhaiten."
+        }
+      ]
+    },
+    {
+      "id": "concept_03",
+      "title": "Ter\u00e4ksen Muisti",
+      "hook": "Interaktiivinen cross-platform-kokemus, jossa yleis\u00f6 j\u00e4ljitt\u00e4\u00e4 arkisten esineiden ter\u00e4ksen alkuper\u00e4n ja historian \u2013 ja paljastaa n\u00e4kym\u00e4tt\u00f6m\u00e4n materiaalin sielun.",
+      "premise": "Ter\u00e4ksen Muisti on kunnianhimoinen cross-platform-konsepti, joka tekee n\u00e4kym\u00e4tt\u00f6m\u00e4st\u00e4 materiaalista n\u00e4kyv\u00e4n. Konsepti yhdist\u00e4\u00e4 dokumentaarisen TV-sarjan, interaktiivisen verkkokokemuksen ja osallistavan somekampanjan. Ydinajatus: jokaisella ter\u00e4sesineell\u00e4 on tarina, jonka voi j\u00e4ljitt\u00e4\u00e4. Yleis\u00f6 voi skannata QR-koodeja Outokummun kumppaneiden tuotteista (Fiskars, Iittala, sairaalalaitteet) ja n\u00e4hd\u00e4 ter\u00e4ksen matkan raaka-aineesta valmiiksi tuotteeksi \u2013 ja eteenp\u00e4in kierr\u00e4tykseen. Dokumenttisarja seuraa 'ter\u00e4setsiv\u00e4\u00e4', joka j\u00e4ljitt\u00e4\u00e4 Suomen ikonisimpien esineiden materiaalien alkuper\u00e4n.",
+      "long_form_extension": "6x45min dokumenttisarja 'Ter\u00e4ksen Muisti' Neloselle/MTV3:lle prime time -slotiin, jossa tunnettu suomalainen juontaja (esim. Arman Alizad tai Riku Rantala) toimii 'ter\u00e4setsiv\u00e4na' ja j\u00e4ljitt\u00e4\u00e4 suomalaisten ikonisten esineiden ja rakennusten ter\u00e4ksen alkuper\u00e4n.",
+      "format": {
+        "series_type": "seasonal",
+        "episode_length": "42-48 minuuttia (TV), 3-8 minuuttia (some), interaktiivinen (verkko)",
+        "cadence": "Viikoittain (TV), p\u00e4ivitt\u00e4in (some)",
+        "season_length": "6 jaksoa + jatkuva digitaalinen kokemus"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "Cross-platform (TV + verkko + some)",
+          "rationale": "Konsepti vaatii monikanavaisen l\u00e4hestymistavan, koska se yhdist\u00e4\u00e4 massamedian tavoittavuuden, digitaalisen interaktiivisuuden ja somen osallistavuuden.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "Nelonen/MTV3",
+            "rationale": "",
+            "adaptation": "Prime time -dokumenttisarja, joka tuo massakatsojat konseptin \u00e4\u00e4relle."
+          },
+          {
+            "platform": "teraksenmuisti.fi",
+            "rationale": "",
+            "adaptation": "Interaktiivinen verkkosivusto, jossa k\u00e4ytt\u00e4j\u00e4 voi tutkia ter\u00e4ksen matkaa ja skannata QR-koodeja."
+          },
+          {
+            "platform": "TikTok/Instagram",
+            "rationale": "",
+            "adaptation": "'Mist\u00e4 sinun [esine] on tehty?' -haastevideot ja behind-the-scenes -sis\u00e4lt\u00f6 kuvauksista."
+          }
+        ],
+        "amplification": "Kumppanuudet Fiskarsin, Iittalan ja sairaalav\u00e4linevalmistajien kanssa \u2013 QR-koodit tuotepakkauksissa. PR-kampanja 'Suomen ensimm\u00e4inen materiaalil\u00e4pin\u00e4kyvyyskokemus'."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Jakson alussa 'Ter\u00e4setsiv\u00e4' saa uuden j\u00e4ljitett\u00e4v\u00e4n kohteen",
+          "Matka raaka-aineesta valmiiksi tuotteeksi visualisoidaan animaatiolla",
+          "Aina mukana 'Outokumpu-hetki' \u2013 k\u00e4ynti tehtaalla tai tapaaminen asiantuntijan kanssa",
+          "Jakson lopussa interaktiivinen CTA: 'J\u00e4ljit\u00e4 oma esineesi osoitteessa teraksenmuisti.fi'"
+        ],
+        "variable_elements": [
+          "Eri esineet ja tuotekategoriat (keitti\u00f6, terveys, arkkitehtuuri, liikenne)",
+          "Eri kumppanibr\u00e4ndit ja niiden tarinat",
+          "Eri maantieteelliset sijainnit ja historialliset kontekstit"
+        ],
+        "host_approach": "Tunnettu suomalainen juontaja 'Ter\u00e4setsiv\u00e4na' \u2013 karismaattinen, utelias hahmo, joka tekee teollisuudesta inhimillist\u00e4 (esim. Arman Alizad, Riku Rantala tai Jenni P\u00e4\u00e4skysaari)."
+      },
+      "brand_integration": {
+        "philosophy": "Outokumpu on 'n\u00e4kym\u00e4tt\u00f6m\u00e4n n\u00e4kyv\u00e4ksi tekij\u00e4' \u2013 br\u00e4ndi mahdollistaa l\u00e4pin\u00e4kyvyyden, jota kukaan muu ei tarjoa. Kumppanibr\u00e4ndit tuovat kuluttajarelevanssia.",
+        "integration_method": "Outokummun tehtaat ja asiantuntijat ovat keskeinen osa j\u00e4ljitysmatkaa. QR-koodikokemus on Outokummun br\u00e4nd\u00e4tty palvelu.",
+        "screen_time_balance": "70% sis\u00e4lt\u00f6\u00e4 ja tarinoita, 20% kumppanibr\u00e4ndej\u00e4, 10% eksplisiittist\u00e4 Outokumpua",
+        "cta_approach": "Jokainen jakso ohjaa interaktiiviseen kokemukseen. CTA on luonteva osa tarinaa, ei erillinen mainos."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Fiskarsin sakset",
+          "description": "Ter\u00e4setsiv\u00e4 j\u00e4ljitt\u00e4\u00e4 Suomen ikonisimpien saksien ter\u00e4ksen alkuper\u00e4n Kemin kaivokselta Fiskarsin tehtaalle."
+        },
+        {
+          "number": 2,
+          "title": "Leikkaussalin salaisuus",
+          "description": "Kirurginen instrumentti seuraa ter\u00e4ksen matkaa Torniosta saksalaisen sairaalan leikkaussaliin."
+        },
+        {
+          "number": 3,
+          "title": "Helsingin metro",
+          "description": "Metrovaunun ruostumaton ter\u00e4s j\u00e4ljitet\u00e4\u00e4n \u2013 ja paljastetaan, kuinka monta 'el\u00e4m\u00e4\u00e4' se on jo el\u00e4nyt."
+        },
+        {
+          "number": 4,
+          "title": "Ravintolan syd\u00e4n",
+          "description": "Huippuravintolan keitti\u00f6n ter\u00e4spinnat paljastavat tarinansa \u2013 ja kokin suhde materiaaliin syvenee."
+        },
+        {
+          "number": 5,
+          "title": "Silta tulevaisuuteen",
+          "description": "Uuden sillan rakentaminen Oulussa seuraa ter\u00e4ksen matkaa suunnittelup\u00f6yd\u00e4lt\u00e4 asennukseen."
+        },
+        {
+          "number": 6,
+          "title": "Kierron p\u00e4\u00e4t\u00f6s",
+          "description": "Kauden finaali: seurataan yhden esineen koko kiertokulku alusta loppuun \u2013 ja takaisin alkuun."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee suoraan 'Invisible Giant' -j\u00e4nnitteen tekem\u00e4ll\u00e4 n\u00e4kym\u00e4tt\u00f6m\u00e4st\u00e4 materiaalista emotionaalisesti arvokkaan ja j\u00e4ljitett\u00e4v\u00e4n. Luo 'Intel Inside' -efektin ter\u00e4kselle.",
+        "competitive_differentiation": "Kukaan kilpailija ei ole rakentanut interaktiivista l\u00e4pin\u00e4kyvyyskokemusta. T\u00e4m\u00e4 positioi Outokummun innovaattorina ja avoimuuden edell\u00e4k\u00e4vij\u00e4n\u00e4.",
+        "audience_value_proposition": "Katsoja saa 'taian' tunteen arkisista esineist\u00e4 ja p\u00e4\u00e4see osallistumaan itse \u2013 t\u00e4m\u00e4 on 'Pokemon Go' ter\u00e4kselle."
+      },
+      "execution": {
+        "complexity": "high",
+        "budget_tier": "premium",
+        "timeline_to_first_episode": "16-20 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Interaktiivinen verkkokokemus vaatii merkitt\u00e4v\u00e4\u00e4 teknist\u00e4 kehityst\u00e4",
+          "mitigation": "Pilotoidaan yksinkertaisemmalla MVP:ll\u00e4 ja laajennetaan vaiheittain. Hy\u00f6dynnet\u00e4\u00e4n olemassa olevia QR-koodiratkaisuja."
+        },
+        {
+          "risk": "Kumppanibr\u00e4ndien sitouttaminen voi olla haastavaa",
+          "mitigation": "Aloitetaan Outokummun olemassa olevien asiakassuhteiden kautta (Fiskars, sairaalasektori). Tarjotaan kumppaneille selke\u00e4 arvolupaus: l\u00e4pin\u00e4kyvyys on kilpailuetu."
+        },
+        {
+          "risk": "Konsepti on laaja ja voi hajota moneen suuntaan",
+          "mitigation": "Selke\u00e4 priorisointi: TV-sarja on veturi, interaktiivinen kokemus on lis\u00e4arvo, some on liima. Jokainen osa voidaan toteuttaa itsen\u00e4isesti, jos budjetti vaatii."
+        }
+      ]
+    }
+  ],
+  "treatment_files": [
+    "/opt/render/project/src/runs/outokumpu/TREATMENTS/outokumpu_TREATMENT_01_20260125_181233.md",
+    "/opt/render/project/src/runs/outokumpu/TREATMENTS/outokumpu_TREATMENT_02_20260125_181233.md",
+    "/opt/render/project/src/runs/outokumpu/TREATMENTS/outokumpu_TREATMENT_03_20260125_181233.md"
+  ],
   "onepager_specs": [],
   "onepagers_skipped": false,
   "onepagers_error": null,
@@ -277,6 +610,15 @@
     {
       "phase": "strategize",
       "started_at": "2026-01-25T18:06:46.234657",
+      "completed_at": "2026-01-25T18:06:47.688991",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "create",
+      "started_at": "2026-01-25T18:06:47.696306",
       "completed_at": null,
       "success": false,
       "error_message": null,
