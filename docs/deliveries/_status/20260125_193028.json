@@ -2,8 +2,8 @@
   "run_id": "20260125_193028",
   "company_slug": "kuntokeskus-liikku",
   "created_at": "2026-01-25T19:30:28.372177",
-  "updated_at": "2026-01-25T19:33:00.969872",
-  "current_phase": "strategize",
+  "updated_at": "2026-01-25T19:38:45.513559",
+  "current_phase": "create",
   "user_input": {
     "company_name": "Kuntokeskus Liikku",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -256,8 +256,335 @@
       "success_hypothesis": "This concept unlocks an untapped opportunity for Kuntokeskus Liikku by addressing their underserved audience in a way that creates cultural relevance and positions the brand as an innovator in their space."
     }
   ],
-  "concepts": [],
-  "treatment_files": [],
+  "concepts": [
+    {
+      "id": "concept_01",
+      "title": "Liikun Salitreeni \u2013 Digitaalinen PT",
+      "hook": "T\u00e4yt\u00e4mme kylm\u00e4salin tyhjyyden YouTubella: jokainen aloittelija saa nyt oman personal trainerin taskuunsa.",
+      "premise": "8-osainen YouTube-sarja, jossa oikea personal trainer opettaa kuntosaliharjoittelun perusteet Liikun salilla \u2013 laite laitteelta, liike liikkeelt\u00e4. Jokainen jakso on itsen\u00e4inen 'minitreeni', jonka voi katsoa ennen salille menoa tai salilla puhelimesta. Sarja ratkaisee Liikun suurimman ristiriidan: br\u00e4ndi lupaa matalaa kynnyst\u00e4, mutta j\u00e4tt\u00e4\u00e4 aloittelijan yksin.",
+      "long_form_extension": "Koko kausi kootaan 3x21min broadcast-versioiksi Ruutu+/MTV Katsomo -palveluihin otsikolla 'Liikun Salitreeni: Aloittelijan opas'. Lis\u00e4ksi mahdollisuus jatkokausiin (keskitaso, edistyneet, erityisryhm\u00e4t).",
+      "format": {
+        "series_type": "seasonal",
+        "episode_length": "10-14 minuuttia",
+        "cadence": "Viikoittain (tiistaisin)",
+        "season_length": "8 jaksoa"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "YouTube",
+          "rationale": "Kuntosalioppaat ovat YouTuben ikivihre\u00e4\u00e4 sis\u00e4lt\u00f6\u00e4 \u2013 hakuvolyymi on valtava ja sis\u00e4lt\u00f6 l\u00f6ydet\u00e4\u00e4n viel\u00e4 vuosien p\u00e4\u00e4st\u00e4. Pidempi muoto mahdollistaa oikean opetuksen, ei vain teaserin.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "TikTok",
+            "rationale": "",
+            "adaptation": "Jokaisen jakson ydinliike tiivistet\u00e4\u00e4n 45-60 sekunnin 'Liikkeen anatomia' -klippeihin: yksi liike, yksi opetus, yksi tsemppi."
+          },
+          {
+            "platform": "Instagram Reels",
+            "rationale": "",
+            "adaptation": "Ennen/j\u00e4lkeen -klipit: 'N\u00e4in EI kannata tehd\u00e4 vs. n\u00e4in teet oikein'. Jaettava, opettava, hauska."
+          }
+        ],
+        "amplification": "Yhteisty\u00f6 fitness-vaikuttajien kanssa: he haastavat seuraajansa tekem\u00e4\u00e4n jakson treenin ja jakamaan tuloksen. Liikun salien sis\u00e4\u00e4ntuloruuduilla py\u00f6rii QR-koodi sarjaan."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Aina sama PT-juontaja (kasvo br\u00e4ndille)",
+          "Jakson alussa 'Mit\u00e4 t\u00e4n\u00e4\u00e4n opitaan' -lupaus",
+          "Jakson lopussa 'T\u00e4m\u00e4n viikon haaste' -CTA",
+          "Liikun salin autenttinen ymp\u00e4rist\u00f6 (koivutapetti, vihre\u00e4 v\u00e4rimaailma)"
+        ],
+        "variable_elements": [
+          "Eri lihasryhm\u00e4t ja laitteet joka jaksossa",
+          "Vierailevat 'eka kertaa salilla' -tavikset, jotka kokeilevat liikkeit\u00e4 aidosti",
+          "Vaihteleva intensiteetti: kevyt\u2013keskitaso\u2013raskas"
+        ],
+        "host_approach": "Yksi p\u00e4\u00e4juontaja-PT (esim. tunnettu fitness-vaikuttaja tai Liikun oma personal trainer), joka on l\u00e4mmin, kannustava ja ei-pelottava. Vierailijoina oikeita aloittelijoita, jotka tuovat samaistumispintaa."
+      },
+      "brand_integration": {
+        "philosophy": "Liikku ei ole sponsori vaan kotisali. Br\u00e4ndi on l\u00e4sn\u00e4 ymp\u00e4rist\u00f6n\u00e4 ja filosofiana, ei mainoksena.",
+        "integration_method": "Kaikki kuvataan Liikun salilla \u2013 tilat, laitteet, tunnelma puhuvat puolestaan. PT mainitsee luontevasti Liikun arvot ('t\u00e4\u00e4ll\u00e4 on tilaa tehd\u00e4 rauhassa').",
+        "screen_time_balance": "85% opetussis\u00e4lt\u00f6\u00e4, 15% luonteva Liikku-ymp\u00e4rist\u00f6 ja end card",
+        "cta_approach": "Jakson lopussa: 'Kokeile t\u00e4t\u00e4 Liikun salilla \u2013 ensimm\u00e4inen viikko ilmaiseksi.' Linkki kuvauksessa."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Ensimm\u00e4inen kerta salilla",
+          "description": "Miten k\u00e4velet sis\u00e4\u00e4n, miss\u00e4 vaatteet vaihdetaan, miten laitteet toimivat \u2013 kaikki se, mit\u00e4 kukaan ei kerro."
+        },
+        {
+          "number": 2,
+          "title": "Jalat ja pakarat \u2013 koneet haltuun",
+          "description": "Jalkapr\u00e4ssi, loitontaja, l\u00e4hent\u00e4j\u00e4: oikea asento, oikea paino, oikea hengitys."
+        },
+        {
+          "number": 3,
+          "title": "Selk\u00e4 ja hartiat \u2013 ryhti kuntoon",
+          "description": "Soutulaite, olkap\u00e4\u00e4pr\u00e4ssi, yl\u00e4talja: miten aktivoit oikeat lihakset."
+        },
+        {
+          "number": 4,
+          "title": "Rinta ja k\u00e4sivarret \u2013 perusliikkeet",
+          "description": "Penkkipunnerrus, k\u00e4sipainocurl, ojentajat: turvallinen tekniikka aloittelijalle."
+        },
+        {
+          "number": 5,
+          "title": "Keskivartalo \u2013 core ilman cruncheja",
+          "description": "Lankku, palloheilahdukset, kaapelikierto: toiminnallinen keskivartalo."
+        },
+        {
+          "number": 6,
+          "title": "Kokotreeni 30 minuutissa",
+          "description": "Kaikki yhteen: tehokas koko kehon ohjelma kiireiselle."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee suoraan Liikun ykk\u00f6sristiriidan: 'lupaus tuesta vs. autio sali'. Videosis\u00e4lt\u00f6 toimii digitaalisena PT:n\u00e4, joka on aina saatavilla.",
+        "competitive_differentiation": "Fitness24Seven ja GoGo eiv\u00e4t tuota opetussis\u00e4lt\u00f6\u00e4 \u2013 he myyv\u00e4t vain tilaa. Liikku myy onnistumisen ja osaamisen.",
+        "audience_value_proposition": "Aloittelija saa vastauksen kysymykseen 'mit\u00e4 minun pit\u00e4isi tehd\u00e4 salilla' \u2013 ilmaiseksi, ilman h\u00e4pe\u00e4\u00e4, omassa tahdissa."
+      },
+      "execution": {
+        "complexity": "low",
+        "budget_tier": "mid",
+        "timeline_to_first_episode": "6-8 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "PT-juontajan valinta ep\u00e4onnistuu \u2013 liian 'fitness-kupla' tai et\u00e4inen",
+          "mitigation": "Casting-prosessi, jossa testataan samaistuttavuutta tavallisilla katsojilla. Valitaan 'naapurin PT', ei fitness-julkkis."
+        },
+        {
+          "risk": "Sis\u00e4lt\u00f6 hukkuu YouTuben fitness-massaan",
+          "mitigation": "Erottuvuus Liikun visuaalisella maailmalla (koivumets\u00e4, vihre\u00e4) ja suomalaisella kielell\u00e4. SEO-optimointi suomenkielisiin hakuihin."
+        }
+      ]
+    },
+    {
+      "id": "concept_02",
+      "title": "Kylm\u00e4salin Kasvot",
+      "hook": "TikTok-sarja, joka tekee Liikun 'tyhj\u00e4st\u00e4 salista' vahvuuden: n\u00e4yt\u00e4mme keit\u00e4 siell\u00e4 oikeasti treenaa keskell\u00e4 y\u00f6t\u00e4.",
+      "premise": "Pystymuotoinen dokumentaarinen mikrosarja, jossa seurataan Liikun salien todellisia k\u00e4vij\u00f6it\u00e4 ep\u00e4tavallisina aikoina \u2013 y\u00f6hoitajaa, joka treenaa ennen aamuvuoroa, yritt\u00e4j\u00e4\u00e4 joka purkaa stressi\u00e4 puoleny\u00f6n j\u00e4lkeen, nuorta \u00e4iti\u00e4 joka k\u00e4y kun lapsi nukkuu. Jokainen 60-90 sekunnin jakso on intiimi hetki tavallisen suomalaisen arjesta, jossa Liikun sali on hiljainen turvasatama.",
+      "long_form_extension": "Kaudesta kootaan 45 minuutin dokumentti 'Kylm\u00e4salin Kasvot' Ruutu+/Katsomo-palveluihin. Mahdollisuus broadcast-esitykseen MTV3:lla osana lifestyle-ohjelmistoa.",
+      "format": {
+        "series_type": "ongoing",
+        "episode_length": "60-90 sekuntia",
+        "cadence": "3 kertaa viikossa (ma-ke-pe)",
+        "season_length": null
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "TikTok",
+          "rationale": "Autenttinen, dokumentaarinen sis\u00e4lt\u00f6 toimii TikTokissa erinomaisesti. Algoritmi suosii aitoja tarinoita, ja 'tavallisten ihmisten' sis\u00e4lt\u00f6 ker\u00e4\u00e4 sitoutumista.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "Instagram Reels",
+            "rationale": "",
+            "adaptation": "Sama sis\u00e4lt\u00f6, hieman hiotumpi leikkaus. Nostot parhaista hetkist\u00e4 Stories-muodossa."
+          },
+          {
+            "platform": "YouTube Shorts",
+            "rationale": "",
+            "adaptation": "Kuratoitu 'viikon parhaat' -kokoelma, joka ohjaa pitk\u00e4\u00e4n dokumenttiin."
+          }
+        ],
+        "amplification": "P\u00e4\u00e4henkil\u00f6t jakavat omat jaksonsa omilla tileill\u00e4\u00e4n. Liikku nostaa parhaat kommentit ja reaktiot. Yhteisty\u00f6 paikallismedioiden kanssa: 'Tunnetko t\u00e4m\u00e4n y\u00f6treenaajan?'"
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Aina sama visuaalinen tunniste: h\u00e4m\u00e4r\u00e4 sali, yksin\u00e4inen treenaja, hiljainen tunnelma",
+          "Jakson alussa teksti: kellonaika ja paikkakunta",
+          "Lopussa aina sama tagline: 'Paras treeni on tehty treeni. Milloin sin\u00e4 teet omasi?'"
+        ],
+        "variable_elements": [
+          "Eri p\u00e4\u00e4henkil\u00f6 joka jaksossa",
+          "Eri paikkakunta ja sali (tukee valtakunnallista laajentumista)",
+          "Vaihteleva tarina: ilo, suru, voitto, arki"
+        ],
+        "host_approach": "Ei juontajaa \u2013 p\u00e4\u00e4henkil\u00f6t puhuvat suoraan kameralle tai voice-overina. Dokumentaarinen, ei ohjattu."
+      },
+      "brand_integration": {
+        "philosophy": "Liikku on mahdollistaja, ei p\u00e4\u00e4henkil\u00f6. Sali on n\u00e4ytt\u00e4m\u00f6, jolla tavallisten ihmisten tarinat tapahtuvat.",
+        "integration_method": "Liikun logo n\u00e4kyy luontevasti salilla (ovet, laitteet, peilit). Ei erillist\u00e4 mainospuhetta.",
+        "screen_time_balance": "95% ihmistarina, 5% Liikku-ymp\u00e4rist\u00f6 ja end card",
+        "cta_approach": "Bio-linkki: 'Mik\u00e4 on sinun tarinasi? Kerro meille.' Mahdollisuus osallistua sarjaan."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Y\u00f6hoitaja (Oulu, klo 05:17)",
+          "description": "Sairaanhoitaja Maria treenaa ennen 12-tuntista vuoroa \u2013 ainoa hetki p\u00e4iv\u00e4ss\u00e4 joka on vain h\u00e4nen."
+        },
+        {
+          "number": 2,
+          "title": "Eronnut is\u00e4 (Tampere, klo 21:45)",
+          "description": "Jukka k\u00e4y salilla joka ilta kun lapset ovat \u00e4idill\u00e4 \u2013 treeni pit\u00e4\u00e4 p\u00e4\u00e4n kasassa."
+        },
+        {
+          "number": 3,
+          "title": "Y\u00f6ty\u00f6l\u00e4inen (Helsinki, klo 02:30)",
+          "description": "Taksinkuljettaja Ahmed treenaa keskell\u00e4 y\u00f6t\u00e4, kun kaupunki nukkuu."
+        },
+        {
+          "number": 4,
+          "title": "Opiskelija (Turku, klo 23:15)",
+          "description": "Ella purkaa tenttipaineita punttisalilla \u2013 halvempaa kuin terapia."
+        },
+        {
+          "number": 5,
+          "title": "Yritt\u00e4j\u00e4 (Jyv\u00e4skyl\u00e4, klo 06:00)",
+          "description": "Mikko aloittaa p\u00e4iv\u00e4n treenill\u00e4 ennen kuin yksik\u00e4\u00e4n asiakas soittaa."
+        },
+        {
+          "number": 6,
+          "title": "Nuori \u00e4iti (Lahti, klo 20:30)",
+          "description": "Sanna juoksee salille kun mies tulee kotiin \u2013 45 minuuttia omaa aikaa."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "K\u00e4\u00e4nt\u00e4\u00e4 Liikun suurimman heikkouden (autio sali, ei henkil\u00f6kuntaa) vahvuudeksi: t\u00e4m\u00e4 on tila, jossa saat olla rauhassa.",
+        "competitive_differentiation": "Kilpailijat eiv\u00e4t uskalla n\u00e4ytt\u00e4\u00e4 tyhji\u00e4 salejaan. Liikku tekee siit\u00e4 tarinan.",
+        "audience_value_proposition": "Samaistuminen: 'Tuokin on kuin min\u00e4.' Inspiraatio: 'Jos h\u00e4n jaksaa, min\u00e4kin jaksan.' Emotionaalinen yhteys br\u00e4ndiin."
+      },
+      "execution": {
+        "complexity": "medium",
+        "budget_tier": "budget",
+        "timeline_to_first_episode": "4-6 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "P\u00e4\u00e4henkil\u00f6iden l\u00f6yt\u00e4minen on hidasta ja ep\u00e4varmaa",
+          "mitigation": "Liikun j\u00e4senrekisterin hy\u00f6dynt\u00e4minen: kutsu osallistumaan. Yhteisty\u00f6 paikallisten Liikku-salien kanssa casting-apuna."
+        },
+        {
+          "risk": "Liian synkk\u00e4 tai raskas tunnelma \u2013 ei houkuttele uusia j\u00e4seni\u00e4",
+          "mitigation": "Tasapainotetaan tarina-arkki: mukana my\u00f6s iloa, huumoria ja voittoja. Ei pelkk\u00e4\u00e4 'selviytymist\u00e4'."
+        }
+      ]
+    },
+    {
+      "id": "concept_03",
+      "title": "Suomen Fittest Paikkakunta",
+      "hook": "Valtakunnallinen kilpailu, jossa Liikun salien kaupungit ottavat mittaa toisistaan \u2013 ja voittaja saa oman ulkokuntosalin.",
+      "premise": "Monialustainen kilpailukonsepti, jossa Liikun j\u00e4senet eri paikkakunnilla ker\u00e4\u00e4v\u00e4t pisteit\u00e4 treeneist\u00e4\u00e4n koko kev\u00e4\u00e4n ajan. Mukana live-tapahtumat, sometarinat, viikoittaiset haasteet ja huipennus kes\u00e4tapahtumaan. Voittajapaikkakunta saa pysyv\u00e4n ulkokuntosalin kaupunkiinsa. Konsepti yhdist\u00e4\u00e4 Liikun laajentumisstrategian, yhteis\u00f6llisyyden ja kansanterveysmission yhdeksi suureksi liikkeeksi.",
+      "long_form_extension": "Kilpailusta tuotetaan 6-osainen dokumenttisarja Ruutu+/Katsomo-palveluihin, joka seuraa kolmea paikkakuntaa ja niiden 'joukkueita' matkalla finaaliin. Mahdollinen broadcast-yhteenveto MTV3:lla finaali-iltana.",
+      "format": {
+        "series_type": "seasonal",
+        "episode_length": "Vaihtelee: 60s somep\u00e4ivitykset, 5min viikkokoosteet, 25min dokumenttijaksot",
+        "cadence": "Jatkuva 12 viikon ajan (some p\u00e4ivitt\u00e4in, dokumentti viikoittain)",
+        "season_length": "12 viikkoa + finaali"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "cross_platform",
+          "rationale": "Kilpailu vaatii jatkuvaa l\u00e4sn\u00e4oloa ja osallistumista \u2013 TikTok aktivoi, YouTube dokumentoi, live huipentaa.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "TikTok",
+            "rationale": "",
+            "adaptation": "P\u00e4ivitt\u00e4iset haastevideot, paikkakuntien 'trash talk', k\u00e4ytt\u00e4jien omat treenipostaukset hashtagilla #FittestPaikkakunta"
+          },
+          {
+            "platform": "YouTube",
+            "rationale": "",
+            "adaptation": "Viikoittaiset tilannekatsaukset ja dokumenttijaksot, jotka seuraavat joukkueiden matkaa"
+          },
+          {
+            "platform": "Instagram",
+            "rationale": "",
+            "adaptation": "Pistetilanne, Stories-\u00e4\u00e4nestykset, parhaat UGC-nostot"
+          }
+        ],
+        "amplification": "Paikallisvaikuttajat edustavat omaa kaupunkiaan. Paikallismediat (Aamulehti, Kaleva, Turun Sanomat) seuraavat kilpailua. Liikun salien sis\u00e4iset n\u00e4yt\u00f6t n\u00e4ytt\u00e4v\u00e4t reaaliaikaisen pistetilanteen."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Viikoittainen haaste, joka on sama kaikille paikkakunnille",
+          "Pistetilanne p\u00e4ivittyy reaaliaikaisesti",
+          "Paikkakuntien 'kapteenit' (vaikuttajat/julkkikset) kommentoivat tilannetta"
+        ],
+        "variable_elements": [
+          "Viikon haaste vaihtelee (volyymi, tekniikka, yhteis\u00f6llisyys)",
+          "Eri paikkakunnat spotlight-vuorossa dokumenttisis\u00e4ll\u00f6ss\u00e4",
+          "Yll\u00e4tyshaasteet ja bonuspisteet"
+        ],
+        "host_approach": "P\u00e4\u00e4juontaja (tunnettu urheilutoimittaja tai fitness-vaikuttaja) vet\u00e4\u00e4 viikoittaiset koosteet ja live-tapahtumat. Paikkakuntien 'kapteeneina' paikalliset julkkikset tai vaikuttajat."
+      },
+      "brand_integration": {
+        "philosophy": "Liikku on liikkeen mahdollistaja ja yhteis\u00f6n rakentaja \u2013 ei sponsori vaan alusta.",
+        "integration_method": "Kaikki tapahtuu Liikun saleilla ja ekosysteemiss\u00e4. Pisteet ker\u00e4t\u00e4\u00e4n OmaLiikku-sovelluksen kautta. Palkinto (ulkokuntosali) kantaa Liikun br\u00e4ndi\u00e4 pysyv\u00e4sti.",
+        "screen_time_balance": "70% kilpailu ja ihmiset, 30% Liikku-ymp\u00e4rist\u00f6 ja br\u00e4ndi",
+        "cta_approach": "Osallistu omalla paikkakunnallasi \u2013 liity Liikkuun ja auta kaupunkiasi voittoon."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "L\u00e4ht\u00f6laukaus (dokumentti)",
+          "description": "Esitell\u00e4\u00e4n kilpailu, paikkakunnat ja s\u00e4\u00e4nn\u00f6t. Kapteenit asettavat tavoitteet."
+        },
+        {
+          "number": 2,
+          "title": "Viikko 3: Volyymisota",
+          "description": "Kuka tekee eniten treenej\u00e4? Tampere ja Oulu k\u00e4yv\u00e4t tiukkaa kamppailua."
+        },
+        {
+          "number": 3,
+          "title": "Viikko 6: Yhteis\u00f6haaste",
+          "description": "Pisteit\u00e4 saa tuomalla kaverin salille. Kuinka monta uutta j\u00e4sent\u00e4 kukin paikkakunta saa?"
+        },
+        {
+          "number": 4,
+          "title": "Viikko 9: Yll\u00e4tyshaaste",
+          "description": "Kapteenit haastavat toisensa live-l\u00e4hetyksess\u00e4 \u2013 h\u00e4vi\u00e4j\u00e4 tekee toisen valitseman treenin."
+        },
+        {
+          "number": 5,
+          "title": "Viikko 11: Viimeinen kiri",
+          "description": "Kolme paikkakuntaa j\u00e4ljell\u00e4. Kaikki peliss\u00e4. Dokumentti seuraa loppukirin draamaa."
+        },
+        {
+          "number": 6,
+          "title": "Finaali: Suomen Fittest Paikkakunta",
+          "description": "Live-tapahtuma voittajakaupungissa. Ulkokuntosalin avajaiset. Juhla koko yhteis\u00f6lle."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Yhdist\u00e4\u00e4 kaikki Liikun prioriteetit: laajentuminen (uudet paikkakunnat mukaan), yhteis\u00f6llisyys (j\u00e4senet aktivoituvat), vaikuttavuus (mitattava liikuntam\u00e4\u00e4r\u00e4).",
+        "competitive_differentiation": "Kukaan kilpailija ei ole rakentanut valtakunnallista yhteis\u00f6kilpailua. T\u00e4m\u00e4 on kategoriaa m\u00e4\u00e4ritt\u00e4v\u00e4 liike.",
+        "audience_value_proposition": "Paikallisylpeys + kilpailu + konkreettinen palkinto omalle kaupungille. Syy treenata enemm\u00e4n ja kutsua kaverit mukaan."
+      },
+      "execution": {
+        "complexity": "high",
+        "budget_tier": "premium",
+        "timeline_to_first_episode": "10-12 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Osallistujam\u00e4\u00e4r\u00e4 j\u00e4\u00e4 liian pieneksi \u2013 kilpailu ei saa vauhtia",
+          "mitigation": "Vahva lanseerauskampanja, paikallisvaikuttajat mukaan alusta asti, Liikun oma j\u00e4senviestint\u00e4 aktivoi."
+        },
+        {
+          "risk": "Tekninen toteutus (pisteiden ker\u00e4ys, reaaliaikainen seuranta) ep\u00e4onnistuu",
+          "mitigation": "Integraatio OmaLiikku-sovellukseen varhaisessa vaiheessa. Pilotointi yhdell\u00e4 paikkakunnalla ennen lanseerausta."
+        },
+        {
+          "risk": "Ulkokuntosalin lupaus on kallis ja sitova",
+          "mitigation": "Kumppanuus kaupungin tai kiinteist\u00f6yhti\u00f6n kanssa jakaa kustannuksia. Ulkokuntosali on my\u00f6s Liikun markkinointi-investointi pitk\u00e4ll\u00e4 aikav\u00e4lill\u00e4."
+        }
+      ]
+    }
+  ],
+  "treatment_files": [
+    "/opt/render/project/src/runs/kuntokeskus_liikku/TREATMENTS/kuntokeskus_liikku_TREATMENT_01_20260125_193845.md",
+    "/opt/render/project/src/runs/kuntokeskus_liikku/TREATMENTS/kuntokeskus_liikku_TREATMENT_02_20260125_193845.md",
+    "/opt/render/project/src/runs/kuntokeskus_liikku/TREATMENTS/kuntokeskus_liikku_TREATMENT_03_20260125_193845.md"
+  ],
   "onepager_specs": [],
   "onepagers_skipped": false,
   "onepagers_error": null,
@@ -293,6 +620,15 @@
     {
       "phase": "strategize",
       "started_at": "2026-01-25T19:33:00.964212",
+      "completed_at": "2026-01-25T19:33:02.377726",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "create",
+      "started_at": "2026-01-25T19:33:02.383863",
       "completed_at": null,
       "success": false,
       "error_message": null,
