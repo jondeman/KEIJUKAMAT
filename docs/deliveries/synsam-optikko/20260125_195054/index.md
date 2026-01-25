@@ -16,6 +16,9 @@
 - [Concept 03](concepts/concept_03.md)
 
 ## Treatments
+- [synsam_optikko_TREATMENT_01_20260125_195937.md](treatments/synsam_optikko_TREATMENT_01_20260125_195937.md)
+- [synsam_optikko_TREATMENT_02_20260125_195937.md](treatments/synsam_optikko_TREATMENT_02_20260125_195937.md)
+- [synsam_optikko_TREATMENT_03_20260125_195937.md](treatments/synsam_optikko_TREATMENT_03_20260125_195937.md)
 
 ## One-Pagers
 - [One-Pager 01](onepagers/concept_01.png)

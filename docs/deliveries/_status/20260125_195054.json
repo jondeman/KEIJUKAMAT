@@ -2,8 +2,8 @@
   "run_id": "20260125_195054",
   "company_slug": "synsam-optikko",
   "created_at": "2026-01-25T19:50:54.873011",
-  "updated_at": "2026-01-25T19:53:11.114008",
-  "current_phase": "strategize",
+  "updated_at": "2026-01-25T19:59:37.669988",
+  "current_phase": "create",
   "user_input": {
     "company_name": "Synsam Optikko",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -268,8 +268,341 @@
       "success_hypothesis": "This concept unlocks an untapped opportunity for Synsam Optikko by addressing their underserved audience in a way that creates cultural relevance and positions the brand as an innovator in their space."
     }
   ],
-  "concepts": [],
-  "treatment_files": [],
+  "concepts": [
+    {
+      "id": "concept_01",
+      "title": "Lasien Matka: Tehtaalta Kasvoille",
+      "hook": "Ensimm\u00e4inen suomalainen dokumenttisarja, joka todistaa visuaalisesti mit\u00e4 'Made in Sweden' oikeasti tarkoittaa \u2013 ja miksi se on vastuullisempi valinta.",
+      "premise": "Seurantadokumenttisarja, joka seuraa lasien koko elinkaarta \u00d6stersundin tehtaalta suomalaisten asiakkaiden kasvoille ja takaisin kierr\u00e4tykseen. Jokainen jakso keskittyy yhteen asiakkaaseen ja yhteen lasien pariin, paljastaen samalla tehtaan k\u00e4sity\u00f6l\u00e4iset, suunnittelijat ja kierr\u00e4tysprosessin. Sarjan kautta Synsam todistaa kest\u00e4vyyslupauksensa todeksi sen sijaan, ett\u00e4 vain julistaisi sit\u00e4.",
+      "long_form_extension": "6x25min dokumenttisarja Ruutu+:lle tai MTV Katsomoon. Broadcast-leikkaus 3x42min prime-time-dokumenttina Neloselle tai MTV3:lle teemaotsikolla 'Suomalaisten silm\u00e4lasit'.",
+      "format": {
+        "series_type": "limited",
+        "episode_length": "20-25 minuuttia",
+        "cadence": "Viikoittain",
+        "season_length": "6 jaksoa"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "YouTube",
+          "rationale": "Pitk\u00e4muotoinen dokumentaarinen sis\u00e4lt\u00f6 toimii YouTubessa parhaiten \u2013 katsojat etsiv\u00e4t aktiivisesti syv\u00e4llist\u00e4 sis\u00e4lt\u00f6\u00e4 ja algoritmi palkitsee katseluajasta. Lis\u00e4ksi YouTube on ainoa alusta, jossa 20+ minuutin sis\u00e4lt\u00f6 toimii orgaanisesti.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "TikTok",
+            "rationale": "",
+            "adaptation": "60-90 sekunnin 'Tiesitk\u00f6 t\u00e4m\u00e4n laseistasi?' -klipit tehtaalta: k\u00e4sity\u00f6l\u00e4isten ty\u00f6t\u00e4, yll\u00e4tt\u00e4vi\u00e4 faktoja materiaaleista, kierr\u00e4tyksen vaiheita. Vertikaali, nopea leikkaus, tekstitykset."
+          },
+          {
+            "platform": "Instagram",
+            "rationale": "",
+            "adaptation": "Reels-sarja 'Behind the Frame' \u2013 visuaalisesti n\u00e4ytt\u00e4v\u00e4t 30-60s klipit tehtaan estetiikasta ja lasien valmistuksen yksityiskohdista. Stories-sarja tehtaan ty\u00f6ntekij\u00f6iden arjesta."
+          }
+        ],
+        "amplification": "PR-kampanja tehtaan ensimm\u00e4isest\u00e4 suomalaisesta mediavierailusta. Yhteisty\u00f6 lifestyle- ja kest\u00e4v\u00e4n kehityksen vaikuttajien kanssa, jotka vierailevat tehtaalla osana sarjaa."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Jokainen jakso alkaa tehtaalta: yksi lasien pari syntyy",
+          "Seuraamme lasien matkaa k\u00e4sity\u00f6l\u00e4iselt\u00e4 suunnittelijalle ja pakkaajalle",
+          "Tapaamme suomalaisen asiakkaan, jolle lasit on tarkoitettu",
+          "Jakso p\u00e4\u00e4ttyy 'vuoden p\u00e4\u00e4st\u00e4' -epilogiin: vanhat lasit palaavat kierr\u00e4tykseen"
+        ],
+        "variable_elements": [
+          "Jokaisen jakson asiakas edustaa eri el\u00e4m\u00e4ntilannetta (ensisilm\u00e4lasit, urheilija, el\u00e4kel\u00e4inen, muotisuunnittelija)",
+          "Eri tehtaan osastot ja ty\u00f6ntekij\u00e4t p\u00e4\u00e4osassa",
+          "Vaihtelevat Suomen sijainnit asiakkaiden arjessa"
+        ],
+        "host_approach": "Ei perinteist\u00e4 juontajaa. Kertoja\u00e4\u00e4ni (tunnettu suomalainen n\u00e4yttelij\u00e4, esim. Krista Kosonen) yhdist\u00e4\u00e4 tarinat. Tehtaan ty\u00f6ntekij\u00e4t ja asiakkaat ovat aidot p\u00e4\u00e4henkil\u00f6t."
+      },
+      "brand_integration": {
+        "philosophy": "Br\u00e4ndi on tarinan mahdollistaja, ei sen keskipiste. Synsam n\u00e4kyy luontevasti osana tuotantoketjua ja asiakaskokemusta, mutta fokus on ihmisiss\u00e4 ja k\u00e4sity\u00f6ss\u00e4.",
+        "integration_method": "Tehdas, myym\u00e4l\u00e4t ja tuotteet ovat osa tarinaa orgaanisesti. Lifestyle-sopimus esitell\u00e4\u00e4n asiakkaiden kautta: 'Miksi valitsin t\u00e4m\u00e4n mallin?' Ei suoria mainospuheita.",
+        "screen_time_balance": "75% sis\u00e4lt\u00f6 (ihmiset, prosessi, tarina), 25% br\u00e4ndi (tuotteet, tilat, palvelu)",
+        "cta_approach": "Jaksojen lopussa linkki 'N\u00e4e oma matkasi' -sivulle, jossa voi tutustua tehtaaseen ja varata ajan. Ei aggressiivisia CTA:ita kesken jakson."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Ensimm\u00e4iset lasit",
+          "description": "Seuraamme 12-vuotiaan Eliaksen ensimm\u00e4isten silm\u00e4lasien synty\u00e4 tehtaalla ja sit\u00e4, miten ne muuttavat h\u00e4nen el\u00e4m\u00e4\u00e4ns\u00e4 koulussa."
+        },
+        {
+          "number": 2,
+          "title": "Mestarin k\u00e4det",
+          "description": "Tehtaan kokenein k\u00e4sity\u00f6l\u00e4inen Lars valmistaa erikoistilauksena lasit suomalaiselle muotisuunnittelijalle \u2013 40 vuoden kokemus kohtaa modernin designin."
+        },
+        {
+          "number": 3,
+          "title": "Urheilijan silm\u00e4t",
+          "description": "Maastopy\u00f6r\u00e4ilij\u00e4 Miia tarvitsee lasit, jotka kest\u00e4v\u00e4t Suomen olosuhteet \u2013 seuraamme urheilulasien erityisvaatimuksia ja Miian kautta."
+        },
+        {
+          "number": 4,
+          "title": "Toinen el\u00e4m\u00e4",
+          "description": "Kierr\u00e4tysjakso: seuraamme mit\u00e4 vanhoille laseille oikeasti tapahtuu \u2013 materiaalien uusiok\u00e4ytt\u00f6, Recycling Outlet ja lasien uusi omistaja."
+        },
+        {
+          "number": 5,
+          "title": "N\u00e4kym\u00e4t\u00f6n ty\u00f6",
+          "description": "Tehtaan y\u00f6vuoro: kuka varmistaa laadun kun muut nukkuvat? Tutustumme laadunvalvojiin ja heid\u00e4n tarinoihinsa."
+        },
+        {
+          "number": 6,
+          "title": "Kotiinpaluu",
+          "description": "Kausifinaalissa seuraamme kaikkia sarjan laseja vuoden kuluttua \u2013 miten ne ovat kest\u00e4neet ja mit\u00e4 merkityst\u00e4 niill\u00e4 on ollut kantajilleen."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee suoraan kest\u00e4vyysparadoksin: sarja todistaa visuaalisesti, ett\u00e4 Lifestyle-malli ei ole kulutushysteriaa vaan toimiva kiertotalousmalli. Made in Sweden -lupaus muuttuu abstraktista v\u00e4itteest\u00e4 konkreettiseksi tarinaksi.",
+        "competitive_differentiation": "Kukaan kilpailijoista ei ole avannut tuotantoketjuaan t\u00e4ll\u00e4 tasolla. Specsavers ei voi kopioida (ei omaa tehdasta), Silm\u00e4asema ei voi kopioida (ei omaa tuotantoa). Synsam omistaa t\u00e4m\u00e4n tarinan.",
+        "audience_value_proposition": "Katsojat rakastavat 'miten se tehd\u00e4\u00e4n' -sis\u00e4lt\u00f6\u00e4 (How It's Made -formaatti). Inhimilliset tarinat + k\u00e4sity\u00f6n kauneus + kest\u00e4vyysn\u00e4k\u00f6kulma = sis\u00e4lt\u00f6, jonka yleis\u00f6 valitsee vapaaehtoisesti."
+      },
+      "execution": {
+        "complexity": "medium",
+        "budget_tier": "mid",
+        "timeline_to_first_episode": "10-12 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Tehtaan todellisuus ei vastaa odotuksia \u2013 jos tuotanto on teollisempaa kuin 'k\u00e4sity\u00f6'-mielikuva, viesti k\u00e4\u00e4ntyy itse\u00e4\u00e4n vastaan.",
+          "mitigation": "Ennakkotutkimusmatka tehtaalle ennen tuotantop\u00e4\u00e4t\u00f6st\u00e4. Rehellisyys on vahvuus: modernin tehokkuuden ja k\u00e4sity\u00f6n yhdistelm\u00e4 voi olla jopa kiinnostavampi tarina."
+        },
+        {
+          "risk": "Asiakastarinat j\u00e4\u00e4v\u00e4t pintapuolisiksi tai tuntuvat lavastetuilta.",
+          "mitigation": "Casting-prosessi, jossa etsit\u00e4\u00e4n aidosti kiinnostavia ihmisi\u00e4. Pitk\u00e4 seurantajakso (kuukausia) takaa aitouden. Dokumentaristinen l\u00e4hestymistapa, ei k\u00e4sikirjoitettua draamaa."
+        },
+        {
+          "risk": "Sarjan katsojam\u00e4\u00e4r\u00e4t j\u00e4\u00e4v\u00e4t pieniksi YouTubessa ilman merkitt\u00e4v\u00e4\u00e4 promootiota.",
+          "mitigation": "PR-strategia, jossa tehtaan avoimuus on uutinen itsess\u00e4\u00e4n. Vaikuttajayhteisty\u00f6t tuovat orgaanista n\u00e4kyvyytt\u00e4. Broadcast-jakelu (Nelonen/MTV) tuo massan\u00e4kyvyytt\u00e4."
+        }
+      ]
+    },
+    {
+      "id": "concept_02",
+      "title": "Silm\u00e4lasip\u00e4ivystys",
+      "hook": "TikTokin suosituin optikko ratkaisee suomalaisten pahimmat lasitragediadilemmat \u2013 ja todistaa, ett\u00e4 Synsamin asiantuntijuus on aitoa, ei myyntipuhetta.",
+      "premise": "Viihteellinen TikTok/Reels-sarja, jossa karismaattinen Synsam-optikko vastaa suomalaisten todellisiin lasih\u00e4t\u00e4tilanteisiin: 'Koira s\u00f6i lasini ennen ty\u00f6haastattelua', 'Ek\u00e4 n\u00e4ki mut ilman laseja ja sanoi etten n\u00e4yt\u00e4 samalta', 'Onko ok k\u00e4ytt\u00e4\u00e4 10 vuotta vanhoja laseja?'. Formaatti yhdist\u00e4\u00e4 asiantuntijuuden, huumorin ja samaistuttavuuden tavalla, joka inhimillist\u00e4\u00e4 br\u00e4ndin ja voittaa Specsaversin omalla pelikent\u00e4ll\u00e4\u00e4n.",
+      "long_form_extension": "Kompilointijaksot 'Viikon parhaat h\u00e4t\u00e4tapaukset' (15-20min) YouTubeen. Mahdollisuus kasvattaa 6x22min reality-sarjaksi Ruutu+:lle, jossa seurataan optikon arkea myym\u00e4l\u00e4ss\u00e4 ja ratkaistaan asiakkaiden ongelmia.",
+      "format": {
+        "series_type": "ongoing",
+        "episode_length": "45-90 sekuntia",
+        "cadence": "3-4 kertaa viikossa",
+        "season_length": null
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "TikTok",
+          "rationale": "Asiantuntijaviihde on TikTokin vahvin genre \u2013 l\u00e4\u00e4k\u00e4rit, lakimiehet, psykologit ovat alustalla suosittuja. Optikko on t\u00e4ysin k\u00e4ytt\u00e4m\u00e4t\u00f6n kategoria. Algoritmi suosii s\u00e4\u00e4nn\u00f6llist\u00e4 julkaisua ja kommentteihin vastaamista.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "Instagram Reels",
+            "rationale": "",
+            "adaptation": "Sama sis\u00e4lt\u00f6, mutta hieman hiotumpi visuaalinen ilme. Enemm\u00e4n 'before/after' -tyyppisi\u00e4 lasivalintavideoita."
+          },
+          {
+            "platform": "YouTube Shorts",
+            "rationale": "",
+            "adaptation": "Lyhyet klipit ohjaavat pitkiin YouTube-kompilaatiojaksoihin. 'Katso koko tarina' -linkitys."
+          }
+        ],
+        "amplification": "Duet- ja stitch-haasteet: 'N\u00e4yt\u00e4 sun pahin lasimokailu'. Yhteisty\u00f6 lifestyle- ja huumorivaikuttajien kanssa, jotka tuovat omat 'lasip\u00e4ivystystapauksensa'."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Optikko lukee kameralle todellisen asiakaskysymyksen/ongelman",
+          "'Diagnoosi' \u2013 asiantuntijan\u00e4kemys tilanteesta (opettavainen)",
+          "'Resepti' \u2013 konkreettinen ratkaisu tai neuvo",
+          "Lopussa aina jokin yll\u00e4tt\u00e4v\u00e4 k\u00e4\u00e4nne tai humoristinen elementti"
+        ],
+        "variable_elements": [
+          "Kysymysten aiheet vaihtelevat (tyyli, terveys, arki, sosiaaliset tilanteet)",
+          "Vierailevat asiantuntijat (silm\u00e4l\u00e4\u00e4k\u00e4ri, muotisuunnittelija, urheiluvalmentaja)",
+          "Erikoisjaksot: 'Lasilegenda vai myytti?' -tietoiskut"
+        ],
+        "host_approach": "Yksi p\u00e4\u00e4optikko, joka on aito Synsamin ty\u00f6ntekij\u00e4. Casting-prosessissa etsit\u00e4\u00e4n henkil\u00f6, jolla on luontainen karisma, huumorintaju ja kyky selitt\u00e4\u00e4 asioita ymm\u00e4rrett\u00e4v\u00e4sti. T\u00e4m\u00e4 henkil\u00f6 kasvaa sarjan my\u00f6t\u00e4 'Suomen tunnetuimmaksi optikoksi'."
+      },
+      "brand_integration": {
+        "philosophy": "Br\u00e4ndi n\u00e4kyy asiantuntijuuden kautta, ei tuotepushauksena. Optikko on Synsamin kasvot \u2013 h\u00e4nen osaamisensa = Synsamin osaaminen.",
+        "integration_method": "Kuvaukset Synsam-myym\u00e4l\u00e4ss\u00e4 (tunnistettava ymp\u00e4rist\u00f6). Tuotteet n\u00e4kyv\u00e4t luontevasti ratkaisuissa. Lifestyle-sopimus mainitaan kun se on relevantti ratkaisu ongelmaan ('Jos sulla on Lifestyle-sopimus, t\u00e4\u00e4 tilanne ei olis ollut ongelma').",
+        "screen_time_balance": "90% sis\u00e4lt\u00f6 ja asiantuntijuus, 10% br\u00e4ndin\u00e4kyvyys",
+        "cta_approach": "Bio-linkki profiilissa. Jaksoissa ei suoria CTA:ita \u2013 luottamus rakennetaan pitk\u00e4j\u00e4nteisesti. Kommentteihin vastaaminen ohjaa orgaanisesti ajanvaraukseen."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Koira s\u00f6i lasini",
+          "description": "Klassinen h\u00e4t\u00e4tilanne: mit\u00e4 tehd\u00e4 kun lemmikin hampaat kohtaavat silm\u00e4lasit \u2013 ja miten Lifestyle-sopimus pelastaa p\u00e4iv\u00e4n."
+        },
+        {
+          "number": 2,
+          "title": "Deittilasit",
+          "description": "Seuraaja kysyy: pit\u00e4isik\u00f6 Tinder-kuvissa olla lasit vai ei? Optikko analysoi lasien vaikutusta ensivaikutelmaan ja antaa tyyliohjeet."
+        },
+        {
+          "number": 3,
+          "title": "Isois\u00e4n vanhat lasit",
+          "description": "Voiko k\u00e4ytt\u00e4\u00e4 15 vuotta vanhoja laseja? Optikko selitt\u00e4\u00e4 miksi silm\u00e4lasit 'vanhenevat' ja mit\u00e4 riskej\u00e4 vanhoissa laseissa on."
+        },
+        {
+          "number": 4,
+          "title": "Ty\u00f6haastattelulasit",
+          "description": "Miten valita lasit, jotka viestiv\u00e4t luotettavuutta ja asiantuntijuutta? Optikko avaa lasien psykologiaa ty\u00f6el\u00e4m\u00e4ss\u00e4."
+        },
+        {
+          "number": 5,
+          "title": "Huuruongelma",
+          "description": "Suomalaisten ikuisuusongelma: lasit huurtuvat sis\u00e4lle tullessa. Optikko testaa ja arvioi eri ratkaisuja."
+        },
+        {
+          "number": 6,
+          "title": "Julkkisdiagnoosi",
+          "description": "Optikko analysoi julkkisten lasivalintoja (Stubb, Marin, Sillanp\u00e4\u00e4) \u2013 mit\u00e4 lasit kertovat kantajastaan?"
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee 'Style Expert vs. Myyntitykki' -j\u00e4nnitteen: optikko osoittaa aitoa asiantuntijuutta ilman myyntipainetta. Katsoja oppii luottamaan Synsamiin ennen kuin astuu myym\u00e4l\u00e4\u00e4n.",
+        "competitive_differentiation": "Specsavers omistaa huumorin mainoksissa, mutta ei somessa. Silm\u00e4asema ei tee viihdesis\u00e4lt\u00f6\u00e4. Synsam voi omistaa 'asiantuntijaviihteen' kategorian optikka-alalla.",
+        "audience_value_proposition": "Hy\u00f6dyllist\u00e4 tietoa viihdytt\u00e4v\u00e4ss\u00e4 paketissa. Samaistuttavat ongelmat, jotka jokainen lasienk\u00e4ytt\u00e4j\u00e4 tunnistaa. Jaettavaa sis\u00e4lt\u00f6\u00e4 ('T\u00e4\u00e4 on niin mun tilanne!')."
+      },
+      "execution": {
+        "complexity": "low",
+        "budget_tier": "budget",
+        "timeline_to_first_episode": "4-6 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "V\u00e4\u00e4r\u00e4 kasvo: jos valittu optikko ei ole karismaattinen tai aito, konsepti ei toimi.",
+          "mitigation": "Laaja casting-prosessi Synsamin henkil\u00f6kunnasta. Koekuvaukset ja testisis\u00e4ll\u00f6t ennen julkista lanseerausta. Varahenkil\u00f6 valmiina."
+        },
+        {
+          "risk": "Sis\u00e4lt\u00f6 j\u00e4\u00e4 liian 'mainokseksi' \u2013 TikTok-yleis\u00f6 hylkii br\u00e4ndisis\u00e4lt\u00f6\u00e4.",
+          "mitigation": "Tiukka linja: viihde ja hy\u00f6ty ensin, br\u00e4ndi toisena. Autenttisuus-check jokaiselle videolle: 'Julkaisisiko t\u00e4m\u00e4n henkil\u00f6kohtaisella tilill\u00e4?'"
+        },
+        {
+          "risk": "Kilpailijat kopioivat formaatin nopeasti.",
+          "mitigation": "First mover advantage: ensimm\u00e4inen omistaa kategorian. Optikon henkil\u00f6br\u00e4ndi on vaikea kopioida. Jatkuva kehitys ja yleis\u00f6n sitouttaminen."
+        }
+      ]
+    },
+    {
+      "id": "concept_03",
+      "title": "N\u00e4e Minut",
+      "hook": "Suomen ensimm\u00e4inen cross-platform identiteettisarja, jossa julkkikset ja tavalliset suomalaiset kohtaavat toisensa sokkotyylip\u00e4iv\u00e4ss\u00e4 \u2013 ja lasit ovat avain uuteen min\u00e4kuvaan.",
+      "premise": "Innovatiivinen formaatti, jossa tunnettu suomalainen (n\u00e4yttelij\u00e4, muusikko, urheilija) viett\u00e4\u00e4 p\u00e4iv\u00e4n t\u00e4ysin tuntemattoman suomalaisen kanssa. Kumpikin valitsee toiselleen uudet lasit ilman, ett\u00e4 toinen tiet\u00e4\u00e4 valintaa etuk\u00e4teen. P\u00e4iv\u00e4n lopussa molemmat paljastavat valintansa ja keskustelevat siit\u00e4, miten n\u00e4kev\u00e4t toisensa \u2013 ja itsens\u00e4. Sarja tutkii identiteetti\u00e4, ennakkoluuloja ja sit\u00e4, miten pienikin muutos ulkon\u00e4\u00f6ss\u00e4 voi muuttaa tapaa, jolla n\u00e4emme itsemme.",
+      "long_form_extension": "8x30min reality-sarja Ruutu+:lle tai MTV Katsomoon. Broadcast-leikkaus 4x45min prime-time-sarjana Neloselle teemaotsikolla 'N\u00e4e Minut' \u2013 julkkisvetoinen feel-good-viihde sunnuntai-iltaan.",
+      "format": {
+        "series_type": "seasonal",
+        "episode_length": "25-30 minuuttia",
+        "cadence": "Viikoittain",
+        "season_length": "8 jaksoa"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "Ruutu+ / YouTube",
+          "rationale": "Pitk\u00e4muotoinen reality-sis\u00e4lt\u00f6 vaatii alustan, jossa katsoja sitoutuu koko jaksoon. Ruutu+ tuo suomalaisen streaming-yleis\u00f6n, YouTube tuo kansainv\u00e4lisen l\u00f6ydett\u00e4vyyden ja hakukonen\u00e4kyvyyden.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "TikTok",
+            "rationale": "",
+            "adaptation": "60-sekunnin 'paljastushetket': julkkis n\u00e4kee tavalisen ihmisen valitsemat lasit ensimm\u00e4ist\u00e4 kertaa. Emotionaaliset reaktiot, yll\u00e4tykset, naurun ja liikutuksen hetket."
+          },
+          {
+            "platform": "Instagram",
+            "rationale": "",
+            "adaptation": "Reels-sarja 'Mit\u00e4 lasisi kertoo sinusta?' \u2013 lyhyet tyylipsykologiaklipit. Before/after-kuvat jaksoista. Julkkisosallistujien omat postaukset."
+          }
+        ],
+        "amplification": "Julkkisosallistujien omat somekanavat (orgaaninen levi\u00e4minen). PR-kulma: 'Suomen ensimm\u00e4inen identiteettireality'. Live-tapahtuma kauden p\u00e4\u00e4tteeksi Akun Tehtaalla: katsojat p\u00e4\u00e4sev\u00e4t mukaan sokkotyylip\u00e4iv\u00e4\u00e4n."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Jakson alussa julkkis ja tavallinen suomalainen esitell\u00e4\u00e4n erikseen \u2013 kummankin el\u00e4m\u00e4ntilanne ja suhde omaan ulkon\u00e4k\u00f6\u00f6ns\u00e4",
+          "Sokkotapaaminen: kumpikin n\u00e4kee toisen ensimm\u00e4ist\u00e4 kertaa",
+          "Lasivalinta: kumpikin valitsee toiselle lasit Synsam-myym\u00e4l\u00e4ss\u00e4 ilman, ett\u00e4 toinen tiet\u00e4\u00e4",
+          "Paljastus ja keskustelu: mit\u00e4 valinta kertoo siit\u00e4, miten n\u00e4emme toisemme?",
+          "P\u00e4\u00e4t\u00f6skohtaus: molemmat k\u00e4ytt\u00e4v\u00e4t toistensa valitsemia laseja viikon \u2013 miten se muuttaa heit\u00e4?"
+        ],
+        "variable_elements": [
+          "Julkkisvieraat eri aloilta (musiikki, urheilu, n\u00e4ytteleminen, some)",
+          "Tavalliset suomalaiset eri taustoista ja el\u00e4m\u00e4ntilanteista",
+          "Teemalliset erikoisjaksot (esim. sukupolvien v\u00e4linen jakso: mummo + nuori)"
+        ],
+        "host_approach": "Ei perinteist\u00e4 juontajaa. Jaksojen v\u00e4liin leikataan psykologin tai tyylitutkijan kommentteja, jotka avaavat valintoja syvemm\u00e4ll\u00e4 tasolla. Julkkikset ja tavalliset ihmiset ovat aidot t\u00e4hdet."
+      },
+      "brand_integration": {
+        "philosophy": "Synsam on kohtaamisen mahdollistaja ja identiteetin tutkimisen kumppani. Br\u00e4ndi ei myy laseja \u2013 se auttaa ihmisi\u00e4 n\u00e4kem\u00e4\u00e4n itsens\u00e4 uudessa valossa.",
+        "integration_method": "Lasivalintakohtaukset tapahtuvat Synsam Style Lab -myym\u00e4l\u00e4ss\u00e4. Henkil\u00f6kunta n\u00e4kyy asiantuntijoina, jotka auttavat valinnassa. Lifestyle-sopimus esitell\u00e4\u00e4n luontevasti: 'Voit vaihtaa laseja kun el\u00e4m\u00e4ntilanteesi muuttuu'.",
+        "screen_time_balance": "70% sis\u00e4lt\u00f6 (tarinat, kohtaamiset, keskustelut), 30% br\u00e4ndi (myym\u00e4l\u00e4, tuotteet, asiantuntijat)",
+        "cta_approach": "Jaksojen lopussa kutsu 'Varaa oma tyylip\u00e4iv\u00e4si' \u2013 erikoistarjous, jossa katsoja voi tuoda yst\u00e4v\u00e4n ja valita toisilleen lasit."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "R\u00e4pp\u00e4ri ja rekkakuski",
+          "description": "Tunnettu suomalainen r\u00e4pp\u00e4ri ja pitk\u00e4n linjan rekkakuski kohtaavat \u2013 kaksi t\u00e4ysin eri maailmaa, yksi yhteinen kokemus lasien valinnasta."
+        },
+        {
+          "number": 2,
+          "title": "N\u00e4yttelij\u00e4 ja sairaanhoitaja",
+          "description": "Suosittu TV-n\u00e4yttelij\u00e4 ja y\u00f6vuoroja tekev\u00e4 sairaanhoitaja tutkivat, miten julkisuus ja n\u00e4kym\u00e4tt\u00f6myys vaikuttavat identiteettiin."
+        },
+        {
+          "number": 3,
+          "title": "Urheilijat\u00e4hti ja el\u00e4kel\u00e4inen",
+          "description": "Huippu-urheilija ja 75-vuotias entinen opettaja \u2013 sukupolvien v\u00e4linen dialogi siit\u00e4, miten itsens\u00e4 n\u00e4keminen muuttuu i\u00e4n my\u00f6t\u00e4."
+        },
+        {
+          "number": 4,
+          "title": "Somevaikuttaja ja metsuri",
+          "description": "Miljoonan seuraajan vaikuttaja ja Lapin metsuri \u2013 digitaalinen ja fyysinen maailma kohtaavat."
+        },
+        {
+          "number": 5,
+          "title": "Muusikko ja yksinhuoltaja\u00e4iti",
+          "description": "Tunnettu muusikko ja kolmen lapsen yksinhuoltaja keskustelevat siit\u00e4, milloin viimeksi katsoi itse\u00e4\u00e4n peiliin."
+        },
+        {
+          "number": 6,
+          "title": "Kaksoisjakso: Katsojat mukaan",
+          "description": "Kausifinaalissa kaksi sarjan katsojaa p\u00e4\u00e4see mukaan \u2013 he valitsevat lasit toisilleen ja tapaavat yhden kauden julkkisvieraista."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee 'High Fashion vs. Suomalainen pragmaattisuus' -j\u00e4nnitteen: sarja tuo tyylin alas maan pinnalle, inhimillisiin tarinoihin. Lasit eiv\u00e4t ole muotia vaan identiteetin v\u00e4line \u2013 t\u00e4m\u00e4 resonoi laajemman yleis\u00f6n kanssa.",
+        "competitive_differentiation": "Kukaan optikkoketju ei ole tehnyt tunteisiin vetoavaa reality-sis\u00e4lt\u00f6\u00e4. T\u00e4m\u00e4 ei kilpaile hinnalla (Specsavers) tai l\u00e4\u00e4ketieteell\u00e4 (Silm\u00e4asema) \u2013 se kilpailee merkityksellisyydell\u00e4.",
+        "audience_value_proposition": "Suomalaiset rakastavat kohtaamisia (vrt. Sohvaperunat, Ensitreffit alttarilla). Julkkisvetovoima + samaistuttavat tavalliset ihmiset + emotionaaliset paljastushetket = jaettava sis\u00e4lt\u00f6 ja puheenaihe."
+      },
+      "execution": {
+        "complexity": "high",
+        "budget_tier": "premium",
+        "timeline_to_first_episode": "14-16 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Julkkisten saaminen mukaan voi olla haastavaa \u2013 konsepti vaatii aitoa haavoittuvuutta.",
+          "mitigation": "Aloitetaan julkkiksista, jotka ovat tunnettuja avoimuudestaan. Tarjotaan heille aito mahdollisuus kertoa tarinansa, ei pelkk\u00e4\u00e4 tuote-sijoittelua. WBITVP:n verkostot auttavat bookkauksessa."
+        },
+        {
+          "risk": "Konsepti voi tuntua liian 'syv\u00e4lliselt\u00e4' tai 'hitaalta' nuoremmalle yleis\u00f6lle.",
+          "mitigation": "TikTok-leikkaukset ovat nopeita ja keskittyv\u00e4t reaktioihin ja yll\u00e4tyksiin. Pitk\u00e4 muoto syvemm\u00e4lle kiinnostuneille, lyhyt muoto viraaliin levi\u00e4miseen."
+        },
+        {
+          "risk": "Br\u00e4ndi-integraatio voi tuntua v\u00e4kin\u00e4iselt\u00e4 emotionaalisessa kontekstissa.",
+          "mitigation": "Myym\u00e4l\u00e4kohtaukset kuvataan luontevasti osana matkaa, ei erillisen\u00e4 'mainoskatkona'. Fokus on aina ihmisten tarinassa, lasit ovat v\u00e4line."
+        }
+      ]
+    }
+  ],
+  "treatment_files": [
+    "/opt/render/project/src/runs/synsam_optikko/TREATMENTS/synsam_optikko_TREATMENT_01_20260125_195937.md",
+    "/opt/render/project/src/runs/synsam_optikko/TREATMENTS/synsam_optikko_TREATMENT_02_20260125_195937.md",
+    "/opt/render/project/src/runs/synsam_optikko/TREATMENTS/synsam_optikko_TREATMENT_03_20260125_195937.md"
+  ],
   "onepager_specs": [],
   "onepagers_skipped": false,
   "onepagers_error": null,
@@ -305,6 +638,15 @@
     {
       "phase": "strategize",
       "started_at": "2026-01-25T19:53:11.108207",
+      "completed_at": "2026-01-25T19:53:12.537980",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "create",
+      "started_at": "2026-01-25T19:53:12.545161",
       "completed_at": null,
       "success": false,
       "error_message": null,
