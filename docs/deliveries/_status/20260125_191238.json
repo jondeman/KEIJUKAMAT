@@ -2,8 +2,8 @@
   "run_id": "20260125_191238",
   "company_slug": "halton-oy",
   "created_at": "2026-01-25T19:12:38.514748",
-  "updated_at": "2026-01-25T19:12:40.770228",
-  "current_phase": "strategize",
+  "updated_at": "2026-01-25T19:18:26.926008",
+  "current_phase": "create",
   "user_input": {
     "company_name": "Halton Oy",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -257,8 +257,340 @@
       "success_hypothesis": "This concept unlocks an untapped opportunity for Halton Oy by addressing their aspiration in a way that creates cultural relevance and positions the brand as an innovator in their space."
     }
   ],
-  "concepts": [],
-  "treatment_files": [],
+  "concepts": [
+    {
+      "id": "concept_01",
+      "title": "N\u00e4kym\u00e4t\u00f6n Suojelija \u2013 Tarinoita Leikkaussalien Takaa",
+      "hook": "Dokumenttisarja, joka tekee n\u00e4kyv\u00e4ksi sen n\u00e4kym\u00e4tt\u00f6m\u00e4n turvallisuuden, jonka varassa jokainen leikkaus onnistuu \u2013 ja muuttaa Haltonin insin\u00f6\u00f6ritarinan inhimilliseksi sankaritarinaksi.",
+      "premise": "Jokaisessa jaksossa seurataan yht\u00e4 kriittist\u00e4 leikkausta pohjoismaisessa sairaalassa \u2013 ja rinnalla kulkee tarina siit\u00e4 n\u00e4kym\u00e4tt\u00f6m\u00e4st\u00e4 'suojakilvest\u00e4', jonka puhdas ilma luo potilaan ymp\u00e4rille. Sarja yhdist\u00e4\u00e4 potilastarinat, kirurgien n\u00e4k\u00f6kulman ja Haltonin insin\u00f6\u00f6rien intohimon luoda turvallisuutta. Visuaalisesti n\u00e4ytet\u00e4\u00e4n Innovation Hubin savukokeilla ja lasereilla, miten ilma todella liikkuu \u2013 tiede muuttuu taiteeksi.",
+      "long_form_extension": "6-osainen dokumenttisarja (6x25 min) Ruutu+/Katsomoon, lis\u00e4ksi 45 min erikoisjakso 'Leikkaussalin n\u00e4kym\u00e4t\u00f6n arkkitehtuuri' broadcast-jakeluun (Nelonen/MTV3).",
+      "format": {
+        "series_type": "limited",
+        "episode_length": "20-25 minuuttia",
+        "cadence": "Viikoittain",
+        "season_length": "6 jaksoa + 1 erikoisjakso"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "YouTube",
+          "rationale": "LinkedIn-p\u00e4\u00e4tt\u00e4j\u00e4t jakavat laadukasta YouTube-sis\u00e4lt\u00f6\u00e4, ja pitk\u00e4 dokumentti rakentaa asiantuntijabr\u00e4ndi\u00e4. YouTube toimii sek\u00e4 B2B-tavoittamisessa ett\u00e4 hakukonen\u00e4kyvyydess\u00e4 'sairaalailmastointi' -hakutermeill\u00e4.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "LinkedIn",
+            "rationale": "",
+            "adaptation": "3-5 min editit kunkin jakson avainkohdista, suunnattu sairaaloiden rakennuttajille ja LVI-suunnittelijoille. Kirurgien ja insin\u00f6\u00f6rien sitaatit nostettuna."
+          },
+          {
+            "platform": "Instagram/TikTok",
+            "rationale": "",
+            "adaptation": "60 sekunnin visuaalisesti upeat 'ilman taide' -klipit Innovation Hubin savukokeista \u2013 ASMR-henkinen, hypnoottinen sis\u00e4lt\u00f6, joka n\u00e4ytt\u00e4\u00e4 ilman liikkeen."
+          }
+        ],
+        "amplification": "Yhteisty\u00f6 pohjoismaisten sairaanhoitopiirien viestinn\u00e4n kanssa (case-sairaaloiden omat kanavat), l\u00e4\u00e4k\u00e4ri-influensserit LinkedIniss\u00e4, PR-kampanja 'N\u00e4kym\u00e4tt\u00f6m\u00e4t sankarit' -kulmalla terveydenhuollon ammattimediassa."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Avaus: Potilas valmistautuu leikkaukseen \u2013 inhimillinen panos",
+          "Tiedeosio: Innovation Hubin visualisointi \u2013 miten ilma suojaa",
+          "Insin\u00f6\u00f6ri-insertti: Haltonin asiantuntija kertoo intohimostaan",
+          "Lopetus: Onnistunut leikkaus ja kiitollisuus"
+        ],
+        "variable_elements": [
+          "Eri sairaalat ja leikkaustyypit (syd\u00e4n, ortopedia, lasten)",
+          "Eri insin\u00f6\u00f6rit ja heid\u00e4n taustatarinansa",
+          "Vaihtelevat visualisointitekniikat ilman liikkeelle"
+        ],
+        "host_approach": "Ei perinteist\u00e4 juontajaa \u2013 kerronta rakentuu potilaan, kirurgin ja insin\u00f6\u00f6rin \u00e4\u00e4nill\u00e4. Voice-over on l\u00e4mmin, dokumentaarinen."
+      },
+      "brand_integration": {
+        "philosophy": "Halton on 'n\u00e4kym\u00e4t\u00f6n sankari' \u2013 br\u00e4ndi tulee esiin asiantuntijuuden ja intohimon kautta, ei tuote-esittelyn\u00e4. Fokus on siin\u00e4, mit\u00e4 Halton mahdollistaa (turvallinen leikkaus), ei siin\u00e4 mit\u00e4 he myyv\u00e4t (ilmastointipalkki).",
+        "integration_method": "Insin\u00f6\u00f6rit kertovat ty\u00f6st\u00e4\u00e4n omalla \u00e4\u00e4nell\u00e4\u00e4n, Innovation Hub toimii visuaalisena n\u00e4ytt\u00e4m\u00f6n\u00e4, Halton Vita -konsepti selitet\u00e4\u00e4n potilasturvallisuuden kautta.",
+        "screen_time_balance": "75% inhimilliset tarinat ja tiede, 25% Haltonin rooli ja asiantuntijat",
+        "cta_approach": "Jakson lopussa hienovarainen teksti: 'Halton \u2013 Enabling Wellbeing' ja linkki halton.com/health"
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Ensimm\u00e4inen hengitys",
+          "description": "Vastasyntyneen syd\u00e4nleikkaus HUS:ssa \u2013 miten puhdas ilma suojaa pienint\u00e4 potilasta."
+        },
+        {
+          "number": 2,
+          "title": "Hiljainen kumppani",
+          "description": "Ortopedinen tekonivelleikkaus Karolinskassa \u2013 kirurgi kertoo, miksi h\u00e4n luottaa ilmaan."
+        },
+        {
+          "number": 3,
+          "title": "Savun salaisuus",
+          "description": "Syv\u00e4sukellus Halton Innovation Hubiin \u2013 miten n\u00e4kym\u00e4t\u00f6n tehd\u00e4\u00e4n n\u00e4kyv\u00e4ksi."
+        },
+        {
+          "number": 4,
+          "title": "Toinen mahdollisuus",
+          "description": "Sy\u00f6p\u00e4potilaan leikkaus Oslossa \u2013 infektion v\u00e4ltt\u00e4minen on el\u00e4m\u00e4n ja kuoleman kysymys."
+        },
+        {
+          "number": 5,
+          "title": "Insin\u00f6\u00f6rin intohimo",
+          "description": "Kolmen sukupolven Halton-insin\u00f6\u00f6rien tarinat \u2013 miksi he omistavat el\u00e4m\u00e4ns\u00e4 ilmalle."
+        },
+        {
+          "number": 6,
+          "title": "Tulevaisuuden leikkaussali",
+          "description": "Miten ilmastointi kehittyy \u2013 visio 2030-luvun sairaalasta."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee suoraan j\u00e4nnitteen 'Wellbeing vs. Ruostumaton ter\u00e4s' \u2013 muuttaa teknisen tuotteen inhimilliseksi turvallisuustarinaksi. Vastaa my\u00f6s 'N\u00e4kym\u00e4t\u00f6n sankari' -ongelmaan visualisoimalla ilman liikkeen.",
+        "competitive_differentiation": "Swegon puhuu 'feel good inside' -abstraktiosta, Halton n\u00e4ytt\u00e4\u00e4 konkreettisesti miten turvallisuus syntyy. Kukaan kilpailija ei ole tehnyt dokumentaarista tarinankerrontaa t\u00e4ll\u00e4 tasolla.",
+        "audience_value_proposition": "Katsoja saa koskettavia potilastarinoita, visuaalisesti upeaa tiedett\u00e4 ja ymm\u00e4rryksen siit\u00e4, mit\u00e4 leikkaussalin 'n\u00e4kym\u00e4tt\u00f6m\u00e4t sankarit' tekev\u00e4t. Jaettavaa sis\u00e4lt\u00f6\u00e4 terveydenhuollon ammattilaisille."
+      },
+      "execution": {
+        "complexity": "medium",
+        "budget_tier": "mid",
+        "timeline_to_first_episode": "10-12 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Sairaaloiden ja potilaiden suostumusten saaminen voi olla hidasta",
+          "mitigation": "Aloitetaan yhteisty\u00f6neuvottelut Haltonin olemassa olevien referenssisairaaloiden kanssa (HUS, Karolinska), joissa suhde on jo olemassa."
+        },
+        {
+          "risk": "Liian tekninen sis\u00e4lt\u00f6 voi vieraannuttaa laajemman yleis\u00f6n",
+          "mitigation": "Potilastarinat ovat aina keski\u00f6ss\u00e4 \u2013 tekniikka selitet\u00e4\u00e4n vain sen kautta, mit\u00e4 se merkitsee ihmiselle."
+        }
+      ]
+    },
+    {
+      "id": "concept_02",
+      "title": "Ilman Arkkitehdit",
+      "hook": "TikTok-sarja, jossa Haltonin nuoret insin\u00f6\u00f6rit tekev\u00e4t 'n\u00e4kym\u00e4tt\u00f6m\u00e4st\u00e4 n\u00e4kyv\u00e4\u00e4' \u2013 visuaalisesti hypnoottisia savukokeita ja ilmavirta-ASMR:\u00e4\u00e4, joka saa B2B-br\u00e4ndin trendaamaan.",
+      "premise": "Lyhyt, visuaalisesti addiktoiva sarja, jossa Haltonin Innovation Hubin insin\u00f6\u00f6rit n\u00e4ytt\u00e4v\u00e4t ilman k\u00e4ytt\u00e4ytymist\u00e4 eri tiloissa savun, laserien ja erikoisvalaistuksen avulla. Jokainen video on visuaalinen yll\u00e4tys \u2013 tiede muuttuu taiteeksi. Sis\u00e4lt\u00f6 on suunniteltu pys\u00e4ytt\u00e4m\u00e4\u00e4n scrollauksen ja her\u00e4tt\u00e4m\u00e4\u00e4n kysymyksen: 'Mit\u00e4 t\u00e4ss\u00e4 oikein tapahtuu?'",
+      "long_form_extension": "Behind-the-scenes -dokumentti 'Ilman laboratorio' (3x15 min) YouTubeen, jossa syvennyt\u00e4\u00e4n kokeiden tieteeseen ja insin\u00f6\u00f6rien tarinoihin. Broadcast-erikoisjakso 'Ilman taide ja tiede' (1x45 min) MTV3/Nelonen.",
+      "format": {
+        "series_type": "ongoing",
+        "episode_length": "30-90 sekuntia",
+        "cadence": "3 kertaa viikossa",
+        "season_length": null
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "TikTok",
+          "rationale": "Visuaalisesti hypnoottinen sis\u00e4lt\u00f6 (savu, laserit, ilman liike) on luontaista TikTokin algoritmeille. 'Oddly satisfying' ja tiede-sis\u00e4lt\u00f6 trendaa vahvasti. Tavoittaa nuoremmat insin\u00f6\u00f6rit ja arkkitehdit.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "Instagram Reels",
+            "rationale": "",
+            "adaptation": "Sama sis\u00e4lt\u00f6, mutta hieman hiotumpi estetiikka. K\u00e4ytet\u00e4\u00e4n arkkitehtuuri- ja design-hashtageja."
+          },
+          {
+            "platform": "LinkedIn",
+            "rationale": "",
+            "adaptation": "Valitut 'parhaat palat' -videot insin\u00f6\u00f6rin selityksell\u00e4 \u2013 miksi t\u00e4m\u00e4 ilmi\u00f6 on t\u00e4rke\u00e4 leikkaussalissa."
+          },
+          {
+            "platform": "YouTube Shorts",
+            "rationale": "",
+            "adaptation": "Kaikki TikTok-sis\u00e4lt\u00f6 ristiinjaetaan Shortsiin hakukonen\u00e4kyvyyden vuoksi."
+          }
+        ],
+        "amplification": "Yhteisty\u00f6 tiede-/design-vaikuttajien kanssa (esim. @physicsgirl-tyyppiset), haaste-kampanja '#AirArt' jossa ihmiset visualisoivat ilmaa kotona."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Avaus: Visuaalinen 'hook' \u2013 savu alkaa liikkua odottamattomasti",
+          "Reveal: Mit\u00e4 t\u00e4ss\u00e4 oikein tapahtuu? (teksti ruudulla)",
+          "Loppu: Halton-logo ja 'Making air visible'"
+        ],
+        "variable_elements": [
+          "Eri tilat ja ilmi\u00f6t (leikkaussali, puhdastila, keitti\u00f6)",
+          "Eri visualisointitekniikat (savu, laser, UV-valo, l\u00e4mp\u00f6kamera)",
+          "Vaihtuvat insin\u00f6\u00f6ri-kasvot \u2013 nuoret asiantuntijat"
+        ],
+        "host_approach": "Insin\u00f6\u00f6rit esiintyv\u00e4t kasvoillaan, mutta puhuvat v\u00e4h\u00e4n \u2013 visuaalisuus on p\u00e4\u00e4osassa. Teksti ja grafiikat selitt\u00e4v\u00e4t."
+      },
+      "brand_integration": {
+        "philosophy": "Halton ei myy, vaan n\u00e4ytt\u00e4\u00e4. Br\u00e4ndi on 'ilman taiteen' mahdollistaja \u2013 tieteellinen ja visuaalinen auktoriteetti.",
+        "integration_method": "Innovation Hub on n\u00e4ytt\u00e4m\u00f6, insin\u00f6\u00f6rit ovat kasvot, Halton-logo on hienovaraisesti l\u00e4sn\u00e4. Ei tuote-esittelyj\u00e4.",
+        "screen_time_balance": "90% visuaalinen tiede, 10% br\u00e4ndi-elementit",
+        "cta_approach": "Ei suoraa CTA:ta \u2013 kiinnostuneet hakeutuvat profiiliin ja sielt\u00e4 verkkosivuille."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Leikkaussalin n\u00e4kym\u00e4t\u00f6n muuri",
+          "description": "Savu paljastaa, miten laminaarinen ilmavirta luo 'suojakilven' leikkausp\u00f6yd\u00e4n ymp\u00e4rille."
+        },
+        {
+          "number": 2,
+          "title": "Mit\u00e4 tapahtuu kun avaat oven?",
+          "description": "Dramaattinen visualisointi siit\u00e4, miten oven avaaminen rikkoo puhdastilan ilmavirran."
+        },
+        {
+          "number": 3,
+          "title": "Ilman v\u00e4rit",
+          "description": "L\u00e4mp\u00f6kamera n\u00e4ytt\u00e4\u00e4, miten eri l\u00e4mp\u00f6iset ilmamassat liikkuvat tilassa."
+        },
+        {
+          "number": 4,
+          "title": "Hengityksen matka",
+          "description": "Seurataan yhden hengityksen matkaa huoneessa \u2013 minne bakteerit kulkeutuvat."
+        },
+        {
+          "number": 5,
+          "title": "Hiljainen py\u00f6rre",
+          "description": "ASMR-henkinen video ilman py\u00f6rteist\u00e4 \u2013 hypnoottinen ja rauhoittava."
+        },
+        {
+          "number": 6,
+          "title": "Insin\u00f6\u00f6ri vs. ilma",
+          "description": "Nuori insin\u00f6\u00f6ri yritt\u00e4\u00e4 'huijata' ilmavirtaa \u2013 tiede voittaa aina."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee suoraan j\u00e4nnitteen 'Dynaaminen tiede vs. Staattinen markkinointi' \u2013 hy\u00f6dynt\u00e4\u00e4 Innovation Hubin visuaalista potentiaalia t\u00e4ysill\u00e4. Vastaa my\u00f6s 'N\u00e4kym\u00e4t\u00f6n sankari' -ongelmaan.",
+        "competitive_differentiation": "Kukaan kilpailija ei ole ottanut TikTokia haltuun B2B-ilmastoinnissa. Halton voi omistaa 'ilman visualisointi' -kategorian sosiaalisessa mediassa.",
+        "audience_value_proposition": "Visuaalisesti addiktoivaa sis\u00e4lt\u00f6\u00e4, joka opettaa jotain uutta. 'Oddly satisfying' + tiede = viraalipotentiaali."
+      },
+      "execution": {
+        "complexity": "low",
+        "budget_tier": "budget",
+        "timeline_to_first_episode": "4-6 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "B2B-br\u00e4ndin TikTok voi tuntua ep\u00e4uskottavalta",
+          "mitigation": "Sis\u00e4lt\u00f6 on aidosti kiinnostavaa ja opettavaista \u2013 ei 'fellow kids' -yrityst\u00e4. Insin\u00f6\u00f6rit ovat aitoja, eiv\u00e4t n\u00e4yttelij\u00f6it\u00e4."
+        },
+        {
+          "risk": "Sis\u00e4ll\u00f6n tuotanto vaatii p\u00e4\u00e4sy\u00e4 Innovation Hubiin s\u00e4\u00e4nn\u00f6llisesti",
+          "mitigation": "Kuvataan eriss\u00e4 \u2013 yksi kuvausp\u00e4iv\u00e4 tuottaa 10-15 videota. Yhteisty\u00f6 Haltonin R&D-tiimin kanssa."
+        }
+      ]
+    },
+    {
+      "id": "concept_03",
+      "title": "Hengit\u00e4 \u2013 24 tuntia sairaalan ilmassa",
+      "hook": "Crossmedia-kokemus, jossa katsoja el\u00e4\u00e4 24 tuntia sairaalan ilmassa \u2013 interaktiivinen live-striimi, dokumenttisarja ja osallistava kampanja, joka tekee n\u00e4kym\u00e4tt\u00f6m\u00e4st\u00e4 p\u00e4\u00e4henkil\u00f6n.",
+      "premise": "Suuri crossmedia-lanseeraus, jossa Halton 'avaa' uuden pohjoismaisen sairaalan ilmastoinnin yleis\u00f6lle. 24 tunnin live-striimi seuraa sairaalan ensimm\u00e4ist\u00e4 toimintap\u00e4iv\u00e4\u00e4 ilman n\u00e4k\u00f6kulmasta \u2013 kamerat Innovation Hubin tyyppisess\u00e4 visualisointitilassa n\u00e4ytt\u00e4v\u00e4t reaaliajassa, miten ilma liikkuu eri osastoilla. Rinnalla dokumenttisarja, joka seuraa rakennusprosessia ja insin\u00f6\u00f6rien ty\u00f6t\u00e4. Yleis\u00f6 voi osallistua kysym\u00e4ll\u00e4 ja \u00e4\u00e4nest\u00e4m\u00e4ll\u00e4.",
+      "long_form_extension": "4-osainen dokumenttisarja 'Sairaalan n\u00e4kym\u00e4t\u00f6n rakentaja' (4x30 min) Ruutu+/Katsomoon, broadcast-erikoisjakso MTV3:lle. Live-tapahtuma Akun Tehtaalla, jossa yleis\u00f6 voi kokea ilman visualisoinnin fyysisesti.",
+      "format": {
+        "series_type": "event",
+        "episode_length": "24h live + 30 min dokumenttijaksot",
+        "cadence": "Kertaluonteinen tapahtuma + viikoittainen dokumenttisarja",
+        "season_length": "1 live-tapahtuma + 4 dokumenttijaksoa"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "YouTube",
+          "rationale": "24h live-striimi YouTubessa ker\u00e4\u00e4 huomiota ja luo 'tapahtuman' tunteen. Dokumenttisarja j\u00e4\u00e4 el\u00e4m\u00e4\u00e4n samalle kanavalle.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "LinkedIn",
+            "rationale": "",
+            "adaptation": "Reaaliaikaiset p\u00e4ivitykset live-striimist\u00e4, asiantuntijakommentit, behind-the-scenes insin\u00f6\u00f6reilt\u00e4."
+          },
+          {
+            "platform": "TikTok/Instagram",
+            "rationale": "",
+            "adaptation": "Highlight-klipit live-striimist\u00e4, 'mit\u00e4 tapahtuu juuri nyt' -p\u00e4ivitykset, osallistava haaste."
+          },
+          {
+            "platform": "Akun Tehdas (live)",
+            "rationale": "",
+            "adaptation": "Fyysinen kokemus Helsingiss\u00e4, jossa yleis\u00f6 voi astua 'ilman sis\u00e4\u00e4n' \u2013 savuhuone, visualisoinnit, insin\u00f6\u00f6rien l\u00e4sn\u00e4olo."
+          }
+        ],
+        "amplification": "PR-kampanja 'Sairaalan n\u00e4kym\u00e4t\u00f6n avajaiset', yhteisty\u00f6 sairaalan viestinn\u00e4n kanssa, terveydenhuollon median huomio, vaikuttajayhteisty\u00f6 l\u00e4\u00e4k\u00e4reiden ja arkkitehtien kanssa."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Live: Reaaliaikainen ilman visualisointi eri osastoilla",
+          "Dokumentti: Insin\u00f6\u00f6rien tarinat ja rakennusprosessi",
+          "Osallistavuus: Yleis\u00f6n kysymykset ja \u00e4\u00e4nestykset"
+        ],
+        "variable_elements": [
+          "Eri osastot ja tilanteet (leikkaussali, synnytysosasto, teho)",
+          "Eri insin\u00f6\u00f6rit ja heid\u00e4n erikoisalansa",
+          "Yll\u00e4tykset ja reaaliaikaiset tapahtumat"
+        ],
+        "host_approach": "Dokumenttisarjassa voice-over-kerronta, live-striimiss\u00e4 insin\u00f6\u00f6rit kommentoivat vuoroissa. Mahdollinen julkkis-juontaja live-tapahtumaan (esim. Juhani Tamminen tai muu 'luotettava \u00e4\u00e4ni')."
+      },
+      "brand_integration": {
+        "philosophy": "Halton on tapahtuman mahdollistaja ja 'n\u00e4kym\u00e4tt\u00f6m\u00e4n rakentaja'. Br\u00e4ndi on l\u00e4sn\u00e4 kaikkialla, mutta fokus on sairaalan ja potilaiden hyvinvoinnissa.",
+        "integration_method": "Halton-insin\u00f6\u00f6rit ovat dokumentin p\u00e4\u00e4henkil\u00f6it\u00e4, Innovation Hub -teknologia on visualisoinnin ydin, Halton Vita -konsepti esitell\u00e4\u00e4n k\u00e4yt\u00e4nn\u00f6ss\u00e4.",
+        "screen_time_balance": "60% sairaala ja potilaat, 40% Haltonin rooli ja teknologia",
+        "cta_approach": "Live-striimin aikana mahdollisuus varata Innovation Hub -vierailu, dokumentin lopussa linkki halton.com/health."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Ennen avajaisia",
+          "description": "Dokumenttijakso: Miten sairaalan ilmastointi suunnitellaan ja rakennetaan \u2013 18 kuukauden matka."
+        },
+        {
+          "number": 2,
+          "title": "24 tuntia ilmassa (LIVE)",
+          "description": "Reaaliaikainen striimi sairaalan ensimm\u00e4isest\u00e4 toimintap\u00e4iv\u00e4st\u00e4 ilman n\u00e4k\u00f6kulmasta."
+        },
+        {
+          "number": 3,
+          "title": "Leikkaussalin ensimm\u00e4inen p\u00e4iv\u00e4",
+          "description": "Dokumenttijakso: Seurataan ensimm\u00e4ist\u00e4 leikkausta ja ilmastoinnin toimintaa."
+        },
+        {
+          "number": 4,
+          "title": "Insin\u00f6\u00f6rin unelma",
+          "description": "Dokumenttijakso: Halton-insin\u00f6\u00f6ri, joka on ty\u00f6skennellyt projektin parissa 3 vuotta, n\u00e4kee ty\u00f6ns\u00e4 tuloksen."
+        },
+        {
+          "number": 5,
+          "title": "N\u00e4kym\u00e4t\u00f6n vartija",
+          "description": "Dokumenttijakso: Miten ilmastointi suojaa potilaita 24/7 \u2013 y\u00f6vuoro sairaalassa."
+        },
+        {
+          "number": 6,
+          "title": "Akun Tehdas: Astu ilman sis\u00e4\u00e4n",
+          "description": "Live-tapahtuma Helsingiss\u00e4, jossa yleis\u00f6 kokee ilman visualisoinnin fyysisesti."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee kaikki nelj\u00e4 strategista j\u00e4nnitett\u00e4 kerralla: tekee n\u00e4kym\u00e4tt\u00f6m\u00e4st\u00e4 n\u00e4kyv\u00e4\u00e4, inhimillist\u00e4\u00e4 br\u00e4ndin, hy\u00f6dynt\u00e4\u00e4 R&D:n visuaalisen potentiaalin ja myy mielenrauhaa teknisten speksien sijaan.",
+        "competitive_differentiation": "Kukaan kilpailija ei ole tehnyt mit\u00e4\u00e4n vastaavaa \u2013 t\u00e4m\u00e4 on kategorian m\u00e4\u00e4rittelev\u00e4 teko. Halton omistaa 'sairaalan n\u00e4kym\u00e4t\u00f6n rakentaja' -position.",
+        "audience_value_proposition": "Ainutlaatuinen p\u00e4\u00e4sy sairaalan 'kulissien taakse', osallistava kokemus, visuaalisesti upea ja opettava. Jaettava ja puheenaihetta her\u00e4tt\u00e4v\u00e4."
+      },
+      "execution": {
+        "complexity": "high",
+        "budget_tier": "premium",
+        "timeline_to_first_episode": "16-20 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Uuden sairaalan aikataulu voi muuttua",
+          "mitigation": "Valitaan projekti, joka on jo loppusuoralla (esim. HUS:n tai Karolinskan laajennus). Varasuunnitelmana vanhemman sairaalan 'ilmastoinnin p\u00e4ivitys' -tarina."
+        },
+        {
+          "risk": "24h live-striimi vaatii merkitt\u00e4vi\u00e4 resursseja",
+          "mitigation": "Yhteisty\u00f6 Akun Tehtaan live-tuotanto-osaamisen kanssa. Striimi voidaan toteuttaa 'highlight-ikkunoina' t\u00e4yden 24h sijaan."
+        },
+        {
+          "risk": "Sairaalaymp\u00e4rist\u00f6n sensitiivisyys \u2013 potilasyksityisyys",
+          "mitigation": "Kaikki kuvaus tapahtuu teknisiss\u00e4 tiloissa ja visualisointihuoneissa, ei potilasalueilla. Yhteisty\u00f6 sairaalan viestinn\u00e4n kanssa."
+        }
+      ]
+    }
+  ],
+  "treatment_files": [
+    "/opt/render/project/src/runs/halton_oy/TREATMENTS/halton_oy_TREATMENT_01_20260125_191826.md",
+    "/opt/render/project/src/runs/halton_oy/TREATMENTS/halton_oy_TREATMENT_02_20260125_191826.md",
+    "/opt/render/project/src/runs/halton_oy/TREATMENTS/halton_oy_TREATMENT_03_20260125_191826.md"
+  ],
   "onepager_specs": [],
   "onepagers_skipped": false,
   "onepagers_error": null,
@@ -285,6 +617,15 @@
     {
       "phase": "strategize",
       "started_at": "2026-01-25T19:12:40.764849",
+      "completed_at": "2026-01-25T19:12:42.200468",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "create",
+      "started_at": "2026-01-25T19:12:42.207838",
       "completed_at": null,
       "success": false,
       "error_message": null,
