@@ -26,10 +26,14 @@
 - [One-Pager 03](onepagers/concept_03.png)
 
 ## One-Pager PDFs
-- (PDF-toimitukset puuttuvat: generointi epäonnistui tai kuvat puuttuivat)
+- [One-Pager 01 PDF](onepagers/concept_01.pdf)
+- [One-Pager 02 PDF](onepagers/concept_02.pdf)
+- [One-Pager 03 PDF](onepagers/concept_03.pdf)
 
 ## One-Pager Prompts
-- (No prompts found)
+- [onepager_prompt_concept_01_20260125_191601.md](onepagers/prompts/onepager_prompt_concept_01_20260125_191601.md)
+- [onepager_prompt_concept_02_20260125_191601.md](onepagers/prompts/onepager_prompt_concept_02_20260125_191601.md)
+- [onepager_prompt_concept_03_20260125_191601.md](onepagers/prompts/onepager_prompt_concept_03_20260125_191601.md)
 
 ## Delivery
 - [Pitch Email](delivery/pitch_email.md)
