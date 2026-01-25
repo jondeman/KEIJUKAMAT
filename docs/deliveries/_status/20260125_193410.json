@@ -2,8 +2,8 @@
   "run_id": "20260125_193410",
   "company_slug": "fitness24seven",
   "created_at": "2026-01-25T19:34:10.193611",
-  "updated_at": "2026-01-25T19:36:15.620862",
-  "current_phase": "strategize",
+  "updated_at": "2026-01-25T19:41:53.411047",
+  "current_phase": "create",
   "user_input": {
     "company_name": "Fitness24Seven",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -252,8 +252,346 @@
       "success_hypothesis": "This concept unlocks an untapped opportunity for Fitness24Seven by addressing their aspiration in a way that creates cultural relevance and positions the brand as an innovator in their space."
     }
   ],
-  "concepts": [],
-  "treatment_files": [],
+  "concepts": [
+    {
+      "id": "concept_01",
+      "title": "Y\u00f6salin Sankarit",
+      "hook": "Dokumentaarinen sarja, joka muuttaa F24S:n suurimman heikkouden \u2013 miehitt\u00e4m\u00e4tt\u00f6myyden \u2013 vahvuudeksi n\u00e4ytt\u00e4m\u00e4ll\u00e4 y\u00f6ll\u00e4 treenaavien suomalaisten aidot tarinat.",
+      "premise": "Joka jakso seuraamme yht\u00e4 tavallista suomalaista, joka treenaa y\u00f6aikaan F24S:n saleilla. Vuoroty\u00f6l\u00e4inen, yksinhuoltaja, unettomuudesta k\u00e4rsiv\u00e4 \u2013 jokaisen takana on tarina siit\u00e4, miksi juuri y\u00f6 on heid\u00e4n hetkens\u00e4. Sarja paljastaa hiljaisen, intiimin puolen suomalaisesta sisukkuudesta ja tekee tyhj\u00e4st\u00e4 salista turvallisen pakopaikan.",
+      "long_form_extension": "Sarjasta kootaan 3x45min dokumenttielokuva Ruutu+:aan ja Katsomoon otsikolla 'Y\u00f6n Treenaajat \u2013 Suomalainen Sisu'. Lis\u00e4ksi 60min broadcast cut Neloselle tammikuun 'uusi alku' -sesongille.",
+      "format": {
+        "series_type": "seasonal",
+        "episode_length": "10-14 minuuttia",
+        "cadence": "Viikoittain",
+        "season_length": "8 jaksoa"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "YouTube",
+          "rationale": "YouTube mahdollistaa dokumentaarisen kerronnan t\u00e4ydess\u00e4 mitassaan, ja pitk\u00e4muotoinen sis\u00e4lt\u00f6 rakentaa syvemp\u00e4\u00e4 br\u00e4ndiyhteytt\u00e4 kuin lyhytformaatti. Suomalainen dokumenttisis\u00e4lt\u00f6 menestyy YouTubessa erinomaisesti.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "TikTok",
+            "rationale": "",
+            "adaptation": "30-60 sekunnin 'Kuka treenaa klo 3?' -teaserklippej\u00e4, joissa paljastetaan henkil\u00f6n ty\u00f6 mutta ei tarinaa \u2013 ohjaa YouTubeen."
+          },
+          {
+            "platform": "Instagram",
+            "rationale": "",
+            "adaptation": "Reels-versiot parhaista hetkist\u00e4 + behind-the-scenes -sis\u00e4lt\u00f6\u00e4 kuvausp\u00e4ivilt\u00e4. Stories-sarjana 'Y\u00f6n kysymys' -interaktio."
+          }
+        ],
+        "amplification": "PR-kampanja paikallismedioissa ('Kuka treenaa naapurissasi y\u00f6ll\u00e4?'), yhteisty\u00f6 vuoroty\u00f6liittojen ja -j\u00e4rjest\u00f6jen kanssa orgaaniseen levi\u00e4miseen."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Jakso alkaa aina klo 02:00-04:00 tyhj\u00e4ll\u00e4 salilla \u2013 kamera odottaa",
+          "Henkil\u00f6n 'miksi y\u00f6?' -monologi kesken treenin",
+          "Lopussa sama henkil\u00f6 p\u00e4iv\u00e4saikaan normaalissa arjessaan \u2013 kontrasti"
+        ],
+        "variable_elements": [
+          "Eri salit ymp\u00e4ri Suomea (Helsinki, Oulu, Tampere, Kuopio)",
+          "Eri ammatit ja el\u00e4m\u00e4ntilanteet",
+          "Eri treenimuodot (voimaharjoittelu, ryhm\u00e4liikunta yksin, cardio)"
+        ],
+        "host_approach": "Ei juontajaa \u2013 puhdas dokumentaarinen ote. Voice-over vain tarvittaessa selitt\u00e4m\u00e4\u00e4n kontekstia. Henkil\u00f6t kertovat itse tarinansa."
+      },
+      "brand_integration": {
+        "philosophy": "F24S on mahdollistaja, ei p\u00e4\u00e4henkil\u00f6. Br\u00e4ndi n\u00e4kyy luontevasti ymp\u00e4rist\u00f6n\u00e4 ja 24/7-lupauksen todistajana.",
+        "integration_method": "Sali on autenttinen kuvausymp\u00e4rist\u00f6, F24S-logo n\u00e4kyy luontevasti. Jakson lopussa teksti: 'Fitness24Seven \u2013 Auki silloin kun sin\u00e4 tarvitset.'",
+        "screen_time_balance": "85% tarina ja henkil\u00f6, 15% br\u00e4ndiymp\u00e4rist\u00f6",
+        "cta_approach": "Pehme\u00e4 CTA jakson lopussa: 'L\u00f6yd\u00e4 l\u00e4hin salisi osoitteesta fitness24seven.fi' \u2013 ei aggressiivista myynti\u00e4."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Y\u00f6vuoron j\u00e4lkeen",
+          "description": "Sairaanhoitaja Minna treenaa klo 03:30 p\u00e4\u00e4st\u00e4kseen eroon y\u00f6vuoron stressist\u00e4 ennen kotiin menoa."
+        },
+        {
+          "number": 2,
+          "title": "Unettomuuden voittaja",
+          "description": "IT-yritt\u00e4j\u00e4 Mikko l\u00f6ysi klo 04:00 treenin ratkaisuksi krooniseen unettomuuteensa \u2013 nyt se on h\u00e4nen meditaationsa."
+        },
+        {
+          "number": 3,
+          "title": "Yksinhuoltajan hiljaiset tunnit",
+          "description": "Kolmen lapsen \u00e4iti Sanna treenaa y\u00f6ll\u00e4, koska se on ainoa aika joka on vain h\u00e4nelle itselleen."
+        },
+        {
+          "number": 4,
+          "title": "Rekkakuskin tauko",
+          "description": "Pitk\u00e4n matkan kuljettaja Jari pys\u00e4k\u00f6i rekkansa ja k\u00e4y treenaamassa keskell\u00e4 y\u00f6t\u00e4 aina samalla salilla Tampereella."
+        },
+        {
+          "number": 5,
+          "title": "Opiskelijan deadline",
+          "description": "L\u00e4\u00e4ketieteen opiskelija Aino treenaa tenttilukujen v\u00e4liss\u00e4 y\u00f6ll\u00e4 pit\u00e4\u00e4kseen mielens\u00e4 kirkkaana."
+        },
+        {
+          "number": 6,
+          "title": "El\u00e4kel\u00e4isen uusi alku",
+          "description": "70-vuotias Erkki aloitti y\u00f6treenit vaimonsa kuoleman j\u00e4lkeen \u2013 sali on h\u00e4nen uusi yhteis\u00f6ns\u00e4, vaikka siell\u00e4 ei ole ket\u00e4\u00e4n."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee suoraan j\u00e4nnitteen 'Aina auki vs. Olet omillasi' \u2013 muuttaa miehitt\u00e4m\u00e4tt\u00f6myyden turvattomuudesta intiimiksi vapaudeksi ja n\u00e4ytt\u00e4\u00e4, ett\u00e4 tyhj\u00e4 sali on joidenkin paras yst\u00e4v\u00e4.",
+        "competitive_differentiation": "Elixia ja SATS eiv\u00e4t voi tehd\u00e4 t\u00e4t\u00e4 \u2013 heid\u00e4n br\u00e4ndins\u00e4 perustuu yhteis\u00f6\u00f6n ja palveluun. F24S omistaa 'hiljaisen treenaajan' position dokumentaarisella todistusaineistolla.",
+        "audience_value_proposition": "Aidot, koskettavat tarinat tavallisista suomalaisista resonoivat laajasti. Katsojat tunnistavat itsens\u00e4 tai l\u00e4hipiirins\u00e4 \u2013 jaettavuus syntyy samaistumisesta."
+      },
+      "execution": {
+        "complexity": "medium",
+        "budget_tier": "mid",
+        "timeline_to_first_episode": "10-12 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Tarinoiden l\u00f6yt\u00e4minen voi olla haastavaa \u2013 oikeat henkil\u00f6t pit\u00e4\u00e4 castata huolella.",
+          "mitigation": "Aloitetaan casting-kampanja F24S:n omissa kanavissa ja paikallismedioissa 6 viikkoa ennen tuotantoa. Varahenkil\u00f6it\u00e4 jokaiselle jaksolle."
+        },
+        {
+          "risk": "Y\u00f6kuvaukset ovat teknisesti haastavia (valaistus, \u00e4\u00e4ni tyhj\u00e4ss\u00e4 tilassa).",
+          "mitigation": "K\u00e4ytet\u00e4\u00e4n dokumenttituotantoon erikoistunutta tiimi\u00e4 ja testataan tekninen setup etuk\u00e4teen kahdella eri salilla."
+        },
+        {
+          "risk": "Liian synkk\u00e4 tai raskas tunnelma voi karkottaa katsojia.",
+          "mitigation": "Jokainen jakso p\u00e4\u00e4ttyy toiveikkaaseen tai voimaannuttavaan hetkeen \u2013 rakenne on 'haaste \u2192 ratkaisu \u2192 valo'."
+        }
+      ]
+    },
+    {
+      "id": "concept_02",
+      "title": "Salimokat \u2013 Treeni ilman filtteri\u00e4",
+      "hook": "Vaikuttajavetoinen anti-fitness-sarja, jossa tunnetut suomalaiset n\u00e4ytt\u00e4v\u00e4t ep\u00e4t\u00e4ydellisimm\u00e4t treenihetkens\u00e4 ja murskaavat kuntosalien t\u00e4ydellisyyskulttuurin.",
+      "premise": "Joka jaksossa tunnettu suomalainen vaikuttaja tai julkkis tulee F24S-salille tekem\u00e4\u00e4n treenin \u2013 mutta kaikki menee pieleen. V\u00e4\u00e4r\u00e4 laite, noloimpmat mokailut, hikiset ep\u00e4onnistumiset. Sarja on vastamyrkky kiillotettuun fitness-sis\u00e4lt\u00f6\u00f6n ja todistaa, ett\u00e4 paras treeni on se joka tehd\u00e4\u00e4n, ei se joka n\u00e4ytt\u00e4\u00e4 hyv\u00e4lt\u00e4.",
+      "long_form_extension": "Kauden p\u00e4\u00e4tteeksi 45min 'Salimokat Gala' -erikoisjakso, jossa kauden parhaat mokailut ja behind-the-scenes-materiaali. Sopii Ruutu+:n tai Katsomon viihdesis\u00e4ll\u00f6ksi.",
+      "format": {
+        "series_type": "ongoing",
+        "episode_length": "3-5 minuuttia (TikTok/Reels-natiivi)",
+        "cadence": "2x viikossa",
+        "season_length": null
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "TikTok",
+          "rationale": "TikTok on ep\u00e4t\u00e4ydellisyyden ja autenttisuuden koti. Formaatti sopii t\u00e4ydellisesti alustan 'real over perfect' -kulttuuriin ja mahdollistaa viraaliuden.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "Instagram Reels",
+            "rationale": "",
+            "adaptation": "Sama sis\u00e4lt\u00f6, mutta editoitu hieman tiiviimm\u00e4ksi ja lis\u00e4tty tekstiotsikot suomeksi ja englanniksi."
+          },
+          {
+            "platform": "YouTube Shorts",
+            "rationale": "",
+            "adaptation": "Parhaat mokailut kootaan 60 sekunnin kompilaatoiksi viikoittain."
+          }
+        ],
+        "amplification": "Vaikuttajat jakavat omissa kanavissaan (orgaaninen reach), paid boost parhaimmille jaksoille. Haastekampanja: #Salimoka \u2013 k\u00e4ytt\u00e4j\u00e4t jakavat omia mokiaan."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Intro: 'T\u00e4n\u00e4\u00e4n salilla [Nimi], tavoitteena [liike]. Katsotaan miten k\u00e4y.'",
+          "Kolme yrityst\u00e4 \u2013 jokainen menee enemm\u00e4n pieleen",
+          "Lopussa rehellinen reaktio ja nauru: 'Noh, ainakin tein jotain.'"
+        ],
+        "variable_elements": [
+          "Eri vaikuttajat joka jaksossa",
+          "Eri laitteet ja liikkeet",
+          "Eri salit ymp\u00e4ri Suomea"
+        ],
+        "host_approach": "Ei erillist\u00e4 juontajaa \u2013 vaikuttaja on p\u00e4\u00e4henkil\u00f6 ja kertoja. Off-screen tuotantotiimi voi kommentoida/nauraa."
+      },
+      "brand_integration": {
+        "philosophy": "F24S on paikka, jossa saa mokailla \u2013 ei tuomita, ei katsota pahasti. Br\u00e4ndi on 'safe space' ep\u00e4t\u00e4ydellisyydelle.",
+        "integration_method": "Sali n\u00e4kyy luontevasti, laitteet ovat F24S:n. Jakson lopussa teksti: 'Fitness24Seven \u2013 T\u00e4\u00e4ll\u00e4 saa mokailla.'",
+        "screen_time_balance": "90% vaikuttaja ja moka, 10% br\u00e4ndiymp\u00e4rist\u00f6",
+        "cta_approach": "Kevyt CTA: 'Kokeile itse \u2013 ensimm\u00e4inen kuukausi 9,90\u20ac' \u2013 sopii huumoriin."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Roni B\u00e4ck vs. Soutulaite",
+          "description": "Tubettaja Roni B\u00e4ck yritt\u00e4\u00e4 oppia soutulaitteen oikean tekniikan \u2013 tuloksena kolme t\u00e4ysin eri versiota, kaikki v\u00e4\u00e4rin."
+        },
+        {
+          "number": 2,
+          "title": "Sara Sieppi ja jalkapr\u00e4ssi",
+          "description": "Somevaikuttaja Sara Sieppi testaa jalkapr\u00e4ssi\u00e4 ensimm\u00e4ist\u00e4 kertaa \u2013 h\u00e4mmennys painojen kanssa on taattu."
+        },
+        {
+          "number": 3,
+          "title": "Juhani Tamminen opettelee k\u00e4sipainoja",
+          "description": "Legendaarinen j\u00e4\u00e4kiekkovalmentaja kokeilee biceps-curleja \u2013 kommentoi samalla omaa tekniikkaansa j\u00e4\u00e4kiekkotermein."
+        },
+        {
+          "number": 4,
+          "title": "Veronica Verho ja TRX-nauhat",
+          "description": "Toimittaja-juontaja sotkeutuu TRX-nauhoihin tavalla, jota ei pit\u00e4isi olla mahdollista."
+        },
+        {
+          "number": 5,
+          "title": "Mikael Gabriel treenaa hartioita",
+          "description": "R\u00e4pp\u00e4ri yritt\u00e4\u00e4 tehd\u00e4 olkap\u00e4\u00e4liikkeit\u00e4, mutta sekoittaa jokaisen laitteen s\u00e4\u00e4d\u00f6t."
+        },
+        {
+          "number": 6,
+          "title": "Hjallis Harkimo ja juoksumatolla",
+          "description": "Liikemies testaa juoksumaton intervalliominaisuutta \u2013 nopeudenvaihtelut tulevat yll\u00e4tyksen\u00e4."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee j\u00e4nnitteen 'Demokraattisuus vs. Geneerisyys' \u2013 n\u00e4ytt\u00e4\u00e4, ett\u00e4 F24S on paikka kaikille, my\u00f6s niille jotka eiv\u00e4t tied\u00e4 mit\u00e4 tekev\u00e4t. Luo inhimillisen, samaistuttavan br\u00e4ndi-ilmeen.",
+        "competitive_differentiation": "Elixia ei voi tehd\u00e4 t\u00e4t\u00e4 \u2013 heid\u00e4n br\u00e4ndins\u00e4 perustuu t\u00e4ydellisyyteen. F24S omistaa 'imperfect fitness' -position ja erottuu selke\u00e4sti.",
+        "audience_value_proposition": "Huumori + tunnistettavat kasvot + samaistuttavuus = viraalipotentiaali. Katsoja ajattelee: 'Jos hekin mokaavat, min\u00e4kin voin yritt\u00e4\u00e4.'"
+      },
+      "execution": {
+        "complexity": "low",
+        "budget_tier": "mid",
+        "timeline_to_first_episode": "6-8 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Vaikuttajat eiv\u00e4t halua n\u00e4ytt\u00e4\u00e4 itsest\u00e4\u00e4n 'huonoa' puolta.",
+          "mitigation": "Valitaan vaikuttajia, joiden br\u00e4ndi perustuu jo autenttisuuteen ja huumoriin. Briefataan etuk\u00e4teen: t\u00e4m\u00e4 on positiivista \u2013 saat sympatiaa, et pilkkaa."
+        },
+        {
+          "risk": "Sis\u00e4lt\u00f6 voi tuntua teenn\u00e4iselt\u00e4 jos mokailut ovat lavastettuja.",
+          "mitigation": "Aidot tilanteet \u2013 vaikuttajat tekev\u00e4t oikeasti liikkeit\u00e4 joita eiv\u00e4t osaa. Kamera py\u00f6rii koko ajan, editointi poimii parhaat."
+        },
+        {
+          "risk": "Br\u00e4ndi voi n\u00e4ytt\u00e4\u00e4 halvalta jos huumori menee liian pitk\u00e4lle.",
+          "mitigation": "Tone of voice on l\u00e4mmin ja kannustava, ei ilke\u00e4. Jokainen jakso p\u00e4\u00e4ttyy positiiviseen viestiin: 'Paras treeni on se joka tehd\u00e4\u00e4n.'"
+        }
+      ]
+    },
+    {
+      "id": "concept_03",
+      "title": "Suomen Vahvin Naapurusto",
+      "hook": "Valtakunnallinen kilpailuformaatti, jossa Suomen l\u00e4hi\u00f6t ja naapurustot kisaavat toisiaan vastaan \u2013 ja F24S:n salit toimivat paikallisina harjoituskeskuksina.",
+      "premise": "Kuusi suomalaista naapurustoa valitaan kilpailemaan toisiaan vastaan fyysisess\u00e4 kisassa, joka huipentuu live-finaaliin. Jokainen naapurusto treenaa l\u00e4heisell\u00e4 F24S-salilla 8 viikon ajan, ja matka kuvataan dokumentaarisena sarjana. Kyse ei ole yksil\u00f6ist\u00e4 vaan yhteis\u00f6ist\u00e4 \u2013 kuka tahansa voi osallistua, kaikki lasketaan.",
+      "long_form_extension": "P\u00e4\u00e4sarja on 8x25min dokumenttireality Ruutu+:ssa ja Katsomossa. Finaalitapahtuma l\u00e4hetet\u00e4\u00e4n suorana Neloselta tai MTV3:lta. Broadcast cut 6x45min prime time -sarjaksi.",
+      "format": {
+        "series_type": "seasonal",
+        "episode_length": "20-25 minuuttia (p\u00e4\u00e4sarja), 60-90 sekuntia (some)",
+        "cadence": "Viikoittain (p\u00e4\u00e4sarja) + p\u00e4ivitt\u00e4in (some)",
+        "season_length": "8 jaksoa + live-finaali"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "Cross-platform",
+          "rationale": "Formaatti vaatii monikanavaisen strategian: pitk\u00e4 muoto streamingiin, lyhyt muoto someen, live-tapahtuma TV:hen. T\u00e4m\u00e4 maksimoi reach'in ja luo ilmi\u00f6n.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "TikTok",
+            "rationale": "",
+            "adaptation": "P\u00e4ivitt\u00e4iset 'Naapuruston p\u00e4iv\u00e4kirja' -p\u00e4ivitykset: 60 sekunnin klipit treeneist\u00e4, haasteista, persoonista. Voting-mekanismi: kuka on viikon tsemppaaja?"
+          },
+          {
+            "platform": "YouTube",
+            "rationale": "",
+            "adaptation": "Viikkokoosteet ja behind-the-scenes -sis\u00e4lt\u00f6. 'Naapuruston esittely' -jaksot ennen kilpailun alkua."
+          },
+          {
+            "platform": "Instagram",
+            "rationale": "",
+            "adaptation": "Stories-sarjat joukkueiden arjesta, Reels-highlightit treeneist\u00e4, live Q&A -sessiot joukkueiden kanssa."
+          }
+        ],
+        "amplification": "Paikallismedia-PR jokaisessa kilpailevassa naapurustossa. Partnerointi kuntien ja asukasyhdistysten kanssa. Finaalitapahtuman mainostaminen TV-kanavilla."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Joka jaksossa n\u00e4hd\u00e4\u00e4n kaikkien kuuden naapuruston treeniedistyminen",
+          "Viikon haaste: yksi yhteinen teht\u00e4v\u00e4 kaikille (esim. yhteenlasketut toistot)",
+          "Leaderboard-p\u00e4ivitys jakson lopussa"
+        ],
+        "variable_elements": [
+          "Eri henkil\u00f6t esiin eri jaksoissa \u2013 yhteis\u00f6n sis\u00e4lt\u00e4 nousee sankareita",
+          "Eri haasteet ja treenimuodot",
+          "Paikalliset erityispiirteet (l\u00e4hi\u00f6n historia, kulttuuri, henki)"
+        ],
+        "host_approach": "Yksi p\u00e4\u00e4juontaja, joka kiert\u00e4\u00e4 naapurustoja ja haastattelee. Lis\u00e4ksi jokaisella naapurustolla on 'kapteeni' \u2013 paikallinen persoona joka johtaa joukkuetta."
+      },
+      "brand_integration": {
+        "philosophy": "F24S on kilpailun mahdollistaja ja paikallisen yhteis\u00f6n kokoontumispaikka. Br\u00e4ndi todistaa lupauksensa: 'Fitness on your terms' tarkoittaa, ett\u00e4 kuka tahansa voi osallistua.",
+        "integration_method": "Jokainen naapurusto treenaa omalla F24S-salillaan \u2013 salit ovat n\u00e4kyv\u00e4sti esill\u00e4. F24S tarjoaa joukkueille ilmaiset j\u00e4senyydet kilpailun ajaksi. Finaalissa F24S-br\u00e4nd\u00e4tty areena.",
+        "screen_time_balance": "70% yhteis\u00f6n tarina, 20% treeni ja kilpailu, 10% br\u00e4ndi",
+        "cta_approach": "Jokaisessa jaksossa kehotus liitty\u00e4 paikalliseen F24S-saliin: 'Tue naapurustoasi \u2013 liity joukkoon.' Kilpailun j\u00e4lkeen tarjous: 'Osallistujan j\u00e4senyys -50% 3kk.'"
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Naapurustot esitt\u00e4ytyv\u00e4t",
+          "description": "Kuusi kilpailevaa naapurustoa esitell\u00e4\u00e4n: Kontula (Helsinki), Hervanta (Tampere), Tuira (Oulu), Varissuo (Turku), Myllypuro (Helsinki), Puolarmets\u00e4 (Espoo)."
+        },
+        {
+          "number": 2,
+          "title": "Ensimm\u00e4inen haaste: Yhteislaskettu penkkipunnerrus",
+          "description": "Kaikki naapuruston j\u00e4senet tekev\u00e4t penkkipunnerruksia viikon aikana \u2013 yhteistulos ratkaisee."
+        },
+        {
+          "number": 3,
+          "title": "Kapteenin taakka",
+          "description": "Keskityt\u00e4\u00e4n joukkueiden kapteeneihin: kuka he ovat, miksi he l\u00e4htiv\u00e4t mukaan, miten he motivoivat yhteis\u00f6\u00e4\u00e4n."
+        },
+        {
+          "number": 4,
+          "title": "Aliarvostettu sankari",
+          "description": "Jokaisesta naapurustosta nostetaan esiin yll\u00e4tt\u00e4v\u00e4 treenaaja \u2013 75-vuotias mummo, py\u00f6r\u00e4tuolissa oleva nuori, ensikertalaiset."
+        },
+        {
+          "number": 5,
+          "title": "Puoliv\u00e4litasanne",
+          "description": "Nelj\u00e4 viikkoa takana \u2013 tilanne tiivistyy. Kaksi naapurustoa on nousemassa, kaksi tippumassa. Draama kasvaa."
+        },
+        {
+          "number": 6,
+          "title": "Finaali l\u00e4hestyy",
+          "description": "Viimeinen treeniviikko ennen live-finaalia. Joukkueet valmistautuvat henkisesti ja fyysisesti. Finaalin formaatti paljastetaan."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee kaikki kolme j\u00e4nnitett\u00e4 yhdell\u00e4 kertaa: luo yhteis\u00f6n (vs. 'olet omillasi'), n\u00e4ytt\u00e4\u00e4 aitoja suomalaisia (vs. geneerisyys), demonstroi arvoa ilman hintakeskustelua (vs. 'halpa').",
+        "competitive_differentiation": "Kukaan kilpailija ei ole tehnyt paikallisyhteis\u00f6ihin perustuvaa kilpailuformaattia. F24S:n laaja saliverkosto on ainutlaatuinen kilpailuetu \u2013 vain he voivat toteuttaa t\u00e4m\u00e4n.",
+        "audience_value_proposition": "Kilpailuviihde + paikallisuus + yhteis\u00f6n voima = emotionaalinen sitoutuminen. Katsojat fanittavat omaa naapurustoaan ja jakavat sis\u00e4lt\u00f6\u00e4 paikallisylpeydest\u00e4."
+      },
+      "execution": {
+        "complexity": "high",
+        "budget_tier": "premium",
+        "timeline_to_first_episode": "16-20 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Liian monimutkainen logistiikka \u2013 kuusi paikkaa, kuusi tiimi\u00e4, samanaikainen kuvaus.",
+          "mitigation": "K\u00e4ytet\u00e4\u00e4n paikallisia kuvausryhmi\u00e4 jokaisessa kaupungissa, keskitetty editointi Helsingiss\u00e4. Selke\u00e4 tuotantoaikataulu ja viikoittaiset checkpointit."
+        },
+        {
+          "risk": "Naapurustot eiv\u00e4t saa tarpeeksi osallistujia \u2013 joukkueet j\u00e4\u00e4v\u00e4t pieniksi.",
+          "mitigation": "Aloitetaan rekrytointi 3 kuukautta ennen kuvauksia. Yhteisty\u00f6 asukasyhdistysten, koulujen ja paikallisyritysten kanssa. Minimi 20 osallistujaa per naapurusto."
+        },
+        {
+          "risk": "Live-finaali on kallis ja riskialtis tuotanto.",
+          "mitigation": "Finaalitapahtuma toteutetaan yhteisty\u00f6ss\u00e4 Akun Tehtaan kanssa \u2013 hy\u00f6dynnet\u00e4\u00e4n heid\u00e4n tapahtumateknist\u00e4 osaamistaan. Varasuunnitelma: nauhoitettu 'l\u00e4hes-live' jos budjetti ei riit\u00e4."
+        },
+        {
+          "risk": "Br\u00e4ndi voi j\u00e4\u00e4d\u00e4 kilpailun varjoon \u2013 katsojat muistavat naapuruston, eiv\u00e4t F24S:\u00e4\u00e4.",
+          "mitigation": "Selke\u00e4 br\u00e4ndinarratiivi: 'F24S mahdollisti t\u00e4m\u00e4n.' Jokaisessa jaksossa muistutetaan, ett\u00e4 salit ovat avoimia kaikille \u2013 my\u00f6s sinulle."
+        }
+      ]
+    }
+  ],
+  "treatment_files": [
+    "/opt/render/project/src/runs/fitness24seven/TREATMENTS/fitness24seven_TREATMENT_01_20260125_194153.md",
+    "/opt/render/project/src/runs/fitness24seven/TREATMENTS/fitness24seven_TREATMENT_02_20260125_194153.md",
+    "/opt/render/project/src/runs/fitness24seven/TREATMENTS/fitness24seven_TREATMENT_03_20260125_194153.md"
+  ],
   "onepager_specs": [],
   "onepagers_skipped": false,
   "onepagers_error": null,
@@ -289,6 +627,15 @@
     {
       "phase": "strategize",
       "started_at": "2026-01-25T19:36:15.614154",
+      "completed_at": "2026-01-25T19:36:17.043262",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "create",
+      "started_at": "2026-01-25T19:36:17.049841",
       "completed_at": null,
       "success": false,
       "error_message": null,
