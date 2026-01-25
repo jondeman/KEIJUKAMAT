@@ -2,8 +2,8 @@
   "run_id": "20260125_193028",
   "company_slug": "kuntokeskus-liikku",
   "created_at": "2026-01-25T19:30:28.372177",
-  "updated_at": "2026-01-25T19:30:28.372191",
-  "current_phase": "input",
+  "updated_at": "2026-01-25T19:32:59.479776",
+  "current_phase": "research",
   "user_input": {
     "company_name": "Kuntokeskus Liikku",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -12,7 +12,218 @@
     "onepager_layout": "landscape",
     "use_cached_research": true
   },
-  "dossier": null,
+  "dossier": {
+    "company_name": "Kuntokeskus Liikku",
+    "company_slug": "kuntokeskus-liikku",
+    "generated_at": "2026-01-25T19:32:59.471952",
+    "brand_identity": {
+      "positioning": "Keskitien haastaja: Matalan kynnyksen kuntosali tavallisille ihmisille hikisten budjettisalien ja kalliiden lifestyle-klubien v\u00e4liss\u00e4. Ydinlupaus: 'Paras treeni on tehty treeni.'",
+      "visual_markers": {
+        "primary_color": "Vihre\u00e4",
+        "secondary_colors": [
+          "Valkoinen"
+        ],
+        "style_keywords": [
+          "Raikas",
+          "Avara",
+          "Valoisa",
+          "Koivumets\u00e4tapetti",
+          "Suomalainen luonto",
+          "Tilan tuntu"
+        ],
+        "tone_keywords": [
+          "Rehti",
+          "Mutkaton",
+          "Kannustava",
+          "Suomalainen",
+          "Helppo"
+        ]
+      },
+      "voice_characteristics": [
+        "Rehti",
+        "Mutkaton",
+        "Kannustava",
+        "Hapen riitt\u00e4vyytt\u00e4 korostava"
+      ]
+    },
+    "strategic_priorities": [
+      {
+        "rank": 1,
+        "priority": "Aggressiivinen valtakunnallinen laajentuminen",
+        "evidence": [
+          "Tavoitteena kasvaa yli 100 toimipisteen ketjuksi",
+          "Enemmist\u00f6osuus myyty tanskalaiselle p\u00e4\u00e4omasijoittajalle (Weiss Asset Management)"
+        ],
+        "execution_assessment": "strong"
+      },
+      {
+        "rank": 2,
+        "priority": "Automaatio ja operatiivinen tehokkuus",
+        "evidence": [
+          "Kylm\u00e4sali-malli (henkil\u00f6kuntaa vain ma-ke 16\u201319)",
+          "Digitaalinen j\u00e4senyydenhallinta (OmaLiikku)",
+          "Kustannustehokas liiketoimintamalli"
+        ],
+        "execution_assessment": "strong"
+      },
+      {
+        "rank": 3,
+        "priority": "Yhteiskunnallinen vaikuttavuus",
+        "evidence": [
+          "Johdon (CEO Johanna Riihij\u00e4rvi) viestint\u00e4 kansanterveydest\u00e4",
+          "Tavoite '5 miljoonaa treeni\u00e4' vuodelle 2025"
+        ],
+        "execution_assessment": "moderate"
+      }
+    ],
+    "marketing_posture": {
+      "current_content_types": [
+        "Taktinen mainonta (hinta/tarjous)",
+        "Staattiset kuvat tiloista",
+        "Informatiiviset tiedotteet"
+      ],
+      "channel_presence": {
+        "youtube": {
+          "active": false,
+          "assessment": "Passiivinen 'aavikkokaupunki', vanhaa materiaalia tai TV-spotin toistoja."
+        },
+        "tiktok": {
+          "active": true,
+          "assessment": "Kohtalainen aktiivisuus, laatu vaihtelee, nojaa UGC-sis\u00e4lt\u00f6\u00f6n."
+        },
+        "instagram": {
+          "active": true,
+          "assessment": "Kohtalainen aktiivisuus, 'ilmoitustaulu'-tyyppist\u00e4 viestint\u00e4\u00e4."
+        },
+        "linkedin": {
+          "active": false,
+          "assessment": "Ei mainittu aktiivisena markkinointikanavana analyysissa."
+        }
+      },
+      "apparent_gaps": [
+        "Emotionaalinen tarinankerronta puuttuu",
+        "Br\u00e4ndi ei tuota lis\u00e4arvoa (opastus, inspiraatio)",
+        "Keskittyminen pelkk\u00e4\u00e4n transaktioon"
+      ],
+      "audience_engagement": "Transaktionaalinen. Reagointi tarjouksiin, mutta yhteis\u00f6llinen 'p\u00f6hin\u00e4' puuttuu."
+    },
+    "competitive_analysis": {
+      "key_competitors": [
+        {
+          "name": "Fitness24Seven",
+          "content_strategy": "Hinta edell\u00e4 (n. 24,90\u20ac/kk), 24/7 saavutettavuus",
+          "threat_level": "high"
+        },
+        {
+          "name": "GoGo Express",
+          "content_strategy": "Alueellinen dominanssi, isot tilat, halpa hinta",
+          "threat_level": "medium"
+        },
+        {
+          "name": "EasyFit",
+          "content_strategy": "Franchising-yritt\u00e4jyys, paikallisuus",
+          "threat_level": "medium"
+        }
+      ],
+      "brand_winning_areas": [
+        "Tila ja avaruus",
+        "Raikkaus (ilmanvaihto)",
+        "Siisteys",
+        "Ei-ahdistava ilmapiiri"
+      ],
+      "brand_losing_areas": [
+        "Hinta (vs. F24S)",
+        "Ihmiskontakti ja palvelu",
+        "Yhteis\u00f6llisyyden tuntu (kliinisyys)"
+      ]
+    },
+    "strategic_tensions": [
+      {
+        "id": "tension_01",
+        "description": "'Lupaus tuesta' vs. 'Autio sali'. Br\u00e4ndi lupaa kannustusta, mutta fyysinen tila on tyhj\u00e4 ihmisist\u00e4 ja avusta 90 % ajasta.",
+        "evidence": [
+          "Arvo: 'Kannustaminen on meill\u00e4 DNA:ssa'",
+          "Todellisuus: Henkil\u00f6kuntaa paikalla vain 9h viikossa",
+          "Asiakaspalaute: 'Kirjastotunnelma', 'Kliininen'"
+        ],
+        "opportunity_type": "gap",
+        "priority_score": 5
+      },
+      {
+        "id": "tension_02",
+        "description": "'Aloittelijan houkuttelu' vs. 'Osaamisvaje'. Markkinointi houkuttelee kokemattomia, mutta j\u00e4tt\u00e4\u00e4 heid\u00e4t yksin laitteiden kanssa.",
+        "evidence": [
+          "Kohderyhm\u00e4 tavikset, ei bodarit",
+          "Markkinointi k\u00e4skee liittym\u00e4\u00e4n mutta ei opeta tekem\u00e4\u00e4n",
+          "Automaatio tuntuu ongelmatilanteissa tylylt\u00e4"
+        ],
+        "opportunity_type": "underserved_audience",
+        "priority_score": 4
+      },
+      {
+        "id": "tension_03",
+        "description": "'Suomalainen rehtiys' vs. 'Sieluton ketjuuntuminen'. Kasvu p\u00e4\u00e4omasijoittajan tuella uhkaa alkuper\u00e4ist\u00e4 sympaattista mainetta.",
+        "evidence": [
+          "Aggressiivinen kasvutavoite (100+ salia)",
+          "Asiakaspelko sieluttomasta ketjumaisuudesta",
+          "Teollinen skaalaus vs. 'suomalainen mets\u00e4' -br\u00e4ndiydin"
+        ],
+        "opportunity_type": "threat",
+        "priority_score": 3
+      }
+    ],
+    "opportunity_zones": [
+      {
+        "id": "opp_01",
+        "description": "Digitaalinen PT & Tsemppari",
+        "rationale": "Videosis\u00e4ll\u00f6n rooli muutetaan 'virtuaaliseksi henkil\u00f6kunnaksi', joka opastaa ja tsemppaa. T\u00e4ytt\u00e4\u00e4 palvelumallin aukon (ihmiskontaktin puute) ilman henkil\u00f6st\u00f6kuluja.",
+        "risk_level": "medium"
+      },
+      {
+        "id": "opp_02",
+        "description": "Rosoinen aitous & 'Mets\u00e4n henki'",
+        "rationale": "Hyl\u00e4t\u00e4\u00e4n kiilt\u00e4v\u00e4 mainosestetiikka. Tuodaan videoihin aitoja ihmisi\u00e4 ja huumoria. Torjuu mielikuvaa kasvottomasta ketjusta ja vahvistaa rehti\u00e4 br\u00e4ndi\u00e4.",
+        "risk_level": "low"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Suomi24 Keskustelut (Liikku kokemuksia)",
+        "url": "suomi24.fi",
+        "type": "social",
+        "date_accessed": "2026-01-25",
+        "relevance": "Asiakaskokemukset ja palautteet"
+      },
+      {
+        "title": "EasyFit Kotisivut",
+        "url": "easyfit.fi",
+        "type": "company_site",
+        "date_accessed": "2026-01-25",
+        "relevance": "Kilpailija-analyysi"
+      },
+      {
+        "title": "GoGo Express Kotisivut",
+        "url": "gogoexpress.fi",
+        "type": "company_site",
+        "date_accessed": "2026-01-25",
+        "relevance": "Kilpailija-analyysi"
+      },
+      {
+        "title": "Reddit Keskustelut (Kuntosalit Suomessa)",
+        "url": "reddit.com",
+        "type": "social",
+        "date_accessed": "2026-01-25",
+        "relevance": "Puolueeton vertailutieto"
+      },
+      {
+        "title": "Strateginen Dossier: Kuntokeskus Liikku",
+        "url": "Internal Document",
+        "type": "report",
+        "date_accessed": "2026-01-25",
+        "relevance": "Sis\u00e4inen strategia ja tunnusluvut"
+      }
+    ]
+  },
   "concept_briefs": [],
   "concepts": [],
   "treatment_files": [],
@@ -20,6 +231,34 @@
   "onepagers_skipped": false,
   "onepagers_error": null,
   "pitch_email": "",
-  "phase_history": [],
+  "phase_history": [
+    {
+      "phase": "validate",
+      "started_at": "2026-01-25T19:30:29.861615",
+      "completed_at": "2026-01-25T19:30:29.866629",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "check_archive",
+      "started_at": "2026-01-25T19:30:29.872556",
+      "completed_at": "2026-01-25T19:30:30.389652",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "research",
+      "started_at": "2026-01-25T19:30:30.395459",
+      "completed_at": null,
+      "success": false,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    }
+  ],
   "archive_ref": null
 }
