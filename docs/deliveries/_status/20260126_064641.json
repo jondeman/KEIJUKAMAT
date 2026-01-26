@@ -2,8 +2,8 @@
   "run_id": "20260126_064641",
   "company_slug": "silmasema-optiikka",
   "created_at": "2026-01-26T06:46:41.462663",
-  "updated_at": "2026-01-26T06:49:35.417748",
-  "current_phase": "strategize",
+  "updated_at": "2026-01-26T06:55:46.843387",
+  "current_phase": "create",
   "user_input": {
     "company_name": "Silm\u00e4asema Optiikka",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -254,8 +254,339 @@
       "success_hypothesis": "This concept unlocks an untapped opportunity for Silm\u00e4asema Optiikka by addressing their underserved audience in a way that creates cultural relevance and positions the brand as an innovator in their space."
     }
   ],
-  "concepts": [],
-  "treatment_files": [],
+  "concepts": [
+    {
+      "id": "concept_01",
+      "title": "Ensimm\u00e4inen Katse",
+      "hook": "Dokumenttisarja, joka seuraa ihmisten el\u00e4m\u00e4nmuutosta silm\u00e4leikkauksen j\u00e4lkeen \u2013 ja todistaa, ett\u00e4 Silm\u00e4asema ei myy leikkauksia vaan el\u00e4m\u00e4nlaatua.",
+      "premise": "Ensimm\u00e4inen Katse on 8-osainen dokumenttisarja, joka seuraa kuutta eri el\u00e4m\u00e4ntilanteessa olevaa suomalaista heid\u00e4n matkallaan n\u00e4k\u00f6ongelmasta leikkausp\u00e4\u00e4t\u00f6kseen ja uuteen arkeen. Jokainen jakso yhdist\u00e4\u00e4 intiimin henkil\u00f6tarinan, leikkauksen kulissien taakse p\u00e4\u00e4syn ja tunnelatautuneen 'ensimm\u00e4isen katseen' hetken \u2013 kun maailma n\u00e4kyy ensimm\u00e4ist\u00e4 kertaa ter\u00e4v\u00e4sti. Sarja inhimillist\u00e4\u00e4 l\u00e4\u00e4ketieteen, murtaa pelkoja ja antaa \u00e4\u00e4nen potilaille, ei valkotakeille.",
+      "long_form_extension": "Sarja julkaistaan 8x25min jaksona Ruutu+:ssa ja Silm\u00e4aseman YouTube-kanavalla. Lis\u00e4ksi tuotetaan 4x45min broadcast cut MTV3:lle tai Neloselle teemaillaksi.",
+      "format": {
+        "series_type": "limited",
+        "episode_length": "22-28 minuuttia",
+        "cadence": "Viikoittain",
+        "season_length": "8 jaksoa"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "YouTube",
+          "rationale": "YouTube on luonnollinen alusta pitk\u00e4muotoiselle dokumentaariselle sis\u00e4ll\u00f6lle, jossa katsoja voi uppoutua tarinoihin. Hakukoneoptimointi tuo orgaanista liikennett\u00e4 'silm\u00e4leikkaus kokemuksia' -hakuihin.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "Instagram",
+            "rationale": "",
+            "adaptation": "60 sekunnin tunnetiivistelm\u00e4t jokaisesta p\u00e4\u00e4henkil\u00f6st\u00e4, behind-the-scenes leikkauksista ja 'ensimm\u00e4inen katse' -reaktiot Reelsein\u00e4."
+          },
+          {
+            "platform": "TikTok",
+            "rationale": "",
+            "adaptation": "Pystymuotoiset 'POV: n\u00e4en ensimm\u00e4ist\u00e4 kertaa ter\u00e4v\u00e4sti' -videot, joissa p\u00e4\u00e4henkil\u00f6t kuvaavat reaktionsa v\u00e4litt\u00f6m\u00e4sti leikkauksen j\u00e4lkeen."
+          }
+        ],
+        "amplification": "Jokaisen jakson julkaisun yhteydess\u00e4 p\u00e4\u00e4henkil\u00f6t jakavat oman tarinansa omilla kanavillaan. PR-yhteisty\u00f6 terveysmediaan ja lifestyle-lehtiin (esim. Me Naiset, Ilta-Sanomat Hyvinvointi)."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Jakson avaus: P\u00e4\u00e4henkil\u00f6n arki ennen leikkausta \u2013 mit\u00e4 h\u00e4n ei n\u00e4e kunnolla",
+          "L\u00e4\u00e4k\u00e4rin esittely ihmisen\u00e4, ei auktoriteettina (harrastukset, perhe, miksi valitsi alan)",
+          "Leikkausp\u00e4iv\u00e4: Rauhallinen, pelkoja purkava kuljetus l\u00e4pi prosessin",
+          "'Ensimm\u00e4inen katse' -hetki: Emotionaalinen huipentuma, kun maailma n\u00e4kyy uutena",
+          "Lopetus: 30 p\u00e4iv\u00e4\u00e4 my\u00f6hemmin \u2013 miten arki on muuttunut"
+        ],
+        "variable_elements": [
+          "P\u00e4\u00e4henkil\u00f6iden el\u00e4m\u00e4ntilanteet: nuori opiskelija (laser), keski-ik\u00e4inen yritt\u00e4j\u00e4 (linssileikkaus), el\u00e4kel\u00e4inen (kaihi), silm\u00e4luomileikkaus-potilas",
+          "Leikkaustyypit vaihtuvat jaksoittain tuoden monipuolisuutta",
+          "Eri l\u00e4\u00e4k\u00e4rit ja klinikat ymp\u00e4ri Suomea"
+        ],
+        "host_approach": "Ei ulkopuolista hostia. P\u00e4\u00e4henkil\u00f6t kertovat itse tarinansa voice-over-kerronnan ja haastattelujen kautta. L\u00e4\u00e4k\u00e4rit esiintyv\u00e4t tukirooleissa, eiv\u00e4t asiantuntijahaastattelijoina."
+      },
+      "brand_integration": {
+        "philosophy": "Silm\u00e4asema on mahdollistaja, ei myyj\u00e4. Br\u00e4ndi n\u00e4kyy luontevana osana hoitopolkua, ei erillisen\u00e4 mainoksena. Fokus on tuloksissa ja ihmisten tarinoissa.",
+        "integration_method": "Silm\u00e4aseman tilat, henkil\u00f6kunta ja prosessit n\u00e4kyv\u00e4t dokumentaarisesti osana tarinaa. Jokaisen jakson lopussa pieni 'Lis\u00e4tietoa Silm\u00e4asemalta' -teksti ilman myyntipuhetta.",
+        "screen_time_balance": "85% p\u00e4\u00e4henkil\u00f6iden tarina ja tunne, 15% Silm\u00e4aseman tilat ja henkil\u00f6kunta",
+        "cta_approach": "Soft CTA: Jakson lopussa teksti 'Ota selv\u00e4\u00e4, sopiiko sinulle' + QR-koodi maksuttomaan soveltuvuuskartoitukseen. Ei aggressiivista myynti\u00e4."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Sumu",
+          "description": "32-vuotias graafikko Jenni on k\u00e4rsinyt pahenevasta likin\u00e4\u00f6st\u00e4 20 vuotta \u2013 nyt h\u00e4n uskaltautuu laserleikkaukseen ja n\u00e4kee ensimm\u00e4ist\u00e4 kertaa her\u00e4\u00e4m\u00e4tt\u00e4 sumuun."
+        },
+        {
+          "number": 2,
+          "title": "Isois\u00e4n kasvot",
+          "description": "68-vuotias Erkki on lyk\u00e4nnyt kaihileikkausta vuosia pelosta \u2013 leikkauksen j\u00e4lkeen h\u00e4n n\u00e4kee lapsenlapsensa kasvot ensimm\u00e4ist\u00e4 kertaa ter\u00e4v\u00e4sti."
+        },
+        {
+          "number": 3,
+          "title": "Lukemisen lahja",
+          "description": "54-vuotias opettaja Maarit on joutunut lopettamaan lukemisen harrastuksena ik\u00e4n\u00e4\u00f6n takia \u2013 linssileikkaus palauttaa h\u00e4nelle kirjat."
+        },
+        {
+          "number": 4,
+          "title": "Peili",
+          "description": "47-vuotias Tarja kokee silm\u00e4luomien roikkumisen vaikuttavan itsetuntoonsa ja n\u00e4k\u00f6kentt\u00e4\u00e4ns\u00e4 \u2013 leikkaus muuttaa sek\u00e4 ulkon\u00e4k\u00f6\u00e4 ett\u00e4 arkea."
+        },
+        {
+          "number": 5,
+          "title": "Pelko",
+          "description": "28-vuotias Mikko on pannut leikkauksen vastaan kolme kertaa \u2013 seuraamme h\u00e4nen matkaansa pelosta p\u00e4\u00e4t\u00f6kseen ja siit\u00e4 vapauteen."
+        },
+        {
+          "number": 6,
+          "title": "T\u00e4htitaivas",
+          "description": "45-vuotias valokuvaaja Sanna on menett\u00e4nyt y\u00f6n\u00e4k\u00f6ns\u00e4 \u2013 linssileikkauksen j\u00e4lkeen h\u00e4n kuvaa ensimm\u00e4ist\u00e4 kertaa t\u00e4htitaivasta ilman apuv\u00e4lineit\u00e4."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee suoraan 'onnellisuuslupaus vs. kliininen transaktio' -j\u00e4nnitteen siirt\u00e4m\u00e4ll\u00e4 fokuksen leikkauksesta el\u00e4m\u00e4nlaatuun. Tukee leikkausliiketoiminnan kasvua tarjoamalla vertaistukea ja murtamalla pelkoja.",
+        "competitive_differentiation": "Kukaan kilpailijoista ei tee pitk\u00e4muotoista dokumentaarista sis\u00e4lt\u00f6\u00e4 leikkauspoluista. Instrumentarium myy muotia, Specsavers hintaa \u2013 Silm\u00e4asema myy el\u00e4m\u00e4nmuutosta.",
+        "audience_value_proposition": "Aito, koskettava tarinankerronta vet\u00e4\u00e4 puoleensa sek\u00e4 leikkausta harkitsevia ett\u00e4 yleis\u00f6\u00e4, joka rakastaa transformaatiotarinoita. 'Ensimm\u00e4inen katse' -hetket ovat luonnostaan jaettavia."
+      },
+      "execution": {
+        "complexity": "medium",
+        "budget_tier": "mid",
+        "timeline_to_first_episode": "12-14 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "P\u00e4\u00e4henkil\u00f6iden yksityisyyden suoja ja leikkauskomplikaatioiden mahdollisuus",
+          "mitigation": "Huolellinen casting, kattavat suostumuslomakkeet ja varautuminen siihen, ett\u00e4 kaikki ei mene t\u00e4ydellisesti \u2013 rehellisyys lis\u00e4\u00e4 uskottavuutta."
+        },
+        {
+          "risk": "Liian kliiniseksi tai 'advertoriaaliksi' muuttuminen",
+          "mitigation": "P\u00e4\u00e4henkil\u00f6iden tarina edell\u00e4 -periaate: l\u00e4\u00e4k\u00e4rit ja Silm\u00e4asema ovat sivuroolissa. Riippumaton tuotanto varmistaa journalistisen otteen."
+        }
+      ]
+    },
+    {
+      "id": "concept_02",
+      "title": "N\u00e4k\u00f6kyvyt",
+      "hook": "TikTok-sarja, jossa Silm\u00e4aseman nuoret l\u00e4\u00e4k\u00e4rit paljastavat, mit\u00e4 silm\u00e4si kertovat terveydest\u00e4si \u2013 ja tekev\u00e4t silm\u00e4terveydest\u00e4 yht\u00e4 kiinnostavan kuin ihonhoitorutiineista.",
+      "premise": "N\u00e4k\u00f6kyvyt on TikTok-first sis\u00e4lt\u00f6formaatti, jossa Silm\u00e4aseman karismaattiset nuoret silm\u00e4l\u00e4\u00e4k\u00e4rit ja optikot tuovat silm\u00e4terveyden Gen Z:n feedeihin. Sarjassa puretaan myyttej\u00e4, n\u00e4ytet\u00e4\u00e4n mit\u00e4 silm\u00e4t paljastavat yleisterveydest\u00e4, ja vastataan rohkeasti niihin kysymyksiin, joita ihmiset oikeasti googlaavat mutta eiv\u00e4t kehtaa kysy\u00e4. Tyyli on rento, informatiivinen ja visuaalisesti koukuttava \u2013 ei kliininen vaan kiinnostava.",
+      "long_form_extension": "Suosituimmista teemoista kootaan 6x12min syvent\u00e4v\u00e4t jaksot YouTubeen, joissa l\u00e4\u00e4k\u00e4ri ja vaikuttaja keskustelevat aiheesta laajemmin. Mahdollisuus broadcast-erikoisjaksoon 'Suomen Silm\u00e4t' -dokumenttina.",
+      "format": {
+        "series_type": "ongoing",
+        "episode_length": "30-90 sekuntia",
+        "cadence": "3-4 kertaa viikossa",
+        "season_length": null
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "TikTok",
+          "rationale": "TikTok on ainoa alusta, jossa Silm\u00e4asema voi tavoittaa 20-35-vuotiaat laserleikkauksen kohderyhm\u00e4n heid\u00e4n omalla maaper\u00e4ll\u00e4\u00e4n. L\u00e4\u00e4k\u00e4ri-content on TikTokin nouseva trendi globaalisti.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "Instagram Reels",
+            "rationale": "",
+            "adaptation": "Sama sis\u00e4lt\u00f6 cross-postataan Reelsiin, mutta IG:ss\u00e4 lis\u00e4t\u00e4\u00e4n carousel-postauksia syvent\u00e4vill\u00e4 infografiikoilla."
+          },
+          {
+            "platform": "YouTube Shorts",
+            "rationale": "",
+            "adaptation": "Shorts-versiot ohjaavat pitkiin YouTube-jaksoihin, luoden funnelin lyhyest\u00e4 pitk\u00e4\u00e4n sis\u00e4lt\u00f6\u00f6n."
+          }
+        ],
+        "amplification": "Yhteisty\u00f6 2-3 lifestyle/terveys-vaikuttajan kanssa, jotka tuovat omat seuraajansa kanavalle. Maksettu TikTok-mainonta parhaiten suoriutuville videoille."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Vakioaloitus: 'Tiesitk\u00f6, ett\u00e4 silm\u00e4si...' + yll\u00e4tt\u00e4v\u00e4 fakta (hook 3 sekunnissa)",
+          "Visuaalinen demonstraatio: Silm\u00e4n l\u00e4hikuvia, animaatioita, ennen/j\u00e4lkeen-kuvia",
+          "L\u00e4\u00e4k\u00e4rin persoonallinen kommentti tai tarina omasta kokemuksesta",
+          "Lopetus: Selke\u00e4 takeaway tai CTA kysy\u00e4 lis\u00e4\u00e4 kommenteissa"
+        ],
+        "variable_elements": [
+          "Aihepiirit: Myytinmurto, Q&A, 'Mit\u00e4 silm\u00e4si paljastavat', 'POV: Silm\u00e4l\u00e4\u00e4k\u00e4rin p\u00e4iv\u00e4', trendihaasteet",
+          "Eri l\u00e4\u00e4k\u00e4rit ja optikot vuorottelevat, kukin omalla persoonallaan",
+          "Reagoinnit katsojakommentteihin ja kysymyksiin (duetit, stitchit)"
+        ],
+        "host_approach": "3-4 Silm\u00e4aseman nuorta l\u00e4\u00e4k\u00e4ri\u00e4/optikkoa koulutetaan TikTok-esiintyjiksi. Jokaisella on oma 'persoonatyyli' \u2013 yksi on humoristi, toinen 'tiede-n\u00f6rtti', kolmas empaattinen kuuntelija."
+      },
+      "brand_integration": {
+        "philosophy": "Silm\u00e4asema on asiantuntijuuden l\u00e4hde, ei myyj\u00e4. L\u00e4\u00e4k\u00e4rit edustavat br\u00e4ndi\u00e4 olemalla aitoja asiantuntijoita, jotka jakavat tietoa ilmaiseksi.",
+        "integration_method": "L\u00e4\u00e4k\u00e4reill\u00e4 Silm\u00e4asema-takit, taustalla klinikan tilat. Ei suoraa tuotemyynti\u00e4 sis\u00e4ll\u00f6ss\u00e4. Br\u00e4ndi n\u00e4kyy 'kreditoinnissa' ja profiilissa.",
+        "screen_time_balance": "95% hy\u00f6dyllinen/viihdytt\u00e4v\u00e4 sis\u00e4lt\u00f6, 5% br\u00e4ndi-elementit",
+        "cta_approach": "Soft CTA biossa ja pinnatuissa kommenteissa. Satunnaisesti 'Jos t\u00e4m\u00e4 her\u00e4tti kysymyksi\u00e4, varaa maksuton kartoitus' -maininta."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Silm\u00e4si kertoo, nukuitko huonosti",
+          "description": "L\u00e4\u00e4k\u00e4ri n\u00e4ytt\u00e4\u00e4, miten v\u00e4symys n\u00e4kyy silmiss\u00e4 ja miksi 'punasilm\u00e4isyys' ei ole vain kosmeettinen ongelma."
+        },
+        {
+          "number": 2,
+          "title": "Laserleikkaus 60 sekunnissa",
+          "description": "POV-video, jossa k\u00e4yd\u00e4\u00e4n l\u00e4pi mit\u00e4 laserleikkauksessa oikeasti tapahtuu \u2013 pelonmurtaja kompaktissa paketissa."
+        },
+        {
+          "number": 3,
+          "title": "Sinivalo: Fakta vai huijaus?",
+          "description": "Myytinmurtovideo, jossa l\u00e4\u00e4k\u00e4ri kertoo, mit\u00e4 tiede oikeasti sanoo sinivalosta ja pit\u00e4isik\u00f6 siit\u00e4 huolestua."
+        },
+        {
+          "number": 4,
+          "title": "Miksi silm\u00e4si nykii?",
+          "description": "Vastaus siihen kysymykseen, jonka jokainen on googlannuut \u2013 ja milloin siit\u00e4 pit\u00e4isi oikeasti huolestua."
+        },
+        {
+          "number": 5,
+          "title": "Stitch: 'En k\u00e4yt\u00e4 laseja koska...'",
+          "description": "L\u00e4\u00e4k\u00e4ri reagoi yleisimpiin tekosyihin lasien/leikkauksen v\u00e4lttelyyn ja tarjoaa lempe\u00e4n totuuden."
+        },
+        {
+          "number": 6,
+          "title": "Silm\u00e4luomileikkaus: Turhamaisuus vai terveys?",
+          "description": "L\u00e4\u00e4k\u00e4ri selitt\u00e4\u00e4, miksi silm\u00e4luomileikkaus on usein l\u00e4\u00e4ketieteellinen toimenpide, ei pelkk\u00e4 kauneusleikkaus."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "T\u00e4ytt\u00e4\u00e4 suoraan 'nuoremman sukupolven puhuttelu puuttuu' -aukon ja rakentaa siltaa kohti leikkausliiketoimintaa. Humanisoi l\u00e4\u00e4k\u00e4rit ja tekee Silm\u00e4asemasta l\u00e4hestytt\u00e4v\u00e4n.",
+        "competitive_differentiation": "Kukaan optikkoketju ei ole valloittanut TikTokia Suomessa. Silm\u00e4asema voi olla ensimm\u00e4inen, joka omistaa 'silm\u00e4terveys-TikTokin'.",
+        "audience_value_proposition": "Gen Z rakastaa 'l\u00e4\u00e4k\u00e4ri selitt\u00e4\u00e4' -sis\u00e4lt\u00f6\u00e4. Formaatti tarjoaa aitoa hy\u00f6ty\u00e4 (tietoa) ja viihdett\u00e4 (persoonat) samassa paketissa."
+      },
+      "execution": {
+        "complexity": "low",
+        "budget_tier": "budget",
+        "timeline_to_first_episode": "4-6 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "L\u00e4\u00e4k\u00e4rit eiv\u00e4t ole luontevia esiintyji\u00e4 sosiaalisessa mediassa",
+          "mitigation": "Huolellinen casting ja 'TikTok-bootcamp' -koulutus. Valitaan henkil\u00f6t, jotka ovat jo luontevasti esiintyvi\u00e4, ei pakoteta ket\u00e4\u00e4n."
+        },
+        {
+          "risk": "L\u00e4\u00e4ketieteellisen sis\u00e4ll\u00f6n v\u00e4\u00e4rinymm\u00e4rt\u00e4minen tai -tulkinta",
+          "mitigation": "Selke\u00e4t disclaimerit, sis\u00e4ll\u00f6n hyv\u00e4ksynt\u00e4prosessi ja valmiit vastaukset tyypillisiin kysymyksiin kommenteissa."
+        }
+      ]
+    },
+    {
+      "id": "concept_03",
+      "title": "48 Tuntia Ter\u00e4v\u00e4sti",
+      "hook": "Reality-formaatti, jossa julkkikset ja tavalliset suomalaiset saavat n\u00e4k\u00f6ns\u00e4 korjattua ja el\u00e4v\u00e4t 48 tuntia t\u00e4ytt\u00e4en 'bucket listin' asioita, jotka he eiv\u00e4t ole koskaan n\u00e4hneet kunnolla.",
+      "premise": "48 Tuntia Ter\u00e4v\u00e4sti on monikanavainen reality-viihdeformaatti, jossa osallistujat saavat silm\u00e4leikkauksen ja sen j\u00e4lkeen 48 tunnin aikana kokevat asioita, joita huono n\u00e4k\u00f6 on est\u00e4nyt tai heikent\u00e4nyt. Ammattirallikuskia j\u00e4nnitt\u00e4\u00e4 n\u00e4hd\u00e4 rata ilman linssej\u00e4, tatuoija n\u00e4kee ensimm\u00e4ist\u00e4 kertaa oman ty\u00f6ns\u00e4 yksityiskohdat, isois\u00e4 pelaa lapsenlapsensa kanssa videopeli\u00e4 n\u00e4kem\u00e4tt\u00e4 sumua. Jokainen jakso on emotionaalinen matka, joka huipentuu 48 tunnin 'el\u00e4mysmaratoniin' \u2013 ja kaikki dokumentoidaan reaaliajassa someen.",
+      "long_form_extension": "P\u00e4\u00e4sarja 8x45min Ruutu+/Neloselle. Jokaisesta jaksosta 'Director's Cut' 60min versio Ruutu+:aan. Broadcast-yhteenveto 'Vuoden parhaat hetket' MTV3:lle.",
+      "format": {
+        "series_type": "seasonal",
+        "episode_length": "42-48 minuuttia",
+        "cadence": "Viikoittain (p\u00e4\u00e4sarja), p\u00e4ivitt\u00e4in (some-seuranta)",
+        "season_length": "8 jaksoa per kausi"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "Ruutu+/TV",
+          "rationale": "Iso emotionaalinen reality-formaatti vaatii broadcast-alustan tavoittavuuden ja tuotantoarvon. Ruutu+ mahdollistaa binge-katselun ja pidemm\u00e4t jaksot.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "TikTok",
+            "rationale": "",
+            "adaptation": "Reaaliaikainen '48h live-seuranta': Osallistujat ja tuotanto postaavat 48 tunnin aikana suoraan kokemuksistaan. Behind-the-scenes ja reaktiot."
+          },
+          {
+            "platform": "Instagram",
+            "rationale": "",
+            "adaptation": "Ennen/j\u00e4lkeen-kuvat, 'bucket list reveal' -Reelsit, osallistujien omat tarinat. Stories-dokumentointi leikkausp\u00e4iv\u00e4st\u00e4."
+          },
+          {
+            "platform": "YouTube",
+            "rationale": "",
+            "adaptation": "15-20 minuutin 'extended moments' -videot: Kokonaiset bucket list -kokemukset ilman leikkauksia."
+          }
+        ],
+        "amplification": "Julkkisosallistujien omat kanavat ja seuraajat. PR-kampanja 'Mit\u00e4 sin\u00e4 tekisit 48 tunnissa ter\u00e4v\u00e4sti?' Mahdollinen live-tapahtuma kauden finaalijakson yhteydess\u00e4."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Jakson alku: Osallistujan tarina \u2013 mit\u00e4 huono n\u00e4k\u00f6 on vienyt h\u00e4nelt\u00e4",
+          "'Bucket list' -paljastus: 3-5 asiaa, jotka h\u00e4n haluaa kokea ter\u00e4v\u00e4sti",
+          "Leikkausp\u00e4iv\u00e4: Intiimi seuranta, pelot ja toiveet",
+          "48 tunnin countdown: Reaaliaikainen seikkailu bucket listin l\u00e4pi",
+          "Emotionaalinen huipentuma: Merkityksellisin hetki ja sen purku"
+        ],
+        "variable_elements": [
+          "Osallistujat: Vuorotellen julkkis ja 'tavallinen suomalainen' \u2013 eri ik\u00e4isi\u00e4, eri leikkaustyyppej\u00e4",
+          "Bucket listit vaihtelevat radikaalisti: extreme-kokemuksista intiimeihin perhehetkiin",
+          "Lokaatiot ymp\u00e4ri Suomea ja mahdollisesti ulkomailla"
+        ],
+        "host_approach": "P\u00e4\u00e4juontaja (esim. Christoffer Strandberg, Jenni Alexandrova tai vastaava monipuolinen esiintyj\u00e4) kulkee osallistujan rinnalla 48 tunnin ajan. Juontaja on empaattinen rinnallakulkija, ei kilpailun tuomari."
+      },
+      "brand_integration": {
+        "philosophy": "Silm\u00e4asema on 'el\u00e4m\u00e4nmuutoksen mahdollistaja'. Br\u00e4ndi n\u00e4kyy leikkauksen kautta, mutta fokus on siin\u00e4 mit\u00e4 n\u00e4keminen mahdollistaa \u2013 ei itse leikkauksessa.",
+        "integration_method": "Leikkaus tapahtuu Silm\u00e4asemalla, l\u00e4\u00e4k\u00e4rit esitell\u00e4\u00e4n lyhyesti. Jakson aikana ei muuta br\u00e4ndin\u00e4kyvyytt\u00e4. Lopussa: 'Silm\u00e4asema \u2013 N\u00e4kemisen arvoinen el\u00e4m\u00e4' -tunnari.",
+        "screen_time_balance": "90% bucket list -seikkailu ja tunne, 10% leikkausprosessi ja Silm\u00e4asema",
+        "cta_approach": "Jakson lopussa QR-koodi: 'Mik\u00e4 olisi sinun 48 tunnin listallasi? Selvit\u00e4 soveltuvuutesi.' Kauden aikana some-kampanja, jossa katsojat jakavat omia bucket listej\u00e4\u00e4n."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Rallikuski",
+          "description": "Entinen rallikuski Emma saa laserleikkauksen ja ajaa ensimm\u00e4ist\u00e4 kertaa radan l\u00e4pi ilman linssej\u00e4 \u2013 ja n\u00e4kee mutkat ter\u00e4v\u00e4sti."
+        },
+        {
+          "number": 2,
+          "title": "Tatuoija",
+          "description": "Tatuoija Jarkko on tehnyt tuhansia tatuointeja n\u00e4kem\u00e4tt\u00e4 yksityiskohtia \u2013 linssileikkauksen j\u00e4lkeen h\u00e4n n\u00e4kee ensimm\u00e4ist\u00e4 kertaa oman ty\u00f6ns\u00e4."
+        },
+        {
+          "number": 3,
+          "title": "Julkkis-jakso: Arman Alizad",
+          "description": "Tunnettu dokumentaristi Arman kokee maailman ter\u00e4v\u00e4sti ja toteuttaa unelmansa n\u00e4hd\u00e4 revontulet Lapissa."
+        },
+        {
+          "number": 4,
+          "title": "Isois\u00e4",
+          "description": "72-vuotias Veikko saa kaihileikkauksen ja pelaa ensimm\u00e4ist\u00e4 kertaa videopeli\u00e4 lapsenlapsensa kanssa n\u00e4kem\u00e4tt\u00e4 sumua."
+        },
+        {
+          "number": 5,
+          "title": "Valokuvaaja",
+          "description": "Luontokuvaaja Minna on kuvannut Suomen luontoa vuosikymmeni\u00e4 \u2013 nyt h\u00e4n n\u00e4kee ensimm\u00e4ist\u00e4 kertaa omat kuvansa ter\u00e4v\u00e4sti."
+        },
+        {
+          "number": 6,
+          "title": "\u00c4iti",
+          "description": "38-vuotias Satu on k\u00e4rsinyt kovasta hajataitteisuudesta koko el\u00e4m\u00e4ns\u00e4 \u2013 leikkauksen j\u00e4lkeen h\u00e4n n\u00e4kee lastensa kasvot ensimm\u00e4ist\u00e4 kertaa ilman 'kaleidoskooppia'."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Yhdist\u00e4\u00e4 kaikki strategiset prioriteetit: kasvattaa leikkausliiketoimintaa (n\u00e4ytt\u00e4m\u00e4ll\u00e4 tuloksia), integroi retailin ja l\u00e4\u00e4ketieteen (silm\u00e4laseista vapautuminen) ja puolustaa markkinaosuutta (iso, erottuva formaatti).",
+        "competitive_differentiation": "Ensimm\u00e4inen suomalainen reality-formaatti, joka keskittyy silm\u00e4terveyteen. Luo t\u00e4ysin uuden kategorian. Formaatti on skaalattavissa kansainv\u00e4lisesti.",
+        "audience_value_proposition": "Transformaatio-reality on yksi katsotuimmista genreist\u00e4. Bucket list -kulma tekee jokaisesta jaksosta ainutlaatuisen seikkailun. Tunnelataus on taattu."
+      },
+      "execution": {
+        "complexity": "high",
+        "budget_tier": "premium",
+        "timeline_to_first_episode": "16-20 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Leikkauksen toipumisaika ei mahdollista v\u00e4lit\u00f6nt\u00e4 48h seikkailua kaikille",
+          "mitigation": "Valitaan leikkaustyypit (esim. laser, linssileikkaus) joiden toipumisaika on nopea. Konsultoidaan l\u00e4\u00e4k\u00e4reit\u00e4 bucket list -aktiviteettien turvallisuudesta."
+        },
+        {
+          "risk": "Formaatti voi tuntua 'makeover-shown' kliseelt\u00e4",
+          "mitigation": "Fokus ei ole 'ulkon\u00e4k\u00f6muutoksessa' vaan el\u00e4m\u00e4nlaadussa ja kokemuksissa. Bucket listit ovat uniikkeja ja henkil\u00f6kohtaisia, eiv\u00e4t geneerisi\u00e4."
+        },
+        {
+          "risk": "Julkkisten saaminen mukaan voi olla haastavaa",
+          "mitigation": "Tarjotaan julkkiksille aito hy\u00f6ty (ilmainen leikkaus) ja mahdollisuus kertoa oma tarinansa. Aloitetaan 2-3 julkkiksella ja rakennetaan momentum."
+        }
+      ]
+    }
+  ],
+  "treatment_files": [
+    "/opt/render/project/src/runs/silmasema_optiikka/TREATMENTS/silmasema_optiikka_TREATMENT_01_20260126_065546.md",
+    "/opt/render/project/src/runs/silmasema_optiikka/TREATMENTS/silmasema_optiikka_TREATMENT_02_20260126_065546.md",
+    "/opt/render/project/src/runs/silmasema_optiikka/TREATMENTS/silmasema_optiikka_TREATMENT_03_20260126_065546.md"
+  ],
   "onepager_specs": [],
   "onepagers_skipped": false,
   "onepagers_error": null,
@@ -291,6 +622,15 @@
     {
       "phase": "strategize",
       "started_at": "2026-01-26T06:49:35.412474",
+      "completed_at": "2026-01-26T06:49:36.890325",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "create",
+      "started_at": "2026-01-26T06:49:36.896006",
       "completed_at": null,
       "success": false,
       "error_message": null,

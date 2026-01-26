@@ -16,6 +16,9 @@
 - [Concept 03](concepts/concept_03.md)
 
 ## Treatments
+- [silmasema_optiikka_TREATMENT_01_20260126_065546.md](treatments/silmasema_optiikka_TREATMENT_01_20260126_065546.md)
+- [silmasema_optiikka_TREATMENT_02_20260126_065546.md](treatments/silmasema_optiikka_TREATMENT_02_20260126_065546.md)
+- [silmasema_optiikka_TREATMENT_03_20260126_065546.md](treatments/silmasema_optiikka_TREATMENT_03_20260126_065546.md)
 
 ## One-Pagers
 - [One-Pager 01](onepagers/concept_01.png)
