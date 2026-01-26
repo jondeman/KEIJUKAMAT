@@ -1,0 +1,25 @@
+{
+  "run_id": "20260126_064229",
+  "company_slug": "finnlines",
+  "created_at": "2026-01-26T06:42:29.600950",
+  "updated_at": "2026-01-26T06:42:29.600965",
+  "current_phase": "input",
+  "user_input": {
+    "company_name": "Finnlines",
+    "user_email": "erkka.rantanen@wbitvp.fi",
+    "access_code": "RAHULIA",
+    "additional_context": "Keskity Naantalista l\u00e4hteviin risteilymatkoihin aluksilla Finnsirius ja Finncanopus",
+    "onepager_layout": "landscape",
+    "use_cached_research": true
+  },
+  "dossier": null,
+  "concept_briefs": [],
+  "concepts": [],
+  "treatment_files": [],
+  "onepager_specs": [],
+  "onepagers_skipped": false,
+  "onepagers_error": null,
+  "pitch_email": "",
+  "phase_history": [],
+  "archive_ref": null
+}
