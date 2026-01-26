@@ -16,9 +16,9 @@
 - [Concept 03](concepts/concept_03.md)
 
 ## Treatments
-- [fitness24seven_TREATMENT_01_20260125_194153.md](treatments/fitness24seven_TREATMENT_01_20260125_194153.md)
-- [fitness24seven_TREATMENT_02_20260125_194153.md](treatments/fitness24seven_TREATMENT_02_20260125_194153.md)
-- [fitness24seven_TREATMENT_03_20260125_194153.md](treatments/fitness24seven_TREATMENT_03_20260125_194153.md)
+- [fitness24seven_TREATMENT_01_20260126_144343.md](treatments/fitness24seven_TREATMENT_01_20260126_144343.md)
+- [fitness24seven_TREATMENT_02_20260126_144343.md](treatments/fitness24seven_TREATMENT_02_20260126_144343.md)
+- [fitness24seven_TREATMENT_03_20260126_144343.md](treatments/fitness24seven_TREATMENT_03_20260126_144343.md)
 
 ## One-Pagers
 - [One-Pager 01](onepagers/concept_01.png)
