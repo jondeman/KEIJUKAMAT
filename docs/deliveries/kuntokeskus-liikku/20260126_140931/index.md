@@ -16,9 +16,9 @@
 - [Concept 03](concepts/concept_03.md)
 
 ## Treatments
-- [kuntokeskus_liikku_TREATMENT_01_20260125_193845.md](treatments/kuntokeskus_liikku_TREATMENT_01_20260125_193845.md)
-- [kuntokeskus_liikku_TREATMENT_02_20260125_193845.md](treatments/kuntokeskus_liikku_TREATMENT_02_20260125_193845.md)
-- [kuntokeskus_liikku_TREATMENT_03_20260125_193845.md](treatments/kuntokeskus_liikku_TREATMENT_03_20260125_193845.md)
+- [kuntokeskus_liikku_TREATMENT_01_20260126_141550.md](treatments/kuntokeskus_liikku_TREATMENT_01_20260126_141550.md)
+- [kuntokeskus_liikku_TREATMENT_02_20260126_141550.md](treatments/kuntokeskus_liikku_TREATMENT_02_20260126_141550.md)
+- [kuntokeskus_liikku_TREATMENT_03_20260126_141550.md](treatments/kuntokeskus_liikku_TREATMENT_03_20260126_141550.md)
 
 ## One-Pagers
 - [One-Pager 01](onepagers/concept_01.png)
