@@ -2,8 +2,8 @@
   "run_id": "20260126_140931",
   "company_slug": "kuntokeskus-liikku",
   "created_at": "2026-01-26T14:09:31.080635",
-  "updated_at": "2026-01-26T14:18:54.792248",
-  "current_phase": "visualize",
+  "updated_at": "2026-01-26T14:19:07.460489",
+  "current_phase": "compose_pitch",
   "user_input": {
     "company_name": "Kuntokeskus Liikku",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -666,7 +666,7 @@
   ],
   "onepagers_skipped": false,
   "onepagers_error": null,
-  "pitch_email": "",
+  "pitch_email": "Subject: Three video concepts for Kuntokeskus Liikku \u2014 addressing 'Lupaus tuesta' vs. 'Autio sali'. Br\u00e4ndi lupaa ...\n\n---\n\nHi [Contact Name],\n\nI've been studying Kuntokeskus Liikku's recent marketing activities and strategic direction, and I noticed an opportunity in emotionaalinen tarinankerronta puuttuu.\n\nBased on this analysis, I've developed three branded entertainment concepts that I believe could help Kuntokeskus Liikku achieve stronger positioning in aggressiivinen valtakunnallinen laajentuminen:\n\n**Concept 1: \"Ensimm\u00e4inen Kerta\"**\nDokumenttisarja, joka tekee n\u00e4kyv\u00e4ksi sen hetken, kun tavallinen suomalainen astuu ensimm\u00e4ist\u00e4 kertaa kuntosalille \u2013 ja todistaa, ett\u00e4 paras treeni todella on tehty treeni.\n\n**Concept 2: \"Sali Ilman S\u00e4\u00e4nt\u00f6j\u00e4\"**\nTikTok-sarja, jossa fitness-vaikuttaja Eevi Teittinen testaa absurdeja treeniv\u00e4itt\u00e4mi\u00e4 ja somemyyttej\u00e4 oikeassa Liikku-salissa \u2013 ja paljastaa mik\u00e4 toimii ja mik\u00e4 on t\u00e4ytt\u00e4 puppua.\n\n**Concept 3: \"Suomen Liikkumattomin Kunta\"**\nValtakunnallinen kilpailu, jossa Suomen v\u00e4hiten liikkuva kunta saa Liikun pop-up-salin, PT-tiimin ja kuukauden mission muuttaa tilastot \u2013 koko Suomi seuraa somessa ja TV:ss\u00e4.\n\nI've attached visual one-pagers for each concept, along with detailed format specifications.\n\n---\n\n## Strategic Hypothesis\n\nBased on my research into Kuntokeskus Liikku's current positioning and market dynamics, I believe there's a significant opportunity in branded entertainment that addresses three distinct strategic needs:\n\n**1. Ensimm\u00e4inen Kerta** addresses ratkaisee suoraan j\u00e4nnitteen 'aloittelijan houkuttelu vs. osaamisvaje'. sarja n\u00e4ytt\u00e4\u00e4 konkreettisesti, miten liikku tukee aloittelijaa \u2013 vaikka salilla ei olisikaan ket\u00e4\u00e4n paikalla, sis\u00e4lt\u00f6 toimii digitaalisena tsempparina.\n\n**2. Sali Ilman S\u00e4\u00e4nt\u00f6j\u00e4** addresses ratkaisee 'osaamisvaje'-j\u00e4nnitteen tarjoamalla luotettavaa, viihdytt\u00e4v\u00e4\u00e4 tietoa. liikku ei j\u00e4t\u00e4 j\u00e4seni\u00e4\u00e4n yksin \u2013 vaan tarjoaa sis\u00e4lt\u00f6\u00e4, joka auttaa tekem\u00e4\u00e4n parempia valintoja.\n\n**3. Suomen Liikkumattomin Kunta** addresses ratkaisee kaikki kolme j\u00e4nnitett\u00e4: osoittaa konkreettisesti kannustuksen (pt:t paikan p\u00e4\u00e4ll\u00e4), t\u00e4ytt\u00e4\u00e4 osaamisvajeen (opastus oikeasti), ja todistaa suomalaisen rehtiytden (tehd\u00e4\u00e4n, ei vain puhuta). tukee valtakunnallista laajentumista nostamalla br\u00e4ndin koko suomen tietoisuuteen.\n\nTogether, these concepts represent a portfolio approach\u2014from low-risk proven formats to bold differentiators\u2014giving Kuntokeskus Liikku options across the risk spectrum while maintaining strategic coherence.\n\n---\n\nI'd welcome 15 minutes to walk through these ideas and get your initial reactions.\n\nBest,\n[Your Name]\n\n---\n\n\ud83d\udcce Attachments:\n- Concept 1 One-Pager (Ensimm\u00e4inen Kerta.png)\n- Concept 2 One-Pager (Sali Ilman S\u00e4\u00e4nt\u00f6j\u00e4.png)\n- Concept 3 One-Pager (Suomen Liikkumattomin Kunta.png)\n- Detailed Concept Documents (PDF)\n\n[Link to full materials folder: https://jondeman.github.io/KEIJUKAMAT/deliveries/kuntokeskus-liikku/20260126_140931/index.html]",
   "phase_history": [
     {
       "phase": "validate",
@@ -707,6 +707,15 @@
     {
       "phase": "visualize",
       "started_at": "2026-01-26T14:15:52.077142",
+      "completed_at": "2026-01-26T14:19:07.445146",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "compose_pitch",
+      "started_at": "2026-01-26T14:19:07.452317",
       "completed_at": null,
       "success": false,
       "error_message": null,
