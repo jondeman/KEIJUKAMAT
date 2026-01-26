@@ -2,8 +2,8 @@
   "run_id": "20260126_064229",
   "company_slug": "finnlines",
   "created_at": "2026-01-26T06:42:29.600950",
-  "updated_at": "2026-01-26T06:44:52.979584",
-  "current_phase": "strategize",
+  "updated_at": "2026-01-26T06:50:33.902746",
+  "current_phase": "create",
   "user_input": {
     "company_name": "Finnlines",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -279,8 +279,344 @@
       "success_hypothesis": "This concept unlocks an untapped opportunity for Finnlines by addressing their aspiration in a way that creates cultural relevance and positions the brand as an innovator in their space."
     }
   ],
-  "concepts": [],
-  "treatment_files": [],
+  "concepts": [
+    {
+      "id": "concept_01",
+      "title": "Hiljaisuuden Kapteenit",
+      "hook": "Dokumenttisarja, joka todistaa miksi hiljaisuus on uusi luksus \u2013 ja miksi \u00e4lyk\u00e4s matkustaja valitsee Finnlinesin.",
+      "premise": "Kahdeksan jakson dokumenttisarja seuraa eri alojen ammattilaisia \u2013 kirjailijaa, huippu-urheilijaa, yritt\u00e4j\u00e4\u00e4, koomikkoa \u2013 jotka saavat teht\u00e4v\u00e4kseen kirjoittaa, ajatella tai luoda jotain merkitt\u00e4v\u00e4\u00e4 Finnlinesin Naantali\u2013Kapellsk\u00e4r -reitill\u00e4. Jokainen jakso dokumentoi, mit\u00e4 tapahtuu kun kiireinen ihminen pakotetaan hiljaisuuteen ja saaristomaisemiin. Sarja k\u00e4\u00e4nt\u00e4\u00e4 Finnlinesin 'tylsyyden' kilpailueduksi: t\u00e4ss\u00e4 maailmassa rauha on harvinaista ja kallista.",
+      "long_form_extension": "Sarja editoidaan 8x22min jaksoiseksi TV-sarjaksi Ruutu+/Neloselle, ja jokaisesta jaksosta tehd\u00e4\u00e4n 45min extended cut streaming-alustalle.",
+      "format": {
+        "series_type": "limited",
+        "episode_length": "12-15 minuuttia",
+        "cadence": "Viikoittain",
+        "season_length": "8 jaksoa"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "YouTube",
+          "rationale": "YouTube mahdollistaa pidemm\u00e4n, laadukaan dokumentaarisen tarinankerronnan, jossa katsoja uppoutuu henkil\u00f6iden matkaan. Hakuoptimoidut jaksot ('miten l\u00f6yt\u00e4\u00e4 rauha', 'slow travel Suomi') tuovat orgaanista liikennett\u00e4.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "Instagram",
+            "rationale": "",
+            "adaptation": "60 sekunnin 'ajatushetket' \u2013 lyhyet, visuaalisesti upeat klipit, joissa vieras jakaa yhden oivalluksen saaristomaiseman \u00e4\u00e4rell\u00e4."
+          },
+          {
+            "platform": "TikTok",
+            "rationale": "",
+            "adaptation": "Behind-the-scenes -materiaali: miten kuvataan laivalla, vieraiden reaktiot, 'POV: et kuule mit\u00e4\u00e4n' -formaatti."
+          }
+        ],
+        "amplification": "Vieraiden omat somekanavat, PR-kampanja 'Suomen hiljaisin ty\u00f6matka', yhteisty\u00f6 Yle Areenan kanssa nostona."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Sama reitti Naantali\u2013Kapellsk\u00e4r jokaisessa jaksossa",
+          "Jakson alussa vieraan arjen kaaos, lopussa valmis 'teos' tai oivallus",
+          "Panoraamaikkunan\u00e4kym\u00e4 aina l\u00e4sn\u00e4 taustalla",
+          "Hiljaisuusmittari: kuinka monta minuuttia vieras oli ilman puhelinta"
+        ],
+        "variable_elements": [
+          "Eri ammattien edustajat tuovat eri n\u00e4k\u00f6kulmia rauhaan",
+          "Vieraan luoma sis\u00e4lt\u00f6 vaihtelee (runo, biisidemo, liikeidea, treenaussuunnitelma)",
+          "Vuodenaikojen vaihtelu saaristossa"
+        ],
+        "host_approach": "Ei varsinaista juontajaa \u2013 vieras on p\u00e4\u00e4henkil\u00f6. Laivan miehist\u00f6n j\u00e4senet (kapteeni, kokki) toimivat sivuhahmoina, jotka tuovat autenttisuutta."
+      },
+      "brand_integration": {
+        "philosophy": "Finnlines ei ole sponsori vaan mahdollistaja \u2013 laiva on 'luova tila', joka tekee hiljaisuuden mahdolliseksi.",
+        "integration_method": "Laivan tilat (Premium Lounge, spa, ravintola) n\u00e4kyv\u00e4t luontevasti osana vieraan p\u00e4iv\u00e4\u00e4. Ei tuote-esittelyj\u00e4, vaan k\u00e4ytt\u00f6\u00e4.",
+        "screen_time_balance": "85% sis\u00e4lt\u00f6\u00e4, 15% br\u00e4ndi (luontevasti integroituna)",
+        "cta_approach": "Jakson lopussa 'Varaa oma hiljaisuutesi' -teksti ja QR-koodi, ei aggressiivista myynti\u00e4."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Kirjailija ja tyhj\u00e4 sivu",
+          "description": "Bestseller-kirjailija saa teht\u00e4v\u00e4kseen kirjoittaa novellin alun matkan aikana \u2013 ensimm\u00e4ist\u00e4 kertaa vuoteen ilman deadlinea."
+        },
+        {
+          "number": 2,
+          "title": "Huippu-urheilija palautuu",
+          "description": "Olympiaurheilija k\u00e4ytt\u00e4\u00e4 matkan mentaaliseen palautumiseen ja visualisointiin ennen MM-kisoja."
+        },
+        {
+          "number": 3,
+          "title": "Startup-yritt\u00e4j\u00e4 pys\u00e4htyy",
+          "description": "Burnoutin partaalla oleva yritt\u00e4j\u00e4 pakotetaan j\u00e4tt\u00e4m\u00e4\u00e4n puhelin hyttiin ja miettim\u00e4\u00e4n miksi h\u00e4n alun perin aloitti."
+        },
+        {
+          "number": 4,
+          "title": "Koomikko ilman yleis\u00f6\u00e4",
+          "description": "Stand up -koomikko kirjoittaa uutta materiaalia hiljaisuudessa \u2013 miten syntyy vitsi kun kukaan ei reagoi?"
+        },
+        {
+          "number": 5,
+          "title": "Muusikko ja meren \u00e4\u00e4net",
+          "description": "Elektronisen musiikin tuottaja \u00e4\u00e4nitt\u00e4\u00e4 saariston \u00e4\u00e4ni\u00e4 ja rakentaa niist\u00e4 biisin matkan aikana."
+        },
+        {
+          "number": 6,
+          "title": "Kokki maistaa hitaasti",
+          "description": "Palkittu ravintolakokki testaa Finnlinesin keitti\u00f6n ja luo menun, joka syntyy vain kun on aikaa ajatella."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee suoraan 'Rautakeskeisyys vs. Tunnekeskeisyys' -j\u00e4nnitteen siirt\u00e4m\u00e4ll\u00e4 fokuksen laivan tiloista ihmisten kokemuksiin ja tunteisiin. Samalla vastaa matkustajavolyymin kasvun prioriteettiin luomalla uuden syyn matkustaa.",
+        "competitive_differentiation": "Viking Line myy biletyst\u00e4 ja artisteja, Finnlines myy hiljaisuutta ja ajattelun tilaa. T\u00e4m\u00e4 on t\u00e4ysin vastakkainen positio, jota kukaan muu ei voi kopioida.",
+        "audience_value_proposition": "Katsojat saavat inspiraatiota omaan el\u00e4m\u00e4\u00e4ns\u00e4: miten l\u00f6yt\u00e4\u00e4 rauha, miten luoda ilman h\u00e4iri\u00f6it\u00e4. Tunnetut vieraat tuovat vetovoimaa, mutta aihe on universaali."
+      },
+      "execution": {
+        "complexity": "medium",
+        "budget_tier": "mid",
+        "timeline_to_first_episode": "10-12 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Vieraiden aikataulut ja saatavuus",
+          "mitigation": "Varataan 12 potentiaalista vierasta 8 jaksolle, kuvataan joustavalla aikataululla ymp\u00e4ri vuoden."
+        },
+        {
+          "risk": "Hiljaisuus voi n\u00e4ytt\u00e4\u00e4 tyls\u00e4lt\u00e4 videolle",
+          "mitigation": "Vahva visuaalinen kerronta (saaristokuvaus, ajastukset, maisemataide) ja vieraiden sis\u00e4isen monologin \u00e4\u00e4nitys."
+        },
+        {
+          "risk": "Liian niche-yleis\u00f6",
+          "mitigation": "Tunnetut vieraat tuovat laajemman yleis\u00f6n, ja 'slow living' -trendi on vahvassa nousussa."
+        }
+      ]
+    },
+    {
+      "id": "concept_02",
+      "title": "Laivan Lapset",
+      "hook": "TikTok-sarja, jossa Gen Z -vaikuttajat todistavat, ett\u00e4 Finnlines ei ole rekkalaiva vaan Suomen aliarvostetuin chill-paikka.",
+      "premise": "Kuusi suosittua nuorta vaikuttajaa (TikTok/IG) l\u00e4hetet\u00e4\u00e4n yksitellen Finnlinesin risteilylle ilman ennakkotietoa. Heid\u00e4n teht\u00e4v\u00e4ns\u00e4 on dokumentoida kaikki yll\u00e4tykset, v\u00e4\u00e4rink\u00e4sitykset ja l\u00f6yd\u00f6t 'POV: luulin t\u00e4m\u00e4n olevan rekkalaiva' -formaatissa. Sarja purkaa systemaattisesti Gen Z:n ennakkoluuloja ja rakentaa uuden mielikuvan: Finnlines on 'main character energy' -risteily, jossa ei tarvitse jonottaa tai kuunnella humalaisten karaokea.",
+      "long_form_extension": "TikTok-sis\u00e4ll\u00f6st\u00e4 kootaan 3x15min 'Best of' -koosteet YouTubeen ja 1x45min dokumentti 'Gen Z l\u00f6yt\u00e4\u00e4 hiljaisuuden' Ruutu+:aan.",
+      "format": {
+        "series_type": "limited",
+        "episode_length": "30-90 sekuntia per TikTok",
+        "cadence": "3-5 videota viikossa per vaikuttaja, 2 viikon ajan",
+        "season_length": "6 vaikuttajaa x ~15 videota = ~90 videota"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "TikTok",
+          "rationale": "TikTok on ainoa alusta, jolla Gen Z:n ennakkoluulot voidaan murtaa aidosti. 'POV' ja 'expectation vs. reality' -formaatit ovat natiiveja t\u00e4lle alustalle ja levi\u00e4v\u00e4t orgaanisesti.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "Instagram Reels",
+            "rationale": "",
+            "adaptation": "Samat videot ristiinpostataan, mutta IG:ss\u00e4 my\u00f6s 'carousel' -postaukset 'Top 5 asiaa jotka yll\u00e4ttiv\u00e4t Finnlinesilla'."
+          },
+          {
+            "platform": "YouTube Shorts",
+            "rationale": "",
+            "adaptation": "Parhaat TikTokit kootaan Shorts-sarjaksi, joka ohjaa liikennett\u00e4 pidempiin koostejjaksoihin."
+          }
+        ],
+        "amplification": "Paid boost parhaiten toimiville videoille, vaikuttajien omat kanavat (yht. 500k+ seuraajaa), hashtag-haaste #LaivankuvaV\u00e4\u00e4rin."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "'Expectation vs. Reality' -siirtym\u00e4 jokaisessa videossa",
+          "Sama 'en tiennyt t\u00e4t\u00e4' -reaktioformaatti",
+          "Panoraamaikkunat ja saaristomaisema taustalla",
+          "Yll\u00e4tyshetki: vaikuttaja l\u00f6yt\u00e4\u00e4 jotain odottamatonta (spa, ruoka, rauha)"
+        ],
+        "variable_elements": [
+          "Eri vaikuttajien persoonat ja tyylit",
+          "Eri vuodenajat ja keliolosuhteet",
+          "Eri l\u00f6yd\u00f6t riippuen vaikuttajan kiinnostuksista (foodie, wellness, estetiikka)"
+        ],
+        "host_approach": "Vaikuttajat ovat itsen\u00e4isi\u00e4 'tutkimusmatkailijoita'. Ei juontajaa, mutta tuotanto ohjaa l\u00f6yt\u00f6reittej\u00e4 kevyesti."
+      },
+      "brand_integration": {
+        "philosophy": "Br\u00e4ndi on yll\u00e4tys, ei sponsori. Vaikuttajien aito reaktio on markkinointia \u2013 ei tarvita skriptattua kehua.",
+        "integration_method": "Vaikuttajat l\u00f6yt\u00e4v\u00e4t laivan palvelut orgaanisesti: 'wait, t\u00e4\u00e4ll\u00e4 on oikeasti hyv\u00e4 spa?', 't\u00e4\u00e4 ruoka on lowkey fine dining'.",
+        "screen_time_balance": "90% vaikuttajan kokemus, 10% eksplisiittinen br\u00e4ndin\u00e4kyvyys",
+        "cta_approach": "Ei suoraa CTA:ta videoissa. Vaikuttajien bio-linkit ohjaavat Finnlinesin sivulle, jakson lopussa 'linkki biossa'."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "POV: Luulin t\u00e4n olevan rekkalaiva",
+          "description": "Ensimm\u00e4inen vaikuttaja astuu laivaan ennakkoluulojen kanssa ja dokumentoi jokaisen yll\u00e4tyksen."
+        },
+        {
+          "number": 2,
+          "title": "Rating jokaisen ruoan laivalla",
+          "description": "Foodie-vaikuttaja testaa kaikki seitsem\u00e4n ravintolaa ja antaa rehellisen arvion \u2013 spoiler: ei ole buffet-m\u00e4tt\u00f6\u00e4."
+        },
+        {
+          "number": 3,
+          "title": "24h ilman puhelinta merell\u00e4",
+          "description": "Vaikuttaja haastaa itsens\u00e4 digital detoxiin ja dokumentoi mit\u00e4 tapahtuu kun ei voi scrollata."
+        },
+        {
+          "number": 4,
+          "title": "Saariston hidden gems",
+          "description": "Vaikuttaja kuvaa koko matkan saaristomaisemia ja rakentaa 'cinematic' TikTok-kokoelman."
+        },
+        {
+          "number": 5,
+          "title": "Spa day mutta se on laivalla",
+          "description": "Wellness-vaikuttaja testaa spa-osaston ja vertaa sit\u00e4 maissa oleviin spa-hoteleihin."
+        },
+        {
+          "number": 6,
+          "title": "Y\u00f6n yli laivalla: sleep quality check",
+          "description": "Vaikuttaja testaa Premium-hytin ja dokumentoi nukkumisen laadun \u2013 yll\u00e4tys: meren keinunta rauhoittaa."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee suoraan yleis\u00f6aukon: Gen Z ei tied\u00e4 Finnlinesista mit\u00e4\u00e4n tai pit\u00e4\u00e4 sit\u00e4 'rekkakuskien lauttana'. T\u00e4m\u00e4 konsepti rakentaa uuden mielikuvan heid\u00e4n omalla kielell\u00e4\u00e4n.",
+        "competitive_differentiation": "Viking Line k\u00e4ytt\u00e4\u00e4 vanhoja julkkiksia ja TV-mainoksia. Finnlines menee suoraan Gen Z:n feediin natiivilla sis\u00e4ll\u00f6ll\u00e4, jota ei voi erottaa orgaanisesta sis\u00e4ll\u00f6st\u00e4.",
+        "audience_value_proposition": "Gen Z rakastaa 'underrated' -l\u00f6yt\u00f6j\u00e4 ja 'expectation vs. reality' -sis\u00e4lt\u00f6\u00e4. T\u00e4m\u00e4 antaa heille mahdollisuuden l\u00f6yt\u00e4\u00e4 jotain, mist\u00e4 heid\u00e4n kaverinsa eiv\u00e4t tied\u00e4."
+      },
+      "execution": {
+        "complexity": "low",
+        "budget_tier": "budget",
+        "timeline_to_first_episode": "4-6 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Vaikuttajien reaktiot eiv\u00e4t ole aitoja tai positiivisia",
+          "mitigation": "Valitaan vaikuttajat, joiden arvomaailma sopii rauhaan ja laatuun. Ei pakoteta skriptej\u00e4 \u2013 aitous on koko konseptin ydin."
+        },
+        {
+          "risk": "TikTok-algoritmi ei nosta sis\u00e4lt\u00f6\u00e4",
+          "mitigation": "Varataan paid boost -budjetti parhaiten toimiville videoille, ja optimoidaan hashtagit ja julkaisuajat."
+        },
+        {
+          "risk": "Sis\u00e4lt\u00f6 n\u00e4ytt\u00e4\u00e4 liikaa mainokselta",
+          "mitigation": "Vaikuttajat saavat t\u00e4yden luovan vapauden \u2013 tuotanto ei editoi heid\u00e4n videoitaan, vain ohjaa l\u00f6yt\u00f6reittej\u00e4."
+        }
+      ]
+    },
+    {
+      "id": "concept_03",
+      "title": "Kelluvat Tarinat",
+      "hook": "Interaktiivinen live-tapahtuma, jossa yleis\u00f6 valitsee mit\u00e4 laivalla tapahtuu \u2013 ja kaikki striimataan reaaliajassa someen.",
+      "premise": "Finnlines muuttuu yhdeksi illaksi el\u00e4v\u00e4ksi tarinankerrontan\u00e4ytt\u00e4m\u00f6ksi. Laivalle tuodaan n\u00e4yttelij\u00e4t, jotka improvisoivat draamaa yleis\u00f6n p\u00e4\u00e4t\u00f6sten perusteella \u2013 \u00e4\u00e4nestykset tapahtuvat TikTok Livess\u00e4 ja Instagramissa reaaliajassa. Katsojat kotona p\u00e4\u00e4tt\u00e4v\u00e4t: 'Meneek\u00f6 p\u00e4\u00e4henkil\u00f6 kannelle vai baariin?', 'Kertooko h\u00e4n totuuden?'. Fyysinen yleis\u00f6 laivalla el\u00e4\u00e4 tarinan keskell\u00e4, digitaalinen yleis\u00f6 ohjaa sit\u00e4. Lopputulos on uniikki joka kerta.",
+      "long_form_extension": "Live-tapahtumasta editoidaan 3x30min 'choose your own adventure' -tyylinen draamasarja Ruutu+:aan, jossa katsoja voi valita eri polkuja. Lis\u00e4ksi 1x60min dokumentti tapahtuman kulissien takaa.",
+      "format": {
+        "series_type": "event",
+        "episode_length": "2-3 tuntia live-tapahtuma",
+        "cadence": "1-2 tapahtumaa vuodessa",
+        "season_length": "Pilotti + mahdollinen jatkuva konsepti"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "TikTok Live + Instagram Live",
+          "rationale": "Live-striimaus mahdollistaa reaaliaikaisen vuorovaikutuksen ja FOMO-efektin. TikTok Liven \u00e4\u00e4nestysty\u00f6kalut ovat t\u00e4ydellisi\u00e4 interaktiiviseen tarinankerrontaan.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "YouTube",
+            "rationale": "",
+            "adaptation": "Tapahtuman j\u00e4lkeen editoitu 'Director's Cut' -versio, jossa n\u00e4ytet\u00e4\u00e4n molemmat tarinapolut rinnakkain."
+          },
+          {
+            "platform": "Twitch",
+            "rationale": "",
+            "adaptation": "Mahdollinen simulcast Twitchiin gaming/draama-yhteis\u00f6lle, joka arvostaa interaktiivista sis\u00e4lt\u00f6\u00e4."
+          }
+        ],
+        "amplification": "PR-kampanja 'Suomen ensimm\u00e4inen kelluva interaktiivinen draama', vaikuttajakutsut laivalle, hashtagit #KelluvatTarinat #Sin\u00e4P\u00e4\u00e4t\u00e4t."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Sama laiva ja reitti (Naantali\u2013Kapellsk\u00e4r) jokaisessa tapahtumassa",
+          "Interaktiivinen \u00e4\u00e4nestysmekanismi",
+          "N\u00e4yttelij\u00e4ensemble, joka improvisoi yleis\u00f6n valintojen mukaan",
+          "Laivan tilat toimivat luontevina 'settein\u00e4' (baari, kansi, hytti, ravintola)"
+        ],
+        "variable_elements": [
+          "Eri tarinat ja genret (draama, mysteeri, romanssi, trilleri)",
+          "Eri n\u00e4yttelij\u00e4t ja vierailevat t\u00e4hdet",
+          "Yleis\u00f6n valinnat muuttavat jokaisen esityksen uniikiksi"
+        ],
+        "host_approach": "Juontaja/kertoja (esim. tunnettu n\u00e4yttelij\u00e4) ohjaa yleis\u00f6\u00e4 l\u00e4pi illan ja selostaa \u00e4\u00e4nestyksi\u00e4. H\u00e4n on 'tarinankertoja', joka sitoo kaiken yhteen."
+      },
+      "brand_integration": {
+        "philosophy": "Finnlines on tarinan n\u00e4ytt\u00e4m\u00f6 \u2013 laiva ei ole sponsori vaan mahdollistaja, joka tekee t\u00e4m\u00e4n kokemuksen ainoaksi laatuaan.",
+        "integration_method": "Laivan tilat ovat luonnollisia draaman tapahtumapaikoja. Premium Lounge on 'salaper\u00e4inen VIP-tila', spa on 'kohtaamispaikka', kansi on 'kohtalokas hetki'.",
+        "screen_time_balance": "95% draama ja vuorovaikutus, 5% br\u00e4ndi (luontevasti osana tarinaa)",
+        "cta_approach": "Tapahtuman j\u00e4lkeen 'Haluatko kokea t\u00e4m\u00e4n liven\u00e4? Seuraava Kelluva Tarina X p\u00e4iv\u00e4m\u00e4\u00e4r\u00e4' \u2013 myyd\u00e4\u00e4n lippuja seuraavaan tapahtumaan."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Pilotti: Kadonneen perint\u00f6",
+          "description": "Mysteeridraamaa: kuka murhasi rikkaan perij\u00e4n? Yleis\u00f6 \u00e4\u00e4nest\u00e4\u00e4 kenen j\u00e4ljille etsiv\u00e4 menee."
+        },
+        {
+          "number": 2,
+          "title": "Rakkaus saaristossa",
+          "description": "Romanttinen draama: kaksi ex-rakastajaa kohtaavat sattumalta laivalla. P\u00e4\u00e4sev\u00e4tk\u00f6 he yhteen vai erilleen?"
+        },
+        {
+          "number": 3,
+          "title": "Viimeinen y\u00f6",
+          "description": "Trillerigenre: joku laivalla ei ole sit\u00e4 mit\u00e4 v\u00e4itt\u00e4\u00e4. Yleis\u00f6 p\u00e4\u00e4tt\u00e4\u00e4 kehen luotetaan."
+        },
+        {
+          "number": 4,
+          "title": "Perhesalaisuudet",
+          "description": "Draamagenre: kolme sukupolvea kokoontuu laivalle ja vanhat haavat avautuvat."
+        },
+        {
+          "number": 5,
+          "title": "Tuntematon matkustaja",
+          "description": "Mysteeri-komedia: kuka on salaper\u00e4inen henkil\u00f6, joka jakaa lahjoja satunnaisille matkustajille?"
+        },
+        {
+          "number": 6,
+          "title": "Ajelehtijat",
+          "description": "Eksistentiaalinen draama: viisi toisilleen tuntematonta jakaa tarinaansa y\u00f6n aikana."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee useita j\u00e4nnitteit\u00e4: muuttaa 'tyls\u00e4n' laivan el\u00e4mykseksi, tuo nuorta yleis\u00f6\u00e4 interaktiivisuudella, ja luo t\u00e4ysin uniikkia sis\u00e4lt\u00f6\u00e4, jota kukaan muu ei voi kopioida.",
+        "competitive_differentiation": "Viking Line tekee artistikeikkoja, Finnlines tekee immersiivist\u00e4 draamaa. T\u00e4m\u00e4 on t\u00e4ysin uusi kategoria laivaviihteess\u00e4 \u2013 ei kukaan muu tee t\u00e4t\u00e4.",
+        "audience_value_proposition": "Katsojat eiv\u00e4t ole passiivisia \u2013 he ovat osa tarinaa. T\u00e4m\u00e4 on Netflix + Bandersnatch + live-teatteri + laiva. FOMO on valtava."
+      },
+      "execution": {
+        "complexity": "high",
+        "budget_tier": "premium",
+        "timeline_to_first_episode": "16-20 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Tekninen toteutus live-striimauksessa laivalla",
+          "mitigation": "Akun Tehtaan tapahtumatekniikka + etuk\u00e4teen testattu 5G/satelliittiyhteys + backup-tallennukset."
+        },
+        {
+          "risk": "N\u00e4yttelij\u00f6iden improvisaatiokyky paineen alla",
+          "mitigation": "Valitaan kokeneet improvisaation\u00e4yttelij\u00e4t (esim. Stella Polaris -tausta), harjoitellaan useita skenaarioita etuk\u00e4teen."
+        },
+        {
+          "risk": "Yleis\u00f6n osallistuminen j\u00e4\u00e4 v\u00e4h\u00e4iseksi",
+          "mitigation": "Rakennetaan hype etuk\u00e4teen vaikuttajamarkkinoinnilla, tarjotaan palkintoja aktiivisimmille \u00e4\u00e4nest\u00e4jille."
+        },
+        {
+          "risk": "Liian monimutkainen konsepti ymm\u00e4rt\u00e4\u00e4",
+          "mitigation": "Selke\u00e4 30 sekunnin explainer-video, joka kertoo mist\u00e4 on kyse. Juontaja ohjaa yleis\u00f6\u00e4 l\u00e4pi illan."
+        }
+      ]
+    }
+  ],
+  "treatment_files": [
+    "/opt/render/project/src/runs/finnlines/TREATMENTS/finnlines_TREATMENT_01_20260126_065033.md",
+    "/opt/render/project/src/runs/finnlines/TREATMENTS/finnlines_TREATMENT_02_20260126_065033.md",
+    "/opt/render/project/src/runs/finnlines/TREATMENTS/finnlines_TREATMENT_03_20260126_065033.md"
+  ],
   "onepager_specs": [],
   "onepagers_skipped": false,
   "onepagers_error": null,
@@ -316,6 +652,15 @@
     {
       "phase": "strategize",
       "started_at": "2026-01-26T06:44:52.974014",
+      "completed_at": "2026-01-26T06:44:54.432655",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "create",
+      "started_at": "2026-01-26T06:44:54.438587",
       "completed_at": null,
       "success": false,
       "error_message": null,

@@ -16,6 +16,9 @@
 - [Concept 03](concepts/concept_03.md)
 
 ## Treatments
+- [finnlines_TREATMENT_01_20260126_065033.md](treatments/finnlines_TREATMENT_01_20260126_065033.md)
+- [finnlines_TREATMENT_02_20260126_065033.md](treatments/finnlines_TREATMENT_02_20260126_065033.md)
+- [finnlines_TREATMENT_03_20260126_065033.md](treatments/finnlines_TREATMENT_03_20260126_065033.md)
 
 ## One-Pagers
 - [One-Pager 01](onepagers/concept_01.png)
