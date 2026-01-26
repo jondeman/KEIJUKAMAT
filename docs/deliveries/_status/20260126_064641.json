@@ -2,8 +2,8 @@
   "run_id": "20260126_064641",
   "company_slug": "silmasema-optiikka",
   "created_at": "2026-01-26T06:46:41.462663",
-  "updated_at": "2026-01-26T06:59:06.381788",
-  "current_phase": "compose_pitch",
+  "updated_at": "2026-01-26T06:59:14.749065",
+  "current_phase": "package",
   "user_input": {
     "company_name": "Silm\u00e4asema Optiikka",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -725,6 +725,15 @@
     {
       "phase": "compose_pitch",
       "started_at": "2026-01-26T06:59:06.369587",
+      "completed_at": "2026-01-26T06:59:14.740790",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "package",
+      "started_at": "2026-01-26T06:59:14.749043",
       "completed_at": null,
       "success": false,
       "error_message": null,
