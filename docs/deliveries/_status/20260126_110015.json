@@ -2,8 +2,8 @@
   "run_id": "20260126_110015",
   "company_slug": "silmasema-optiikka",
   "created_at": "2026-01-26T11:00:15.565665",
-  "updated_at": "2026-01-26T11:00:18.475564",
-  "current_phase": "strategize",
+  "updated_at": "2026-01-26T11:05:55.274269",
+  "current_phase": "create",
   "user_input": {
     "company_name": "Silm\u00e4asema Optiikka",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -254,8 +254,340 @@
       "success_hypothesis": "This concept unlocks an untapped opportunity for Silm\u00e4asema Optiikka by addressing their underserved audience in a way that creates cultural relevance and positions the brand as an innovator in their space."
     }
   ],
-  "concepts": [],
-  "treatment_files": [],
+  "concepts": [
+    {
+      "id": "concept_01",
+      "title": "Ensimm\u00e4inen Katse",
+      "hook": "Dokumenttisarja, joka seuraa ihmisi\u00e4, joiden n\u00e4k\u00f6 korjataan optikon avulla \u2013 ja tallentaa hetken, kun he n\u00e4kev\u00e4t maailman uusin silmin ensimm\u00e4ist\u00e4 kertaa.",
+      "premise": "Joka jaksossa tapaamme suomalaisen, jonka el\u00e4m\u00e4\u00e4 huono n\u00e4k\u00f6 on rajoittanut vuosia: nuoren, joka ei ole koskaan n\u00e4hnyt taulua koulussa kunnolla, tai isovanhemman, joka ei erota lastenlasten kasvoja. Silm\u00e4aseman optikko tutkii, m\u00e4\u00e4ritt\u00e4\u00e4 ja sovittaa t\u00e4ydelliset lasit \u2013 ja kamera tallentaa sen tunnepitoisen hetken, kun asiakas n\u00e4kee ensimm\u00e4ist\u00e4 kertaa selv\u00e4sti. Sarja on kunnianosoitus arkiselle ihmeelle: n\u00e4kemiselle.",
+      "long_form_extension": "8-osainen dokumenttisarja Ruutu+:aan (8x25min), jossa jokainen jakso syvent\u00e4\u00e4 yhden henkil\u00f6n tarinaa kokonaiseksi el\u00e4m\u00e4kertan\u00e4k\u00f6kulmaksi. Broadcast-versio MTV3:lle (4x45min) yhdist\u00e4\u00e4 kaksi tarinaa per jakso.",
+      "format": {
+        "series_type": "seasonal",
+        "episode_length": "10-15 minuuttia",
+        "cadence": "Viikoittain",
+        "season_length": "8 jaksoa"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "YouTube",
+          "rationale": "Dokumentaarinen, tunteisiin vetoava sis\u00e4lt\u00f6 toimii YouTubessa erinomaisesti \u2013 pitk\u00e4 katseluaika, jakaminen ja kommentointi. Silm\u00e4aseman YouTube-kanava saa aitoa yhteis\u00f6\u00e4 ja orgaanista n\u00e4kyvyytt\u00e4.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "Instagram Reels",
+            "rationale": "",
+            "adaptation": "60 sekunnin 'reveal'-hetket \u2013 se tunnepitoinen reaktio, kun lasit asetetaan ensimm\u00e4ist\u00e4 kertaa. Vertikaali, raaka, aito."
+          },
+          {
+            "platform": "TikTok",
+            "rationale": "",
+            "adaptation": "Behind-the-scenes optikon ty\u00f6st\u00e4, 'ennen ja j\u00e4lkeen' -n\u00e4k\u00f6vertailut, ja p\u00e4\u00e4henkil\u00f6iden omat kommentit."
+          }
+        ],
+        "amplification": "PR-nosto isoimmista tarinoista (esim. 'N\u00e4in \u00e4itins\u00e4 ensimm\u00e4ist\u00e4 kertaa selv\u00e4sti'), paikallismedioiden kiinnostus. Orgaaninen levi\u00e4minen tunnereaktioiden kautta."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "P\u00e4\u00e4henkil\u00f6n esittely ja arjen haasteet huonolla n\u00e4\u00f6ll\u00e4",
+          "Silm\u00e4aseman optikon tutkimus ja asiantuntijaty\u00f6",
+          "Lasien valinta ja sovitus",
+          "'Ensimm\u00e4inen katse' -reveal-hetki",
+          "J\u00e4lkihaastattelu: milt\u00e4 maailma nyt n\u00e4ytt\u00e4\u00e4"
+        ],
+        "variable_elements": [
+          "Eri-ik\u00e4iset ja -taustaiset p\u00e4\u00e4henkil\u00f6t (lapsi, opiskelija, seniori, ammattilainen)",
+          "Erilaiset n\u00e4k\u00f6ongelmat (likin\u00e4k\u00f6isyys, hajataitteisuus, ik\u00e4n\u00e4k\u00f6)",
+          "Vaihtelevat ymp\u00e4rist\u00f6t ja 'ensimm\u00e4isen katseen' kohteet (luonto, perhe, harrastus)"
+        ],
+        "host_approach": "Ei erillist\u00e4 juontajaa \u2013 optikko toimii luontevana oppaana ja asiantuntijana. Tarina kulkee p\u00e4\u00e4henkil\u00f6n \u00e4\u00e4nell\u00e4."
+      },
+      "brand_integration": {
+        "philosophy": "Silm\u00e4asema on mahdollistaja, ei myyj\u00e4. Br\u00e4ndi n\u00e4kyy asiantuntijuutena ja huolenpitona, ei logoina tai tarjouksina.",
+        "integration_method": "Optikon ty\u00f6 ja osaaminen ovat keskeisess\u00e4 roolissa \u2013 katsoja ymm\u00e4rt\u00e4\u00e4, ett\u00e4 t\u00e4m\u00e4 vaatii ammattitaitoa. Silm\u00e4aseman tilat ja henkil\u00f6kunta ovat luonnollinen osa tarinaa.",
+        "screen_time_balance": "85% sis\u00e4lt\u00f6\u00e4 ja p\u00e4\u00e4henkil\u00f6n tarinaa, 15% Silm\u00e4aseman asiantuntijaty\u00f6t\u00e4 ja tiloja",
+        "cta_approach": "Jakson lopussa rauhallinen ohjaus: 'Varaa ilmainen n\u00e4\u00f6ntarkastus silmaasema.fi'. Ei aggressiivista myynti\u00e4."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Eemin ensimm\u00e4inen koulup\u00e4iv\u00e4",
+          "description": "8-vuotias Eemi ei ole koskaan n\u00e4hnyt taulua koulussa \u2013 uudet lasit muuttavat kaiken."
+        },
+        {
+          "number": 2,
+          "title": "Mummon kasvot",
+          "description": "70-vuotias Raija n\u00e4kee lastenlastensa kasvot tarkasti ensimm\u00e4ist\u00e4 kertaa vuosiin."
+        },
+        {
+          "number": 3,
+          "title": "Kokki, joka ei n\u00e4hnyt reseptej\u00e4",
+          "description": "Ammattilaiskokki Mikko on kamppaillut ik\u00e4n\u00e4\u00f6n kanssa \u2013 oikeat lasit palauttavat intohimon."
+        },
+        {
+          "number": 4,
+          "title": "Kuljettajan paluu",
+          "description": "Taksinkuljettaja Leena pelk\u00e4si menett\u00e4v\u00e4ns\u00e4 ajokortin \u2013 n\u00e4\u00f6ntarkastus ja lasit pelastavat uran."
+        },
+        {
+          "number": 5,
+          "title": "Nuoren urheilijan tarkkuus",
+          "description": "18-vuotias j\u00e4\u00e4kiekkoilija Joonas saa ensimm\u00e4iset lasinsa ja huomaa vihdoin kiekon."
+        },
+        {
+          "number": 6,
+          "title": "Taiteilijan v\u00e4rit",
+          "description": "Kuvataiteilija Sanna on maalannut vuosia sumealla n\u00e4\u00f6ll\u00e4 \u2013 uudet lasit avaavat v\u00e4rimaailman."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee j\u00e4nnitteen 'onnellisuuslupaus vs. kliininen transaktio' \u2013 n\u00e4ytt\u00e4\u00e4 konkreettisesti, miten Silm\u00e4aseman optikkopalvelu muuttaa el\u00e4m\u00e4nlaatua. Inhimillist\u00e4\u00e4 l\u00e4\u00e4ketieteen ja tekee v\u00e4hitt\u00e4iskaupasta merkityksellist\u00e4.",
+        "competitive_differentiation": "Instrumentarium myy muotia, Specsavers hintaa. Silm\u00e4asema omistaa 'n\u00e4kemisen ihmeen' \u2013 tunteen, jota kilpailijat eiv\u00e4t voi kopioida ilman aitoa asiantuntijuutta.",
+        "audience_value_proposition": "Aito, dokumentaarinen ja tunteisiin vetoava sis\u00e4lt\u00f6, jota katsoja valitsee vapaaehtoisesti. 'Reveal'-hetket ovat luontaisesti jaettavia ja viraaleja."
+      },
+      "execution": {
+        "complexity": "low",
+        "budget_tier": "mid",
+        "timeline_to_first_episode": "8-10 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "P\u00e4\u00e4henkil\u00f6iden l\u00f6yt\u00e4minen ja suostumukset voivat olla haastavia",
+          "mitigation": "Silm\u00e4aseman asiakasrekisterin ja some-kanavien kautta avoin haku 'etsimme tarinoita'. Useita kandidaatteja rinnakkain."
+        },
+        {
+          "risk": "Liian kaupallinen toteutus sy\u00f6 aitoutta",
+          "mitigation": "Dokumentaarinen linja: ei k\u00e4sikirjoitettuja kohtauksia, ei n\u00e4yttelij\u00f6it\u00e4. Aito tunne syntyy aidoista ihmisist\u00e4."
+        }
+      ]
+    },
+    {
+      "id": "concept_02",
+      "title": "N\u00e4k\u00f6kulmia",
+      "hook": "TikTok-sarja, jossa tunnetut suomalaiset vaikuttajat haastavat toisensa n\u00e4kem\u00e4\u00e4n maailman kirjaimellisesti uusin silmin \u2013 simuloimalla erilaisia n\u00e4k\u00f6ongelmia ja kilpailemalla arjen teht\u00e4viss\u00e4.",
+      "premise": "Joka jaksossa kaksi tunnettua vaikuttajaa kohtaa toisensa. Toinen saa 'n\u00e4k\u00f6simulaatiolasit', jotka j\u00e4ljittelev\u00e4t aitoa n\u00e4k\u00f6ongelmaa (likin\u00e4k\u00f6isyys, hajataitteisuus, ik\u00e4n\u00e4k\u00f6), ja yritt\u00e4\u00e4 suorittaa arkisen teht\u00e4v\u00e4n \u2013 leipoa, pelata videopeli\u00e4, laittaa meikki\u00e4. Toinen kommentoi ja auttaa (tai ei). Lopussa Silm\u00e4aseman optikko paljastaa, miten yleinen kyseinen n\u00e4k\u00f6ongelma on ja miten helposti se korjataan. Sarja on hauska, jaettava ja opettavainen.",
+      "long_form_extension": "Kauden p\u00e4\u00e4tteeksi 30 minuutin YouTube-special, jossa kaikki kauden vaikuttajat kokoontuvat 'N\u00e4k\u00f6kilpailuun' \u2013 tiimikisa, jossa teht\u00e4v\u00e4t vaativat tarkkaa n\u00e4k\u00f6\u00e4. Broadcast-optio MTV3 Katsomoon 45 minuutin jaksona.",
+      "format": {
+        "series_type": "seasonal",
+        "episode_length": "60-90 sekuntia",
+        "cadence": "3 kertaa viikossa",
+        "season_length": "12 jaksoa + 1 special"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "TikTok",
+          "rationale": "Nuorempi kohderyhm\u00e4 (laserleikkauksen ja ensimm\u00e4isten lasien potentiaaliset asiakkaat) on TikTokissa. Haaste-formaatti on alustalle natiivi ja jaettava.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "Instagram Reels",
+            "rationale": "",
+            "adaptation": "Sama sis\u00e4lt\u00f6, mutta hieman pidempi (90s) ja viimeistellympi. Vaikuttajien omien kanavien kautta."
+          },
+          {
+            "platform": "YouTube Shorts",
+            "rationale": "",
+            "adaptation": "Vertikaali leikkaus parhaista hetkist\u00e4, ohjaus pidemp\u00e4\u00e4n YouTube-specialiin."
+          }
+        ],
+        "amplification": "Vaikuttajien omat kanavat jakavat sis\u00e4ll\u00f6n orgaanisesti. Haaste-hashtag (#N\u00e4k\u00f6kulmia) kutsuu katsojia kokeilemaan omia 'sumennettuja teht\u00e4vi\u00e4' kotona."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Kaksi vaikuttajaa vastakkain",
+          "N\u00e4k\u00f6simulaatiolasien pukeminen",
+          "Arkinen teht\u00e4v\u00e4 sumealla n\u00e4\u00f6ll\u00e4",
+          "Optikon 'faktakulma' lopussa",
+          "CTA: 'Milloin sin\u00e4 viimeksi tarkastit n\u00e4k\u00f6si?'"
+        ],
+        "variable_elements": [
+          "Eri vaikuttajaparit (huumori, lifestyle, urheilu, musiikki)",
+          "Eri n\u00e4k\u00f6ongelmat (likin\u00e4k\u00f6isyys, hajataitteisuus, ik\u00e4n\u00e4k\u00f6, v\u00e4risokeus-simulaatio)",
+          "Eri teht\u00e4v\u00e4t (leivonta, peli, meikki, pallopeli, lukeminen)"
+        ],
+        "host_approach": "Vaikuttajat itse juontavat omat jaksonsa. Optikko esiintyy lyhyess\u00e4 asiantuntijaklipiss\u00e4 (10-15s) jokaisen jakson lopussa."
+      },
+      "brand_integration": {
+        "philosophy": "Silm\u00e4asema on 'viisas kaveri', joka tuo faktat ja ratkaisun hauskan haasteen j\u00e4lkeen. Ei saarnaava, vaan informatiivinen.",
+        "integration_method": "Optikon lyhyt faktaosio on br\u00e4nd\u00e4tty (Silm\u00e4aseman tila/asu), mutta sis\u00e4lt\u00f6 on aitoa tietoa, ei mainosta. N\u00e4k\u00f6simulaatiolasit ovat Silm\u00e4aseman br\u00e4nd\u00e4ttyj\u00e4 proppeja.",
+        "screen_time_balance": "90% viihdett\u00e4 ja haastetta, 10% asiantuntijafaktaa ja CTA",
+        "cta_approach": "Kevyt, huumorilla h\u00f6ystetty: 'Ei sun tarvii arvata \u2013 varaa ilmainen tarkastus.'"
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Meikki sokkona",
+          "description": "Beauty-vaikuttaja yritt\u00e4\u00e4 meikata toisen simuloidulla likin\u00e4\u00f6ll\u00e4 \u2013 tulokset ovat kaaosta."
+        },
+        {
+          "number": 2,
+          "title": "FIFA-finaali sumeana",
+          "description": "Kaksi gaming-vaikuttajaa pelaa FIFA:a, mutta toinen n\u00e4kee vain sumua \u2013 kuka voittaa?"
+        },
+        {
+          "number": 3,
+          "title": "Kakun koristelu",
+          "description": "Ruokavaikuttaja koristaa kakun ik\u00e4n\u00e4k\u00f6-simulaatiolaseilla \u2013 tarkkuus k\u00e4rsii."
+        },
+        {
+          "number": 4,
+          "title": "Koripallo hajataittoisesti",
+          "description": "Urheiluvaikuttaja yritt\u00e4\u00e4 heitt\u00e4\u00e4 koreja hajataitteisuuslaseilla \u2013 montako osuu?"
+        },
+        {
+          "number": 5,
+          "title": "Karaoke ilman sanoja",
+          "description": "Musiikkivaikuttaja laulaa karaokea n\u00e4kem\u00e4tt\u00e4 sanoja kunnolla \u2013 improvisointi alkaa."
+        },
+        {
+          "number": 6,
+          "title": "Palapeli pime\u00e4ss\u00e4",
+          "description": "Lifestyle-vaikuttajat kilpailevat palapelin kokoamisessa \u2013 toinen n\u00e4kee, toinen ei."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Puhuttelee nuorempaa yleis\u00f6\u00e4, joka puuttuu Silm\u00e4aseman nykyisest\u00e4 viestinn\u00e4st\u00e4. Tekee n\u00e4\u00f6nhuollosta relevantin ja hauskan aiheen, ei tyls\u00e4\u00e4 velvollisuutta.",
+        "competitive_differentiation": "Kukaan kilpailijoista ei ole TikTokissa n\u00e4in rohkeasti. Silm\u00e4asema omistaa 'n\u00e4k\u00f6haasteen' kategoriana.",
+        "audience_value_proposition": "Viihdytt\u00e4v\u00e4, jaettava ja samaistuttava. Katsoja nauraa, mutta oppii samalla \u2013 ja alkaa mietti\u00e4 omaa n\u00e4k\u00f6\u00e4\u00e4n."
+      },
+      "execution": {
+        "complexity": "medium",
+        "budget_tier": "mid",
+        "timeline_to_first_episode": "6-8 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Vaikuttajien sitoutuminen ja aikataulut",
+          "mitigation": "Kuvataan useita jaksoja kerralla 'studio-p\u00e4ivin\u00e4'. Varavaikuttajat listalla."
+        },
+        {
+          "risk": "N\u00e4k\u00f6ongelmien simulointi voi tuntua loukkaavalta",
+          "mitigation": "Optikon faktaosio korostaa, ett\u00e4 kyseess\u00e4 on yleinen ja korjattavissa oleva asia \u2013 ei vamma. S\u00e4vy on empaattinen, ei pilkkaava."
+        }
+      ]
+    },
+    {
+      "id": "concept_03",
+      "title": "Silm\u00e4t Auki",
+      "hook": "Monikanavainen realitysarja, jossa suomalaiset julkkikset ja tavalliset ihmiset kohtaavat el\u00e4m\u00e4ns\u00e4 suurimman n\u00e4k\u00f6\u00f6n liittyv\u00e4n pelon \u2013 ja kamera seuraa koko matkan pelosta vapauteen.",
+      "premise": "Sarja seuraa kolmea erilaista ihmist\u00e4 per kausi: julkkis, joka on lyk\u00e4nnyt silm\u00e4lasien hankkimista vuosia ('en halua n\u00e4ytt\u00e4\u00e4 vanhalta'), tavallinen suomalainen, joka pelk\u00e4\u00e4 optikkok\u00e4ynti\u00e4 ('mit\u00e4 jos l\u00f6ytyy jotain vakavaa'), ja henkil\u00f6, joka harkitsee n\u00e4\u00f6nkorjausleikkausta ('en uskalla'). Jokaisessa tarinassa kuljetaan pelosta p\u00e4\u00e4t\u00f6kseen ja lopulta vapautukseen \u2013 dokumentaarisesti, rehellisesti ja tunteella. Sarja purkaa tabuja ja antaa vertaistukea.",
+      "long_form_extension": "3x45 minuutin dokumenttisarja MTV3:lle ja Katsomoon. Jokainen jakso seuraa yht\u00e4 p\u00e4\u00e4henkil\u00f6\u00e4 koko matkan. Lis\u00e4ksi Ruutu+ saa laajennettuja versioita (3x60min) lis\u00e4materiaalilla.",
+      "format": {
+        "series_type": "limited",
+        "episode_length": "20-25 minuuttia",
+        "cadence": "Viikoittain",
+        "season_length": "6 jaksoa (2 per p\u00e4\u00e4henkil\u00f6)"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "YouTube",
+          "rationale": "Dokumentaarinen, syv\u00e4llinen sis\u00e4lt\u00f6 vaatii aikaa ja tilaa. YouTube mahdollistaa pitk\u00e4n muodon ja yhteis\u00f6n rakentamisen kommenttien kautta.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "TikTok",
+            "rationale": "",
+            "adaptation": "60 sekunnin 'p\u00e4iv\u00e4kirjamerkinn\u00e4t' \u2013 p\u00e4\u00e4henkil\u00f6iden omat videot matkasta. Raaka, pystyformaatti, aito."
+          },
+          {
+            "platform": "Instagram",
+            "rationale": "",
+            "adaptation": "Kuvat ja Reels-klipit kulissien takaa. Julkkis-p\u00e4\u00e4henkil\u00f6n oma kanava jakaa orgaanisesti."
+          },
+          {
+            "platform": "Podcast",
+            "rationale": "",
+            "adaptation": "\u00c4\u00e4niversio keskusteluista optikon kanssa \u2013 'Silm\u00e4t Auki -podcast' syvent\u00e4\u00e4 teemoja."
+          }
+        ],
+        "amplification": "PR-kampanja julkkis-p\u00e4\u00e4henkil\u00f6n ymp\u00e4rill\u00e4. Iltap\u00e4iv\u00e4lehdet kiinnostuvat 'julkkis paljastaa pelkonsa' -kulmasta. Live-Q&A Silm\u00e4aseman Instagramissa jokaisen jakson j\u00e4lkeen."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "P\u00e4\u00e4henkil\u00f6n esittely ja pelon tunnustaminen",
+          "Matka Silm\u00e4asemalle \u2013 j\u00e4nnitys ja odotus",
+          "Optikon/l\u00e4\u00e4k\u00e4rin kohtaaminen \u2013 asiantuntijuus ja empatia",
+          "P\u00e4\u00e4t\u00f6ksen tekeminen",
+          "Vapautus \u2013 milt\u00e4 el\u00e4m\u00e4 n\u00e4ytt\u00e4\u00e4 nyt"
+        ],
+        "variable_elements": [
+          "Erilaisia pelkoja (lasien tarve, leikkaus, diagnoosi)",
+          "Eri-ik\u00e4iset ja -taustaiset p\u00e4\u00e4henkil\u00f6t",
+          "Julkkis vs. tavallinen ihminen -dynamiikka"
+        ],
+        "host_approach": "Ei ulkopuolista juontajaa. Silm\u00e4aseman optikko/l\u00e4\u00e4k\u00e4ri on luonnollinen 'opas', joka kulkee p\u00e4\u00e4henkil\u00f6n rinnalla. Tarina kulkee p\u00e4\u00e4henkil\u00f6n \u00e4\u00e4nell\u00e4 ja tunteella."
+      },
+      "brand_integration": {
+        "philosophy": "Silm\u00e4asema on turvallinen satama \u2013 paikka, jossa pelko kohdataan ja voitetaan. Br\u00e4ndi n\u00e4kyy empatiana ja asiantuntijuutena, ei myyntin\u00e4.",
+        "integration_method": "Silm\u00e4aseman tilat, henkil\u00f6kunta ja prosessit ovat luonnollinen osa tarinaa. Katsoja n\u00e4kee, miten asiakasta kohdellaan \u2013 ja se on parasta markkinointia.",
+        "screen_time_balance": "80% p\u00e4\u00e4henkil\u00f6n tarinaa ja tunnetta, 20% Silm\u00e4aseman asiantuntijaty\u00f6t\u00e4 ja tiloja",
+        "cta_approach": "Jakson lopussa: 'Sinunkin pelkosi on voitettavissa. Ota ensimm\u00e4inen askel: silmaasema.fi'. Rauhallinen, rohkaiseva."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Julkkis ja lasipelko \u2013 Osa 1",
+          "description": "Tunnettu suomalainen viihdetaiteilija tunnustaa: 'En ole koskaan uskaltanut hankkia laseja, koska pelk\u00e4\u00e4n n\u00e4ytt\u00e4\u00e4 vanhalta.'"
+        },
+        {
+          "number": 2,
+          "title": "Julkkis ja lasipelko \u2013 Osa 2",
+          "description": "Taiteilija k\u00e4y n\u00e4\u00f6ntarkastuksessa ja valitsee ensimm\u00e4iset lasinsa \u2013 reaktio ylitt\u00e4\u00e4 odotukset."
+        },
+        {
+          "number": 3,
+          "title": "\u00c4idin pelko \u2013 Osa 1",
+          "description": "40-vuotias \u00e4iti on lyk\u00e4nnyt n\u00e4\u00f6ntarkastusta vuosia: 'Mit\u00e4 jos l\u00f6ytyy jotain pahaa?'"
+        },
+        {
+          "number": 4,
+          "title": "\u00c4idin pelko \u2013 Osa 2",
+          "description": "Tarkastus paljastaa vain ik\u00e4n\u00e4\u00f6n \u2013 helpotus ja uudet lukulasit muuttavat arjen."
+        },
+        {
+          "number": 5,
+          "title": "Nuoren leikkauspelko \u2013 Osa 1",
+          "description": "28-vuotias mies on haaveillut laserleikkauksesta, mutta pelko pys\u00e4ytt\u00e4\u00e4: 'Ent\u00e4 jos sokenen?'"
+        },
+        {
+          "number": 6,
+          "title": "Nuoren leikkauspelko \u2013 Osa 2",
+          "description": "Konsultaatio, p\u00e4\u00e4t\u00f6s ja leikkaus \u2013 kamera seuraa koko matkan. Lopputulos: el\u00e4m\u00e4 ilman laseja."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee j\u00e4nnitteen 'auktoriteetin pelko vs. vertaistuen tarve' \u2013 antaa aitoa vertaistukea ja murtaa pelkoa radikaalilla rehellisyydell\u00e4. Tukee leikkausliiketoiminnan kasvua ja optikkopalveluiden merkityksellisyytt\u00e4.",
+        "competitive_differentiation": "Kukaan kilpailijoista ei uskalla puhua pelosta n\u00e4in avoimesti. Silm\u00e4asema omistaa 'rohkeuden ja turvallisuuden' kategoriana.",
+        "audience_value_proposition": "Aito, koskettava ja samaistuttava. Katsoja tunnistaa oman pelkonsa ja saa rohkeutta toimia. Julkkiskulma tuo vetovoiman, tavisn\u00e4k\u00f6kulma samaistuttavuuden."
+      },
+      "execution": {
+        "complexity": "high",
+        "budget_tier": "premium",
+        "timeline_to_first_episode": "12-14 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Julkkiksen sitoutuminen ja aikataulut",
+          "mitigation": "Varhainen sopimus ja selke\u00e4 aikataulu. Julkkis saa n\u00e4kyvyytt\u00e4 ja oman tarinan hallinnan \u2013 molemminpuolinen hy\u00f6ty."
+        },
+        {
+          "risk": "Leikkausjakso voi pelottaa katsojia entisest\u00e4\u00e4n",
+          "mitigation": "Dokumentaarinen, mutta rauhoittava ote. N\u00e4ytet\u00e4\u00e4n prosessi rehellisesti, mutta korostetaan ammattitaitoa ja turvallisuutta. P\u00e4\u00e4henkil\u00f6n oma \u00e4\u00e4ni kertoo, miten pelko h\u00e4lveni."
+        },
+        {
+          "risk": "Liian raskas tai vakava s\u00e4vy",
+          "mitigation": "Kevennyksi\u00e4 ja huumoria matkan varrella \u2013 pelko on inhimillist\u00e4, mutta sen voittaminen on juhlimisen arvoista."
+        }
+      ]
+    }
+  ],
+  "treatment_files": [
+    "/opt/render/project/src/runs/silmasema_optiikka/TREATMENTS/silmasema_optiikka_TREATMENT_01_20260126_110555.md",
+    "/opt/render/project/src/runs/silmasema_optiikka/TREATMENTS/silmasema_optiikka_TREATMENT_02_20260126_110555.md",
+    "/opt/render/project/src/runs/silmasema_optiikka/TREATMENTS/silmasema_optiikka_TREATMENT_03_20260126_110555.md"
+  ],
   "onepager_specs": [],
   "onepagers_skipped": false,
   "onepagers_error": null,
@@ -282,6 +614,15 @@
     {
       "phase": "strategize",
       "started_at": "2026-01-26T11:00:18.470095",
+      "completed_at": "2026-01-26T11:00:20.016518",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "create",
+      "started_at": "2026-01-26T11:00:20.022476",
       "completed_at": null,
       "success": false,
       "error_message": null,
