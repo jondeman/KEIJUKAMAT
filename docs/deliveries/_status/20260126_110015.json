@@ -2,8 +2,8 @@
   "run_id": "20260126_110015",
   "company_slug": "silmasema-optiikka",
   "created_at": "2026-01-26T11:00:15.565665",
-  "updated_at": "2026-01-26T11:00:15.565679",
-  "current_phase": "input",
+  "updated_at": "2026-01-26T11:00:18.475564",
+  "current_phase": "strategize",
   "user_input": {
     "company_name": "Silm\u00e4asema Optiikka",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -12,14 +12,282 @@
     "onepager_layout": "landscape",
     "use_cached_research": true
   },
-  "dossier": null,
-  "concept_briefs": [],
+  "dossier": {
+    "company_name": "Silm\u00e4asema Optiikka",
+    "company_slug": "silmasema-optiikka",
+    "generated_at": "2026-01-26T06:49:33.954799",
+    "brand_identity": {
+      "positioning": "Koko silm\u00e4terveyden talo",
+      "visual_markers": {
+        "primary_color": "Vihre\u00e4 ja valkoinen",
+        "secondary_colors": [],
+        "style_keywords": [
+          "Ylivalottunut",
+          "Raikas",
+          "Hymyilev\u00e4t ihmiset",
+          "Ulkoilma"
+        ],
+        "tone_keywords": [
+          "Kliininen",
+          "L\u00e4hestytt\u00e4v\u00e4"
+        ]
+      },
+      "voice_characteristics": [
+        "Asiantunteva",
+        "Empaattinen",
+        "Kotimainen",
+        "Huolenpit\u00e4j\u00e4 (Caregiver)",
+        "Viisas asiantuntija (Sage)"
+      ]
+    },
+    "strategic_priorities": [
+      {
+        "rank": 1,
+        "priority": "Leikkausliiketoiminnan kasvu (Medical Growth)",
+        "evidence": [
+          "Aggressiivinen kasvu korkean katteen linssi- ja laserleikkauksissa",
+          "Ik\u00e4\u00e4ntyv\u00e4 v\u00e4est\u00f6 ja kaihimarkkina",
+          "Asiakaspalaute el\u00e4m\u00e4nlaadun parantumisesta"
+        ],
+        "execution_assessment": "strong"
+      },
+      {
+        "rank": 2,
+        "priority": "L\u00e4\u00e4ketieteen ja Retailin integraatio (Lifecycle)",
+        "evidence": [
+          "Tavoite sitouttaa asiakas elinik\u00e4iseen hoitopolkuun",
+          "Nykyinen markkinointi painottaa taktisia tarjouksia hoitopolun sijaan"
+        ],
+        "execution_assessment": "moderate"
+      },
+      {
+        "rank": 3,
+        "priority": "Markkinaosuuden puolustus",
+        "evidence": [
+          "Laajentuminen Viroon",
+          "Eagle Vision -kauppa",
+          "Vastaaminen Specsaversin hintapaineeseen"
+        ],
+        "execution_assessment": "strong"
+      }
+    ],
+    "marketing_posture": {
+      "current_content_types": [
+        "Taktinen retail-mainonta (Osta 1, saat 2)",
+        "Emotionaalinen br\u00e4ndimainonta",
+        "Asiantuntijavideot (L\u00e4\u00e4k\u00e4ri vastaa)"
+      ],
+      "channel_presence": {
+        "youtube": {
+          "active": false,
+          "assessment": "Passiivinen/Varasto (TV-spotit ja Q&A-videot, ei yhteis\u00f6\u00e4)"
+        },
+        "tiktok": {
+          "active": false,
+          "assessment": "Heikko/Olematon (suuri puute huomioiden laserleikkausten nuorempi kohderyhm\u00e4)"
+        },
+        "instagram": {
+          "active": true,
+          "assessment": "Sekava (Ale-kuponkeja ja satunnaista asiantuntijatietoa)"
+        },
+        "linkedin": {
+          "active": false,
+          "assessment": "Ei mainittu analyysissa"
+        }
+      },
+      "apparent_gaps": [
+        "Aito vuorovaikutus puuttuu (yksisuuntainen viestint\u00e4)",
+        "Vertaistuen ja social proofin puute leikkausp\u00e4\u00e4t\u00f6sten tukena",
+        "Nuoremman sukupolven puhuttelu puuttuu"
+      ],
+      "audience_engagement": "Transaktionaalista, ei emotionaalista. Yleis\u00f6 rakastaa lopputulosta mutta vierastaa prosessia (liukuhihnamainen myynti)."
+    },
+    "competitive_analysis": {
+      "key_competitors": [
+        {
+          "name": "Instrumentarium",
+          "content_strategy": "Muoti & Tyyli (lasit asusteena)",
+          "threat_level": "high"
+        },
+        {
+          "name": "Specsavers",
+          "content_strategy": "Hinta ja volyymi",
+          "threat_level": "high"
+        },
+        {
+          "name": "Yksityiset l\u00e4\u00e4k\u00e4ritalot (esim. Mehil\u00e4inen)",
+          "content_strategy": "Puhdas l\u00e4\u00e4ketiede ja terveys",
+          "threat_level": "medium"
+        }
+      ],
+      "brand_winning_areas": [
+        "L\u00e4\u00e4ketieteellinen uskottavuus",
+        "V\u00e4hitt\u00e4iskaupan saavutettavuus (Koko talo -konsepti)"
+      ],
+      "brand_losing_areas": [
+        "Muodikkuus",
+        "Nuorekkuus",
+        "Hinnoittelumielikuva"
+      ]
+    },
+    "strategic_tensions": [
+      {
+        "id": "tension_01",
+        "description": "Onnellisuuslupaus vs. Kliininen transaktio: Br\u00e4ndi lupaa onnellisuutta, mutta kokemus on tekninen suorite.",
+        "evidence": [
+          "Slogan 'Maailman onnellisimmat silm\u00e4t'",
+          "Asiakaspalaute kritisoi liukuhihnamaisuutta",
+          "Kuvasto hymyilev\u00e4\u00e4 mutta prosessi koetaan kylm\u00e4ksi"
+        ],
+        "opportunity_type": "gap",
+        "priority_score": 5
+      },
+      {
+        "id": "tension_02",
+        "description": "El\u00e4m\u00e4nkumppani vs. Ale-kauppias: Strategia tavoittelee hoitosuhdetta, markkinointi opettaa odottamaan alennuksia.",
+        "evidence": [
+          "Strateginen tavoite: Ennakoiva asiakaskokemus",
+          "Taktinen toteutus: Ilmaista silm\u00e4lasirahaa, Osta 1 saat 2"
+        ],
+        "opportunity_type": "aspiration",
+        "priority_score": 4
+      },
+      {
+        "id": "tension_03",
+        "description": "Auktoriteetin pelko vs. Vertaistuen tarve: Viestint\u00e4 on ylh\u00e4\u00e4lt\u00e4 alas, vaikka asiakas kaipaa vertaistukea pelkoon.",
+        "evidence": [
+          "Sis\u00e4lt\u00f6 on asiantuntijakeskeist\u00e4",
+          "Asiakkaat etsiv\u00e4t tietoa foorumeilta (Suomi24)",
+          "Suurin este on leikkauspelko"
+        ],
+        "opportunity_type": "underserved_audience",
+        "priority_score": 4
+      }
+    ],
+    "opportunity_zones": [
+      {
+        "id": "opp_01",
+        "description": "L\u00e4\u00e4ketieteen inhimillist\u00e4minen (Humanizing the White Coat)",
+        "rationale": "Ratkaisee j\u00e4nnitteen onnellisuuden ja transaktion v\u00e4lill\u00e4 tuomalla l\u00e4mp\u00f6\u00e4 kliiniseen ymp\u00e4rist\u00f6\u00f6n.",
+        "risk_level": "low"
+      },
+      {
+        "id": "opp_02",
+        "description": "Pelon murtaminen radikaalilla rehellisyydell\u00e4",
+        "rationale": "Ratkaisee j\u00e4nnitteen 3 ottamalla omistajuuden keskustelusta, jota k\u00e4yd\u00e4\u00e4n nyt foorumeilla.",
+        "risk_level": "medium"
+      },
+      {
+        "id": "opp_03",
+        "description": "FOMO n\u00e4kemisest\u00e4 (The 'Missed Moments' Angle)",
+        "rationale": "Siirt\u00e4\u00e4 keskustelun hinnasta arvoon ja vetoaa tunteisiin myym\u00e4ll\u00e4 kokemuksia toimenpiteen sijaan.",
+        "risk_level": "low"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Silm\u00e4asema verkkosivut",
+        "url": "https://www.silmaasema.fi",
+        "type": "company_site",
+        "date_accessed": "2023-10-01",
+        "relevance": "L\u00e4hde br\u00e4ndilupaukselle ja palvelukuvaukselle"
+      },
+      {
+        "title": "Suomi24 Keskustelut",
+        "url": "https://keskustelu.suomi24.fi",
+        "type": "social",
+        "date_accessed": "2023-10-01",
+        "relevance": "L\u00e4hde asiakkaiden peloille ja kritiikille"
+      },
+      {
+        "title": "ReviewsBird",
+        "url": "https://reviewsbird.fi",
+        "type": "other",
+        "date_accessed": "2023-10-01",
+        "relevance": "L\u00e4hde asiakastyytyv\u00e4isyydelle ja -tyytym\u00e4tt\u00f6myydelle"
+      },
+      {
+        "title": "Instrumentarium verkkosivut",
+        "url": "https://www.instru.fi",
+        "type": "company_site",
+        "date_accessed": "2023-10-01",
+        "relevance": "L\u00e4hde kilpailija-analyysille"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com",
+        "type": "video",
+        "date_accessed": "2023-10-01",
+        "relevance": "L\u00e4hde nykyisen videosis\u00e4ll\u00f6n analyysille"
+      }
+    ]
+  },
+  "concept_briefs": [
+    {
+      "slot_id": "01",
+      "slot_type": "safe_bet",
+      "assigned_tension_id": "tension_01",
+      "strategic_focus": "Onnellisuuslupaus vs. Kliininen transaktio: Br\u00e4ndi lupaa onnellisuutta, mutta kokemus on tekninen suorite.",
+      "platform_focus": "youtube",
+      "format_guidance": "Focus on proven YouTube formats: documentary-style, interview series, or educational content. Episodes should be 8-15 minutes. Prioritize professional production quality and clear brand alignment. The series should have obvious rewatch and share value.",
+      "risk_profile": "low",
+      "success_hypothesis": "This concept directly addresses Silm\u00e4asema Optiikka's top strategic priority (gap) with a proven format that minimizes execution risk while delivering measurable brand value."
+    },
+    {
+      "slot_id": "02",
+      "slot_type": "challenger",
+      "assigned_tension_id": "tension_02",
+      "strategic_focus": "El\u00e4m\u00e4nkumppani vs. Ale-kauppias: Strategia tavoittelee hoitosuhdetta, markkinointi opettaa odottamaan alennuksia.",
+      "platform_focus": "tiktok",
+      "format_guidance": "Design for TikTok/Reels first: vertical format, 30-90 seconds, hook in first 3 seconds. Embrace platform-native aesthetics and trends. Consider creator collaborations. Content should feel bold and contemporary, not like traditional brand advertising.",
+      "risk_profile": "medium",
+      "success_hypothesis": "This concept enables Silm\u00e4asema Optiikka to aggressively address their aspiration with bold positioning that differentiates them in the market and captures attention on high-engagement platforms."
+    },
+    {
+      "slot_id": "03",
+      "slot_type": "moonshot",
+      "assigned_tension_id": "tension_03",
+      "strategic_focus": "Auktoriteetin pelko vs. Vertaistuen tarve: Viestint\u00e4 on ylh\u00e4\u00e4lt\u00e4 alas, vaikka asiakas kaipaa vertaistukea pelkoon.",
+      "platform_focus": "cross_platform",
+      "format_guidance": "Think beyond single-platform content: interactive experiences, live events with digital extensions, user participation mechanics, or innovative cross-platform storytelling. This should feel like something the industry hasn't seen before. High production ambition is acceptable given the differentiation potential.",
+      "risk_profile": "high",
+      "success_hypothesis": "This concept unlocks an untapped opportunity for Silm\u00e4asema Optiikka by addressing their underserved audience in a way that creates cultural relevance and positions the brand as an innovator in their space."
+    }
+  ],
   "concepts": [],
   "treatment_files": [],
   "onepager_specs": [],
   "onepagers_skipped": false,
   "onepagers_error": null,
   "pitch_email": "",
-  "phase_history": [],
-  "archive_ref": null
+  "phase_history": [
+    {
+      "phase": "validate",
+      "started_at": "2026-01-26T11:00:17.758999",
+      "completed_at": "2026-01-26T11:00:17.764103",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "check_archive",
+      "started_at": "2026-01-26T11:00:17.768984",
+      "completed_at": "2026-01-26T11:00:18.464493",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "strategize",
+      "started_at": "2026-01-26T11:00:18.470095",
+      "completed_at": null,
+      "success": false,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    }
+  ],
+  "archive_ref": "deliveries:silmasema-optiikka/20260126_064641"
 }
