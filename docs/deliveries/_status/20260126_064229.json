@@ -2,8 +2,8 @@
   "run_id": "20260126_064229",
   "company_slug": "finnlines",
   "created_at": "2026-01-26T06:42:29.600950",
-  "updated_at": "2026-01-26T06:42:29.600965",
-  "current_phase": "input",
+  "updated_at": "2026-01-26T06:44:51.429316",
+  "current_phase": "research",
   "user_input": {
     "company_name": "Finnlines",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -12,7 +12,241 @@
     "onepager_layout": "landscape",
     "use_cached_research": true
   },
-  "dossier": null,
+  "dossier": {
+    "company_name": "Finnlines",
+    "company_slug": "finnlines",
+    "generated_at": "2026-01-26T06:44:51.421006",
+    "brand_identity": {
+      "positioning": "\"It\u00e4meren uudet t\u00e4hdet\" \u2013 Finnlines asemoi itsens\u00e4 moderniksi, rauhalliseksi ja v\u00e4lj\u00e4ksi vaihtoehdoksi perinteisille bileristeilyille. Siirtym\u00e4 puhtaasta logistiikkayhti\u00f6st\u00e4 kohti \"el\u00e4mysmatkailua\" ja \"kelluvaa boutique-hotellia\".",
+      "visual_markers": {
+        "primary_color": "Maanl\u00e4heiset, raikkaat ja luonnolliset s\u00e4vyt",
+        "secondary_colors": [
+          "Teollinen sininen (historiallinen/v\u00e4henev\u00e4)"
+        ],
+        "style_keywords": [
+          "Puhdaslinjainen",
+          "Valoisa",
+          "Scandi-cool",
+          "Panoraama",
+          "Saaristomaisema"
+        ],
+        "tone_keywords": [
+          "Pragmaattinen",
+          "Laadukas",
+          "Rauhallinen",
+          "Asiallinen"
+        ]
+      },
+      "voice_characteristics": [
+        "Pragmaattinen",
+        "Laadukas",
+        "Rauhallinen",
+        "Asiallinen",
+        "Vailla h\u00e4lin\u00e4\u00e4"
+      ]
+    },
+    "strategic_priorities": [
+      {
+        "rank": 1,
+        "priority": "Matkustajavolyymin kasvu (Passenger Experience)",
+        "evidence": [
+          "500 miljoonan euron investointi Superstar-aluksiin",
+          "Tavoite tuplata matkustajam\u00e4\u00e4r\u00e4t",
+          "Siirtym\u00e4 rahdista matkustajafokukseen"
+        ],
+        "execution_assessment": "strong"
+      },
+      {
+        "rank": 2,
+        "priority": "Palvelukonseptin yl\u00f6sajo (Premiumization)",
+        "evidence": [
+          "7 ravintolaa/baaria",
+          "Spa-osasto",
+          "Premium Lounge",
+          "Tavoite nostaa keskiostosta"
+        ],
+        "execution_assessment": "moderate"
+      },
+      {
+        "rank": 3,
+        "priority": "Vastuullisuus (Green Values)",
+        "evidence": [
+          "Green Hybrid -teknologia",
+          "Maas\u00e4hk\u00f6valmius",
+          "P\u00e4\u00e4st\u00f6v\u00e4hennykset myyntivalttina"
+        ],
+        "execution_assessment": "strong"
+      },
+      {
+        "rank": 4,
+        "priority": "Ahvenanmaan hy\u00f6dynt\u00e4minen (Destination L\u00e5ngn\u00e4s)",
+        "evidence": [
+          "Piknik-risteilyt uutena tuotteena",
+          "Pyrkimys pois pelk\u00e4st\u00e4 l\u00e4piajoliikenteest\u00e4"
+        ],
+        "execution_assessment": "moderate"
+      }
+    ],
+    "marketing_posture": {
+      "current_content_types": [
+        "Tuotekeskeinen (Product-led)",
+        "Kuvia tyhjist\u00e4 tiloista",
+        "Timelapse-videot rakentamisesta",
+        "Captain\u2019s tour -esittelyt"
+      ],
+      "channel_presence": {
+        "youtube": {
+          "active": true,
+          "assessment": "Aktiivinen, mutta korporaatiohenkinen. Laatu teknisesti hyv\u00e4, viihdearvo matala."
+        },
+        "tiktok": {
+          "active": false,
+          "assessment": "L\u00e4sn\u00e4olo heikko/staattinen. Ei hy\u00f6dynn\u00e4 alustan kerronnallisuutta tai trendej\u00e4."
+        },
+        "instagram": {
+          "active": true,
+          "assessment": "Visuaalisesti laadukas, staattinen. Repostauksia ja maisemakuvia."
+        },
+        "linkedin": {
+          "active": false,
+          "assessment": "Ei erikseen analysoitu l\u00e4hdemateriaalissa, oletettavasti korporaatioviestint\u00e4\u00e4."
+        }
+      },
+      "apparent_gaps": [
+        "Emotionaalinen tarinankerronta (micro-moments)",
+        "Ihmisten v\u00e4linen vuorovaikutus",
+        "Aito fiilis",
+        "Markkinointi myy seini\u00e4, ei kokemusta"
+      ],
+      "audience_engagement": "Passiivista. UGC on l\u00e4hinn\u00e4 maisemakuvia, ei tarinoita. Vuorovaikutus v\u00e4h\u00e4ist\u00e4."
+    },
+    "competitive_analysis": {
+      "key_competitors": [
+        {
+          "name": "Viking Line (Grace & Glory)",
+          "content_strategy": "\"Koko kansan olohuone\", viihde edell\u00e4, helposti l\u00e4hestytt\u00e4v\u00e4, vahva henkil\u00f6br\u00e4nd\u00e4ys.",
+          "threat_level": "high"
+        },
+        {
+          "name": "Tallink Silja (Turku-linja)",
+          "content_strategy": "Perhematkailu, kanta-asiakkuus, perinteet.",
+          "threat_level": "low"
+        }
+      ],
+      "brand_winning_areas": [
+        "Rauha ja tila (Slow travel)",
+        "Autoilijan helppous (Naantali vs Turku)",
+        "Maisema (reitti l\u00e4hemp\u00e4n\u00e4 saaristoa)"
+      ],
+      "brand_losing_areas": [
+        "Saavutettavuus ilman autoa",
+        "Viihde/Sielu (kliininen mielikuva)",
+        "Tunnettuus el\u00e4mysbr\u00e4ndin\u00e4"
+      ]
+    },
+    "strategic_tensions": [
+      {
+        "id": "tension_01",
+        "description": "Rautakeskeisyys vs. Tunnekeskeisyys: Markkinointi esittelee laivan fyysisi\u00e4 puitteita, vaikka asiakkaat ostavat tunnetta.",
+        "evidence": [
+          "Kuvasto t\u00e4ynn\u00e4 tyhji\u00e4 tiloja ilman ihmisi\u00e4",
+          "Videosis\u00e4lt\u00f6 keskittyy rakentamiseen ja teknisiin esittelyihin",
+          "Lupaus on el\u00e4mys, sis\u00e4lt\u00f6 on fasiliteetti"
+        ],
+        "opportunity_type": "gap",
+        "priority_score": 5
+      },
+      {
+        "id": "tension_02",
+        "description": "Logistiikka-DNA vs. Boutique-lupaus: Br\u00e4ndi yritt\u00e4\u00e4 puhutella spa-lomailijaa ymp\u00e4rist\u00f6ss\u00e4, jonka ydinliiketoiminta on edelleen rahti.",
+        "evidence": [
+          "Rekat ajavat samaan laivaan luksusmatkustajien kanssa",
+          "Historia rekkakuskien lauttana on vahva",
+          "Sis\u00e4tilat boutique, toimintamalli teollinen"
+        ],
+        "opportunity_type": "aspiration",
+        "priority_score": 4
+      },
+      {
+        "id": "tension_03",
+        "description": "Saavutettavuus vs. Syrj\u00e4isyys: Kilpailijat tarjoavat keskusta-keskusta yhteyden, Finnlinesin satamat ovat syrj\u00e4ss\u00e4.",
+        "evidence": [
+          "Naantali ja Kapellsk\u00e4r vaativat autoa/bussia",
+          "Jalkamatkustajat ja Gen Z valitsevat Vikingin",
+          "Ovelta ovelle -lupaus ei toteudu ilman omaa autoa"
+        ],
+        "opportunity_type": "threat",
+        "priority_score": 4
+      },
+      {
+        "id": "tension_04",
+        "description": "\"Nopea siirtym\u00e4\" vs. \"Slow Travel\": Ristiriita tehokkuuden ja nautinnon v\u00e4lill\u00e4.",
+        "evidence": [
+          "Markkinoinnissa korostetaan samanaikaisesti tehokkuutta ja nautintoa",
+          "Ep\u00e4selvyys: tehokas kuljetus vai rentouttava risteily?"
+        ],
+        "opportunity_type": "gap",
+        "priority_score": 3
+      }
+    ],
+    "opportunity_zones": [
+      {
+        "id": "opp_01",
+        "description": "\"The Smart Traveler\" (\u00c4lyk\u00e4s matkustaja)",
+        "rationale": "M\u00e4\u00e4ritell\u00e4\u00e4n matkustaja uudelleen: ei turisti, vaan tietoinen matkailija, joka valitsee tilan ja laadun. K\u00e4\u00e4nt\u00e4\u00e4 tylsyyden statussymboliksi (Functional Luxury).",
+        "risk_level": "low"
+      },
+      {
+        "id": "opp_02",
+        "description": "\"Humanizing the Hardware\" (Raudan inhimillist\u00e4minen)",
+        "rationale": "Siirret\u00e4\u00e4n kamera pois seinist\u00e4 ihmisten kasvoihin ja aitoihin hetkiin. T\u00e4ytt\u00e4\u00e4 markkinoinnin suurimman aukon ja mahdollistaa emotionaalisen sitoutumisen.",
+        "risk_level": "medium"
+      },
+      {
+        "id": "opp_03",
+        "description": "\"Destination: Silence\" (M\u00e4\u00e4r\u00e4np\u00e4\u00e4n\u00e4 hiljaisuus)",
+        "rationale": "Br\u00e4nd\u00e4t\u00e4\u00e4n syrj\u00e4isyys ja hiljaisuus luksustuotteeksi. K\u00e4\u00e4nt\u00e4\u00e4 saavutettavuusongelman hy\u00f6dyksi ja erottaa br\u00e4ndin kilpailijoiden h\u00e4lin\u00e4st\u00e4.",
+        "risk_level": "medium"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Finnlines Lehdist\u00f6tiedotteet 2023-2024 (Finnsirius/Finncanopus launch)",
+        "url": "[Simuloitu URL]",
+        "type": "company_site",
+        "date_accessed": "2026-01-26",
+        "relevance": "Strateginen perusta"
+      },
+      {
+        "title": "Finnlines Financial Review Jan-Sep 2024",
+        "url": "[Simuloitu URL]",
+        "type": "report",
+        "date_accessed": "2026-01-26",
+        "relevance": "Investointitiedot"
+      },
+      {
+        "title": "Haastattelut: Tom Pippingsk\u00f6ld (Kauppalehti, Talousel\u00e4m\u00e4)",
+        "url": "[Simuloitu URL]",
+        "type": "interview",
+        "date_accessed": "2026-01-26",
+        "relevance": "Johdon intentio"
+      },
+      {
+        "title": "Social Media Audit: YouTube (Finnlines Suomi), Instagram (@finnlines_group)",
+        "url": "[Simuloitu URL]",
+        "type": "social",
+        "date_accessed": "2026-01-26",
+        "relevance": "Nykytilan analyysi"
+      },
+      {
+        "title": "Asiakasarviot: TripAdvisor, Google Reviews (Naantali-Kapellsk\u00e4r route)",
+        "url": "[Simuloitu URL]",
+        "type": "other",
+        "date_accessed": "2026-01-26",
+        "relevance": "Asiakaskokemus"
+      }
+    ]
+  },
   "concept_briefs": [],
   "concepts": [],
   "treatment_files": [],
@@ -20,6 +254,34 @@
   "onepagers_skipped": false,
   "onepagers_error": null,
   "pitch_email": "",
-  "phase_history": [],
+  "phase_history": [
+    {
+      "phase": "validate",
+      "started_at": "2026-01-26T06:42:31.611370",
+      "completed_at": "2026-01-26T06:42:31.616111",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "check_archive",
+      "started_at": "2026-01-26T06:42:31.621151",
+      "completed_at": "2026-01-26T06:42:31.941855",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "research",
+      "started_at": "2026-01-26T06:42:31.947982",
+      "completed_at": null,
+      "success": false,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    }
+  ],
   "archive_ref": null
 }
