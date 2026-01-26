@@ -2,8 +2,8 @@
   "run_id": "20260126_140931",
   "company_slug": "kuntokeskus-liikku",
   "created_at": "2026-01-26T14:09:31.080635",
-  "updated_at": "2026-01-26T14:15:50.437713",
-  "current_phase": "create",
+  "updated_at": "2026-01-26T14:18:54.792248",
+  "current_phase": "visualize",
   "user_input": {
     "company_name": "Kuntokeskus Liikku",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -587,7 +587,83 @@
     "/opt/render/project/src/runs/kuntokeskus_liikku/TREATMENTS/kuntokeskus_liikku_TREATMENT_02_20260126_141550.md",
     "/opt/render/project/src/runs/kuntokeskus_liikku/TREATMENTS/kuntokeskus_liikku_TREATMENT_03_20260126_141550.md"
   ],
-  "onepager_specs": [],
+  "onepager_specs": [
+    {
+      "concept_id": "concept_01",
+      "brand_styling": {
+        "primary_color": "#20a020",
+        "secondary_color": "#40a040",
+        "accent_color": "#44b944",
+        "style_keywords": [],
+        "logo_available": true,
+        "logo_path": "/opt/render/project/src/runs/2026-01-26_kuntokeskus-liikku_20260126_140931/artifacts/onepagers/logos/kuntokeskus-liikku_logo.png"
+      },
+      "content": {
+        "headline": "Liikun Treenikoulu",
+        "subheadline": "Liikun Treenikoulu on 12-osainen dokumentaarinen opetussarja, jossa tunnettu suomalainen personal tr",
+        "bullets": [],
+        "call_to_action": "Let's bring this to life \u2192"
+      },
+      "visual_direction": {
+        "mood": "professional, inspiring, clean",
+        "imagery_style": "photorealistic",
+        "composition_notes": "A4 portrait infographic layout with multiple sections."
+      },
+      "generation_prompt": "High-quality horizontal infographic one-pager in 16:9 landscape ratio. Final output should be 3840x2160 (4K UHD) for screen presentation.\n\n## OVERALL VISUAL STYLE\nProfessional, warm, trustworthy Finnish aesthetic. Clean lines, bright natural lighting, approachable imagery. Documentary/editorial feel inspired by premium Nordic design. Soft gradients, clean whitespace, corporate elegance with warmth.\nThe design must feel premium, professional, and pitch-ready \u2013 like it could be presented at a top creative agency.\nMood: trustworthy, professional, inspiring\n\n## LOGO PLACEMENT (CRITICAL)\n- TOP LEFT CORNER: Small, elegant Warner Bros. International Television Production Finland logo (use light/white version if dark background)\n- TOP RIGHT CORNER: Small, elegant Kuntokeskus Liikku company logo\n- Both logos are placed discretely at the very top edge (approximately 3-4% of image height), maintaining balance and symmetry\n- Logos must NOT dominate \u2013 they are subtle professional identifiers only\nJos et l\u00f6yd\u00e4 tarkkaa logoa tai br\u00e4ndiv\u00e4rej\u00e4, k\u00e4yt\u00e4 Kuntokeskus Liikkun virallista logoa sek\u00e4 logoon ja br\u00e4ndi-ilmeeseen sopivia v\u00e4ris\u00e4vyj\u00e4.\n\n## HEADER SECTION (top 18%)\nBelow the logos:\n- LARGE BOLD TITLE: \"Liikun Treenikoulu\"\n- Subtitle: \"Liikun Treenikoulu on 12-osainen dokumentaarinen opetussarja, jossa tunnettu suomalainen personal...\"\nTypography: Bold, modern Finnish advertising style, highly legible, strong visual impact\n\n## TIIVISTYS (TOP)\nImmediately after the title, include a compact 3-line summary block:\n- **MIT\u00c4?** Liikun Treenikoulu on 12-osainen dokumentaarinen opetussarja, jossa tunnettu suomalainen personal trainer ottaa joka jaksossa yhden \"taviksen\" \u2013 aloittelijan...\n- **MITEN?** **P\u00e4\u00e4formaatti:** - 12 jaksoa, \u00e0 10\u201314 minuuttia - Yksi taito per jakso (selke\u00e4, haettava aihe: \"N\u00e4in teet kyykyn oikein\") - Rakenne: Tutustuminen oppilaasee...\n- **MIKSI?** Tekee Kuntokeskus Liikkusta puheenaiheen ja muuttaa kiinnostuksen toiminnaksi.\nThese lines must be punchy and attention-grabbing, capturing the core idea fast.\n\n\n\n## MAIN VISUAL SECTION (middle 52%)\nSection title: \"KONSEPTIN YDIN\"\n\nLiikun Treenikoulu on 12-osainen dokumentaarinen opetussarja, jossa tunnettu suomalainen personal trainer ottaa joka jaksossa yhden \"taviksen\" \u2013 aloittelijan, paluuliikkujan tai ep\u00e4varman kuntoilijan \u2013 ja opettaa yhden selke\u00e4n taidon: penkkipunnerruksen, jalkakyykyn, treeniohjelman rakentamisen, palautumisen perusteet. Jakso seuraa oppilaan matkaa ep\u00e4varmuudesta onnistumiseen yhden treenikerran aikana. Sarja on Liikun vastaus tyhj\u00e4\u00e4n saliin: digitaalinen PT, joka on aina l\u00e4sn\u00e4.\n\n--- \n\nThis section should visually communicate the core concept in a rich, infographic style.\nUse stylized illustrations, photo compositions, and graphic elements that match the brand aesthetic.\nInclude key characters, settings, or scenarios that bring the concept to life.\nThis must feel like a fully art-directed pitch visual, not a minimal poster.\n\n## PROCESS/FORMAT SECTION (20%)\nTitle: \"N\u00c4IN SE TOIMII\"\n\n**P\u00e4\u00e4formaatti:**\n- 12 jaksoa, \u00e0 10\u201314 minuuttia\n- Yksi taito per jakso (selke\u00e4, haettava aihe: \"N\u00e4in teet kyykyn oikein\")\n- Rakenne: Tutustuminen oppilaaseen (2 min) \u2192 Opetus salilla (6\u20138 min) \u2192 Harjoittelu ja onnistuminen (3 min) \u2192 Lopputsemppi ja seuraavan jakson teaser (1 min)\n\n**Julkaisurytmi:**\n- Yksi jakso viikossa, 3 kuukauden kausi\n- Julkaisu tiistaisin klo 17 (prime time ennen iltaharjoittelua)\n\n**Laajennukset:**\n- **TikTok/Shorts/Reels:** Jokaisesta jaksosta 3\u20135 leikett\u00e4: \"60 sekunnissa jalkakyykky\", oppilaan reaktio onnistumiseen, PT:n \"yksi vinkki\" -formaatti\n- **OmaLiikku-integraatio:** Jaksojen treeniohjelmat ladattavissa sovellukseen \u2013 katsoja voi menn\u00e4 salille ja tehd\u00e4 saman treenin\n- **Podcast-versio:** Jaksojen \u00e4\u00e4ni julkaistaan podcastina pidemm\u00e4ll\u00e4 keskustelulla (matala tuotantokustannus, uusi kanava)\n- **PR:** Lehdist\u00f6tiedote jokaisesta \"oppilasprofiiista\" \u2013 paikallisuus kiinnostaa aluelehti\u00e4\n\n---\n\nPresent as a clear visual flowchart or step-by-step (3-5 stages) with:\n- Each stage in a colored box connected by arrows or visual flow\n- Icon or small visual + short descriptive text per stage\n- Color-coded using brand palette\n\n## BOTTOM SECTION (10%)\nTitle: \"STRATEGINEN MONIALUSTAINEN ILMI\u00d6\"\n\nThree-column layout showing distribution:\n- Primary channel icon + name\n- Secondary channels\n- Impact/reach indicators\n\n## FOOTER\n\"Konsepti joka tekee Kuntokeskus Liikkusta puheenaiheen ja tavoittaa uusia yleis\u00f6j\u00e4.\"\nA compelling summary of why this concept is perfect for this brand.\n\n## COLOR PALETTE\n- Primary brand color: #20a020\n- Secondary color: #40a040\n- Accent color: #44b944\n- Background: Light, airy background with subtle brand color accents or soft gradient\n- Text: High contrast for excellent readability\n\n## TECHNICAL REQUIREMENTS\n- 16:9 landscape layout (target 3840x2160)\n- Wide, cinematic composition with clear horizontal flow\n- All Finnish text must be clearly readable and well-spaced\n- Professional marketing document quality matching top creative agencies\n- Avoid generic stock photo aesthetics\n- No AI-looking artifacts or distortions in faces\n- Clean, sharp typography throughout\n- Premium infographic design language\n- The one-pager should immediately communicate value and create desire to learn more\n",
+      "generated_at": "2026-01-26T14:16:55.891689",
+      "output_path": "/opt/render/project/src/runs/2026-01-26_kuntokeskus-liikku_20260126_140931/artifacts/onepagers/concept_01.png"
+    },
+    {
+      "concept_id": "concept_02",
+      "brand_styling": {
+        "primary_color": "#20a020",
+        "secondary_color": "#40a040",
+        "accent_color": "#44b944",
+        "style_keywords": [],
+        "logo_available": true,
+        "logo_path": "/opt/render/project/src/runs/2026-01-26_kuntokeskus-liikku_20260126_140931/artifacts/onepagers/logos/kuntokeskus-liikku_logo.png"
+      },
+      "content": {
+        "headline": "Salilla Tavataan",
+        "subheadline": "Suomalaiset eiv\u00e4t puhu salilla toisilleen \u2013 ja se on myytti, jonka Liikku murtaa. **Salilla Tavataan",
+        "bullets": [],
+        "call_to_action": "Let's bring this to life \u2192"
+      },
+      "visual_direction": {
+        "mood": "bold, energetic, contemporary",
+        "imagery_style": "graphic",
+        "composition_notes": "A4 portrait infographic layout with multiple sections."
+      },
+      "generation_prompt": "High-quality horizontal infographic one-pager in 16:9 landscape ratio. Final output should be 3840x2160 (4K UHD) for screen presentation.\n\n## OVERALL VISUAL STYLE\nBold, energetic, contemporary Finnish style. Strong graphics, dynamic composition, social-media-native visual language. Urban, fresh, attention-grabbing. High contrast, unexpected color pops, modern edge.\nThe design must feel premium, professional, and pitch-ready \u2013 like it could be presented at a top creative agency.\nMood: bold, energetic, contemporary\n\n## LOGO PLACEMENT (CRITICAL)\n- TOP LEFT CORNER: Small, elegant Warner Bros. International Television Production Finland logo (use light/white version if dark background)\n- TOP RIGHT CORNER: Small, elegant Kuntokeskus Liikku company logo\n- Both logos are placed discretely at the very top edge (approximately 3-4% of image height), maintaining balance and symmetry\n- Logos must NOT dominate \u2013 they are subtle professional identifiers only\nJos et l\u00f6yd\u00e4 tarkkaa logoa tai br\u00e4ndiv\u00e4rej\u00e4, k\u00e4yt\u00e4 Kuntokeskus Liikkun virallista logoa sek\u00e4 logoon ja br\u00e4ndi-ilmeeseen sopivia v\u00e4ris\u00e4vyj\u00e4.\n\n## HEADER SECTION (top 18%)\nBelow the logos:\n- LARGE BOLD TITLE: \"Salilla Tavataan\"\n- Subtitle: \"Suomalaiset eiv\u00e4t puhu salilla toisilleen \u2013 ja se on myytti, jonka Liikku murtaa. **Salilla Tavat...\"\nTypography: Bold, modern Finnish advertising style, highly legible, strong visual impact\n\n## TIIVISTYS (TOP)\nImmediately after the title, include a compact 3-line summary block:\n- **MIT\u00c4?** Suomalaiset eiv\u00e4t puhu salilla toisilleen \u2013 ja se on myytti, jonka Liikku murtaa. **Salilla Tavataan** on TikTok-sarja, jossa kuvataan oikeita, suunnittelema...\n- **MITEN?** **P\u00e4\u00e4formaatti:** - 45\u201390 sekunnin TikTok-videot - Dokumentaarinen, k\u00e4sivaralta kuvattu estetiikka - Ei k\u00e4sikirjoitusta, mutta selke\u00e4 rakenne: tilanne \u2192 koht...\n- **MIKSI?** Tekee Kuntokeskus Liikkusta puheenaiheen ja muuttaa kiinnostuksen toiminnaksi.\nThese lines must be punchy and attention-grabbing, capturing the core idea fast.\n\n\n\n## MAIN VISUAL SECTION (middle 52%)\nSection title: \"KONSEPTIN YDIN\"\n\nSuomalaiset eiv\u00e4t puhu salilla toisilleen \u2013 ja se on myytti, jonka Liikku murtaa. **Salilla Tavataan** on TikTok-sarja, jossa kuvataan oikeita, suunnittelemattomia kohtaamisia Liikun saleilla ymp\u00e4ri Suomea: el\u00e4kel\u00e4inen neuvoo nuorta tangon lataamisessa, kaksi vierasta huomaa k\u00e4yv\u00e4ns\u00e4 samalla salilla jo vuoden ja nauravat ettei kumpikaan ole tervehtinyt, entinen luokkatoveri tunnistetaan juoksumaton vieress\u00e4. Sis\u00e4lt\u00f6 on raakaa, l\u00e4mmint\u00e4 ja tunnistettavaa \u2013 dokumentaarista \"slice of life\" -materia...\n\nThis section should visually communicate the core concept in a rich, infographic style.\nUse stylized illustrations, photo compositions, and graphic elements that match the brand aesthetic.\nInclude key characters, settings, or scenarios that bring the concept to life.\nThis must feel like a fully art-directed pitch visual, not a minimal poster.\n\n## PROCESS/FORMAT SECTION (20%)\nTitle: \"N\u00c4IN SE TOIMII\"\n\n**P\u00e4\u00e4formaatti:**\n- 45\u201390 sekunnin TikTok-videot\n- Dokumentaarinen, k\u00e4sivaralta kuvattu estetiikka\n- Ei k\u00e4sikirjoitusta, mutta selke\u00e4 rakenne: tilanne \u2192 kohtaaminen \u2192 reaktio\n- Tekstitykset aina mukana (\u00e4\u00e4nett\u00f6m\u00e4n katselun kulttuuri)\n\n**Julkaisurytmi:**\n- 2\u20133 videota viikossa\n- Alussa keskitet\u00e4\u00e4n 3\u20134 eri salille, my\u00f6hemmin laajennetaan uusille paikkakunnille avausten tahtiin\n- Sesonkipiikit: tammikuu (uudet liittyj\u00e4t), syksy (takaisin arkeen)\n\n**Laajennukset:**\n- **IG Reels:** Sama sis\u00e4lt\u00f6, cross-post\n- **YouTube Shorts:** Compilaatiot kuukausittain (\"Parhaat kohtaamiset \u2013 Helmikuu\")\n- **OOH-teaserit:** Uusien salien avajaismainoksissa QR-koodi: \"Katso ket\u00e4 t\u00e4\u00e4ll\u00e4 tapaat\"\n- **PR:** Paikallislehdet rakastavat \"omien\" ihmisten esiintymist\u00e4 \u2013 jokainen video on potentiaalinen juttuaihe\n\n---\n\nPresent as a clear visual flowchart or step-by-step (3-5 stages) with:\n- Each stage in a colored box connected by arrows or visual flow\n- Icon or small visual + short descriptive text per stage\n- Color-coded using brand palette\n\n## BOTTOM SECTION (10%)\nTitle: \"STRATEGINEN MONIALUSTAINEN ILMI\u00d6\"\n\nThree-column layout showing distribution:\n- Primary channel icon + name\n- Secondary channels\n- Impact/reach indicators\n\n## FOOTER\n\"Konsepti joka tekee Kuntokeskus Liikkusta puheenaiheen ja tavoittaa uusia yleis\u00f6j\u00e4.\"\nA compelling summary of why this concept is perfect for this brand.\n\n## COLOR PALETTE\n- Primary brand color: #20a020\n- Secondary color: #40a040\n- Accent color: #44b944\n- Background: Dynamic gradient or bold brand color with graphic elements\n- Text: High contrast for excellent readability\n\n## TECHNICAL REQUIREMENTS\n- 16:9 landscape layout (target 3840x2160)\n- Wide, cinematic composition with clear horizontal flow\n- All Finnish text must be clearly readable and well-spaced\n- Professional marketing document quality matching top creative agencies\n- Avoid generic stock photo aesthetics\n- No AI-looking artifacts or distortions in faces\n- Clean, sharp typography throughout\n- Premium infographic design language\n- The one-pager should immediately communicate value and create desire to learn more\n",
+      "generated_at": "2026-01-26T14:17:51.837663",
+      "output_path": "/opt/render/project/src/runs/2026-01-26_kuntokeskus-liikku_20260126_140931/artifacts/onepagers/concept_02.png"
+    },
+    {
+      "concept_id": "concept_03",
+      "brand_styling": {
+        "primary_color": "#20a020",
+        "secondary_color": "#40a040",
+        "accent_color": "#44b944",
+        "style_keywords": [],
+        "logo_available": true,
+        "logo_path": "/opt/render/project/src/runs/2026-01-26_kuntokeskus-liikku_20260126_140931/artifacts/onepagers/logos/kuntokeskus-liikku_logo.png"
+      },
+      "content": {
+        "headline": "LIIKKU SALAISET TREENIT",
+        "subheadline": "Kuntosaliharjoittelu on Suomen viimeinen suuri tabu \u2013 ei siksi, ettei sit\u00e4 teht\u00e4isi, vaan koska sit\u00e4",
+        "bullets": [],
+        "call_to_action": "Let's bring this to life \u2192"
+      },
+      "visual_direction": {
+        "mood": "visionary, impactful, premium",
+        "imagery_style": "mixed",
+        "composition_notes": "A4 portrait infographic layout with multiple sections."
+      },
+      "generation_prompt": "High-quality horizontal infographic one-pager in 16:9 landscape ratio. Final output should be 3840x2160 (4K UHD) for screen presentation.\n\n## OVERALL VISUAL STYLE\nVisionary, cinematic, premium Finnish aesthetic. Award-worthy design quality, sophisticated layering, dramatic lighting. Editorial boldness, statement-making, the kind of design that wins at Cannes Lions.\nThe design must feel premium, professional, and pitch-ready \u2013 like it could be presented at a top creative agency.\nMood: visionary, impactful, premium\n\n## LOGO PLACEMENT (CRITICAL)\n- TOP LEFT CORNER: Small, elegant Warner Bros. International Television Production Finland logo (use light/white version if dark background)\n- TOP RIGHT CORNER: Small, elegant Kuntokeskus Liikku company logo\n- Both logos are placed discretely at the very top edge (approximately 3-4% of image height), maintaining balance and symmetry\n- Logos must NOT dominate \u2013 they are subtle professional identifiers only\nJos et l\u00f6yd\u00e4 tarkkaa logoa tai br\u00e4ndiv\u00e4rej\u00e4, k\u00e4yt\u00e4 Kuntokeskus Liikkun virallista logoa sek\u00e4 logoon ja br\u00e4ndi-ilmeeseen sopivia v\u00e4ris\u00e4vyj\u00e4.\n\n## HEADER SECTION (top 18%)\nBelow the logos:\n- LARGE BOLD TITLE: \"LIIKKU SALAISET TREENIT\"\n- Subtitle: \"Kuntosaliharjoittelu on Suomen viimeinen suuri tabu \u2013 ei siksi, ettei sit\u00e4 teht\u00e4isi, vaan koska s...\"\nTypography: Bold, modern Finnish advertising style, highly legible, strong visual impact\n\n## TIIVISTYS (TOP)\nImmediately after the title, include a compact 3-line summary block:\n- **MIT\u00c4?** Kuntosaliharjoittelu on Suomen viimeinen suuri tabu \u2013 ei siksi, ettei sit\u00e4 teht\u00e4isi, vaan koska sit\u00e4 h\u00e4vet\u00e4\u00e4n. Liikku murtaa t\u00e4m\u00e4n k\u00e4ynnist\u00e4m\u00e4ll\u00e4 valtakunnal...\n- **MITEN?** **P\u00e4\u00e4formaatti:** - **YouTube-dokumenttisarja** (8 jaksoa, 15-20 min): Joka jaksossa yksi tunnettu henkil\u00f6 + yksi \"tavis\" samasta ammattiryhm\u00e4st\u00e4. Esim. kans...\n- **MIKSI?** Tekee Kuntokeskus Liikkusta puheenaiheen ja muuttaa kiinnostuksen toiminnaksi.\nThese lines must be punchy and attention-grabbing, capturing the core idea fast.\n\n\n\n## MAIN VISUAL SECTION (middle 52%)\nSection title: \"KONSEPTIN YDIN\"\n\nKuntosaliharjoittelu on Suomen viimeinen suuri tabu \u2013 ei siksi, ettei sit\u00e4 teht\u00e4isi, vaan koska sit\u00e4 h\u00e4vet\u00e4\u00e4n. Liikku murtaa t\u00e4m\u00e4n k\u00e4ynnist\u00e4m\u00e4ll\u00e4 valtakunnallisen ilmi\u00f6n, jossa julkisuuden henkil\u00f6t ja tavalliset suomalaiset paljastavat \"salaiset treenins\u00e4\" \u2013 ne harjoitukset, joita he tekev\u00e4t mutta eiv\u00e4t koskaan kerro kenellek\u00e4\u00e4n. K\u00e4ynnist\u00e4j\u00e4n\u00e4 toimii dokumentaarinen YouTube-sarja, jossa tunnetut suomalaiset (poliitikko, toimitusjohtaja, pappi, stand-up-koomikko) menev\u00e4t ensimm\u00e4ist\u00e4 kertaa kamera...\n\nThis section should visually communicate the core concept in a rich, infographic style.\nUse stylized illustrations, photo compositions, and graphic elements that match the brand aesthetic.\nInclude key characters, settings, or scenarios that bring the concept to life.\nThis must feel like a fully art-directed pitch visual, not a minimal poster.\n\n## PROCESS/FORMAT SECTION (20%)\nTitle: \"N\u00c4IN SE TOIMII\"\n\n**P\u00e4\u00e4formaatti:**\n- **YouTube-dokumenttisarja** (8 jaksoa, 15-20 min): Joka jaksossa yksi tunnettu henkil\u00f6 + yksi \"tavis\" samasta ammattiryhm\u00e4st\u00e4. Esim. kansanedustaja + kunnanvaltuutettu, tv-kokki + koti\u00e4iti. Molemmat paljastavat salaisen treenisuhteensa.\n\n**Julkaisurytmi:**\n- Viikko 1-2: Teaser-kampanja \"Suomen suurin treenisalaisuus paljastuu\" (mysteerinen OOH + some)\n- Viikko 3: Ensimm\u00e4inen jakso + v\u00e4lit\u00f6n TikTok-haaste #SalainenTreeni\n- Viikot 4-11: Uusi jakso joka viikko, jokaisen julkaisun yhteydess\u00e4 uusi haastekierros\n- Viikko 12: Live-finaali, jossa paljastetaan \"Suomen salaisin treeni\" (\u00e4\u00e4nestys)\n\n**Laajennukset:**\n- **TikTok/IG Reels:** 60s \"tunnustus-klipit\" joka jaksosta + UGC-haaste\n- **Podcast-kierros:** Sarjan kasvot vierailevat suosituissa podcasteissa puhumassa treenih\u00e4pe\u00e4st\u00e4\n- **OOH-stunt:** Helsingin Rautatientorille ilmestyy \"Tunnustuskoppi\" \u2013 k\u00e4velem\u00e4ll\u00e4 sis\u00e4\u00e4n voit nauhoittaa oman salaisen treenisi (nauhoitukset p\u00e4\u00e4tyv\u00e4t someen)\n- **PR:** Embargo-uutiset: \"Tunnettu poliitikko paljastaa salaisuutensa Liikun salilla\"\n\n---\n\nPresent as a clear visual flowchart or step-by-step (3-5 stages) with:\n- Each stage in a colored box connected by arrows or visual flow\n- Icon or small visual + short descriptive text per stage\n- Color-coded using brand palette\n\n## BOTTOM SECTION (10%)\nTitle: \"STRATEGINEN MONIALUSTAINEN ILMI\u00d6\"\n\nThree-column layout showing distribution:\n- Primary channel icon + name\n- Secondary channels\n- Impact/reach indicators\n\n## FOOTER\n\"Konsepti joka tekee Kuntokeskus Liikkusta puheenaiheen ja tavoittaa uusia yleis\u00f6j\u00e4.\"\nA compelling summary of why this concept is perfect for this brand.\n\n## COLOR PALETTE\n- Primary brand color: #20a020\n- Secondary color: #40a040\n- Accent color: #44b944\n- Background: Rich dark base with premium lighting effects and depth, or striking bold color statement\n- Text: High contrast for excellent readability\n\n## TECHNICAL REQUIREMENTS\n- 16:9 landscape layout (target 3840x2160)\n- Wide, cinematic composition with clear horizontal flow\n- All Finnish text must be clearly readable and well-spaced\n- Professional marketing document quality matching top creative agencies\n- Avoid generic stock photo aesthetics\n- No AI-looking artifacts or distortions in faces\n- Clean, sharp typography throughout\n- Premium infographic design language\n- The one-pager should immediately communicate value and create desire to learn more\n",
+      "generated_at": "2026-01-26T14:18:54.790599",
+      "output_path": "/opt/render/project/src/runs/2026-01-26_kuntokeskus-liikku_20260126_140931/artifacts/onepagers/concept_03.png"
+    }
+  ],
   "onepagers_skipped": false,
   "onepagers_error": null,
   "pitch_email": "",
@@ -622,6 +698,15 @@
     {
       "phase": "create",
       "started_at": "2026-01-26T14:09:35.816402",
+      "completed_at": "2026-01-26T14:15:52.068056",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "visualize",
+      "started_at": "2026-01-26T14:15:52.077142",
       "completed_at": null,
       "success": false,
       "error_message": null,
