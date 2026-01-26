@@ -2,8 +2,8 @@
   "run_id": "20260126_064641",
   "company_slug": "silmasema-optiikka",
   "created_at": "2026-01-26T06:46:41.462663",
-  "updated_at": "2026-01-26T06:49:33.962132",
-  "current_phase": "research",
+  "updated_at": "2026-01-26T06:49:35.417748",
+  "current_phase": "strategize",
   "user_input": {
     "company_name": "Silm\u00e4asema Optiikka",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -222,7 +222,38 @@
       }
     ]
   },
-  "concept_briefs": [],
+  "concept_briefs": [
+    {
+      "slot_id": "01",
+      "slot_type": "safe_bet",
+      "assigned_tension_id": "tension_01",
+      "strategic_focus": "Onnellisuuslupaus vs. Kliininen transaktio: Br\u00e4ndi lupaa onnellisuutta, mutta kokemus on tekninen suorite.",
+      "platform_focus": "youtube",
+      "format_guidance": "Focus on proven YouTube formats: documentary-style, interview series, or educational content. Episodes should be 8-15 minutes. Prioritize professional production quality and clear brand alignment. The series should have obvious rewatch and share value.",
+      "risk_profile": "low",
+      "success_hypothesis": "This concept directly addresses Silm\u00e4asema Optiikka's top strategic priority (gap) with a proven format that minimizes execution risk while delivering measurable brand value."
+    },
+    {
+      "slot_id": "02",
+      "slot_type": "challenger",
+      "assigned_tension_id": "tension_02",
+      "strategic_focus": "El\u00e4m\u00e4nkumppani vs. Ale-kauppias: Strategia tavoittelee hoitosuhdetta, markkinointi opettaa odottamaan alennuksia.",
+      "platform_focus": "tiktok",
+      "format_guidance": "Design for TikTok/Reels first: vertical format, 30-90 seconds, hook in first 3 seconds. Embrace platform-native aesthetics and trends. Consider creator collaborations. Content should feel bold and contemporary, not like traditional brand advertising.",
+      "risk_profile": "medium",
+      "success_hypothesis": "This concept enables Silm\u00e4asema Optiikka to aggressively address their aspiration with bold positioning that differentiates them in the market and captures attention on high-engagement platforms."
+    },
+    {
+      "slot_id": "03",
+      "slot_type": "moonshot",
+      "assigned_tension_id": "tension_03",
+      "strategic_focus": "Auktoriteetin pelko vs. Vertaistuen tarve: Viestint\u00e4 on ylh\u00e4\u00e4lt\u00e4 alas, vaikka asiakas kaipaa vertaistukea pelkoon.",
+      "platform_focus": "cross_platform",
+      "format_guidance": "Think beyond single-platform content: interactive experiences, live events with digital extensions, user participation mechanics, or innovative cross-platform storytelling. This should feel like something the industry hasn't seen before. High production ambition is acceptable given the differentiation potential.",
+      "risk_profile": "high",
+      "success_hypothesis": "This concept unlocks an untapped opportunity for Silm\u00e4asema Optiikka by addressing their underserved audience in a way that creates cultural relevance and positions the brand as an innovator in their space."
+    }
+  ],
   "concepts": [],
   "treatment_files": [],
   "onepager_specs": [],
@@ -251,6 +282,15 @@
     {
       "phase": "research",
       "started_at": "2026-01-26T06:46:43.301212",
+      "completed_at": "2026-01-26T06:49:35.406768",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "strategize",
+      "started_at": "2026-01-26T06:49:35.412474",
       "completed_at": null,
       "success": false,
       "error_message": null,
