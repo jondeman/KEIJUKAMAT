@@ -2,8 +2,8 @@
   "run_id": "20260126_064229",
   "company_slug": "finnlines",
   "created_at": "2026-01-26T06:42:29.600950",
-  "updated_at": "2026-01-26T06:53:21.080207",
-  "current_phase": "visualize",
+  "updated_at": "2026-01-26T06:53:33.663099",
+  "current_phase": "compose_pitch",
   "user_input": {
     "company_name": "Finnlines",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -696,7 +696,7 @@
   ],
   "onepagers_skipped": false,
   "onepagers_error": null,
-  "pitch_email": "",
+  "pitch_email": "Subject: Three video concepts for Finnlines \u2014 addressing Rautakeskeisyys vs. Tunnekeskeisyys: Markkinoin...\n\n---\n\nHi [Contact Name],\n\nI've been studying Finnlines's recent marketing activities and strategic direction, and I noticed an opportunity in emotionaalinen tarinankerronta (micro-moments).\n\nBased on this analysis, I've developed three branded entertainment concepts that I believe could help Finnlines achieve stronger positioning in matkustajavolyymin kasvu (passenger experience):\n\n**Concept 1: \"Hiljaisuuden Kapteenit\"**\nDokumenttisarja, joka todistaa miksi hiljaisuus on uusi luksus \u2013 ja miksi \u00e4lyk\u00e4s matkustaja valitsee Finnlinesin.\n\n**Concept 2: \"Laivan Lapset\"**\nTikTok-sarja, jossa Gen Z -vaikuttajat todistavat, ett\u00e4 Finnlines ei ole rekkalaiva vaan Suomen aliarvostetuin chill-paikka.\n\n**Concept 3: \"Kelluvat Tarinat\"**\nInteraktiivinen live-tapahtuma, jossa yleis\u00f6 valitsee mit\u00e4 laivalla tapahtuu \u2013 ja kaikki striimataan reaaliajassa someen.\n\nI've attached visual one-pagers for each concept, along with detailed format specifications.\n\n---\n\n## Strategic Hypothesis\n\nBased on my research into Finnlines's current positioning and market dynamics, I believe there's a significant opportunity in branded entertainment that addresses three distinct strategic needs:\n\n**1. Hiljaisuuden Kapteenit** addresses ratkaisee suoraan 'rautakeskeisyys vs. tunnekeskeisyys' -j\u00e4nnitteen siirt\u00e4m\u00e4ll\u00e4 fokuksen laivan tiloista ihmisten kokemuksiin ja tunteisiin. samalla vastaa matkustajavolyymin kasvun prioriteettiin luomalla uuden syyn matkustaa.\n\n**2. Laivan Lapset** addresses ratkaisee suoraan yleis\u00f6aukon: gen z ei tied\u00e4 finnlinesista mit\u00e4\u00e4n tai pit\u00e4\u00e4 sit\u00e4 'rekkakuskien lauttana'. t\u00e4m\u00e4 konsepti rakentaa uuden mielikuvan heid\u00e4n omalla kielell\u00e4\u00e4n.\n\n**3. Kelluvat Tarinat** addresses ratkaisee useita j\u00e4nnitteit\u00e4: muuttaa 'tyls\u00e4n' laivan el\u00e4mykseksi, tuo nuorta yleis\u00f6\u00e4 interaktiivisuudella, ja luo t\u00e4ysin uniikkia sis\u00e4lt\u00f6\u00e4, jota kukaan muu ei voi kopioida.\n\nTogether, these concepts represent a portfolio approach\u2014from low-risk proven formats to bold differentiators\u2014giving Finnlines options across the risk spectrum while maintaining strategic coherence.\n\n---\n\nI'd welcome 15 minutes to walk through these ideas and get your initial reactions.\n\nBest,\n[Your Name]\n\n---\n\n\ud83d\udcce Attachments:\n- Concept 1 One-Pager (Hiljaisuuden Kapteenit.png)\n- Concept 2 One-Pager (Laivan Lapset.png)\n- Concept 3 One-Pager (Kelluvat Tarinat.png)\n- Detailed Concept Documents (PDF)\n\n[Link to full materials folder: https://jondeman.github.io/KEIJUKAMAT/deliveries/finnlines/20260126_064229/index.html]",
   "phase_history": [
     {
       "phase": "validate",
@@ -746,6 +746,15 @@
     {
       "phase": "visualize",
       "started_at": "2026-01-26T06:50:35.449117",
+      "completed_at": "2026-01-26T06:53:33.647742",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "compose_pitch",
+      "started_at": "2026-01-26T06:53:33.655065",
       "completed_at": null,
       "success": false,
       "error_message": null,
