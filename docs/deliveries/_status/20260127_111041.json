@@ -2,8 +2,8 @@
   "run_id": "20260127_111041",
   "company_slug": "paulig",
   "created_at": "2026-01-27T11:10:41.584837",
-  "updated_at": "2026-01-27T11:10:41.584852",
-  "current_phase": "input",
+  "updated_at": "2026-01-27T11:10:43.992288",
+  "current_phase": "strategize",
   "user_input": {
     "company_name": "Paulig",
     "user_email": "joona.kortesmaki@wbitvp.fi",
@@ -13,14 +13,300 @@
     "use_cached_research": true,
     "total_tv_only": true
   },
-  "dossier": null,
-  "concept_briefs": [],
+  "dossier": {
+    "company_name": "Paulig",
+    "company_slug": "paulig",
+    "generated_at": "2026-01-27T10:50:13.148189",
+    "brand_identity": {
+      "positioning": "For a Life Full of Flavor",
+      "visual_markers": {
+        "primary_color": "Saturated colors (Santa Maria & Paulig Mundo)",
+        "secondary_colors": [
+          "Nordic clarity",
+          "Freshness"
+        ],
+        "style_keywords": [
+          "High Production Value",
+          "Cinematic",
+          "Polished",
+          "Food porn",
+          "Appetite appeal"
+        ],
+        "tone_keywords": [
+          "Warm",
+          "Safe",
+          "Educational",
+          "Controlled",
+          "Institutional"
+        ]
+      },
+      "voice_characteristics": [
+        "Caretaker",
+        "Explorer",
+        "Uncle who cooks well"
+      ]
+    },
+    "strategic_priorities": [
+      {
+        "rank": 1,
+        "priority": "Kansainv\u00e4linen kasvu (Tex Mex & Snacking)",
+        "evidence": [
+          "Investoinnit tehtaisiin Belgiassa (Roeselare)",
+          "Espanjalaisen Liven-yhti\u00f6n osto",
+          "Tex Mex nimetty Euroopan kasvumoottoriksi"
+        ],
+        "execution_assessment": "strong"
+      },
+      {
+        "rank": 2,
+        "priority": "Vastuullisuusjohtajuus (Sustainability)",
+        "evidence": [
+          "Aggressiiviset Science Based Targets -ilmastotavoitteet",
+          "Hiilineutraalit tehtaat",
+          "Toimitusjohtaja Rolf Ladaun painotus ilmastoviisaasta viljelyst\u00e4"
+        ],
+        "execution_assessment": "strong"
+      },
+      {
+        "rank": 3,
+        "priority": "Kahvikategorian puolustaminen ja premiumisointi",
+        "evidence": [
+          "Juhla Mokan markkinaosuuden suojelu Suomessa",
+          "Frezza- ja Cold Brew -tuotteiden lanseeraukset",
+          "Kaupunkilaisen kahvikulttuurin tavoittelu"
+        ],
+        "execution_assessment": "moderate"
+      },
+      {
+        "rank": 4,
+        "priority": "Digitaalinen transformaatio",
+        "evidence": [
+          "Investoinnit verkkokauppakyvykkyyksiin",
+          "Datan hy\u00f6dynt\u00e4minen markkinoinnissa"
+        ],
+        "execution_assessment": "moderate"
+      }
+    ],
+    "marketing_posture": {
+      "current_content_types": [
+        "Korkealaatuiset TV-mainokset ja br\u00e4ndifilmit",
+        "Styletyt reseptikuvat ja -videot",
+        "Staattinen, informatiivinen some-sis\u00e4lt\u00f6"
+      ],
+      "channel_presence": {
+        "youtube": {
+          "active": true,
+          "assessment": "Laatu korkea, mutta orgaaninen sitoutuminen matalaa. Pre-roll ja mainosfilmit."
+        },
+        "tiktok": {
+          "active": false,
+          "assessment": "Heikko/Passiivinen. Ei vahvaa omaa orgaanista presenssi\u00e4 tai natiivia otetta."
+        },
+        "instagram": {
+          "active": true,
+          "assessment": "Reseptipainotteista, visuaalisesti kaunista, mutta vuorovaikutus yksisuuntaista."
+        },
+        "linkedin": {
+          "active": true,
+          "assessment": "Oletettu aktiivinen (Corporate/Sustainability viestint\u00e4, Rolf Ladau)."
+        }
+      },
+      "apparent_gaps": [
+        "Reaktiivisuus (hidas reagoimaan trendeihin)",
+        "Rosoisuus (liian kiillotettua)",
+        "Viihde (sis\u00e4lt\u00f6 on push-markkinointia)"
+      ],
+      "audience_engagement": "Passiivinen hyv\u00e4ksynt\u00e4. Yleis\u00f6 luottaa br\u00e4ndiin, mutta ei fanita sit\u00e4. Ei aktiivista dialogia."
+    },
+    "competitive_analysis": {
+      "key_competitors": [
+        {
+          "name": "Old El Paso (General Mills)",
+          "content_strategy": "Globaali volyymi, valtava mediabudjetti, perhekeskeinen helppous",
+          "threat_level": "high"
+        },
+        {
+          "name": "Pienpaahtimot & Third Wave -kahvilat",
+          "content_strategy": "Intohimo, k\u00e4sity\u00f6l\u00e4isyys, yhteis\u00f6llisyys, aitous",
+          "threat_level": "medium"
+        },
+        {
+          "name": "Ruokavaikuttajat (esim. Jenni H\u00e4yrinen)",
+          "content_strategy": "Persoonavetoisuus, nopeus, aitous, ilmi\u00f6iden luominen",
+          "threat_level": "high"
+        }
+      ],
+      "brand_winning_areas": [
+        "Luottamus",
+        "Laatu",
+        "Jakeluverkosto",
+        "Vahva perint\u00f6 (heritage) Suomessa"
+      ],
+      "brand_losing_areas": [
+        "Nopeus",
+        "Digitaalinen natiivius",
+        "Samaistuttavuus nuoremmalle kohderyhm\u00e4lle"
+      ]
+    },
+    "strategic_tensions": [
+      {
+        "id": "tension_01",
+        "description": "Vastuullisuuden 'Corporate Speak' vs. Kuluttajan hedonismi",
+        "evidence": [
+          "Strategia painottaa hiiliviljely\u00e4 ja lukuja",
+          "Kuluttaja ostaa maun ja nautinnon vuoksi",
+          "Viestint\u00e4 uhkaa olla saarnaavaa"
+        ],
+        "opportunity_type": "aspiration",
+        "priority_score": 5
+      },
+      {
+        "id": "tension_02",
+        "description": "Kansallinen instituutio vs. Gen Z -uskottavuus (Heritage Trap)",
+        "evidence": [
+          "Mielikuva 'Mummon kahvista'",
+          "Gen Z etsii uusia el\u00e4myksi\u00e4 ja globaaleja makuja",
+          "Vaikeus olla 'cool' ilman p\u00e4\u00e4lleliimattua vaikutelmaa"
+        ],
+        "opportunity_type": "threat",
+        "priority_score": 4
+      },
+      {
+        "id": "tension_03",
+        "description": "T\u00e4ydellinen tuotantoarvo vs. Alustojen vaatima autenttisuus",
+        "evidence": [
+          "Nykyinen materiaali TVC-tasoista ja virheet\u00f6nt\u00e4",
+          "TikTok-kulttuuri palkitsee rosoisuutta",
+          "Br\u00e4ndi n\u00e4ytt\u00e4ytyy et\u00e4isen\u00e4 korporaationa"
+        ],
+        "opportunity_type": "gap",
+        "priority_score": 4
+      }
+    ],
+    "opportunity_zones": [
+      {
+        "id": "opp_01",
+        "description": "N\u00f6rttiyden ja intohimon valjastaminen (Deep Dive)",
+        "rationale": "Siirryt\u00e4\u00e4n geneerisest\u00e4 fiilistelyst\u00e4 syv\u00e4\u00e4n substanssiin (kemia, alkuper\u00e4). Puhuttelee nykykuluttajaa ja rakentaa uskottavuutta.",
+        "risk_level": "low"
+      },
+      {
+        "id": "opp_02",
+        "description": "Tuotteen 'Hackaaminen' ja luova k\u00e4ytt\u00f6",
+        "rationale": "N\u00e4ytet\u00e4\u00e4n miten tuotteita voi k\u00e4ytt\u00e4\u00e4 v\u00e4\u00e4rin tai luovasti (food hacks). Vastaa TikTok-kulttuuriin.",
+        "risk_level": "medium"
+      },
+      {
+        "id": "opp_03",
+        "description": "Vastuullisuuden radikaali inhimillist\u00e4minen",
+        "rationale": "Unohdetaan graafit. Tuodaan kameraan ihmiset (viljelij\u00e4t, kuskit). Tehd\u00e4\u00e4n vastuullisuudesta tarina ihmisist\u00e4.",
+        "risk_level": "medium"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Strateginen Dossier: Paulig (Simuloitu)",
+        "url": "internal://dossier-paulig-2024",
+        "type": "report",
+        "date_accessed": "2024-05-24",
+        "relevance": "Ensisijainen l\u00e4hde analyysille"
+      },
+      {
+        "title": "Paulig Group Vuosikertomukset",
+        "url": "https://www.pauliggroup.com/fi/sijoittajat",
+        "type": "company_site",
+        "date_accessed": "2024-05-24",
+        "relevance": "Taloudellinen data ja strategiset painopisteet"
+      },
+      {
+        "title": "Lehdist\u00f6tiedote: Investoinnit Roeselare ja Liven-osto",
+        "url": "https://www.pauliggroup.com/fi/uutishuone",
+        "type": "company_site",
+        "date_accessed": "2024-05-24",
+        "relevance": "Todisteet kansainv\u00e4lisest\u00e4 kasvustrategiasta"
+      },
+      {
+        "title": "Markkinahavainnot: Kilpailutilanne (Old El Paso & Pienpaahtimot)",
+        "url": "observation://market-analysis",
+        "type": "other",
+        "date_accessed": "2024-05-24",
+        "relevance": "Kilpailukent\u00e4n ja uhkien kartoitus"
+      },
+      {
+        "title": "Markkinahavainnot: Some-trendit ja vaikuttajat",
+        "url": "observation://social-media-trends",
+        "type": "social",
+        "date_accessed": "2024-05-24",
+        "relevance": "Digitaalisen preesensin ja aukkojen analyysi"
+      }
+    ]
+  },
+  "concept_briefs": [
+    {
+      "slot_id": "01",
+      "slot_type": "safe_bet",
+      "assigned_tension_id": "tension_01",
+      "strategic_focus": "Vastuullisuuden 'Corporate Speak' vs. Kuluttajan hedonismi",
+      "platform_focus": "youtube",
+      "format_guidance": "Focus on proven YouTube formats: documentary-style, interview series, or educational content. Episodes should be 8-15 minutes. Prioritize professional production quality and clear brand alignment. The series should have obvious rewatch and share value.",
+      "risk_profile": "low",
+      "success_hypothesis": "This concept directly addresses Paulig's top strategic priority (aspiration) with a proven format that minimizes execution risk while delivering measurable brand value."
+    },
+    {
+      "slot_id": "02",
+      "slot_type": "challenger",
+      "assigned_tension_id": "tension_02",
+      "strategic_focus": "Kansallinen instituutio vs. Gen Z -uskottavuus (Heritage Trap)",
+      "platform_focus": "tiktok",
+      "format_guidance": "Design for TikTok/Reels first: vertical format, 30-90 seconds, hook in first 3 seconds. Embrace platform-native aesthetics and trends. Consider creator collaborations. Content should feel bold and contemporary, not like traditional brand advertising.",
+      "risk_profile": "medium",
+      "success_hypothesis": "This concept enables Paulig to aggressively address their threat with bold positioning that differentiates them in the market and captures attention on high-engagement platforms."
+    },
+    {
+      "slot_id": "03",
+      "slot_type": "moonshot",
+      "assigned_tension_id": "tension_03",
+      "strategic_focus": "T\u00e4ydellinen tuotantoarvo vs. Alustojen vaatima autenttisuus",
+      "platform_focus": "cross_platform",
+      "format_guidance": "Think beyond single-platform content: interactive experiences, live events with digital extensions, user participation mechanics, or innovative cross-platform storytelling. This should feel like something the industry hasn't seen before. High production ambition is acceptable given the differentiation potential.",
+      "risk_profile": "high",
+      "success_hypothesis": "This concept unlocks an untapped opportunity for Paulig by addressing their gap in a way that creates cultural relevance and positions the brand as an innovator in their space."
+    }
+  ],
   "concepts": [],
   "treatment_files": [],
   "onepager_specs": [],
   "onepagers_skipped": false,
   "onepagers_error": null,
   "pitch_email": "",
-  "phase_history": [],
-  "archive_ref": null
+  "phase_history": [
+    {
+      "phase": "validate",
+      "started_at": "2026-01-27T11:10:43.229414",
+      "completed_at": "2026-01-27T11:10:43.233518",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "check_archive",
+      "started_at": "2026-01-27T11:10:43.238051",
+      "completed_at": "2026-01-27T11:10:43.981711",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "strategize",
+      "started_at": "2026-01-27T11:10:43.986953",
+      "completed_at": null,
+      "success": false,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    }
+  ],
+  "archive_ref": "deliveries:paulig/20260127_104706"
 }
