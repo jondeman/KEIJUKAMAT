@@ -2,8 +2,8 @@
   "run_id": "20260127_094324",
   "company_slug": "lhitapiola",
   "created_at": "2026-01-27T09:43:24.788266",
-  "updated_at": "2026-01-27T09:43:24.788279",
-  "current_phase": "input",
+  "updated_at": "2026-01-27T09:58:20.673315",
+  "current_phase": "research",
   "user_input": {
     "company_name": "L\u00e4hiTapiola",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -13,7 +13,218 @@
     "use_cached_research": true,
     "total_tv_only": true
   },
-  "dossier": null,
+  "dossier": {
+    "company_name": "L\u00e4hiTapiola",
+    "company_slug": "lhitapiola",
+    "generated_at": "2026-01-27T09:58:20.664758",
+    "brand_identity": {
+      "positioning": "El\u00e4m\u00e4nturva (Lifecurity) \u2013 Kumppani, joka turvaa terveyden, talouden ja turvallisuuden kokonaisuuden, ei pelkk\u00e4 vakuutusyhti\u00f6.",
+      "visual_markers": {
+        "primary_color": "Sinivalkoinen",
+        "secondary_colors": [
+          "Suomalainen luonto",
+          "Perhekuvasto",
+          "Arjen kuvasto"
+        ],
+        "style_keywords": [
+          "Turvallinen",
+          "Perinteinen",
+          "Minimaalinen riskinotto"
+        ],
+        "tone_keywords": [
+          "Empaattinen",
+          "Rauhallinen",
+          "Asiantunteva"
+        ]
+      },
+      "voice_characteristics": [
+        "The Caregiver",
+        "Varovainen",
+        "Virkamiesm\u00e4inen",
+        "Hidas"
+      ]
+    },
+    "strategic_priorities": [
+      {
+        "rank": 1,
+        "priority": "Ennakointi ja preventio (Siirtym\u00e4 korvaajasta ennaltaehk\u00e4isij\u00e4ksi)",
+        "evidence": [
+          "Sankarikoulutus (elvytys)",
+          "Paloturvallisuuskampanjat",
+          "\u00c4lykelloyhteisty\u00f6t",
+          "Johdon viestint\u00e4 vahinkojen est\u00e4misest\u00e4"
+        ],
+        "execution_assessment": "moderate"
+      },
+      {
+        "rank": 2,
+        "priority": "Kokonaisvaltainen hyvinvointi (Terveys + Talous)",
+        "evidence": [
+          "Strateginen yhteisty\u00f6 Mehil\u00e4isen kanssa",
+          "TerveysHelppi-palvelu",
+          "Varallisuudenhoidon integrointi vakuutuksiin"
+        ],
+        "execution_assessment": "strong"
+      },
+      {
+        "rank": 3,
+        "priority": "Digitaalinen saavutettavuus vs. Paikallisuus",
+        "evidence": [
+          "19 itsen\u00e4isen alueyhti\u00f6n mallin puolustaminen",
+          "Palveluiden digitalisointiyritykset"
+        ],
+        "execution_assessment": "weak"
+      }
+    ],
+    "marketing_posture": {
+      "current_content_types": [
+        "TV-mainokset (tunteisiin vetoavat imagofilmit)",
+        "Webinaaritallenteet ja asiantuntijavideot (pitki\u00e4, editoimattomia)",
+        "Taktiset mainokset (S-bonus, keskitt\u00e4misedut)"
+      ],
+      "channel_presence": {
+        "youtube": {
+          "active": false,
+          "assessment": "Passiivinen arkisto. Toimii TV-spottien ja webinaarien kaatopaikkana."
+        },
+        "tiktok": {
+          "active": false,
+          "assessment": "Heikko/Olematon. Preesens on hapuilevaa verrattuna finanssialan haastajiin."
+        },
+        "instagram": {
+          "active": true,
+          "assessment": "Kohtalainen. Yritet\u00e4\u00e4n lifestyle-kulmaa, mutta sitoutuminen matalaa suhteessa seuraajiin."
+        },
+        "linkedin": {
+          "active": false,
+          "assessment": "Ei eritelty l\u00e4hdeaineistossa, mutta webinaarit viittaavat B2B-l\u00e4sn\u00e4oloon."
+        },
+        "facebook": {
+          "active": true,
+          "assessment": "Aktiivinen. Tavoittaa hyvin vanhemman omistaja-asiakaskunnan."
+        }
+      },
+      "apparent_gaps": [
+        "Natiivi, alustalle suunniteltu lyhytvideo puuttuu",
+        "Sis\u00e4lt\u00f6 ei viihdyt\u00e4 eik\u00e4 opeta nopeasti",
+        "Inhimillinen digitaalisuus puuttuu"
+      ],
+      "audience_engagement": "Toimii vanhemmissa ik\u00e4luokissa ja maaseudulla, mutta urbaani nuori aikuinen kokee sis\u00e4ll\u00f6n p\u00f6lyttyneeksi."
+    },
+    "competitive_analysis": {
+      "key_competitors": [
+        {
+          "name": "If",
+          "content_strategy": "Helppous ja digitaalinen sujuvuus",
+          "threat_level": "high"
+        },
+        {
+          "name": "OP",
+          "content_strategy": "Nipputtaminen (Pankki + Vakuutus)",
+          "threat_level": "medium"
+        }
+      ],
+      "brand_winning_areas": [
+        "Fyysinen l\u00e4sn\u00e4olo ja luottamus (maakunnat)",
+        "Terveyspalveluiden integraatio (Mehil\u00e4inen)",
+        "Bonuskertym\u00e4 (S-Bonus)"
+      ],
+      "brand_losing_areas": [
+        "Urbaani relevanssi ja katuuskottavuus",
+        "Digitaalinen k\u00e4ytt\u00f6kokemus ja nopeus",
+        "Sis\u00e4ll\u00f6n viihdytt\u00e4vyys ja modernius"
+      ]
+    },
+    "strategic_tensions": [
+      {
+        "id": "tension_01",
+        "description": "L\u00e4hi vs. Urbaani et\u00e4isyys: Nimi lupaa l\u00e4heisyytt\u00e4, mutta urbaani asiakas kokee fyysisen verkoston irrelevantiksi ja digin et\u00e4iseksi.",
+        "evidence": [
+          "Nimi 'L\u00e4hiTapiola' vs. mobiilik\u00e4ytt\u00f6tarve",
+          "Alueyhti\u00f6mallin korostus ei resonoi kaupungeissa"
+        ],
+        "opportunity_type": "threat",
+        "priority_score": 5
+      },
+      {
+        "id": "tension_02",
+        "description": "Ennaltaehk\u00e4isyn t\u00e4rkeys vs. Sis\u00e4ll\u00f6n tylsyys: Strategian ydin on preventio, mutta sis\u00e4lt\u00f6 on holhoavaa.",
+        "evidence": [
+          "Strateginen tavoite: Siirtym\u00e4 ennaltaehk\u00e4isij\u00e4ksi",
+          "Nykyinen sis\u00e4lt\u00f6: Perinteiset varoitukset ja listat"
+        ],
+        "opportunity_type": "aspiration",
+        "priority_score": 4
+      },
+      {
+        "id": "tension_03",
+        "description": "El\u00e4m\u00e4nturva-tunne vs. Hintalappu-realismi: Br\u00e4ndi on l\u00e4mmin, ostop\u00e4\u00e4t\u00f6s on kylm\u00e4.",
+        "evidence": [
+          "Markkinointi: Tunteikkaat filmit",
+          "K\u00e4ytt\u00e4ytyminen: Kilpailutus hinnan ja bonusten perusteella"
+        ],
+        "opportunity_type": "gap",
+        "priority_score": 3
+      }
+    ],
+    "opportunity_zones": [
+      {
+        "id": "opp_01",
+        "description": "Urbaani selviytymisopas (Prevention 2.0)",
+        "rationale": "Ennaltaehk\u00e4isyn uudelleenbr\u00e4nd\u00e4ys urbaaniin kontekstiin (s\u00e4hk\u00f6potkulaudat, tietoturva, et\u00e4ty\u00f6). Ratkaisee tension_02:n ja tension_01:n.",
+        "risk_level": "medium"
+      },
+      {
+        "id": "opp_02",
+        "description": "Inhimillinen digitaalisuus (Faces of Experts)",
+        "rationale": "Asiantuntijat kasvoillaan esiin lyhytvideoissa. Tuo 'paikallisuuden' ja 'ihmisyyden' digitaaliseen kanavaan.",
+        "risk_level": "low"
+      },
+      {
+        "id": "opp_03",
+        "description": "Positiivinen terveysviestint\u00e4",
+        "rationale": "Fokus onnettomuuksista hyvinvoinnin yll\u00e4pitoon. Hy\u00f6dynt\u00e4\u00e4 Mehil\u00e4inen-yhteisty\u00f6t\u00e4 ja erottaa kilpailijoista.",
+        "risk_level": "low"
+      }
+    ],
+    "sources": [
+      {
+        "title": "L\u00e4hiTapiola Ryhm\u00e4n vuosikertomus 2023",
+        "url": "Internal/Report",
+        "type": "report",
+        "date_accessed": "2026-01-27",
+        "relevance": "Strateginen perusta ja taloudelliset luvut"
+      },
+      {
+        "title": "L\u00e4hiTapiola Vastuullisuusraportti 2024",
+        "url": "Internal/Report",
+        "type": "report",
+        "date_accessed": "2026-01-27",
+        "relevance": "Ennaltaehk\u00e4isyn ja yhteiskuntavastuun strategia"
+      },
+      {
+        "title": "Taloustutkimus: Br\u00e4ndien arvostus 2024",
+        "url": "External/Report",
+        "type": "report",
+        "date_accessed": "2026-01-27",
+        "relevance": "Mielikuvat ja kilpailijavertailu"
+      },
+      {
+        "title": "YouTube & Social Media Audit (L\u00e4hiTapiola, If, OP, Turva)",
+        "url": "Internal/Audit",
+        "type": "social",
+        "date_accessed": "2026-01-27",
+        "relevance": "Sis\u00e4lt\u00f6strategian nykytila ja kanava-analyysi"
+      },
+      {
+        "title": "Markkinointiuutiset & Kauppalehti (Uutisarkisto)",
+        "url": "External/News",
+        "type": "news",
+        "date_accessed": "2026-01-27",
+        "relevance": "Kampanjahistoria ja johdon ulostulot"
+      }
+    ]
+  },
   "concept_briefs": [],
   "concepts": [],
   "treatment_files": [],
@@ -21,6 +232,34 @@
   "onepagers_skipped": false,
   "onepagers_error": null,
   "pitch_email": "",
-  "phase_history": [],
+  "phase_history": [
+    {
+      "phase": "validate",
+      "started_at": "2026-01-27T09:43:26.391083",
+      "completed_at": "2026-01-27T09:43:26.395070",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "check_archive",
+      "started_at": "2026-01-27T09:43:26.402636",
+      "completed_at": "2026-01-27T09:43:27.105220",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "research",
+      "started_at": "2026-01-27T09:43:27.110012",
+      "completed_at": null,
+      "success": false,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    }
+  ],
   "archive_ref": null
 }
