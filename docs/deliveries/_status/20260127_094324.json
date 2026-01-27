@@ -2,8 +2,8 @@
   "run_id": "20260127_094324",
   "company_slug": "lhitapiola",
   "created_at": "2026-01-27T09:43:24.788266",
-  "updated_at": "2026-01-27T09:58:20.673315",
-  "current_phase": "research",
+  "updated_at": "2026-01-27T09:58:22.301720",
+  "current_phase": "strategize",
   "user_input": {
     "company_name": "L\u00e4hiTapiola",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -225,7 +225,38 @@
       }
     ]
   },
-  "concept_briefs": [],
+  "concept_briefs": [
+    {
+      "slot_id": "01",
+      "slot_type": "safe_bet",
+      "assigned_tension_id": "tension_01",
+      "strategic_focus": "L\u00e4hi vs. Urbaani et\u00e4isyys: Nimi lupaa l\u00e4heisyytt\u00e4, mutta urbaani asiakas kokee fyysisen verkoston irrelevantiksi ja digin et\u00e4iseksi.",
+      "platform_focus": "youtube",
+      "format_guidance": "Focus on proven YouTube formats: documentary-style, interview series, or educational content. Episodes should be 8-15 minutes. Prioritize professional production quality and clear brand alignment. The series should have obvious rewatch and share value.",
+      "risk_profile": "low",
+      "success_hypothesis": "This concept directly addresses L\u00e4hiTapiola's top strategic priority (threat) with a proven format that minimizes execution risk while delivering measurable brand value."
+    },
+    {
+      "slot_id": "02",
+      "slot_type": "challenger",
+      "assigned_tension_id": "tension_03",
+      "strategic_focus": "El\u00e4m\u00e4nturva-tunne vs. Hintalappu-realismi: Br\u00e4ndi on l\u00e4mmin, ostop\u00e4\u00e4t\u00f6s on kylm\u00e4.",
+      "platform_focus": "tiktok",
+      "format_guidance": "Design for TikTok/Reels first: vertical format, 30-90 seconds, hook in first 3 seconds. Embrace platform-native aesthetics and trends. Consider creator collaborations. Content should feel bold and contemporary, not like traditional brand advertising.",
+      "risk_profile": "medium",
+      "success_hypothesis": "This concept enables L\u00e4hiTapiola to aggressively address their gap with bold positioning that differentiates them in the market and captures attention on high-engagement platforms."
+    },
+    {
+      "slot_id": "03",
+      "slot_type": "moonshot",
+      "assigned_tension_id": "tension_02",
+      "strategic_focus": "Ennaltaehk\u00e4isyn t\u00e4rkeys vs. Sis\u00e4ll\u00f6n tylsyys: Strategian ydin on preventio, mutta sis\u00e4lt\u00f6 on holhoavaa.",
+      "platform_focus": "cross_platform",
+      "format_guidance": "Think beyond single-platform content: interactive experiences, live events with digital extensions, user participation mechanics, or innovative cross-platform storytelling. This should feel like something the industry hasn't seen before. High production ambition is acceptable given the differentiation potential.",
+      "risk_profile": "high",
+      "success_hypothesis": "This concept unlocks an untapped opportunity for L\u00e4hiTapiola by addressing their aspiration in a way that creates cultural relevance and positions the brand as an innovator in their space."
+    }
+  ],
   "concepts": [],
   "treatment_files": [],
   "onepager_specs": [],
@@ -254,6 +285,15 @@
     {
       "phase": "research",
       "started_at": "2026-01-27T09:43:27.110012",
+      "completed_at": "2026-01-27T09:58:22.290818",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "strategize",
+      "started_at": "2026-01-27T09:58:22.296263",
       "completed_at": null,
       "success": false,
       "error_message": null,
