@@ -2,8 +2,8 @@
   "run_id": "20260127_111041",
   "company_slug": "paulig",
   "created_at": "2026-01-27T11:10:41.584837",
-  "updated_at": "2026-01-27T11:10:43.992288",
-  "current_phase": "strategize",
+  "updated_at": "2026-01-27T11:16:52.384055",
+  "current_phase": "create",
   "user_input": {
     "company_name": "Paulig",
     "user_email": "joona.kortesmaki@wbitvp.fi",
@@ -273,8 +273,341 @@
       "success_hypothesis": "This concept unlocks an untapped opportunity for Paulig by addressing their gap in a way that creates cultural relevance and positions the brand as an innovator in their space."
     }
   ],
-  "concepts": [],
-  "treatment_files": [],
+  "concepts": [
+    {
+      "id": "concept_01",
+      "title": "Maun Mestari",
+      "hook": "Dokumentaarinen kilpailusarja, jossa Suomen parhaat amat\u00f6\u00f6rikokit taistelevat Pauligin tuotekehitt\u00e4jien rinnalla luodakseen seuraavan suomalaisten suosikkiruoan \u2013 voittajaresepti p\u00e4\u00e4tyy oikeasti kaupan hyllylle.",
+      "premise": "Maun Mestari on 8-osainen dokumentaarinen kilpailusarja, jossa kuusi intohimoista kotikokkia p\u00e4\u00e4see Pauligin tuotekehityslaboratorioon oppimaan ammattilaisilta maun rakentamisen salat. Jokainen jakso seuraa kilpailijoiden matkaa raaka-aineen alkuper\u00e4lt\u00e4 valmiiseen annokseen, paljastaen samalla Pauligin vastuullisen tuotantoketjun tarinoita. Kauden voittajan resepti lanseerataan oikeana Santa Maria -tuotteena, mik\u00e4 tekee panoksista aidot ja tarjoaa katsojille syyn seurata loppuun asti.",
+      "long_form_extension": "8x45min broadcast-versio Neloselle prime time -slotiin, rinnalla Ruutu+ extended cut (8x55min) lis\u00e4materiaalilla tuotekehitysprosessista. Lis\u00e4ksi 3x21min 'Road to Maun Mestari' -esisarja, joka esittelee kilpailijat ja heid\u00e4n taustansa.",
+      "format": {
+        "series_type": "seasonal",
+        "episode_length": "45-55 minuuttia",
+        "cadence": "Viikoittain",
+        "season_length": "8 jaksoa + 3 esijaksoa"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "Nelonen + Ruutu+",
+          "rationale": "Kilpailuformaatti vaatii laajan yleis\u00f6n ja appointment viewing -logiikan, jota lineaarinen TV tarjoaa. Ruutu+ mahdollistaa syvemm\u00e4n sukelluksen vastuullisuusteemoihin.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "YouTube",
+            "rationale": "",
+            "adaptation": "8-12 minuutin 'Mestarin vinkit' -sarja, jossa tuotekehitt\u00e4j\u00e4t opettavat jaksojen avaintekniikoita. Toimii sek\u00e4 teasereina ett\u00e4 itsen\u00e4isen\u00e4 edutainment-sis\u00e4lt\u00f6n\u00e4."
+          },
+          {
+            "platform": "TikTok/Reels",
+            "rationale": "",
+            "adaptation": "60 sekunnin 'Taste Test' -klipit, joissa kilpailijat ja tuomarit reagoivat makuihin. Behind-the-scenes -materiaalia tuotekehityslabasta."
+          }
+        ],
+        "amplification": "Kilpailijoiden omat somekanavat (mikrovaikuttajat), ruokavaikuttajayhteisty\u00f6t arvosteluissa, PR-kampanja voittajatuotteen lanseeraukseen."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Alkuhaaste: kilpailijat saavat mystery box -tyylisen teht\u00e4v\u00e4n Pauligin raaka-aineilla",
+          "Oppitunti: Pauligin tuotekehitt\u00e4j\u00e4 opettaa ammattilaistekniikan",
+          "Kentt\u00e4matka: lyhyt dokumentaarinen insertio raaka-aineen alkuper\u00e4st\u00e4 (esim. chiliviljelm\u00e4, kahvitila)",
+          "Loppuarviointi: tuomaripaneeli maistaa ja antaa palautteen",
+          "Pudotus: yksi kilpailija l\u00e4htee kotiin joka toinen jakso"
+        ],
+        "variable_elements": [
+          "Teema vaihtuu jaksottain (Tex Mex, Aasia, Suomalainen comfort food, Street food jne.)",
+          "Vierailevat tuomarit (ravintoloitsijat, ruokatoimittajat, vaikuttajat)",
+          "Kentt\u00e4matkakohteet vaihtelevat (Suomi, Eurooppa, alkuper\u00e4maat)"
+        ],
+        "host_approach": "Juontajana tunnettu ruokapersoonallisuus (esim. Sikke Sumari tai Hans V\u00e4lim\u00e4ki), joka tuo l\u00e4mp\u00f6\u00e4 ja uskottavuutta. Pauligin tuotekehitt\u00e4j\u00e4t toimivat asiantuntijatuomareina."
+      },
+      "brand_integration": {
+        "philosophy": "Paulig on mahdollistaja ja asiantuntija, ei sponsori. Br\u00e4ndi n\u00e4kyy luontevasti tuotekehitysprosessin kautta, ei logojen pakkosy\u00f6tt\u00f6n\u00e4.",
+        "integration_method": "Pauligin tuotteet ovat kilpailun raaka-aineita. Tuotekehitt\u00e4j\u00e4t ovat hahmoja, eiv\u00e4t mainoslauseita. Vastuullisuus tulee esiin kentt\u00e4matkojen kautta orgaanisesti.",
+        "screen_time_balance": "75% kilpailu ja inhimilliset tarinat, 25% br\u00e4ndi ja tuotekehitys",
+        "cta_approach": "Jakson lopussa 'Kokeile kotona' -vinkki Pauligin reseptisivustolle. Kauden lopussa voittajatuotteen lanseeraus kauppoihin."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Tulikoste",
+          "description": "Kilpailijat esitell\u00e4\u00e4n ja he kohtaavat ensimm\u00e4isen haasteen: t\u00e4ydellisen chilin tasapainon l\u00f6yt\u00e4minen Santa Marian mausteilla."
+        },
+        {
+          "number": 2,
+          "title": "Pavun tie",
+          "description": "Tex Mex -jakso, jossa seurataan papujen matkaa pellolta p\u00f6yt\u00e4\u00e4n ja kilpailijat luovat oman burritoreseptin."
+        },
+        {
+          "number": 3,
+          "title": "Kahvin salaisuus",
+          "description": "Kilpailijat oppivat kahvin k\u00e4yt\u00f6n suolaisessa ruoassa ja luovat fusion-annoksen, jossa Pauligin kahvi on avainraaka-aine."
+        },
+        {
+          "number": 4,
+          "title": "Aasian kutsu",
+          "description": "Santa Marian aasialaiset maut p\u00e4\u00e4osassa \u2013 kilpailijat luovat oman wok-reseptin, kentt\u00e4matka maustetehtaalle."
+        },
+        {
+          "number": 5,
+          "title": "Kest\u00e4v\u00e4 maku",
+          "description": "Vastuullisuusjakso: kilpailijoiden tulee luoda annos, joka minimoi h\u00e4vikin ja hy\u00f6dynt\u00e4\u00e4 Pauligin vastuullisesti tuotettuja raaka-aineita."
+        },
+        {
+          "number": 6,
+          "title": "Mestarien kohtaaminen",
+          "description": "Finaali, jossa kolme viimeist\u00e4 kilpailijaa esittelee oman tuoteideansa Pauligin johtoryhm\u00e4lle \u2013 voittaja saa reseptins\u00e4 tuotantoon."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee suoraan j\u00e4nnitteen 'Vastuullisuuden Corporate Speak vs. Kuluttajan hedonismi' n\u00e4ytt\u00e4m\u00e4ll\u00e4 vastuullisuuden ihmisten ja tarinoiden kautta, ei numeroina. Tukee my\u00f6s Tex Mex -kasvua ja premiumisointia.",
+        "competitive_differentiation": "Yksik\u00e4\u00e4n kilpailija (Old El Paso, pienpaahtimot) ei tarjoa kuluttajalle mahdollisuutta p\u00e4\u00e4st\u00e4 osaksi tuotekehityst\u00e4. T\u00e4m\u00e4 on ainutlaatuinen 'skin in the game' -elementti.",
+        "audience_value_proposition": "Kilpailuviihteen j\u00e4nnitys + oppiminen + aito panos (voittajatuote kaupassa) = syy katsoa joka viikko ja \u00e4\u00e4nest\u00e4\u00e4 suosikkia."
+      },
+      "execution": {
+        "complexity": "medium",
+        "budget_tier": "premium",
+        "timeline_to_first_episode": "16-20 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Voittajatuotteen tuotantoon vieminen voi olla hitaampaa kuin markkinointilupaus",
+          "mitigation": "Tuotekehitys mukana alusta asti, realistiset tuotekategoriat (esim. mausteseos, kastike), ei kokonaisen uuden tuotelinjan lupaus."
+        },
+        {
+          "risk": "Kilpailijoiden persoonat eiv\u00e4t kanna sarjaa",
+          "mitigation": "Huolellinen casting-prosessi, jossa haetaan tarinoita ja persoonallisuuksia, ei vain kokkitaitoa. Esisarjalla rakennetaan yleis\u00f6suhde ennen p\u00e4\u00e4sarjaa."
+        },
+        {
+          "risk": "Br\u00e4ndi-integraatio tuntuu liian raskaalta",
+          "mitigation": "Selke\u00e4 sis\u00e4lt\u00f6-ensin -filosofia: tuottajatiimi priorisoi tarinan, br\u00e4nditiimi saa n\u00e4kyvyyden luontevissa kohdissa."
+        }
+      ]
+    },
+    {
+      "id": "concept_02",
+      "title": "Hack the Kitchen",
+      "hook": "TikTok-natiivi kokeilusarja, jossa Gen Z -vaikuttajat haastavat Pauligin tuotekehitt\u00e4j\u00e4t keksim\u00e4\u00e4n tuotteille k\u00e4ytt\u00f6tapoja, joita kukaan ei ole ajatellut \u2013 ja testit menev\u00e4t viraalisti pieleen tai onnistuvat spektaakkelimaisesti.",
+      "premise": "Hack the Kitchen on rosoinen, nopeatempoine kokeilusarja, jossa nuoret ruokavaikuttajat ja Pauligin tuotekehityksen 'food scientistit' kohtaavat absurdeissa haasteissa: voiko tortillasta tehd\u00e4 j\u00e4\u00e4tel\u00f6tuutin? Toimiiko kahvi marinadin pohjana? Jokainen jakso on 3-5 minuutin 'kokeilu', jossa ep\u00e4onnistumiset ovat yht\u00e4 arvokkaita kuin onnistumiset \u2013 ja parhaista syntyy oikeita reseptej\u00e4.",
+      "long_form_extension": "Kauden p\u00e4\u00e4tteeksi 2x30min 'Hack the Kitchen: Best of' -kooste MTV3:lle tai Katsomoon, jossa parhaat hackit, pahimmat floppit ja behind-the-scenes. Lis\u00e4ksi mahdollisuus 6x21min 'Hack the Kitchen: Laboratorio' -sarjaan, jossa syvennyt\u00e4\u00e4n yhteen hackiin per jakso dokumentaarisesti.",
+      "format": {
+        "series_type": "ongoing",
+        "episode_length": "3-5 minuuttia (some), 21-30 minuuttia (broadcast)",
+        "cadence": "3 kertaa viikossa (some), viikoittain (broadcast)",
+        "season_length": "24 some-jaksoa per kausi + 2 broadcast-kooste"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "TikTok",
+          "rationale": "Gen Z tavoitetaan siell\u00e4, miss\u00e4 he ovat. TikTokin algoritmi palkitsee kokeilua ja autenttisuutta \u2013 juuri sit\u00e4, mit\u00e4 Pauligilta puuttuu.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "YouTube Shorts / Instagram Reels",
+            "rationale": "",
+            "adaptation": "Sama sis\u00e4lt\u00f6 cross-postataan, mutta Instagram-versioissa enemm\u00e4n 'polished' editointia, TikTokissa raakempaa."
+          },
+          {
+            "platform": "MTV3 / Katsomo",
+            "rationale": "",
+            "adaptation": "Kooste-erikoisjaksot, joissa studiovieraat (vaikuttajat) kommentoivat parhaita hetki\u00e4 talk show -hengess\u00e4."
+          }
+        ],
+        "amplification": "Vaikuttajien omat kanavat (kumppanuudet), haastehashtag (#HackTheKitchen), duet-mahdollisuus (katsojat kokeilevat samoja hackeja)."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Haaste esitell\u00e4\u00e4n: 'Voiko t\u00e4ll\u00e4 tehd\u00e4 X?'",
+          "Vaikuttaja ja Pauligin asiantuntija kokeilevat yhdess\u00e4",
+          "Reaktiot ja maistaminen (aito, ei k\u00e4sikirjoitettu)",
+          "Tuomio: 'Hack' vai 'Flop' \u2013 molemmat ovat sis\u00e4lt\u00f6\u00e4"
+        ],
+        "variable_elements": [
+          "Vaikuttaja vaihtuu (kiert\u00e4v\u00e4 roster)",
+          "Haasteen tyyppi (makuhack, tekstuurihack, k\u00e4ytt\u00f6tarkoitushack, nopeushack)",
+          "Erikoisjaksot: 'Katsojien hackit', 'Pauligin historiallisimmat floppit'"
+        ],
+        "host_approach": "Ei yht\u00e4 juontajaa \u2013 vaikuttajat ovat veturit. Pauligin tuotekehitt\u00e4j\u00e4 on 'straight man', joka tuo uskottavuutta ja tieteen. Dynamiikka on 'hullu kaveri + vakava asiantuntija'."
+      },
+      "brand_integration": {
+        "philosophy": "Paulig on leikkikaveri, ei opettaja. Br\u00e4ndi n\u00e4kyy tuotteiden luovana k\u00e4ytt\u00f6n\u00e4, ei mainospuheena. Ep\u00e4onnistumiset ovat ok \u2013 se tekee br\u00e4ndist\u00e4 inhimillisen.",
+        "integration_method": "Tuotteet ovat kokeilujen p\u00e4\u00e4osassa, mutta fokus on 'mit\u00e4 t\u00e4ll\u00e4 voi tehd\u00e4', ei 't\u00e4m\u00e4 tuote on paras'. Tuotekehitt\u00e4jien asiantuntemus tuo uskottavuutta.",
+        "screen_time_balance": "85% kokeilu ja viihde, 15% br\u00e4ndi ja tuote",
+        "cta_approach": "Lopussa linkki reseptiin (jos hack toimi) tai haaste katsojille kokeilla itse. Ei pakkomyynti\u00e4."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Tortilla Waffle",
+          "description": "Voiko Santa Marian tortillasta tehd\u00e4 vohvelin? Vaikuttaja ja tuotekehitt\u00e4j\u00e4 testaavat vohveliraudalla."
+        },
+        {
+          "number": 2,
+          "title": "Kahvimarinaadi",
+          "description": "Pauligin kahvi lihan marinadissa \u2013 toimiiko se oikeasti vai onko se hipsterhuijausta?"
+        },
+        {
+          "number": 3,
+          "title": "Maustesokeri",
+          "description": "Chipotle-mauste makeassa j\u00e4lkiruoassa? Testataan suklaakakussa ja j\u00e4\u00e4tel\u00f6ss\u00e4."
+        },
+        {
+          "number": 4,
+          "title": "30 sekunnin ateria",
+          "description": "Voiko Pauligin tuotteilla tehd\u00e4 kokonaisen aterian alle puolessa minuutissa? Kellon kanssa kilpaa."
+        },
+        {
+          "number": 5,
+          "title": "Mummon resepti x Santa Maria",
+          "description": "Vaikuttaja tuo perheen perinnereseptin ja kokeilee, miten Tex Mex -twist muuttaa sen."
+        },
+        {
+          "number": 6,
+          "title": "Katsojien hulluimmat ehdotukset",
+          "description": "Yleis\u00f6 on l\u00e4hett\u00e4nyt hackeja \u2013 testataan kolme absurdeinta."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee suoraan 'Heritage Trap' -j\u00e4nnitteen: Paulig n\u00e4ytt\u00e4ytyy kokeilevana ja hauskana, ei j\u00e4ykk\u00e4n\u00e4 instituutiona. Samalla 'Kiillotettu vs. Rosoinen' -j\u00e4nnite ratkeaa \u2013 t\u00e4m\u00e4 on tarkoituksella ep\u00e4t\u00e4ydellist\u00e4.",
+        "competitive_differentiation": "Old El Paso tekee perhereseptej\u00e4, pienpaahtimot tekev\u00e4t vakavaa n\u00f6rtteily\u00e4. Kukaan ei tee ruokakokeiluviihdett\u00e4, jossa ep\u00e4onnistuminen on osa formaattia.",
+        "audience_value_proposition": "Viihdearvoa kolmella tasolla: 1) j\u00e4nnitys (toimiiko?), 2) huumori (kun ei toimi), 3) inspiraatio (kun toimii \u2013 kokeilen itsekin)."
+      },
+      "execution": {
+        "complexity": "low",
+        "budget_tier": "budget",
+        "timeline_to_first_episode": "4-6 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Br\u00e4ndi ei uskalla n\u00e4ytt\u00e4\u00e4 ep\u00e4onnistumisia",
+          "mitigation": "Selke\u00e4 brief: floppit ovat sis\u00e4lt\u00f6\u00e4, eiv\u00e4t PR-kriisej\u00e4. Tuotekehitt\u00e4j\u00e4n l\u00e4sn\u00e4olo legitimoi kokeilut \u2013 'tied\u00e4mme, ettei t\u00e4m\u00e4 ole tarkoitettu t\u00e4h\u00e4n, mutta kokeillaan'."
+        },
+        {
+          "risk": "Vaikuttajayhteisty\u00f6t eiv\u00e4t tunnu aidoilta",
+          "mitigation": "Valitaan vaikuttajia, jotka oikeasti kokeilevat ruokaa (ei lifestyle-vaikuttajia). Annetaan heille luova vapaus, ei k\u00e4sikirjoitusta."
+        },
+        {
+          "risk": "Sis\u00e4lt\u00f6 hukkuu TikTokin massaan",
+          "mitigation": "Jatkuva optimointi: seurataan mik\u00e4 toimii, iteroidaan nopeasti. Vaikuttajien omat yleis\u00f6t tuovat alkupotkun."
+        }
+      ]
+    },
+    {
+      "id": "concept_03",
+      "title": "Maku Ilman Rajoja",
+      "hook": "Kunnianhimoinen dokumenttisarja, jossa suomalainen huippukokki matkustaa Pauligin alkuper\u00e4maiden viljelij\u00f6iden luo ja luo jokaisesta matkasta annoksen, joka yhdist\u00e4\u00e4 paikallisen perinteen ja suomalaisen ruokakulttuurin \u2013 vastuullisuus n\u00e4kyy, kun se maistuu.",
+      "premise": "Maku Ilman Rajoja on 6-osainen premium-dokumenttisarja, jossa tunnettu suomalainen kokki (esim. Henri Al\u00e9n tai Kari Aihinen) matkustaa Pauligin raaka-aineiden alkuper\u00e4maille \u2013 Guatemalan kahvitiloille, Meksikon chiliviljelmille, Thaimaan maustepelloille. Jokaisessa jaksossa kokki asuu paikallisen viljelij\u00e4perheen luona, oppii heid\u00e4n perinteens\u00e4 ja luo annoksen, joka kunnioittaa molempia kulttuureja. Vastuullisuus ei ole saarnausta vaan ihmisten tarinoita \u2013 ja jokainen jakso p\u00e4\u00e4ttyy annokseen, jonka resepti jaetaan katsojille.",
+      "long_form_extension": "6x52min elokuvamainen dokumenttisarja Ruutu+:aan ja Yle Areenaan (yhteistuotanto). Kansainv\u00e4linen myynti WBITVP:n kautta (Netflix, Prime Video). Lis\u00e4ksi 6x21min 'tiivistetty' broadcast-versio Neloselle.",
+      "format": {
+        "series_type": "limited",
+        "episode_length": "52 minuuttia (VOD), 21 minuuttia (broadcast)",
+        "cadence": "Viikoittain",
+        "season_length": "6 jaksoa"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "Ruutu+ / Yle Areena",
+          "rationale": "Premium-dokumentti vaatii alustan, jossa katsojat ovat valmiita sitoutumaan pidemp\u00e4\u00e4n sis\u00e4lt\u00f6\u00f6n. Yle-yhteisty\u00f6 tuo uskottavuutta ja laajempaa tavoittavuutta.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "YouTube",
+            "rationale": "",
+            "adaptation": "10-15 minuutin 'Viljelij\u00e4n tarina' -insertiot, jotka toimivat itsen\u00e4isin\u00e4 dokumentteina ja teasereina p\u00e4\u00e4sarjalle."
+          },
+          {
+            "platform": "Instagram / TikTok",
+            "rationale": "",
+            "adaptation": "60-90 sekunnin 'Maku hetkess\u00e4' -klipit: visuaalisesti upeat hetket matkoilta, ruoanlaittoa, kohtaamisia. Vahva visuaalinen identiteetti."
+          }
+        ],
+        "amplification": "PR-kampanja kokin matkasta, vaikuttajayhteisty\u00f6t reseptien kokeilussa, mahdollinen pop-up-ravintolatapahtuma Akun Tehtaalla sarjan lanseerauksen yhteydess\u00e4."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Matka alkuper\u00e4maahan ja kohtaaminen viljelij\u00e4perheen kanssa",
+          "Oppitunti: paikallinen perinne ja raaka-aineen tarina",
+          "Haaste: kokki luo annoksen, joka yhdist\u00e4\u00e4 kulttuurit",
+          "Jakson lopussa: annos valmistuu, resepti jaetaan"
+        ],
+        "variable_elements": [
+          "Maa ja kulttuuri vaihtuu joka jaksossa",
+          "Raaka-aine ja tuoteryhm\u00e4 (kahvi, mausteet, Tex Mex)",
+          "Paikalliset vieraat ja perinteet"
+        ],
+        "host_approach": "Yksi p\u00e4\u00e4henkil\u00f6 \u2013 tunnettu suomalainen kokki, joka on aidosti kiinnostunut kulttuureista ja ihmisist\u00e4. Ei juontaja-roolia, vaan matkaaja ja oppija."
+      },
+      "brand_integration": {
+        "philosophy": "Paulig on mahdollistaja \u2013 br\u00e4ndi vie kokin viljelij\u00f6iden luo ja n\u00e4ytt\u00e4\u00e4, mist\u00e4 maut tulevat. T\u00e4m\u00e4 on vastuullisuusviestint\u00e4\u00e4, joka tuntuu matkalta, ei raportilta.",
+        "integration_method": "Pauligin tuotantoketju on tarinan punainen lanka: mist\u00e4 raaka-aineet tulevat, ketk\u00e4 ne tuottavat, miten vastuullisuus n\u00e4kyy arjessa. Tuotteet n\u00e4kyv\u00e4t luontevasti kokin k\u00e4siss\u00e4.",
+        "screen_time_balance": "70% ihmistarinat ja kulttuuri, 20% ruoanlaitto ja annokset, 10% br\u00e4ndi ja tuotantoketju",
+        "cta_approach": "Jakson lopussa QR-koodi tai linkki reseptiin ja lis\u00e4tietoon viljelij\u00f6ist\u00e4. Ei myyntipuhetta."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Guatemalan kahvivuoret",
+          "description": "Kokki matkustaa Guatemalan yl\u00e4nk\u00f6jen kahvitilalle, oppii perinteisen paahtomenetelm\u00e4n ja luo annoksen, jossa kahvi on yll\u00e4tt\u00e4v\u00e4 p\u00e4\u00e4raaka-aine."
+        },
+        {
+          "number": 2,
+          "title": "Meksikon chilipellot",
+          "description": "Oaxacan chiliviljelmill\u00e4 kokki kohtaa kolmen sukupolven perheyhti\u00f6n ja luo mole-inspiroituneen suomalaisen version."
+        },
+        {
+          "number": 3,
+          "title": "Thaimaan maustepuutarhat",
+          "description": "Pohjois-Thaimaassa kokki oppii lemongrass- ja galangal-viljelyn ja yhdist\u00e4\u00e4 aasialaiset maut suomalaiseen kalaan."
+        },
+        {
+          "number": 4,
+          "title": "Intian curryreitti",
+          "description": "Keralan maustepelloilla kokki seuraa currymausteiden matkaa ja luo kasvisannoksen, joka kunnioittaa molempia perinteit\u00e4."
+        },
+        {
+          "number": 5,
+          "title": "Espanjan paprikalaaksot",
+          "description": "La Veran savupaprika-alueella kokki oppii perinteisen kuivausmenetelm\u00e4n ja tuo savun suomalaiseen arkiruokaan."
+        },
+        {
+          "number": 6,
+          "title": "Takaisin kotiin",
+          "description": "Finaalijaksossa kokki palaa Suomeen ja j\u00e4rjest\u00e4\u00e4 illallisen, jossa kaikki matkan annokset yhdistyv\u00e4t \u2013 vieraina viljelij\u00f6it\u00e4 Suomeen kutsuttuna."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee suoraan 'Vastuullisuuden Corporate Speak vs. Hedonismi' -j\u00e4nnitteen: vastuullisuus EI ole numeroita ja raportteja, vaan ihmisi\u00e4, tarinoita ja makuja. Tukee kansainv\u00e4list\u00e4 kasvua ja premiumisointia.",
+        "competitive_differentiation": "Kukaan kilpailija ei vie katsojaa oikeasti raaka-aineiden l\u00e4hteille t\u00e4ll\u00e4 tasolla. T\u00e4m\u00e4 on 'Chef's Table' Pauligin tuotantoketjulle \u2013 kategoriassa ennenn\u00e4kem\u00e4t\u00f6n.",
+        "audience_value_proposition": "Visuaalisesti upea, emotionaalisesti koskettava, inspiroiva. Katsoja oppii, matkustaa ja haluaa kokeilla reseptej\u00e4. T\u00e4m\u00e4 on sis\u00e4lt\u00f6\u00e4, jonka ihmiset suosittelevat toisilleen."
+      },
+      "execution": {
+        "complexity": "high",
+        "budget_tier": "premium",
+        "timeline_to_first_episode": "24-30 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Kansainv\u00e4liset kuvaukset ovat kalliita ja logistisesti haastavia",
+          "mitigation": "WBITVP:n kansainv\u00e4linen verkosto ja yhteistuotantomahdollisuudet. Pauligin olemassa olevat suhteet alkuper\u00e4maiden tuottajiin helpottavat p\u00e4\u00e4sy\u00e4."
+        },
+        {
+          "risk": "Vastuullisuusviestint\u00e4 tuntuu silti saarnaamiselta",
+          "mitigation": "Tiukka 'show, don't tell' -periaate: ei tilastoja, ei ymp\u00e4rist\u00f6raportteja kameralle. Tarinat kertovat, ei voice-over."
+        },
+        {
+          "risk": "Kokin valinta ei resonoi laajaan yleis\u00f6\u00f6n",
+          "mitigation": "Casting-prosessi, jossa testataan kokin kyky kertoa tarinoita ja luoda yhteytt\u00e4 ihmisiin, ei vain kokkitaito. Harkitaan my\u00f6s duoa (kokki + toimittaja/juontaja)."
+        }
+      ]
+    }
+  ],
+  "treatment_files": [
+    "/opt/render/project/src/runs/paulig/TREATMENTS/paulig_TREATMENT_01_20260127_111652.md",
+    "/opt/render/project/src/runs/paulig/TREATMENTS/paulig_TREATMENT_02_20260127_111652.md",
+    "/opt/render/project/src/runs/paulig/TREATMENTS/paulig_TREATMENT_03_20260127_111652.md"
+  ],
   "onepager_specs": [],
   "onepagers_skipped": false,
   "onepagers_error": null,
@@ -301,6 +634,15 @@
     {
       "phase": "strategize",
       "started_at": "2026-01-27T11:10:43.986953",
+      "completed_at": "2026-01-27T11:10:45.612587",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "create",
+      "started_at": "2026-01-27T11:10:45.617950",
       "completed_at": null,
       "success": false,
       "error_message": null,

@@ -16,9 +16,9 @@
 - [Concept 03](concepts/concept_03.md)
 
 ## Treatments
-- [paulig_TREATMENT_01_20260127_105624.md](treatments/paulig_TREATMENT_01_20260127_105624.md)
-- [paulig_TREATMENT_02_20260127_105624.md](treatments/paulig_TREATMENT_02_20260127_105624.md)
-- [paulig_TREATMENT_03_20260127_105624.md](treatments/paulig_TREATMENT_03_20260127_105624.md)
+- [paulig_TREATMENT_01_20260127_111652.md](treatments/paulig_TREATMENT_01_20260127_111652.md)
+- [paulig_TREATMENT_02_20260127_111652.md](treatments/paulig_TREATMENT_02_20260127_111652.md)
+- [paulig_TREATMENT_03_20260127_111652.md](treatments/paulig_TREATMENT_03_20260127_111652.md)
 
 ## One-Pagers
 - [One-Pager 01](onepagers/concept_01.png)
