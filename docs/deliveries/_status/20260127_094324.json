@@ -2,8 +2,8 @@
   "run_id": "20260127_094324",
   "company_slug": "lhitapiola",
   "created_at": "2026-01-27T09:43:24.788266",
-  "updated_at": "2026-01-27T09:58:22.301720",
-  "current_phase": "strategize",
+  "updated_at": "2026-01-27T10:04:39.643613",
+  "current_phase": "create",
   "user_input": {
     "company_name": "L\u00e4hiTapiola",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -257,8 +257,330 @@
       "success_hypothesis": "This concept unlocks an untapped opportunity for L\u00e4hiTapiola by addressing their aspiration in a way that creates cultural relevance and positions the brand as an innovator in their space."
     }
   ],
-  "concepts": [],
-  "treatment_files": [],
+  "concepts": [
+    {
+      "id": "concept_01",
+      "title": "El\u00e4m\u00e4n K\u00e4\u00e4nnekohdat",
+      "hook": "Dokumentaarinen draamasarja, jossa suomalaiset kertovat el\u00e4m\u00e4ns\u00e4 suurimmista k\u00e4\u00e4nnekohdista \u2013 ja siit\u00e4, miten oikea turvaverkko muutti kaiken.",
+      "premise": "Jokaisessa jaksossa seurataan yht\u00e4 suomalaista, jonka el\u00e4m\u00e4 muuttui \u00e4killisesti: sairaus, onnettomuus, ty\u00f6paikan menetys tai perheenlis\u00e4ys. Dokumentaarisin keinoin kerrotaan tarina ennen ja j\u00e4lkeen \u2013 miten valmistautuminen (tai sen puute) vaikutti selviytymiseen. L\u00e4hiTapiolan asiantuntijat tuovat jokaiseen jaksoon konkreettisen 'mit\u00e4 olisi voinut tehd\u00e4 toisin' -n\u00e4k\u00f6kulman, mutta p\u00e4\u00e4osassa on aina tavallinen ihminen ja h\u00e4nen tarinansa.",
+      "long_form_extension": "8-osainen dokumenttisarja Neloselle ja Ruutu+:aan (42 min/jakso), josta leikataan my\u00f6s 6x12 min YouTube-versiot ja 60 sek TikTok-teasereita jokaisesta jaksosta.",
+      "format": {
+        "series_type": "limited",
+        "episode_length": "12 minuuttia (YouTube) / 42 minuuttia (TV)",
+        "cadence": "Viikoittain",
+        "season_length": "8 jaksoa"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "Nelonen + Ruutu+",
+          "rationale": "Dokumenttisarja vaatii pitk\u00e4muotoisen kerronnan, ja Nelosen katsojakunta osuu L\u00e4hiTapiolan ydinkohderyhm\u00e4\u00e4n (perheelliset, omistusasujat). Ruutu+ mahdollistaa binge-katselun.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "YouTube",
+            "rationale": "",
+            "adaptation": "Lyhennetyt 12 min jaksot, jotka toimivat itsen\u00e4isin\u00e4 tarinoina ja ohjaavat koko sarjan pariin."
+          },
+          {
+            "platform": "TikTok / Instagram Reels",
+            "rationale": "",
+            "adaptation": "60 sek emotionaaliset teaserhookit: 'T\u00e4m\u00e4 hetki muutti kaiken' -tyyppiset clipit, jotka p\u00e4\u00e4ttyv\u00e4t cliffhangeriin."
+          }
+        ],
+        "amplification": "PR-kampanja p\u00e4\u00e4henkil\u00f6iden tarinoilla iltap\u00e4iv\u00e4lehdiss\u00e4, podcast-haastattelut, L\u00e4hiTapiolan omat kanavat ja uutiskirje."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Jakso alkaa aina 'tavallisesta p\u00e4iv\u00e4st\u00e4' -kohtauksella, joka katkeaa \u00e4killisesti",
+          "L\u00e4hiTapiolan asiantuntijan 'Mit\u00e4 kannattaa tiet\u00e4\u00e4' -segmentti jakson lopussa",
+          "Visuaalinen aikajana, joka n\u00e4ytt\u00e4\u00e4 tapahtumien kulun"
+        ],
+        "variable_elements": [
+          "P\u00e4\u00e4henkil\u00f6n el\u00e4m\u00e4ntilanne ja k\u00e4\u00e4nnekohdan tyyppi vaihtelee (terveys, omaisuus, perhe, ty\u00f6)",
+          "Eri ik\u00e4ryhm\u00e4t ja el\u00e4m\u00e4nvaiheet (nuori aikuinen, ruuhkavuodet, el\u00e4keik\u00e4)",
+          "Maantieteellinen vaihtelu \u2013 urbaani vs. maaseutu"
+        ],
+        "host_approach": "Ei perinteist\u00e4 juontajaa. Kertoja\u00e4\u00e4ni (tunnettu n\u00e4yttelij\u00e4, esim. Krista Kosonen) kuljettaa tarinaa l\u00e4mpim\u00e4sti ja kunnioittavasti."
+      },
+      "brand_integration": {
+        "philosophy": "L\u00e4hiTapiola on l\u00e4sn\u00e4 asiantuntijana ja mahdollistajana, ei pelastajana. Br\u00e4ndi ei 'myy' vaan 'valaisee'.",
+        "integration_method": "Jakson lopun 'El\u00e4m\u00e4nturva-hetki' -segmentti, jossa asiantuntija antaa konkreettisen neuvon. Ei tuotesijoittelua tarinassa.",
+        "screen_time_balance": "85% tarina, 15% br\u00e4ndi (asiantuntijaosuus + loppukortti)",
+        "cta_approach": "Jakson lopussa rauhallinen ohjaus L\u00e4hiTapiolan 'El\u00e4m\u00e4nturva-testi' -verkkoty\u00f6kaluun, jossa katsoja voi arvioida oman tilanteensa."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Syd\u00e4n pys\u00e4htyi Stockmannilla",
+          "description": "40-vuotias is\u00e4 saa syd\u00e4nkohtauksen keskell\u00e4 arkip\u00e4iv\u00e4\u00e4 \u2013 ohikulkijan elvytystaidot ja nopea hoitoonp\u00e4\u00e4sy pelastivat h\u00e4net."
+        },
+        {
+          "number": 2,
+          "title": "Tulipalo vei kaiken",
+          "description": "Nuoren pariskunnan unelmakoti tuhoutuu y\u00f6ss\u00e4 \u2013 miten kotivakuutus ja kriisiapu auttoivat rakentamaan el\u00e4m\u00e4n uudelleen."
+        },
+        {
+          "number": 3,
+          "title": "Yritt\u00e4j\u00e4n konkurssi",
+          "description": "Pienyritt\u00e4j\u00e4 menett\u00e4\u00e4 kaiken pandemian aikana, mutta oikea taloussuunnitelma auttoi h\u00e4net takaisin jaloilleen."
+        },
+        {
+          "number": 4,
+          "title": "Kolmoset yll\u00e4tt\u00e4en",
+          "description": "Yksinhuoltaja\u00e4iti saa kuulla odottavansa kolmosia \u2013 taloudellinen ja henkinen valmistautuminen isoon muutokseen."
+        },
+        {
+          "number": 5,
+          "title": "Py\u00f6r\u00e4onnettomuus Mannerheimintiell\u00e4",
+          "description": "Nuori ammattilainen loukkaantuu vakavasti s\u00e4hk\u00f6potkulautaonnettomuudessa \u2013 pitk\u00e4 kuntoutus ja uran uudelleenarviointi."
+        },
+        {
+          "number": 6,
+          "title": "Puolison \u00e4killinen kuolema",
+          "description": "El\u00e4keik\u00e4inen nainen menett\u00e4\u00e4 miehens\u00e4 yll\u00e4tt\u00e4en \u2013 miten talousasiat ja arjen selviytyminen j\u00e4rjestyiv\u00e4t."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee j\u00e4nnitteen 'El\u00e4m\u00e4nturva-tunne vs. Hintalappu-realismi' tekem\u00e4ll\u00e4 turvan arvosta konkreettisen ja emotionaalisen. Katsoja n\u00e4kee, mit\u00e4 'El\u00e4m\u00e4nturva' oikeasti tarkoittaa kriisiss\u00e4.",
+        "competitive_differentiation": "If ja OP eiv\u00e4t tee pitk\u00e4muotoista dokumentaarista sis\u00e4lt\u00f6\u00e4. T\u00e4m\u00e4 positioi L\u00e4hiTapiolan inhimilliseksi kumppaniksi, ei vain palveluntarjoajaksi.",
+        "audience_value_proposition": "Aidot tarinat koskettavat ja her\u00e4tt\u00e4v\u00e4t samaistumista. Katsoja miettii omaa tilannettaan: 'Ent\u00e4 jos minulle k\u00e4visi n\u00e4in?'"
+      },
+      "execution": {
+        "complexity": "medium",
+        "budget_tier": "mid",
+        "timeline_to_first_episode": "12-14 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "P\u00e4\u00e4henkil\u00f6iden l\u00f6yt\u00e4minen ja heid\u00e4n suostumuksensa voi olla haastavaa arkojen aiheiden vuoksi.",
+          "mitigation": "Yhteisty\u00f6 L\u00e4hiTapiolan asiakaspalvelun kanssa, joka voi tunnistaa sopivia tarinoita. Casting-prosessi aloitetaan varhain."
+        },
+        {
+          "risk": "Sis\u00e4lt\u00f6 voi tuntua liian raskaalta tai ahdistavalta.",
+          "mitigation": "Jokainen jakso p\u00e4\u00e4ttyy toiveikkaaseen 'selviytymis'-kaareen ja konkreettiseen neuvoon. S\u00e4vy on l\u00e4mmin, ei pelotteleva."
+        }
+      ]
+    },
+    {
+      "id": "concept_02",
+      "title": "Urbaani H\u00e4t\u00e4vara",
+      "hook": "Nopeatempoinen reality-komediasarja, jossa tunnetut somevaikuttajat testataan urbaaneissa 'selviytymistilanteissa' \u2013 ja paljastuu, kuinka huonosti me oikeasti osaamme hoitaa arjen kriisej\u00e4.",
+      "premise": "Jokaisessa jaksossa kaksi tunnettua vaikuttajaa kohtaa yll\u00e4tt\u00e4v\u00e4n urbaanin h\u00e4t\u00e4tilanteen: lukittu ulos k\u00e4mp\u00e4st\u00e4, renkaan vaihto moottoritiell\u00e4, vesivuoto, lasten ensiapu tai s\u00e4hk\u00f6katko. Heid\u00e4n on selvitt\u00e4v\u00e4 tilanteesta ilman netti\u00e4 tai puhelinta \u2013 vain omat taitonsa ja L\u00e4hiTapiolan asiantuntijan et\u00e4ohjaus radioyhteyden kautta. Viihteellinen, nopea ja opettavainen.",
+      "long_form_extension": "6-osainen reality-sarja MTV3:lle ja Katsomoon (30 min/jakso). Jokaisesta jaksosta leikataan 3-5 TikTok-clippua (30-90 sek) ja yksi YouTube Shorts -kooste.",
+      "format": {
+        "series_type": "seasonal",
+        "episode_length": "30 minuuttia (TV) / 60-90 sekuntia (TikTok)",
+        "cadence": "Viikoittain (TV), p\u00e4ivitt\u00e4in (some-clippit jakson ymp\u00e4rill\u00e4)",
+        "season_length": "6 jaksoa"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "MTV3 + Katsomo",
+          "rationale": "Reality-viihde toimii parhaiten TV:ss\u00e4, ja MTV3:n katsojakunta arvostaa kevytt\u00e4, viihdytt\u00e4v\u00e4\u00e4 sis\u00e4lt\u00f6\u00e4. Katsomo mahdollistaa tavoittavuuden nuoremmissa.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "TikTok",
+            "rationale": "",
+            "adaptation": "Parhaat 'fail'-hetket ja yll\u00e4tysreaktiot 30-90 sek pystyvideona. Hookina vaikuttajan kasvo ja 'T\u00e4m\u00e4 meni pieleen' -tyylinen avaus."
+          },
+          {
+            "platform": "Instagram Reels",
+            "rationale": "",
+            "adaptation": "Behind-the-scenes ja vaikuttajien omat reaktiovideot. Ristiinpostaus vaikuttajien omille tileille."
+          }
+        ],
+        "amplification": "Vaikuttajien omat kanavat (miljoonia seuraajia), L\u00e4hiTapiolan some, PR-nostot iltap\u00e4iv\u00e4lehdiss\u00e4 ('Katso, kun [vaikuttaja] ep\u00e4onnistuu t\u00e4ysin')."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Jakso alkaa 'normaali p\u00e4iv\u00e4' -kohtauksella, joka katkeaa \u00e4killiseen h\u00e4t\u00e4tilanteeseen",
+          "Vaikuttajat eiv\u00e4t tied\u00e4 etuk\u00e4teen, mik\u00e4 tilanne on",
+          "L\u00e4hiTapiolan asiantuntija ohjaa radioyhteyden kautta, mutta ei saa tehd\u00e4 heid\u00e4n puolestaan",
+          "Jakson lopussa 'El\u00e4m\u00e4nturva-tietoisku': mit\u00e4 jokaisen pit\u00e4isi osata"
+        ],
+        "variable_elements": [
+          "H\u00e4t\u00e4tilanteen tyyppi vaihtelee (liikenne, koti, terveys, talous)",
+          "Vaikuttajapari vaihtuu joka jaksossa",
+          "Urbaani ymp\u00e4rist\u00f6 vaihtelee (kerrostalo, metro, toimisto, kauppakeskus)"
+        ],
+        "host_approach": "Ei perinteist\u00e4 juontajaa studiossa. L\u00e4hiTapiolan asiantuntija toimii '\u00e4\u00e4nen\u00e4 korvassa' ja jakson lopussa n\u00e4kyy kasvoilla antamassa tiivistyksen."
+      },
+      "brand_integration": {
+        "philosophy": "L\u00e4hiTapiola on 'turvallinen \u00e4\u00e4ni kaaoksessa' \u2013 asiantuntija, joka auttaa, mutta ei pelasta. Br\u00e4ndi n\u00e4kyy osaamisena, ei logona.",
+        "integration_method": "Asiantuntija on l\u00e4sn\u00e4 koko jakson ajan radioyhteyden kautta. Lopun tietoisku on br\u00e4nd\u00e4tty 'El\u00e4m\u00e4nturva-hetki'.",
+        "screen_time_balance": "75% viihdett\u00e4 (vaikuttajien sekoilu), 25% br\u00e4ndi (asiantuntija + tietoisku)",
+        "cta_approach": "Jakson lopussa kehotus testata omat taidot L\u00e4hiTapiolan 'Urbaani H\u00e4t\u00e4vara -testiss\u00e4' verkossa."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Lukittu ulos -10 asteessa",
+          "description": "Vaikuttajapari huomaa olevansa lukittuna ulos kerrostalostaan keskell\u00e4 talvea \u2013 miten selvit\u00e4 ilman puhelinta?"
+        },
+        {
+          "number": 2,
+          "title": "Renkaan vaihto Keh\u00e4 I:ll\u00e4",
+          "description": "S\u00e4hk\u00f6auton rengas puhkeaa ruuhkassa \u2013 osaako kukaan en\u00e4\u00e4 vaihtaa renkaan?"
+        },
+        {
+          "number": 3,
+          "title": "Vesivuoto vuokrak\u00e4mp\u00e4ss\u00e4",
+          "description": "Vesi suihkuaa katosta \u2013 miten pys\u00e4ytt\u00e4\u00e4 vuoto ja kenelle soittaa?"
+        },
+        {
+          "number": 4,
+          "title": "Lapsi loukkaa itsens\u00e4 leikkipuistossa",
+          "description": "Simuloitu tilanne: lapsi kaatuu ja ly\u00f6 p\u00e4\u00e4ns\u00e4 \u2013 osaako vaikuttaja ensiavun?"
+        },
+        {
+          "number": 5,
+          "title": "S\u00e4hk\u00f6katko kotitoimistolla",
+          "description": "Kaikki laitteet sammuvat kesken t\u00e4rke\u00e4n et\u00e4palaverin \u2013 miten pelastaa ty\u00f6p\u00e4iv\u00e4?"
+        },
+        {
+          "number": 6,
+          "title": "Lompakko varastetaan metrossa",
+          "description": "Vaikuttaja huomaa lompakkonsa kadonneen \u2013 mit\u00e4 tehd\u00e4 ensimm\u00e4iseksi?"
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee j\u00e4nnitteen 'Ennaltaehk\u00e4isyn t\u00e4rkeys vs. Sis\u00e4ll\u00f6n tylsyys' tekem\u00e4ll\u00e4 preventiosta viihdett\u00e4. Opettaa huomaamatta.",
+        "competitive_differentiation": "Kilpailijat eiv\u00e4t uskalla tehd\u00e4 kevytt\u00e4 reality-viihdett\u00e4. T\u00e4m\u00e4 osoittaa, ett\u00e4 L\u00e4hiTapiola ymm\u00e4rt\u00e4\u00e4 urbaania arkea ja osaa nauraa itselleen.",
+        "audience_value_proposition": "Tunnetut kasvot + nolot tilanteet + hy\u00f6dyllinen tieto = jaettavaa sis\u00e4lt\u00f6\u00e4. Katsoja miettii: 'Osaisinko min\u00e4?'"
+      },
+      "execution": {
+        "complexity": "medium",
+        "budget_tier": "mid",
+        "timeline_to_first_episode": "10-12 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Vaikuttajat voivat kokea tilanteen n\u00f6yryytt\u00e4v\u00e4n\u00e4, mik\u00e4 voi vaikuttaa heid\u00e4n halukkuuteensa osallistua.",
+          "mitigation": "Valitaan vaikuttajia, jotka tunnetaan itseironisesta tyylist\u00e4\u00e4n (esim. Roni B\u00e4ck, Mmiisas). Sopimuksissa varmistetaan, ett\u00e4 he n\u00e4kev\u00e4t materiaalin ennen julkaisua."
+        },
+        {
+          "risk": "Turvallisuustilanteiden simulointi voi menn\u00e4 pieleen tai tuntua teenn\u00e4iselt\u00e4.",
+          "mitigation": "K\u00e4ytet\u00e4\u00e4n ammattistunttikoordinaattoreita ja varmistetaan, ett\u00e4 tilanteet ovat aitoja mutta turvallisia. Ei liioiteltuja vaaratilanteita."
+        }
+      ]
+    },
+    {
+      "id": "concept_03",
+      "title": "24 Tuntia Turvassa",
+      "hook": "Kunnianhimoinen cross-platform-tapahtuma, jossa julkkisperhe el\u00e4\u00e4 24 tuntia live-l\u00e4hetyksess\u00e4 kohdaten sarjan yll\u00e4tt\u00e4vi\u00e4 kriisej\u00e4 \u2013 ja koko Suomi seuraa ja \u00e4\u00e4nest\u00e4\u00e4, miten heid\u00e4n pit\u00e4isi toimia.",
+      "premise": "Tunnettu suomalainen perhe (esim. Sillanp\u00e4\u00e4t, Kanerva-Pulkkiset) muuttaa 24 tunniksi lavastekotiin, jossa he kohtaavat yll\u00e4tt\u00e4vi\u00e4 kriisitilanteita: s\u00e4hk\u00f6katkos, vesivuoto, lapsen sairastuminen, murtovaras, auton hajoaminen. Katsojat seuraavat liven\u00e4 ja \u00e4\u00e4nest\u00e4v\u00e4t, mit\u00e4 perheen pit\u00e4isi tehd\u00e4. L\u00e4hiTapiolan asiantuntijat kommentoivat studiossa ja arvioivat perheen (ja yleis\u00f6n) ratkaisuja. Tapahtuma huipentuu live-finaalil\u00e4hetykseen, mutta sis\u00e4lt\u00f6 el\u00e4\u00e4 viikkoja somessa.",
+      "long_form_extension": "24h live-stream Ruutu+:ssa + 2h prime time -koostel\u00e4hetys Nelosella. Tapahtumasta leikataan 8-osainen 'Behind the Chaos' -dokumenttisarja (25 min/jakso) Ruutu+:aan ja YouTube-kansioon.",
+      "format": {
+        "series_type": "event",
+        "episode_length": "24h live + 2h TV-kooste + 8x25 min j\u00e4lkisarja",
+        "cadence": "Kertaluonteinen tapahtuma, j\u00e4lkisarja viikoittain",
+        "season_length": "1 tapahtuma + 8 j\u00e4lkijaksoa"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "Ruutu+ (live) + Nelonen (kooste)",
+          "rationale": "Live-tapahtuma vaatii streaming-alustan, ja Nelosen prime time -kooste tuo massat. Yhdistelm\u00e4 maksimoi sek\u00e4 sitoutumisen ett\u00e4 tavoittavuuden.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "TikTok / Instagram Live",
+            "rationale": "",
+            "adaptation": "Reaaliaikaiset highlight-clippit ja 'Mit\u00e4 tapahtuu nyt?' -p\u00e4ivitykset. Katsojat voivat \u00e4\u00e4nest\u00e4\u00e4 somessa ja n\u00e4hd\u00e4 tulokset liven\u00e4."
+          },
+          {
+            "platform": "YouTube",
+            "rationale": "",
+            "adaptation": "J\u00e4lkisarja 'Behind the Chaos' ja parhaat palat -koosteet. Pitk\u00e4 h\u00e4nt\u00e4 hakukoneissa."
+          }
+        ],
+        "amplification": "Massiivinen PR-kampanja ennen tapahtumaa, julkkisperheen omat kanavat, live-twiittaus ja iltap\u00e4iv\u00e4lehtien reaaliaikaiset uutisoinnit."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Joka tunti uusi kriisitilanne, joka keskeytet\u00e4\u00e4n '\u00e4\u00e4nestysikkunalla'",
+          "L\u00e4hiTapiolan asiantuntijapaneeli studiossa kommentoi ja antaa pisteit\u00e4",
+          "Reaaliaikainen 'El\u00e4m\u00e4nturva-mittari' n\u00e4ytt\u00e4\u00e4, kuinka hyvin perhe selviytyy"
+        ],
+        "variable_elements": [
+          "Kriisitilanteet vaihtelevat (kodin, terveyden, talouden, turvallisuuden teemat)",
+          "Yleis\u00f6n \u00e4\u00e4nestystulokset muuttavat tapahtumien kulkua",
+          "Yll\u00e4tysvieras (esim. pelastaja, poliisi, l\u00e4\u00e4k\u00e4ri) ilmestyy auttamaan tietyiss\u00e4 tilanteissa"
+        ],
+        "host_approach": "Studiossa kokenut juontajapari (esim. Mikko Leppilampi + Jenni P\u00e4\u00e4skysaari) ohjaa l\u00e4hetyst\u00e4 ja haastattelee asiantuntijoita. Perhe toimii 'kotona' ilman juontajaa."
+      },
+      "brand_integration": {
+        "philosophy": "L\u00e4hiTapiola on tapahtuman mahdollistaja ja asiantuntija, ei pelkk\u00e4 sponsori. Br\u00e4ndi n\u00e4kyy osaamisena ja huolenpitona.",
+        "integration_method": "Asiantuntijapaneeli on L\u00e4hiTapiolan edustajia. 'El\u00e4m\u00e4nturva-mittari' on br\u00e4nd\u00e4tty elementti. Jokaisen kriisin j\u00e4lkeen lyhyt 'N\u00e4in L\u00e4hiTapiola auttaisi' -segmentti.",
+        "screen_time_balance": "70% viihde ja draama, 30% br\u00e4ndi (asiantuntijat + mittari + segmentit)",
+        "cta_approach": "Tapahtuman aikana ja j\u00e4lkeen ohjaus 'Testaa oma El\u00e4m\u00e4nturvasi' -verkkoty\u00f6kaluun. Osallistujille tarjotaan L\u00e4hiTapiolan turvatarkastus."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Tunti 1-4: Muutto ja ensimm\u00e4inen yll\u00e4tys",
+          "description": "Perhe asettuu taloksi, mutta s\u00e4hk\u00f6t katkeavat yll\u00e4tt\u00e4en \u2013 miten selvit\u00e4 pime\u00e4ss\u00e4?"
+        },
+        {
+          "number": 2,
+          "title": "Tunti 5-8: Vesivuoto ja naapuririita",
+          "description": "Putki halkeaa ja vesi tulvii \u2013 samalla naapuri tulee valittamaan melusta."
+        },
+        {
+          "number": 3,
+          "title": "Tunti 9-12: Lapsi sairastuu y\u00f6ll\u00e4",
+          "description": "Perheen nuorin saa korkean kuumeen keskell\u00e4 y\u00f6t\u00e4 \u2013 mit\u00e4 tehd\u00e4?"
+        },
+        {
+          "number": 4,
+          "title": "Tunti 13-16: Murtovaras-simulaatio",
+          "description": "Perhett\u00e4 h\u00e4irit\u00e4\u00e4n keskell\u00e4 y\u00f6t\u00e4 \u2013 miten reagoida turvallisesti?"
+        },
+        {
+          "number": 5,
+          "title": "Tunti 17-20: Auto hajoaa ja talousyll\u00e4tys",
+          "description": "Perheen auto ei k\u00e4ynnisty, ja samalla tulee yll\u00e4tt\u00e4v\u00e4 lasku \u2013 priorisointi alkaa."
+        },
+        {
+          "number": 6,
+          "title": "Tunti 21-24: Finaalihaaste ja yhteenveto",
+          "description": "Kaikki opit testataan yhdess\u00e4 viimeisess\u00e4, monimutkaisessa kriisiss\u00e4. Asiantuntijat antavat loppuarvion."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee kaikki kolme j\u00e4nnitett\u00e4 kerralla: tekee preventiosta j\u00e4nnitt\u00e4v\u00e4\u00e4, osoittaa El\u00e4m\u00e4nturvan konkreettisen arvon ja tuo L\u00e4hiTapiolan urbaaniin, digitaaliseen kontekstiin interaktiivisella tavalla.",
+        "competitive_differentiation": "Kukaan kilpailijoista ei ole tehnyt live-tapahtumaa t\u00e4ss\u00e4 mittakaavassa. T\u00e4m\u00e4 positioi L\u00e4hiTapiolan innovaattoriksi ja rohkeaksi toimijaksi.",
+        "audience_value_proposition": "Live-draama + julkkisperhe + \u00e4\u00e4nestys = koukuttava kokemus. Katsoja on aktiivinen osallistuja, ei passiivinen."
+      },
+      "execution": {
+        "complexity": "high",
+        "budget_tier": "premium",
+        "timeline_to_first_episode": "16-20 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "24h live-tuotanto on teknisesti ja logistisesti eritt\u00e4in vaativa.",
+          "mitigation": "WBITVP:n ja Akun Tehtaan yhteisty\u00f6: Akun Tehdas vastaa live-tekniikasta, WBITVP sis\u00e4ll\u00f6st\u00e4. Harjoitusl\u00e4hetys ennen varsinaista tapahtumaa."
+        },
+        {
+          "risk": "Julkkisperheen valinta voi jakaa mielipiteit\u00e4 tai aiheuttaa PR-riskin.",
+          "mitigation": "Valitaan perhe, jolla on laaja hyv\u00e4ksytt\u00e4vyys ja positiivinen julkisuuskuva. Sopimuksissa selke\u00e4t k\u00e4ytt\u00e4ytymiss\u00e4\u00e4nn\u00f6t."
+        },
+        {
+          "risk": "Yleis\u00f6n osallistuminen voi j\u00e4\u00e4d\u00e4 v\u00e4h\u00e4iseksi tai \u00e4\u00e4nestystulokset voivat olla yll\u00e4tt\u00e4vi\u00e4.",
+          "mitigation": "Vahva ennakkomarkkinointi ja selke\u00e4 \u00e4\u00e4nestysmekanismi. Varasuunnitelma, jos \u00e4\u00e4nestys ei toimi \u2013 tuotanto voi ohjata tilanteita."
+        }
+      ]
+    }
+  ],
+  "treatment_files": [
+    "/opt/render/project/src/runs/lhitapiola/TREATMENTS/lhitapiola_TREATMENT_01_20260127_100439.md",
+    "/opt/render/project/src/runs/lhitapiola/TREATMENTS/lhitapiola_TREATMENT_02_20260127_100439.md",
+    "/opt/render/project/src/runs/lhitapiola/TREATMENTS/lhitapiola_TREATMENT_03_20260127_100439.md"
+  ],
   "onepager_specs": [],
   "onepagers_skipped": false,
   "onepagers_error": null,
@@ -294,6 +616,15 @@
     {
       "phase": "strategize",
       "started_at": "2026-01-27T09:58:22.296263",
+      "completed_at": "2026-01-27T09:58:23.865745",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "create",
+      "started_at": "2026-01-27T09:58:23.871625",
       "completed_at": null,
       "success": false,
       "error_message": null,

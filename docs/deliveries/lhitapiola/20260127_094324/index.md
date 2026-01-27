@@ -16,6 +16,9 @@
 - [Concept 03](concepts/concept_03.md)
 
 ## Treatments
+- [lhitapiola_TREATMENT_01_20260127_100439.md](treatments/lhitapiola_TREATMENT_01_20260127_100439.md)
+- [lhitapiola_TREATMENT_02_20260127_100439.md](treatments/lhitapiola_TREATMENT_02_20260127_100439.md)
+- [lhitapiola_TREATMENT_03_20260127_100439.md](treatments/lhitapiola_TREATMENT_03_20260127_100439.md)
 
 ## One-Pagers
 - [One-Pager 01](onepagers/concept_01.png)
