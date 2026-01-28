@@ -16,6 +16,9 @@
 - [Concept 03](concepts/concept_03.md)
 
 ## Treatments
+- [partiolaiset_TREATMENT_01_20260128_195857.md](treatments/partiolaiset_TREATMENT_01_20260128_195857.md)
+- [partiolaiset_TREATMENT_02_20260128_195857.md](treatments/partiolaiset_TREATMENT_02_20260128_195857.md)
+- [partiolaiset_TREATMENT_03_20260128_195857.md](treatments/partiolaiset_TREATMENT_03_20260128_195857.md)
 
 ## One-Pagers
 - [One-Pager 01](onepagers/concept_01.png)

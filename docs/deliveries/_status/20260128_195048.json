@@ -2,8 +2,8 @@
   "run_id": "20260128_195048",
   "company_slug": "partiolaiset",
   "created_at": "2026-01-28T19:50:48.486018",
-  "updated_at": "2026-01-28T19:53:05.747520",
-  "current_phase": "strategize",
+  "updated_at": "2026-01-28T19:58:57.498645",
+  "current_phase": "create",
   "user_input": {
     "company_name": "Partiolaiset",
     "user_email": "joona.kortesmaki@wbitvp.fi",
@@ -279,8 +279,349 @@
       "success_hypothesis": "This concept unlocks an untapped opportunity for Partiolaiset by addressing their aspiration in a way that creates cultural relevance and positions the brand as an innovator in their space."
     }
   ],
-  "concepts": [],
-  "treatment_files": [],
+  "concepts": [
+    {
+      "id": "concept_01",
+      "title": "Johtajan Koulu",
+      "hook": "Dokumenttisarja, joka todistaa, ett\u00e4 partion aikuisjohtajat oppivat vuodessa enemm\u00e4n johtamistaitoja kuin moni MBA-ohjelmassa \u2013 ja tekee vapaaehtoisty\u00f6st\u00e4 haluttavan urakehitysv\u00e4lineen.",
+      "premise": "Seuraamme kuutta t\u00e4ysin eri taustoista tulevaa aikuista heid\u00e4n ensimm\u00e4isen partiojohtajavuotensa l\u00e4pi. Pankinjohtaja, hoitaja, koodari, yritt\u00e4j\u00e4, opettaja ja ty\u00f6tt\u00f6m\u00e4ksi j\u00e4\u00e4nyt insin\u00f6\u00f6ri \u2013 kaikki aloittavat nollasta ja kohtaavat tilanteita, joissa johtajuus punnitaan aidosti. Sarja n\u00e4ytt\u00e4\u00e4 konkreettisesti, mit\u00e4 taitoja he oppivat ja miten ne siirtyv\u00e4t ty\u00f6el\u00e4m\u00e4\u00e4n.",
+      "long_form_extension": "6x45min dokumenttisarja Ruutu+/Katsomo-palveluihin, broadcast-versio MTV3:lle tai Neloselle. Jokainen jakso p\u00e4\u00e4ttyy 'Johtajan oppitunti' -segmenttiin, jossa HR-asiantuntija analysoi opittuja taitoja.",
+      "format": {
+        "series_type": "limited",
+        "episode_length": "42-45 minuuttia",
+        "cadence": "Viikoittain",
+        "season_length": "6 jaksoa"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "YouTube",
+          "rationale": "YouTube tavoittaa 25-45-vuotiaat aikuiset, jotka etsiv\u00e4t merkityksellist\u00e4 sis\u00e4lt\u00f6\u00e4. Dokumentaarinen formaatti toimii erinomaisesti pitk\u00e4muotoisena ja rakentaa syv\u00e4\u00e4 sitoutumista.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "LinkedIn",
+            "rationale": "",
+            "adaptation": "3-5 minuutin 'Johtajan oppitunti' -klipit, jotka korostavat konkreettisia johtamistaitoja ammattilaisyleis\u00f6lle"
+          },
+          {
+            "platform": "Instagram",
+            "rationale": "",
+            "adaptation": "Behind-the-scenes -tarinat ja 60s Reels-klipit p\u00e4\u00e4henkil\u00f6iden arjesta"
+          }
+        ],
+        "amplification": "Yhteisty\u00f6 HR-alan vaikuttajien ja johtamiskouluttajien kanssa. Podcast-vierailut. Yritysyhteisty\u00f6t, joissa ty\u00f6nantajat kannustavat ty\u00f6ntekij\u00f6it\u00e4\u00e4n katsomaan sarjaa."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Jakson alussa 'Viikon haaste' -tilanne, jossa johtajuus punnitaan",
+          "Jokaisen p\u00e4\u00e4henkil\u00f6n oma seuranta-arc l\u00e4pi sarjan",
+          "'Johtajan oppitunti' -asiantuntijasegmentti jakson lopussa",
+          "Lasten ja nuorten aito reaktio johtajien toimintaan"
+        ],
+        "variable_elements": [
+          "Eri partiotoiminnan muodot: retket, leirit, kaupunkiseikkailut, yhteiskunnalliset projektit",
+          "Erilaiset haasteet: kriisitilanteet, motivointi, ryhm\u00e4dynamiikka, aikapaine",
+          "Vierailevat asiantuntijat eri aloilta"
+        ],
+        "host_approach": "Ei perinteist\u00e4 juontajaa. Voice-over-kerronta rakentaa narratiivia. Asiantuntijasegmentiss\u00e4 vieraileva HR-/johtamisasiantuntija."
+      },
+      "brand_integration": {
+        "philosophy": "Partio on luonteva ymp\u00e4rist\u00f6, jossa tarina tapahtuu. Br\u00e4ndi n\u00e4kyy toiminnan kautta, ei mainosviestein\u00e4.",
+        "integration_method": "Partion arvot ja toimintamallit n\u00e4kyv\u00e4t konkreettisina tilanteina. Johtajakoulutuksen sis\u00e4lt\u00f6 avataan katsojalle luontevasti.",
+        "screen_time_balance": "85% henkil\u00f6tarinat ja tilanteet, 15% partion toimintaymp\u00e4rist\u00f6 ja konteksti",
+        "cta_approach": "Jaksojen lopussa hienovarainen 'Kiinnostaako johtajuus? partio.fi/aikuiset' -teksti. Ei myyntipuhetta."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Ensimm\u00e4inen ilta",
+          "description": "Kuusi aikuista astuu ensimm\u00e4ist\u00e4 kertaa partiokoloon johtajan roolissa \u2013 ja huomaa, ettei kukaan ole kertonut, mit\u00e4 pit\u00e4isi tehd\u00e4."
+        },
+        {
+          "number": 2,
+          "title": "Kun suunnitelma pett\u00e4\u00e4",
+          "description": "Ensimm\u00e4inen retki ja kaikki menee pieleen: sade, eksyminen, itkev\u00e4 lapsi \u2013 mutta juuri siin\u00e4 syntyy johtajuus."
+        },
+        {
+          "number": 3,
+          "title": "Motivaation arvoitus",
+          "description": "Miten saat 12-vuotiaan innostumaan jostain, mik\u00e4 ei ole puhelin? P\u00e4\u00e4henkil\u00f6t l\u00f6yt\u00e4v\u00e4t yll\u00e4tt\u00e4vi\u00e4 vastauksia."
+        },
+        {
+          "number": 4,
+          "title": "Konflikti",
+          "description": "Ryhm\u00e4ss\u00e4 syntyy riita ja johtajan pit\u00e4\u00e4 puuttua. Ty\u00f6el\u00e4m\u00e4n HR-asiantuntija analysoi, miten tilanne hoidettiin."
+        },
+        {
+          "number": 5,
+          "title": "Vastuun siirto",
+          "description": "P\u00e4\u00e4henkil\u00f6t opettelevat delegoimaan nuoremmille johtajille \u2013 ja huomaavat, ett\u00e4 luottaminen on vaikeampaa kuin tekeminen itse."
+        },
+        {
+          "number": 6,
+          "title": "Vuosi my\u00f6hemmin",
+          "description": "Katsaus siihen, miten johtajavuosi muutti p\u00e4\u00e4henkil\u00f6iden ty\u00f6el\u00e4m\u00e4\u00e4, itsetuntoa ja suhdetta omaan aikaan."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee suoraan 'Bottleneck Paradox' -j\u00e4nnitteen: sen sijaan ett\u00e4 markkinoidaan partiota lapsille, tehd\u00e4\u00e4n aikuisena mukaan tulemisesta haluttava lifestyle-valinta.",
+        "competitive_differentiation": "Yksik\u00e4\u00e4n kilpailija ei ole tehnyt dokumenttisarjaa vapaaehtoisty\u00f6n johtamishy\u00f6dyist\u00e4. T\u00e4m\u00e4 on ensimm\u00e4inen.",
+        "audience_value_proposition": "Katsoja saa konkreettisia johtamisoppeja, inspiroituu tavallisten ihmisten tarinoista ja n\u00e4kee partion t\u00e4ysin uudessa valossa."
+      },
+      "execution": {
+        "complexity": "medium",
+        "budget_tier": "mid",
+        "timeline_to_first_episode": "12-14 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "P\u00e4\u00e4henkil\u00f6t eiv\u00e4t ole tarpeeksi karismaattisia tai heid\u00e4n tarinansa eiv\u00e4t kehity kiinnostavasti",
+          "mitigation": "Huolellinen casting-prosessi ja usean potentiaalisen p\u00e4\u00e4henkil\u00f6n seuraaminen alkuvaiheessa"
+        },
+        {
+          "risk": "Sis\u00e4lt\u00f6 j\u00e4\u00e4 liian 'sis\u00e4piirim\u00e4iseksi' ja puhuu vain partiota jo tunteville",
+          "mitigation": "Ulkopuolinen k\u00e4sikirjoittaja, joka ei tunne partiota, varmistaa yleis\u00f6l\u00e4ht\u00f6isyyden"
+        },
+        {
+          "risk": "Johtajakoulutuksen hy\u00f6dyt j\u00e4\u00e4v\u00e4t abstrakteiksi",
+          "mitigation": "HR-asiantuntijasegmentit konkretisoivat opit ty\u00f6el\u00e4m\u00e4kielelle joka jaksossa"
+        }
+      ]
+    },
+    {
+      "id": "concept_02",
+      "title": "Partio vs. Algoritmi",
+      "hook": "Viihteellinen kilpailuformaatti, jossa somet\u00e4hdet haastavat partion todistaakseen, kumpi tuottaa parempia el\u00e4myksi\u00e4: ruutuaika vai oikea seikkailu.",
+      "premise": "Joka jaksossa suosittu somevaikuttaja viett\u00e4\u00e4 48 tuntia partioretkell\u00e4 ilman puhelinta. Samaan aikaan toinen vaikuttaja yritt\u00e4\u00e4 luoda 'vastaavan el\u00e4myksen' pelk\u00e4n puhelimen ja sovellusten avulla kotisohvalta. Lopussa nuorista koostuva raati p\u00e4\u00e4tt\u00e4\u00e4, kumpi kokemus oli parempi \u2013 ja miksi.",
+      "long_form_extension": "8x25min viihdesarja MTV3/Nelonen prime-time tai Ruutu+. TikTok-versio toimii 'teaserina' ja 'reaction-sis\u00e4lt\u00f6n\u00e4', mutta p\u00e4\u00e4tuote on TV-sarja.",
+      "format": {
+        "series_type": "seasonal",
+        "episode_length": "22-25 minuuttia",
+        "cadence": "Viikoittain",
+        "season_length": "8 jaksoa"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "TikTok",
+          "rationale": "Tavoittaa 13-25-vuotiaat, jotka ovat partion ydinkohderyhm\u00e4\u00e4 mutta joille partio n\u00e4ytt\u00e4ytyy 'n\u00f6rttim\u00e4isen\u00e4'. Vaikuttajavetoinen sis\u00e4lt\u00f6 levi\u00e4\u00e4 orgaanisesti.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "YouTube",
+            "rationale": "",
+            "adaptation": "Full-length jaksot ja 'Behind the Challenge' -bonussis\u00e4lt\u00f6"
+          },
+          {
+            "platform": "Instagram Reels",
+            "rationale": "",
+            "adaptation": "Highlight-klipit ja vaikuttajien omat reaktiovideot"
+          }
+        ],
+        "amplification": "Vaikuttajien omat kanavat (yhteens\u00e4 miljoonia seuraajia). Haaste-hashtagit, joissa seuraajat voivat \u00e4\u00e4nest\u00e4\u00e4. Yhteisty\u00f6 nuorisomedioiden kanssa."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "'Haaste julkistetaan' -avaus, jossa vaikuttajat saavat teht\u00e4v\u00e4n",
+          "48h countdown -rakenne, joka luo j\u00e4nnitett\u00e4",
+          "Nuorisoraadin tuomio jakson lopussa",
+          "'Mit\u00e4 opin' -reflektio vaikuttajalta"
+        ],
+        "variable_elements": [
+          "Eri vaikuttajat joka jaksossa (gaming, lifestyle, urheilu, musiikki)",
+          "Eri haasteet: selviytyminen, tiimity\u00f6, luovuus, rohkeus",
+          "Eri ymp\u00e4rist\u00f6t: mets\u00e4, saaristo, kaupunki, talvi"
+        ],
+        "host_approach": "Kaksi juontajaa: yksi seuraa partioretke\u00e4, toinen kotisohvavaikuttajaa. Molemmat ovat tunnettuja nuorisokasvoja."
+      },
+      "brand_integration": {
+        "philosophy": "Partio on 'haastaja', joka todistaa arvonsa teoilla, ei puheilla. Br\u00e4ndi voittaa n\u00e4ytt\u00e4m\u00e4ll\u00e4, ei kertomalla.",
+        "integration_method": "Partion toiminta n\u00e4kyy autenttisena kontrastina ruutuajalle. Ei opeteta partiosta, vaan n\u00e4ytet\u00e4\u00e4n mit\u00e4 siell\u00e4 tapahtuu.",
+        "screen_time_balance": "50% partioretki, 40% kotisohvahaaste, 10% raadin tuomio ja reflektio",
+        "cta_approach": "Jakson lopussa QR-koodi 'Kokeile itse' -sivulle, jossa voi l\u00f6yt\u00e4\u00e4 l\u00e4himm\u00e4n lippukunnan."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Ensimm\u00e4inen y\u00f6 ulkona",
+          "description": "Gaming-tubettaja vs. partioretki: kumpi tuottaa paremman 'first night experience' \u2013 teltta vai VR-lasit?"
+        },
+        {
+          "number": 2,
+          "title": "Ruoka tyhj\u00e4st\u00e4",
+          "description": "Ruokavaikuttaja yritt\u00e4\u00e4 tehd\u00e4 aterian delivery-sovelluksilla, toinen nuotiolla kalastamastaan kalasta."
+        },
+        {
+          "number": 3,
+          "title": "Tiimity\u00f6",
+          "description": "Fitness-vaikuttaja vs. partioryhm\u00e4: kumpi rakentaa paremman leirin \u2013 yksin nettiohjeilla vai porukalla ilman puhelinta?"
+        },
+        {
+          "number": 4,
+          "title": "Pelko",
+          "description": "Lifestyle-vaikuttaja kohtaa pelkonsa kahdella tavalla: y\u00f6vaellus mets\u00e4ss\u00e4 vs. pelottavat pelit kotona."
+        },
+        {
+          "number": 5,
+          "title": "Luovuus",
+          "description": "Taidevaikuttaja luo teoksen: toinen luonnonmateriaaleista, toinen AI-ty\u00f6kaluilla. Kumpi koskettaa enemm\u00e4n?"
+        },
+        {
+          "number": 6,
+          "title": "Yst\u00e4vyys",
+          "description": "Musiikkivaikuttaja yritt\u00e4\u00e4 luoda uuden yst\u00e4vyyden: toinen partioryhm\u00e4ss\u00e4, toinen dating-sovelluksessa."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee 'Image Gap' -j\u00e4nnitteen: sen sijaan ett\u00e4 kerrotaan partion olevan muutakin kuin solmuja, n\u00e4ytet\u00e4\u00e4n konkreettisesti miksi oikea kokemus voittaa digitaalisen.",
+        "competitive_differentiation": "Yksik\u00e4\u00e4n nuorisoj\u00e4rjest\u00f6 ei ole uskaltanut haastaa suoraan ruutuaikakulttuuria. T\u00e4m\u00e4 on rohkea kannanotto, joka her\u00e4tt\u00e4\u00e4 keskustelua.",
+        "audience_value_proposition": "Viihteellinen kilpailu tuttujen kasvojen kanssa. Yll\u00e4tt\u00e4v\u00e4t tulokset. Jaettavat 'reaction'-hetket."
+      },
+      "execution": {
+        "complexity": "medium",
+        "budget_tier": "mid",
+        "timeline_to_first_episode": "10-12 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Vaikuttajat eiv\u00e4t sitoudu tai peruuttavat",
+          "mitigation": "Varmuuslistat ja selke\u00e4t sopimukset. Useita vaikuttajia neuvotteluissa samanaikaisesti."
+        },
+        {
+          "risk": "Formaatti n\u00e4ytt\u00e4ytyy 'saarnaavana' tai moralisoivana",
+          "mitigation": "Huumori ja itsekritiikki keski\u00f6ss\u00e4. Partio ei aina voita \u2013 rehelliset tulokset."
+        },
+        {
+          "risk": "Kohderyhm\u00e4 ei l\u00f6yd\u00e4 sis\u00e4lt\u00f6\u00e4 algoritmin l\u00e4pi",
+          "mitigation": "Vaikuttajien omat kanavat ovat p\u00e4\u00e4jakelutie. Heid\u00e4n seuraajansa tuovat n\u00e4kyvyyden."
+        }
+      ]
+    },
+    {
+      "id": "concept_03",
+      "title": "Suomen Seuraava Johtaja",
+      "hook": "Massiivinen kansallinen kykyjenmets\u00e4stys, jossa etsit\u00e4\u00e4n Suomen inspiroivinta nuorta johtajaa \u2013 ja todistetaan, ett\u00e4 johtajuus ei synny tittelist\u00e4 vaan teoista.",
+      "premise": "Valtakunnallinen haku, jossa 15-18-vuotiaat nuoret kilpailevat johtajuushaasteissa. Ei perinteist\u00e4 'bisnespukukilpailua', vaan aitoja tilanteita: kriisinhallintaa, tiimin motivointia, eettisi\u00e4 dilemmoita ja luovaa ongelmanratkaisua. Voittaja saa stipendin ja mahdollisuuden johtaa merkitt\u00e4v\u00e4\u00e4 projektia.",
+      "long_form_extension": "10x45min reality-kilpailusarja MTV3/Nelonen prime-time + Ruutu+/Katsomo. Live-finaali Akun Tehtaalla. Sarjan j\u00e4lkeen voittajan johtama projekti dokumentoidaan 3-osaisena jatkosarjana.",
+      "format": {
+        "series_type": "seasonal",
+        "episode_length": "42-45 minuuttia",
+        "cadence": "Viikoittain",
+        "season_length": "10 jaksoa + live-finaali"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "Cross-platform",
+          "rationale": "T\u00e4m\u00e4 on kansallinen ilmi\u00f6, joka vaatii TV-n\u00e4kyvyytt\u00e4 uskottavuuden rakentamiseksi, mutta el\u00e4\u00e4 ja levi\u00e4\u00e4 somessa.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "TikTok",
+            "rationale": "",
+            "adaptation": "Kilpailijoiden omat p\u00e4iv\u00e4kirjavideot, behind-the-scenes, haasteklipit joissa seuraajat voivat kokeilla samoja teht\u00e4vi\u00e4"
+          },
+          {
+            "platform": "YouTube",
+            "rationale": "",
+            "adaptation": "Full-length jaksot, extended interviews, 'Mit\u00e4 tuomarit n\u00e4kiv\u00e4t' -bonussis\u00e4lt\u00f6"
+          },
+          {
+            "platform": "Instagram",
+            "rationale": "",
+            "adaptation": "Kilpailijaesittelyt, \u00e4\u00e4nestykset, live Q&A:t kilpailijoiden kanssa"
+          }
+        ],
+        "amplification": "Kouluyhteisty\u00f6 (opinto-ohjaajat ja rehtorit levitt\u00e4v\u00e4t hakua). Media-kumppanuudet nuorisomedioiden kanssa. Yrityssponsorit, jotka tarjoavat harjoittelupaikkoja finalisteille."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Viikon johtajuushaaste, joka testaa eri taitoja",
+          "Tuomariston arviointi ja palaute",
+          "Kilpailijoiden henkil\u00f6kohtaiset tarinat ja kasvu-arc",
+          "'Johtajan hetki' \u2013 tilanne, jossa kilpailija joutuu tekem\u00e4\u00e4n vaikean p\u00e4\u00e4t\u00f6ksen"
+        ],
+        "variable_elements": [
+          "Eri haastetyypit: kriisi, tiimi, luovuus, etiikka, viestint\u00e4",
+          "Vierailevat mentorit eri aloilta (yritysjohtajia, urheilijoita, taiteilijoita, aktivisteja)",
+          "Yll\u00e4tyshaasteet, joissa aiemmin pudonneet kilpailijat palaavat"
+        ],
+        "host_approach": "Tunnettu juontaja, joka on itse k\u00e4ynyt l\u00e4pi johtajuusmatkan (esim. entinen urheilija tai yritt\u00e4j\u00e4). Tuomaristossa partion edustaja, yritysjohtaja ja nuorisoty\u00f6n asiantuntija."
+      },
+      "brand_integration": {
+        "philosophy": "Partio on formaatin 'kotikentt\u00e4' \u2013 organisaatio, jonka johtajuusfilosofia on sarjan ydin. Ei sponsorina, vaan kumppanina.",
+        "integration_method": "Partion johtajuusmalli on sarjan pedagoginen kehys. Haasteet perustuvat partion johtajakoulutuksen periaatteisiin. Partio tarjoaa voittajalle projektin ja alustan.",
+        "screen_time_balance": "70% kilpailu ja kilpailijat, 20% mentorit ja tuomarit, 10% partion konteksti",
+        "cta_approach": "Finaalijakson j\u00e4lkeen 'Aloita oma johtajuusmatkasi' -kampanja, joka ohjaa partion aikuisrekrytointiin."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "100 hakijaa, 12 paikkaa",
+          "description": "Massiivinen bootcamp, jossa 100 nuorta kilpailee 12 paikasta. Ensimm\u00e4inen haaste: johda tuntematonta ryhm\u00e4\u00e4 30 minuutissa."
+        },
+        {
+          "number": 2,
+          "title": "Kriisi",
+          "description": "Simuloitu h\u00e4t\u00e4tilanne: tulva uhkaa kyl\u00e4\u00e4. Kilpailijat johtavat evakuointia ja joutuvat tekem\u00e4\u00e4n vaikeita priorisointeja."
+        },
+        {
+          "number": 3,
+          "title": "Motivaattori",
+          "description": "Kilpailijat saavat johdettavakseen ryhm\u00e4n, joka ei halua tehd\u00e4 yhteisty\u00f6t\u00e4. Miten saat vastahakoiset mukaan?"
+        },
+        {
+          "number": 4,
+          "title": "Eettinen dilemma",
+          "description": "Haaste, jossa 'oikea' vastaus ei ole selv\u00e4. Kilpailijoiden arvot ja periaatteet punnitaan."
+        },
+        {
+          "number": 5,
+          "title": "Viestint\u00e4",
+          "description": "Kilpailijat pit\u00e4v\u00e4t puheen, joka pit\u00e4\u00e4 vakuuttaa sek\u00e4 skeptinen yleis\u00f6 ett\u00e4 innostunut kannattajajoukko."
+        },
+        {
+          "number": 6,
+          "title": "Finaali: Oma projekti",
+          "description": "Kolme finalistia esittelee oman johtajuusprojektinsa live-yleis\u00f6lle Akun Tehtaalla. Suomi \u00e4\u00e4nest\u00e4\u00e4 voittajan."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee kaikki nelj\u00e4 j\u00e4nnitett\u00e4: houkuttelee aikuisia (voittajan projekti), murtaa imago-ongelman (moderni johtajuus), avaa sis\u00e4piirin (kansallinen ilmi\u00f6) ja tekee johtajuudesta lifestyle-valintaa.",
+        "competitive_differentiation": "Suomessa ei ole nuorille suunnattua johtajuuskilpailua. T\u00e4m\u00e4 luo uuden kategorian ja positioi partion sen omistajaksi.",
+        "audience_value_proposition": "Kilpailuviihteen j\u00e4nnitys + inspiroivat nuoret + 'voiko minustakin tulla johtaja?' -samaistuminen."
+      },
+      "execution": {
+        "complexity": "high",
+        "budget_tier": "premium",
+        "timeline_to_first_episode": "16-20 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Formaatti muistuttaa liikaa olemassa olevia kilpailuformaatteja (Diili, Selviytyj\u00e4t)",
+          "mitigation": "Fokus nuoriin ja johtajuuden 'pehmeisiin' taitoihin erottaa. Ei bisnespuvuissa neuvottelua."
+        },
+        {
+          "risk": "Kilpailijoiden haku ei tuota tarpeeksi karismaattisia osallistujia",
+          "mitigation": "Laaja hakukampanja koulujen ja nuorisoj\u00e4rjest\u00f6jen kautta. Casting-tiimi, joka etsii tarinoita, ei vain suorittajia."
+        },
+        {
+          "risk": "Partio n\u00e4ytt\u00e4ytyy liian dominoivana, mik\u00e4 karkottaa ei-partiolaisia katsojia",
+          "mitigation": "Tuotannossa varmistetaan, ett\u00e4 kilpailijat edustavat laajasti eri taustoja. Partio on alusta, ei p\u00e4\u00e4henkil\u00f6."
+        },
+        {
+          "risk": "Budjetti ylittyy live-finaalin ja laajan tuotannon vuoksi",
+          "mitigation": "Yrityssponsorit mukaan alusta asti. Modularinen tuotanto, jossa voidaan skaalata."
+        }
+      ]
+    }
+  ],
+  "treatment_files": [
+    "/opt/render/project/src/runs/partiolaiset/TREATMENTS/partiolaiset_TREATMENT_01_20260128_195857.md",
+    "/opt/render/project/src/runs/partiolaiset/TREATMENTS/partiolaiset_TREATMENT_02_20260128_195857.md",
+    "/opt/render/project/src/runs/partiolaiset/TREATMENTS/partiolaiset_TREATMENT_03_20260128_195857.md"
+  ],
   "onepager_specs": [],
   "onepagers_skipped": false,
   "onepagers_error": null,
@@ -316,6 +657,15 @@
     {
       "phase": "strategize",
       "started_at": "2026-01-28T19:53:05.687107",
+      "completed_at": "2026-01-28T19:53:09.126338",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "create",
+      "started_at": "2026-01-28T19:53:09.132055",
       "completed_at": null,
       "success": false,
       "error_message": null,
