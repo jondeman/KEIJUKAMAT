@@ -1,0 +1,234 @@
+{
+  "company_name": "Partiolaiset",
+  "company_slug": "partiolaiset",
+  "generated_at": "2026-01-28T19:53:02.888821",
+  "brand_identity": {
+    "positioning": "Suomen suurin nuorisoj\u00e4rjest\u00f6, joka tarjoaa 'seikkailun, joka kasvattaa'. Yhdistelm\u00e4 hauskaa tekemist\u00e4 ja yhteiskunnallista vastuunkantoa.",
+    "visual_markers": {
+      "primary_color": "Sininen (partiohuivi)",
+      "secondary_colors": [
+        "Partiopaidan s\u00e4vyt",
+        "Mets\u00e4nvihre\u00e4"
+      ],
+      "style_keywords": [
+        "Luontopainotteinen",
+        "Nuotio",
+        "Mets\u00e4",
+        "Teltta",
+        "Urbaani (pyrkimys)"
+      ],
+      "tone_keywords": [
+        "Kannustava",
+        "Yhteis\u00f6llinen",
+        "Energinen",
+        "Sis\u00e4piirim\u00e4inen"
+      ]
+    },
+    "voice_characteristics": [
+      "Vahva partioslangi",
+      "Tasapainoilu arvokkuuden ja rentouden v\u00e4lill\u00e4",
+      "Sis\u00e4piiri\u00e4 osallistava mutta ulkopuolisia poissulkeva"
+    ]
+  },
+  "strategic_priorities": [
+    {
+      "rank": 1,
+      "priority": "Kasvun k\u00e4\u00e4nt\u00e4minen (aikuisrekrytointi)",
+      "evidence": [
+        "Strategian ykk\u00f6sk\u00e4rki on j\u00e4senm\u00e4\u00e4r\u00e4n kasvu",
+        "Uutiset jonoista, joita ei voida purkaa vet\u00e4j\u00e4pulan vuoksi",
+        "Pullonkaula on aikuiset, ei lapset"
+      ],
+      "execution_assessment": "weak"
+    },
+    {
+      "rank": 2,
+      "priority": "Saavutettavuus ja moninaisuus",
+      "evidence": [
+        "'Partio kuuluu kaikille' -hankkeet",
+        "Pyrkimys eroon keskiluokkaisesta leimasta",
+        "Harrastamisen hinta -keskustelut"
+      ],
+      "execution_assessment": "moderate"
+    },
+    {
+      "rank": 3,
+      "priority": "Vapaaehtoistuen uudistaminen (Burnoutin esto)",
+      "evidence": [
+        "Koulutusj\u00e4rjestelm\u00e4n uudistukset",
+        "'Pesti'-ajattelu (teht\u00e4vill\u00e4 alku ja loppu)"
+      ],
+      "execution_assessment": "moderate"
+    },
+    {
+      "rank": 4,
+      "priority": "Hiilineutraalius",
+      "evidence": [
+        "Tavoite olla hiilineutraali 2030"
+      ],
+      "execution_assessment": "strong"
+    }
+  ],
+  "marketing_posture": {
+    "current_content_types": [
+      "Kampanjavideot (TVC-tyyli)",
+      "Webinaaritallenteet",
+      "Fiiliskuvat leireilt\u00e4",
+      "Meemit",
+      "Varainhankintamainonta (Adventtikalenteri)"
+    ],
+    "channel_presence": {
+      "youtube": {
+        "active": false,
+        "assessment": "Passiivinen. Toimii arkistona, ei viihdekanavana."
+      },
+      "tiktok": {
+        "active": true,
+        "assessment": "Aktiivinen. Yhteis\u00f6llinen, mutta algoritmi sy\u00f6tt\u00e4\u00e4 sis\u00e4lt\u00f6\u00e4 'kuplaan' nykyisille j\u00e4senille."
+      },
+      "instagram": {
+        "active": true,
+        "assessment": "Aktiivinen. Yhteis\u00f6llinen, mutta kohdentuu vahvasti nykyj\u00e4senist\u00f6lle."
+      },
+      "linkedin": {
+        "active": false,
+        "assessment": "Ei mainittu l\u00e4hdeanalyysiss\u00e4, oletettavasti passiivinen tai kohdennettu vain sidosryhmille."
+      }
+    },
+    "apparent_gaps": [
+      "Puuttuu 'tubettaja-tyylinen' viihdesis\u00e4lt\u00f6",
+      "Sis\u00e4lt\u00f6 puhuu harvoin suoraan ulkopuoliselle ilman sis\u00e4piirislangia",
+      "Aikuisille suunnattu sis\u00e4lt\u00f6 on velvollisuuskeskeist\u00e4 eik\u00e4 hy\u00f6tykeskeist\u00e4"
+    ],
+    "audience_engagement": "Nykyiset j\u00e4senet reagoivat fanaattisesti, ulkopuoliset j\u00e4\u00e4v\u00e4t kylmiksi tai pit\u00e4v\u00e4t sis\u00e4lt\u00f6\u00e4 outona."
+  },
+  "competitive_analysis": {
+    "key_competitors": [
+      {
+        "name": "Ohjatut urheiluseurat",
+        "content_strategy": "Helppous vanhemmille ('drop-off'), ammattimaisuus",
+        "threat_level": "high"
+      },
+      {
+        "name": "Digitaalinen viihde (TikTok/Gaming)",
+        "content_strategy": "V\u00e4lit\u00f6n dopamiini, helppo saavutettavuus kotisohvalta",
+        "threat_level": "high"
+      },
+      {
+        "name": "Aikuisten helpot harrastukset (Padel, sali)",
+        "content_strategy": "Matala kynnys, ei sitoutumispakkoa, oma aika",
+        "threat_level": "high"
+      }
+    ],
+    "brand_winning_areas": [
+      "Arvot",
+      "Yhteis\u00f6llisyys",
+      "Hinta (edullisuus)",
+      "Merkityksellisyys"
+    ],
+    "brand_losing_areas": [
+      "Helppous (vaatii sitoutumista)",
+      "Coolness (n\u00f6rttileima)",
+      "V\u00e4lit\u00f6n palkinto (hidas harrastus)"
+    ]
+  },
+  "strategic_tensions": [
+    {
+      "id": "tension_01",
+      "description": "The Bottleneck Paradox: Br\u00e4ndi luo markkinoinnilla kysynt\u00e4\u00e4 lapsille, mutta tuote on 'rikki', koska aikuisia ei ole toteuttamaan sit\u00e4.",
+      "evidence": [
+        "Strategian ykk\u00f6sk\u00e4rki on kasvu, mutta uutisointi kertoo jonoista",
+        "Markkinointi lapsille on turhaa, jos he eiv\u00e4t p\u00e4\u00e4se mukaan"
+      ],
+      "opportunity_type": "gap",
+      "priority_score": 5
+    },
+    {
+      "id": "tension_02",
+      "description": "The Image Gap: Strategia puhuu tulevaisuustaidoista ja johtajuudesta, mutta visuaalinen identiteetti vahvistaa vanhaa mielikuvaa 'solmujen tekemisest\u00e4'.",
+      "evidence": [
+        "Ulkopuolisten mielikuva on 'n\u00f6rttim\u00e4inen'",
+        "Kuvasto on edelleen vahvasti er\u00e4painotteista"
+      ],
+      "opportunity_type": "aspiration",
+      "priority_score": 4
+    },
+    {
+      "id": "tension_03",
+      "description": "The Cliqueyness: Partio v\u00e4itt\u00e4\u00e4 olevansa 'kaikille avoin', mutta sis\u00e4lt\u00f6 on t\u00e4ynn\u00e4 koodikielt\u00e4, joka vieraannuttaa uudet tulijat.",
+      "evidence": [
+        "Termist\u00f6: sudenpentu, samoaja, pj-kurssi",
+        "Meemit ja sis\u00e4piirivitsit somessa"
+      ],
+      "opportunity_type": "underserved_audience",
+      "priority_score": 4
+    },
+    {
+      "id": "tension_04",
+      "description": "Duty vs. Lifestyle: Kilpailevat aikuisharrastukset tarjoavat pakoa arjesta, kun taas partiojohtajuus markkinoidaan usein 'vastuuna' tai 'ty\u00f6n\u00e4'.",
+      "evidence": [
+        "Kilpailu aikuisten vapaa-ajasta (padel vs. partiojohtajuus)",
+        "Pelko 'keksinmyynnist\u00e4' ja talkoista"
+      ],
+      "opportunity_type": "threat",
+      "priority_score": 5
+    }
+  ],
+  "opportunity_zones": [
+    {
+      "id": "opp_01",
+      "description": "Aikuisten 'FOMO' \u2013 Vapaaehtoisty\u00f6n uudelleenbr\u00e4nd\u00e4ys",
+      "rationale": "Muutetaan narratiivi 'talkoista' kohti 'etuoikeutta' ja 'lifestylea'. Ratkaisee kriittisimm\u00e4n pullonkaulan (tension_01) ja vastaa aikuisten vapaa-aikakilpailuun.",
+      "risk_level": "medium"
+    },
+    {
+      "id": "opp_02",
+      "description": "Radikaali l\u00e4pin\u00e4kyvyys (Demystifiointi)",
+      "rationale": "Videosis\u00e4lt\u00f6\u00e4, joka n\u00e4ytt\u00e4\u00e4 partioillan kulun raakana. Madaltaa kynnyst\u00e4 liitty\u00e4 (tension_03) ja korjaa virheellisi\u00e4 mielikuvia (tension_02).",
+      "risk_level": "low"
+    },
+    {
+      "id": "opp_03",
+      "description": "Urbaani partio & Peer-to-Peer",
+      "rationale": "Visuaalisen kerronnan siirt\u00e4minen pois korpimets\u00e4st\u00e4. Modernisoi br\u00e4ndi\u00e4 ja tekee siit\u00e4 relevantimman diginatiiveille.",
+      "risk_level": "medium"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Suomen Partiolaiset \u2013 Strategia 2021\u20132026",
+      "url": "https://partio.fi",
+      "type": "report",
+      "date_accessed": "2026-01-01",
+      "relevance": "Company Strategy"
+    },
+    {
+      "title": "Suomen Partiolaiset toimintakertomukset 2022\u20132023",
+      "url": "https://partio.fi",
+      "type": "report",
+      "date_accessed": "2026-01-01",
+      "relevance": "Annual Report"
+    },
+    {
+      "title": "Partio-lehti",
+      "url": "https://partio.fi/partio-lehti",
+      "type": "news",
+      "date_accessed": "2026-01-01",
+      "relevance": "Company News"
+    },
+    {
+      "title": "Verkkosivut (uutisarkisto)",
+      "url": "https://partio.fi/uutiset",
+      "type": "company_site",
+      "date_accessed": "2026-01-01",
+      "relevance": "Company News Archive"
+    },
+    {
+      "title": "Sosiaalisen median kanavat: YouTube, Instagram, TikTok",
+      "url": "Multiple URLs",
+      "type": "social",
+      "date_accessed": "2026-01-01",
+      "relevance": "Social Media Audit"
+    }
+  ]
+}
