@@ -1,3 +1,0 @@
-# Lisähuomiot (käyttäjän antama)
-
-LÄHESTY OUTOKUMPUA B2B-kulmasta, KAMPANJAN TULEE TEHDÄ VAIKUTUS YRITYSTEN PÄÄTTÄJIIN, JOTKA TEKEVÄT MATERIAALIVALINTOJA, YLEISÖNÄ SAA OLLA KAIKKI LULUTTAJAY, MUTTA KULMAN TULEE OLLA B2B myynti eurooppaan. Kuluttajille ei myydä Outokummun tuotteita.
