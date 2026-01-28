@@ -2,8 +2,8 @@
   "run_id": "20260128_195048",
   "company_slug": "partiolaiset",
   "created_at": "2026-01-28T19:50:48.486018",
-  "updated_at": "2026-01-28T19:58:57.498645",
-  "current_phase": "create",
+  "updated_at": "2026-01-28T20:01:40.373382",
+  "current_phase": "visualize",
   "user_input": {
     "company_name": "Partiolaiset",
     "user_email": "joona.kortesmaki@wbitvp.fi",
@@ -622,7 +622,83 @@
     "/opt/render/project/src/runs/partiolaiset/TREATMENTS/partiolaiset_TREATMENT_02_20260128_195857.md",
     "/opt/render/project/src/runs/partiolaiset/TREATMENTS/partiolaiset_TREATMENT_03_20260128_195857.md"
   ],
-  "onepager_specs": [],
+  "onepager_specs": [
+    {
+      "concept_id": "concept_01",
+      "brand_styling": {
+        "primary_color": "#202060",
+        "secondary_color": "#e04040",
+        "accent_color": "#7c446d",
+        "style_keywords": [],
+        "logo_available": true,
+        "logo_path": "/opt/render/project/src/runs/2026-01-28_partiolaiset_20260128_195048/artifacts/onepagers/logos/partiolaiset_logo.png"
+      },
+      "content": {
+        "headline": "Seikkailijan Koulu",
+        "subheadline": "**Seikkailijan Koulu** on 8-osainen dokumentaarinen realitysarja, jossa tunnetut suomalaiset julkisu",
+        "bullets": [],
+        "call_to_action": "Let's bring this to life \u2192"
+      },
+      "visual_direction": {
+        "mood": "professional, inspiring, clean",
+        "imagery_style": "photorealistic",
+        "composition_notes": "A4 portrait infographic layout with multiple sections."
+      },
+      "generation_prompt": "High-quality horizontal infographic one-pager in 16:9 landscape ratio. Final output should be 3840x2160 (4K UHD) for screen presentation.\n\n## OVERALL VISUAL STYLE\nProfessional, warm, trustworthy Finnish aesthetic. Clean lines, bright natural lighting, approachable imagery. Documentary/editorial feel inspired by premium Nordic design. Soft gradients, clean whitespace, corporate elegance with warmth.\nThe design must feel premium, professional, and pitch-ready \u2013 like it could be presented at a top creative agency.\nMood: trustworthy, professional, inspiring\n\n## LOGO PLACEMENT (CRITICAL)\n- TOP LEFT CORNER: Small, elegant Warner Bros. International Television Production Finland logo (use light/white version if dark background)\n- TOP RIGHT CORNER: Small, elegant Partiolaiset company logo\n- Both logos are placed discretely at the very top edge (approximately 3-4% of image height), maintaining balance and symmetry\n- Logos must NOT dominate \u2013 they are subtle professional identifiers only\nJos et l\u00f6yd\u00e4 tarkkaa logoa tai br\u00e4ndiv\u00e4rej\u00e4, k\u00e4yt\u00e4 Partiolaisetn virallista logoa sek\u00e4 logoon ja br\u00e4ndi-ilmeeseen sopivia v\u00e4ris\u00e4vyj\u00e4.\n\n## HEADER SECTION (top 18%)\nBelow the logos:\n- LARGE BOLD TITLE: \"Seikkailijan Koulu\"\n- Subtitle: \"**Seikkailijan Koulu** on 8-osainen dokumentaarinen realitysarja, jossa tunnetut suomalaiset julk...\"\nTypography: Bold, modern Finnish advertising style, highly legible, strong visual impact\n\n## TIIVISTYS (TOP)\nImmediately after the title, include a compact 3-line summary block:\n- **MIT\u00c4?** **Seikkailijan Koulu** on 8-osainen dokumentaarinen realitysarja, jossa tunnetut suomalaiset julkisuuden henkil\u00f6t \u2013 jotka eiv\u00e4t ole koskaan olleet partiossa...\n- **MITEN?** **P\u00e4\u00e4formaatti:** - 8 jaksoa, \u00e0 25\u201330 min (TV-yhteensopiva pituus) - Dokumentaarinen reality-tyyli: ei k\u00e4sikirjoitettuja tilanteita, mutta selke\u00e4 rakenne - J...\n- **MIKSI?** Tekee Partiolaisetsta puheenaiheen ja muuttaa kiinnostuksen toiminnaksi.\nThese lines must be punchy and attention-grabbing, capturing the core idea fast.\n\n\n\n## TOTAL-TV FOCUS (MANDATORY)\n- All concepts must be serialized and suitable for linear TV channels and broadcaster VOD platforms.\n- No digital/social-first concepts; social is only an extension.\n\n\n## MAIN VISUAL SECTION (middle 52%)\nSection title: \"KONSEPTIN YDIN\"\n\n**Seikkailijan Koulu** on 8-osainen dokumentaarinen realitysarja, jossa tunnetut suomalaiset julkisuuden henkil\u00f6t \u2013 jotka eiv\u00e4t ole koskaan olleet partiossa \u2013 suorittavat \"aikuisen partio-opin\" kokeneiden nuorten partiojohtajien opastuksella. Jokaisessa jaksossa julkkis kohtaa yhden partiotaidon (tulenteko, suunnistus, johtajuushaaste, ensiapu, k\u00f6ysitaidot, luonnossa y\u00f6pyminen) ja samalla katsoja n\u00e4kee, mit\u00e4 partiossa oikeasti tapahtuu \u2013 ilman jargonia, ilman nostalgiaa, vain aitoa tekemist\u00e4. **...\n\nThis section should visually communicate the core concept in a rich, infographic style.\nUse stylized illustrations, photo compositions, and graphic elements that match the brand aesthetic.\nInclude key characters, settings, or scenarios that bring the concept to life.\nThis must feel like a fully art-directed pitch visual, not a minimal poster.\n\n## PROCESS/FORMAT SECTION (20%)\nTitle: \"N\u00c4IN SE TOIMII\"\n\n**P\u00e4\u00e4formaatti:**\n- 8 jaksoa, \u00e0 25\u201330 min (TV-yhteensopiva pituus)\n- Dokumentaarinen reality-tyyli: ei k\u00e4sikirjoitettuja tilanteita, mutta selke\u00e4 rakenne\n- Jaksorakenne: 1) L\u00e4ht\u00f6tilanne ja julkkiksen ennakkoluulot, 2) Taito esitell\u00e4\u00e4n, 3) Harjoittelu ja haaste, 4) Reflektio ja oppiminen\n\n**Julkaisurytmi ja kaari:**\n- Viikoittainen julkaisu YouTubessa (torstaisin klo 18)\n- TV-jakelu viikon viiveell\u00e4 (MTV3 tai Yle)\n- VOD-alustoille koko kausi kerralla kauden p\u00e4\u00e4tytty\u00e4\n\n**Laajennukset:**\n- **TikTok/Reels (60\u201390 sek):** \"Julkkis vs. taito\" -klipit, behind-the-scenes, \"Nuoren johtajan vinkki\" -lyhytformaatti\n- **Podcast-spin-off:** \"Seikkailijan J\u00e4lkipuinti\" \u2013 julkkisvieras ja nuori johtaja keskustelevat jaksosta syvemmin (30 min, Spotify/YouTube)\n- **Kouluyhteisty\u00f6:** Jaksoihin liittyv\u00e4t opetusmateriaalit (luontotaidot, johtajuus) tarjotaan kouluille ilmaiseksi\n\n---\n\nPresent as a clear visual flowchart or step-by-step (3-5 stages) with:\n- Each stage in a colored box connected by arrows or visual flow\n- Icon or small visual + short descriptive text per stage\n- Color-coded using brand palette\n\n## BOTTOM SECTION (10%)\nTitle: \"STRATEGINEN MONIALUSTAINEN ILMI\u00d6\"\n\nThree-column layout showing distribution:\n- Primary channel icon + name\n- Secondary channels\n- Impact/reach indicators\n\n## FOOTER\n\"Konsepti joka tekee Partiolaisetsta puheenaiheen ja tavoittaa uusia yleis\u00f6j\u00e4.\"\nA compelling summary of why this concept is perfect for this brand.\n\n## COLOR PALETTE\n- Primary brand color: #202060\n- Secondary color: #e04040\n- Accent color: #7c446d\n- Background: Light, airy background with subtle brand color accents or soft gradient\n- Text: High contrast for excellent readability\n\n## TECHNICAL REQUIREMENTS\n- 16:9 landscape layout (target 3840x2160)\n- Wide, cinematic composition with clear horizontal flow\n- All Finnish text must be clearly readable and well-spaced\n- Professional marketing document quality matching top creative agencies\n- Avoid generic stock photo aesthetics\n- No AI-looking artifacts or distortions in faces\n- Clean, sharp typography throughout\n- Premium infographic design language\n- The one-pager should immediately communicate value and create desire to learn more\n",
+      "generated_at": "2026-01-28T20:00:00.099053",
+      "output_path": "/opt/render/project/src/runs/2026-01-28_partiolaiset_20260128_195048/artifacts/onepagers/concept_01.png"
+    },
+    {
+      "concept_id": "concept_02",
+      "brand_styling": {
+        "primary_color": "#202060",
+        "secondary_color": "#e04040",
+        "accent_color": "#7c446d",
+        "style_keywords": [],
+        "logo_available": true,
+        "logo_path": "/opt/render/project/src/runs/2026-01-28_partiolaiset_20260128_195048/artifacts/onepagers/logos/partiolaiset_logo.png"
+      },
+      "content": {
+        "headline": "AIKUISTEN LEIRI",
+        "subheadline": "Kahdeksan aikuista \u2013 jotka eiv\u00e4t ole koskaan olleet partiossa \u2013 l\u00e4hetet\u00e4\u00e4n viikon mittaiselle partio",
+        "bullets": [],
+        "call_to_action": "Let's bring this to life \u2192"
+      },
+      "visual_direction": {
+        "mood": "bold, energetic, contemporary",
+        "imagery_style": "graphic",
+        "composition_notes": "A4 portrait infographic layout with multiple sections."
+      },
+      "generation_prompt": "High-quality horizontal infographic one-pager in 16:9 landscape ratio. Final output should be 3840x2160 (4K UHD) for screen presentation.\n\n## OVERALL VISUAL STYLE\nBold, energetic, contemporary Finnish style. Strong graphics, dynamic composition, social-media-native visual language. Urban, fresh, attention-grabbing. High contrast, unexpected color pops, modern edge.\nThe design must feel premium, professional, and pitch-ready \u2013 like it could be presented at a top creative agency.\nMood: bold, energetic, contemporary\n\n## LOGO PLACEMENT (CRITICAL)\n- TOP LEFT CORNER: Small, elegant Warner Bros. International Television Production Finland logo (use light/white version if dark background)\n- TOP RIGHT CORNER: Small, elegant Partiolaiset company logo\n- Both logos are placed discretely at the very top edge (approximately 3-4% of image height), maintaining balance and symmetry\n- Logos must NOT dominate \u2013 they are subtle professional identifiers only\nJos et l\u00f6yd\u00e4 tarkkaa logoa tai br\u00e4ndiv\u00e4rej\u00e4, k\u00e4yt\u00e4 Partiolaisetn virallista logoa sek\u00e4 logoon ja br\u00e4ndi-ilmeeseen sopivia v\u00e4ris\u00e4vyj\u00e4.\n\n## HEADER SECTION (top 18%)\nBelow the logos:\n- LARGE BOLD TITLE: \"AIKUISTEN LEIRI\"\n- Subtitle: \"Kahdeksan aikuista \u2013 jotka eiv\u00e4t ole koskaan olleet partiossa \u2013 l\u00e4hetet\u00e4\u00e4n viikon mittaiselle par...\"\nTypography: Bold, modern Finnish advertising style, highly legible, strong visual impact\n\n## TIIVISTYS (TOP)\nImmediately after the title, include a compact 3-line summary block:\n- **MIT\u00c4?** Kahdeksan aikuista \u2013 jotka eiv\u00e4t ole koskaan olleet partiossa \u2013 l\u00e4hetet\u00e4\u00e4n viikon mittaiselle partioleirille, jossa he kohtaavat kaiken sen, mit\u00e4 luulivat ti...\n- **MITEN?** **P\u00e4\u00e4formaatti:** - 6-osainen reality-dokumenttisarja (\u00e0 45 min) - Jaksorakenne: Jokainen jakso keskittyy yhteen teemaan (esim. \"Ensimm\u00e4inen y\u00f6\", \"Johtajuus\"...\n- **MIKSI?** Tekee Partiolaisetsta puheenaiheen ja muuttaa kiinnostuksen toiminnaksi.\nThese lines must be punchy and attention-grabbing, capturing the core idea fast.\n\n\n\n## TOTAL-TV FOCUS (MANDATORY)\n- All concepts must be serialized and suitable for linear TV channels and broadcaster VOD platforms.\n- No digital/social-first concepts; social is only an extension.\n\n\n## MAIN VISUAL SECTION (middle 52%)\nSection title: \"KONSEPTIN YDIN\"\n\nKahdeksan aikuista \u2013 jotka eiv\u00e4t ole koskaan olleet partiossa \u2013 l\u00e4hetet\u00e4\u00e4n viikon mittaiselle partioleirille, jossa he kohtaavat kaiken sen, mit\u00e4 luulivat tiet\u00e4v\u00e4ns\u00e4 partiosta: teltan pystytyksen, nuotion sytytt\u00e4misen, y\u00f6suunnistuksen ja johtajuusharjoitukset. Mutta leirin todellinen j\u00e4nnite syntyy siit\u00e4, mit\u00e4 he eiv\u00e4t osanneet odottaa: omien rajojensa l\u00f6yt\u00e4minen, ryhm\u00e4dynamiikan haasteet ja se yll\u00e4tt\u00e4v\u00e4 tunne, kun k\u00e4nnykk\u00e4 on poissa ja edess\u00e4 on vain nuotio ja tuntemattomia ihmisi\u00e4. Formaatti o...\n\nThis section should visually communicate the core concept in a rich, infographic style.\nUse stylized illustrations, photo compositions, and graphic elements that match the brand aesthetic.\nInclude key characters, settings, or scenarios that bring the concept to life.\nThis must feel like a fully art-directed pitch visual, not a minimal poster.\n\n## PROCESS/FORMAT SECTION (20%)\nTitle: \"N\u00c4IN SE TOIMII\"\n\n**P\u00e4\u00e4formaatti:**\n- 6-osainen reality-dokumenttisarja (\u00e0 45 min)\n- Jaksorakenne: Jokainen jakso keskittyy yhteen teemaan (esim. \"Ensimm\u00e4inen y\u00f6\", \"Johtajuus\", \"Yksin mets\u00e4ss\u00e4\", \"Yhteis\u00f6\")\n- Tuotantoarvo: Elokuvamainen kuvaus, intiimi \u00e4\u00e4nimaailma, ei teenn\u00e4ist\u00e4 draamaa\n\n**Julkaisurytmi:**\n- Lineaarinen ensi-ilta viikoittain (MTV3/Nelonen prime time)\n- VOD-jakso heti lineaarin j\u00e4lkeen\n- TikTok/Reels-sis\u00e4lt\u00f6 3\u20135 kertaa viikossa koko kauden ajan\n\n**Laajennukset:**\n- **TikTok-sarja \"Leirin j\u00e4lkeen\":** Osallistujat kuvaavat itse 30\u201360 sekunnin p\u00e4tki\u00e4 arjestaan viikkoja leirin j\u00e4lkeen \u2013 mit\u00e4 j\u00e4i k\u00e4teen?\n- **Podcast \"Nuotiopiiri\":** Syv\u00e4haastattelut osallistujien kanssa, keskustelut asiantuntijoiden kanssa aikuisuudesta, stressist\u00e4 ja luonnon vaikutuksesta\n- **Live-casting:** Avoin haku sosiaalisessa mediassa, jossa ihmiset voivat hakea mukaan ja \u00e4\u00e4nest\u00e4\u00e4 suosikkejaan\n- **PR:** Casting-uutisointi, julkkisosallistujan paljastus, \"behind the scenes\" -materiaali lehdist\u00f6lle\n\n---\n\nPresent as a clear visual flowchart or step-by-step (3-5 stages) with:\n- Each stage in a colored box connected by arrows or visual flow\n- Icon or small visual + short descriptive text per stage\n- Color-coded using brand palette\n\n## BOTTOM SECTION (10%)\nTitle: \"STRATEGINEN MONIALUSTAINEN ILMI\u00d6\"\n\nThree-column layout showing distribution:\n- Primary channel icon + name\n- Secondary channels\n- Impact/reach indicators\n\n## FOOTER\n\"Konsepti joka tekee Partiolaisetsta puheenaiheen ja tavoittaa uusia yleis\u00f6j\u00e4.\"\nA compelling summary of why this concept is perfect for this brand.\n\n## COLOR PALETTE\n- Primary brand color: #202060\n- Secondary color: #e04040\n- Accent color: #7c446d\n- Background: Dynamic gradient or bold brand color with graphic elements\n- Text: High contrast for excellent readability\n\n## TECHNICAL REQUIREMENTS\n- 16:9 landscape layout (target 3840x2160)\n- Wide, cinematic composition with clear horizontal flow\n- All Finnish text must be clearly readable and well-spaced\n- Professional marketing document quality matching top creative agencies\n- Avoid generic stock photo aesthetics\n- No AI-looking artifacts or distortions in faces\n- Clean, sharp typography throughout\n- Premium infographic design language\n- The one-pager should immediately communicate value and create desire to learn more\n",
+      "generated_at": "2026-01-28T20:00:50.884836",
+      "output_path": "/opt/render/project/src/runs/2026-01-28_partiolaiset_20260128_195048/artifacts/onepagers/concept_02.png"
+    },
+    {
+      "concept_id": "concept_03",
+      "brand_styling": {
+        "primary_color": "#202060",
+        "secondary_color": "#e04040",
+        "accent_color": "#7c446d",
+        "style_keywords": [],
+        "logo_available": true,
+        "logo_path": "/opt/render/project/src/runs/2026-01-28_partiolaiset_20260128_195048/artifacts/onepagers/logos/partiolaiset_logo.png"
+      },
+      "content": {
+        "headline": "Operaatio Johtaja",
+        "subheadline": "Kuuden jakson realitysarja, jossa Suomen huippujohtajat \u2013 toimitusjohtajat, startup-perustajat, julk",
+        "bullets": [],
+        "call_to_action": "Let's bring this to life \u2192"
+      },
+      "visual_direction": {
+        "mood": "visionary, impactful, premium",
+        "imagery_style": "mixed",
+        "composition_notes": "A4 portrait infographic layout with multiple sections."
+      },
+      "generation_prompt": "High-quality horizontal infographic one-pager in 16:9 landscape ratio. Final output should be 3840x2160 (4K UHD) for screen presentation.\n\n## OVERALL VISUAL STYLE\nVisionary, cinematic, premium Finnish aesthetic. Award-worthy design quality, sophisticated layering, dramatic lighting. Editorial boldness, statement-making, the kind of design that wins at Cannes Lions.\nThe design must feel premium, professional, and pitch-ready \u2013 like it could be presented at a top creative agency.\nMood: visionary, impactful, premium\n\n## LOGO PLACEMENT (CRITICAL)\n- TOP LEFT CORNER: Small, elegant Warner Bros. International Television Production Finland logo (use light/white version if dark background)\n- TOP RIGHT CORNER: Small, elegant Partiolaiset company logo\n- Both logos are placed discretely at the very top edge (approximately 3-4% of image height), maintaining balance and symmetry\n- Logos must NOT dominate \u2013 they are subtle professional identifiers only\nJos et l\u00f6yd\u00e4 tarkkaa logoa tai br\u00e4ndiv\u00e4rej\u00e4, k\u00e4yt\u00e4 Partiolaisetn virallista logoa sek\u00e4 logoon ja br\u00e4ndi-ilmeeseen sopivia v\u00e4ris\u00e4vyj\u00e4.\n\n## HEADER SECTION (top 18%)\nBelow the logos:\n- LARGE BOLD TITLE: \"Operaatio Johtaja\"\n- Subtitle: \"Kuuden jakson realitysarja, jossa Suomen huippujohtajat \u2013 toimitusjohtajat, startup-perustajat, j...\"\nTypography: Bold, modern Finnish advertising style, highly legible, strong visual impact\n\n## TIIVISTYS (TOP)\nImmediately after the title, include a compact 3-line summary block:\n- **MIT\u00c4?** Kuuden jakson realitysarja, jossa Suomen huippujohtajat \u2013 toimitusjohtajat, startup-perustajat, julkkisesihenkil\u00f6t \u2013 l\u00e4hetet\u00e4\u00e4n vet\u00e4m\u00e4\u00e4n partioviikkoa 12-vuo...\n- **MITEN?** **P\u00e4\u00e4formaatti:** - 6 x 45 min jaksoa, prime time -viihdett\u00e4 - Joka jaksossa uusi johtaja, sama lippukunta (jatkuvuus lasten kanssa) - Rakenne: Saapuminen \u2192...\n- **MIKSI?** Tekee Partiolaisetsta puheenaiheen ja muuttaa kiinnostuksen toiminnaksi.\nThese lines must be punchy and attention-grabbing, capturing the core idea fast.\n\n\n\n## TOTAL-TV FOCUS (MANDATORY)\n- All concepts must be serialized and suitable for linear TV channels and broadcaster VOD platforms.\n- No digital/social-first concepts; social is only an extension.\n\n\n## MAIN VISUAL SECTION (middle 52%)\nSection title: \"KONSEPTIN YDIN\"\n\nKuuden jakson realitysarja, jossa Suomen huippujohtajat \u2013 toimitusjohtajat, startup-perustajat, julkkisesihenkil\u00f6t \u2013 l\u00e4hetet\u00e4\u00e4n vet\u00e4m\u00e4\u00e4n partioviikkoa 12-vuotiaille. Ei avustajia, ei PowerPointeja, ei assistentteja. Vain johtajuustaidot, mets\u00e4 ja lauantai-illan nuotio. Kuka yritysjohtajista osaa oikeasti johtaa \u2013 ja kuka vain k\u00e4skytt\u00e4\u00e4? Lapset \u00e4\u00e4nest\u00e4v\u00e4t jokaisen jakson lopussa, kuka sai heid\u00e4t innostumaan. Finaalissa julkistetaan \"Vuoden Johtaja\" \u2013 jonka tittelist\u00e4 p\u00e4\u00e4tt\u00e4v\u00e4t 12-vuotiaat.\n\n--- \n\nThis section should visually communicate the core concept in a rich, infographic style.\nUse stylized illustrations, photo compositions, and graphic elements that match the brand aesthetic.\nInclude key characters, settings, or scenarios that bring the concept to life.\nThis must feel like a fully art-directed pitch visual, not a minimal poster.\n\n## PROCESS/FORMAT SECTION (20%)\nTitle: \"N\u00c4IN SE TOIMII\"\n\n**P\u00e4\u00e4formaatti:**\n- 6 x 45 min jaksoa, prime time -viihdett\u00e4\n- Joka jaksossa uusi johtaja, sama lippukunta (jatkuvuus lasten kanssa)\n- Rakenne: Saapuminen \u2192 Haaste (esim. y\u00f6retki, kilpailu toista ryhm\u00e4\u00e4 vastaan) \u2192 Kriisi \u2192 Ratkaisu \u2192 Lasten \u00e4\u00e4nestys\n\n**Julkaisurytmi:**\n- Viikottainen TV-esitys (sunnuntai-ilta, perheen yhteinen katseluhetki)\n- Jaksot VOD-palveluun heti esityksen j\u00e4lkeen\n- TikTok-teasarit (60 sek) keskiviikkoisin ennen jaksoa\n\n**Laajennukset:**\n- **TikTok/Reels:** \"Johtajan tuomio\" -klippi (lapsen suora kommentti), behind-the-scenes mokailut\n- **LinkedIn:** \"Mit\u00e4 opin 12-vuotiailta johtajuudesta\" -kolumnisarja osallistujilta \u2192 aikuisrekrytointi\n- **Live-finaali:** Julkinen tapahtuma, jossa kaikki kauden johtajat kohtaavat ja lapset julistavat voittajan\n- **OOH:** \"12-vuotiaat valitsevat Suomen parhaan johtajan\" -julisteet kaupunkikeskustoissa\n- **PR:** Embargo-haastattelut osallistujilta ennen kauden alkua\n\n---\n\nPresent as a clear visual flowchart or step-by-step (3-5 stages) with:\n- Each stage in a colored box connected by arrows or visual flow\n- Icon or small visual + short descriptive text per stage\n- Color-coded using brand palette\n\n## BOTTOM SECTION (10%)\nTitle: \"STRATEGINEN MONIALUSTAINEN ILMI\u00d6\"\n\nThree-column layout showing distribution:\n- Primary channel icon + name\n- Secondary channels\n- Impact/reach indicators\n\n## FOOTER\n\"Konsepti joka tekee Partiolaisetsta puheenaiheen ja tavoittaa uusia yleis\u00f6j\u00e4.\"\nA compelling summary of why this concept is perfect for this brand.\n\n## COLOR PALETTE\n- Primary brand color: #202060\n- Secondary color: #e04040\n- Accent color: #7c446d\n- Background: Rich dark base with premium lighting effects and depth, or striking bold color statement\n- Text: High contrast for excellent readability\n\n## TECHNICAL REQUIREMENTS\n- 16:9 landscape layout (target 3840x2160)\n- Wide, cinematic composition with clear horizontal flow\n- All Finnish text must be clearly readable and well-spaced\n- Professional marketing document quality matching top creative agencies\n- Avoid generic stock photo aesthetics\n- No AI-looking artifacts or distortions in faces\n- Clean, sharp typography throughout\n- Premium infographic design language\n- The one-pager should immediately communicate value and create desire to learn more\n",
+      "generated_at": "2026-01-28T20:01:40.371626",
+      "output_path": "/opt/render/project/src/runs/2026-01-28_partiolaiset_20260128_195048/artifacts/onepagers/concept_03.png"
+    }
+  ],
   "onepagers_skipped": false,
   "onepagers_error": null,
   "pitch_email": "",
@@ -666,6 +742,15 @@
     {
       "phase": "create",
       "started_at": "2026-01-28T19:53:09.132055",
+      "completed_at": "2026-01-28T19:58:59.201462",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "visualize",
+      "started_at": "2026-01-28T19:58:59.207527",
       "completed_at": null,
       "success": false,
       "error_message": null,
