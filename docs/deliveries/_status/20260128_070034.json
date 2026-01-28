@@ -2,8 +2,8 @@
   "run_id": "20260128_070034",
   "company_slug": "lhitapiola",
   "created_at": "2026-01-28T07:00:34.424333",
-  "updated_at": "2026-01-28T07:00:37.822643",
-  "current_phase": "strategize",
+  "updated_at": "2026-01-28T07:06:39.735347",
+  "current_phase": "create",
   "user_input": {
     "company_name": "L\u00e4hiTapiola",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -257,8 +257,352 @@
       "success_hypothesis": "This concept unlocks an untapped opportunity for L\u00e4hiTapiola by addressing their aspiration in a way that creates cultural relevance and positions the brand as an innovator in their space."
     }
   ],
-  "concepts": [],
-  "treatment_files": [],
+  "concepts": [
+    {
+      "id": "concept_01",
+      "title": "El\u00e4m\u00e4n Ensiapup\u00e4ivystys",
+      "hook": "Dokumentaarinen sarja, jossa oikeat suomalaiset kohtaavat yll\u00e4tt\u00e4vi\u00e4 arjen kriisej\u00e4 \u2013 ja L\u00e4hiTapiolan asiantuntijat auttavat heit\u00e4 selvi\u00e4m\u00e4\u00e4n niist\u00e4 reaaliajassa.",
+      "premise": "Joka jaksossa seuraamme tavallisia suomalaisia, jotka kohtaavat yll\u00e4tt\u00e4v\u00e4n el\u00e4m\u00e4ntilanteen: vesivahinko uudessa asunnossa, auto hajosi perheen lomareissulla, vakava sairastuminen kesken kiireisen arjen. Kamerat seuraavat, kun L\u00e4hiTapiolan asiantuntijat astuvat kuvaan ja auttavat konkreettisesti \u2013 ei mainospuheilla, vaan aidoilla teoilla. Sarja tekee n\u00e4kyv\u00e4ksi sen, mit\u00e4 'El\u00e4m\u00e4nturva' oikeasti tarkoittaa kriisihetkell\u00e4.",
+      "long_form_extension": "8-osainen dokumentaarisarja Neloselle prime time -slotiin (45 min/jakso), VOD-julkaisu Ruutu+:ssa. Broadcast-versio sis\u00e4lt\u00e4\u00e4 laajemmat taustatarinat ja syvemm\u00e4t henkil\u00f6kuvat.",
+      "format": {
+        "series_type": "seasonal",
+        "episode_length": "22-25 minuuttia",
+        "cadence": "Viikoittain",
+        "season_length": "8 jaksoa"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "YouTube",
+          "rationale": "YouTube mahdollistaa dokumentaarisen sis\u00e4ll\u00f6n pitk\u00e4j\u00e4nteisen katselukokemuksen ja hakukonel\u00f6ydett\u00e4vyyden vakuutusaiheisiin liittyen. Alusta tavoittaa urbaanit 25-45-vuotiaat, jotka hakevat aitoa, informatiivista sis\u00e4lt\u00f6\u00e4.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "Instagram",
+            "rationale": "",
+            "adaptation": "2-3 minuutin tiivistetyt 'kriisihetket' Reelsein\u00e4 \u2013 emotionaaliset huippukohdat, jotka ohjaavat t\u00e4ysiin jaksoihin"
+          },
+          {
+            "platform": "TikTok",
+            "rationale": "",
+            "adaptation": "60 sekunnin 'Mit\u00e4 tekisit?' -skenaariot, joissa katsojat arvaavat ratkaisun ennen asiantuntijan vastausta"
+          }
+        ],
+        "amplification": "PR-yhteisty\u00f6 iltap\u00e4iv\u00e4lehtien kanssa (tarinat jaksojen henkil\u00f6ist\u00e4), L\u00e4hiTapiolan omat kanavat ja alueyhti\u00f6iden paikallinen markkinointi"
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Avauskohtaus: kriisihetki tapahtuu (cliffhanger-alku)",
+          "Henkil\u00f6esittely: kuka on kriisiss\u00e4 ja mik\u00e4 on heid\u00e4n el\u00e4m\u00e4ntilanteensa",
+          "Asiantuntijan saapuminen: L\u00e4hiTapiolan ihminen astuu kuvaan",
+          "Ratkaisu reaaliajassa: konkreettinen auttaminen kameralle",
+          "Epilogi: 2 viikkoa my\u00f6hemmin \u2013 miten el\u00e4m\u00e4 jatkui"
+        ],
+        "variable_elements": [
+          "Kriisityyppi vaihtelee: terveys, omaisuus, liikenne, talous",
+          "Maantieteellinen sijainti: Helsinki, Tampere, Turku, Oulu (urbaani fokus)",
+          "Perhetyyppi: yksinasuja, lapsiperhe, el\u00e4kel\u00e4ispariskunta, yritt\u00e4j\u00e4"
+        ],
+        "host_approach": "Ei erillist\u00e4 juontajaa. Voice-over-kerronta rakentaa j\u00e4nnityst\u00e4, mutta tarinan keski\u00f6ss\u00e4 ovat aina oikeat ihmiset ja asiantuntijat."
+      },
+      "brand_integration": {
+        "philosophy": "Br\u00e4ndi n\u00e4kyy tekojen kautta, ei logojen. L\u00e4hiTapiola on tarinan sankari, joka ratkaisee ongelman \u2013 ei sponsori, joka keskeytt\u00e4\u00e4 tarinan.",
+        "integration_method": "Asiantuntijat esitell\u00e4\u00e4n nimell\u00e4 ja tittelill\u00e4, mutta heid\u00e4n toimintansa puhuu puolestaan. Jakson lopussa lyhyt 'N\u00e4in L\u00e4hiTapiola auttoi' -infografiikka.",
+        "screen_time_balance": "85% sis\u00e4lt\u00f6 (ihmisten tarinat), 15% br\u00e4ndi (asiantuntijat ja lopputekstit)",
+        "cta_approach": "Jakson lopussa: 'Varaudu el\u00e4m\u00e4n yll\u00e4tyksiin. lahitapiola.fi/elamanturva'"
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Vesivahinko Kalliossa",
+          "description": "Nuoripari l\u00f6yt\u00e4\u00e4 kotiin tullessaan koko asunnon tulvivan \u2013 naapurin putki on pett\u00e4nyt ja heid\u00e4n ensiasuntonsa on pilalla."
+        },
+        {
+          "number": 2,
+          "title": "Auto hajosi Lapissa",
+          "description": "Nelihenkinen perhe on j\u00e4\u00e4nyt tien p\u00e4\u00e4lle Sodankyl\u00e4ss\u00e4 -25 asteessa, auto ei k\u00e4ynnisty ja l\u00e4hin korjaamo on 200 km p\u00e4\u00e4ss\u00e4."
+        },
+        {
+          "number": 3,
+          "title": "Sy\u00f6p\u00e4diagnoosi 35-vuotiaana",
+          "description": "Urbaani startup-yritt\u00e4j\u00e4 saa yll\u00e4tt\u00e4v\u00e4n diagnoosin \u2013 miten vakuutus ja terveyskumppanuus auttavat, kun el\u00e4m\u00e4 pys\u00e4htyy."
+        },
+        {
+          "number": 4,
+          "title": "Tulipalo kerrostalossa",
+          "description": "Tampereen keskustassa syttyy tulipalo \u2013 seuraamme kahta perhett\u00e4, jotka menett\u00e4v\u00e4t kotinsa ja rakentavat el\u00e4m\u00e4\u00e4 uudelleen."
+        },
+        {
+          "number": 5,
+          "title": "Identiteettivarkaus",
+          "description": "Helsinkil\u00e4isen freelancerin henkil\u00f6tiedot varastetaan ja h\u00e4nen nimiss\u00e4\u00e4n otetaan lainoja \u2013 digitaalinen painajainen alkaa."
+        },
+        {
+          "number": 6,
+          "title": "\u00c4idin sairastuminen",
+          "description": "Yksinhuoltaja\u00e4iti saa vakavan sairauden \u2013 miten vakuutus turvaa lasten arjen ja \u00e4idin toipumisen."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee suoraan j\u00e4nnitteen 'El\u00e4m\u00e4nturva-tunne vs. Hintalappu-realismi' n\u00e4ytt\u00e4m\u00e4ll\u00e4 konkreettisesti, mit\u00e4 vakuutus tarkoittaa kriisihetkell\u00e4. Muuttaa abstraktin lupauksen todistettavaksi teoksi.",
+        "competitive_differentiation": "If puhuu helppoudesta, OP niputtamisesta \u2013 L\u00e4hiTapiola n\u00e4ytt\u00e4\u00e4 ihmisyytt\u00e4. Kukaan kilpailija ei ole tehnyt dokumentaarista sarjaa, jossa asiantuntijat ovat sankareita aidoissa tilanteissa.",
+        "audience_value_proposition": "Katsojat rakastavat selviytymistarinoita ja kriisidokumentteja (vrt. 112 H\u00e4t\u00e4keskus, Pelastajat). T\u00e4m\u00e4 on sama formaatti, mutta vakuutusn\u00e4k\u00f6kulmasta \u2013 ja siksi ainutlaatuinen."
+      },
+      "execution": {
+        "complexity": "medium",
+        "budget_tier": "mid",
+        "timeline_to_first_episode": "12-14 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Aitojen kriisitapausten l\u00f6yt\u00e4minen voi olla haastavaa ja aikaa viev\u00e4\u00e4",
+          "mitigation": "Yhteisty\u00f6 L\u00e4hiTapiolan korvausosaston kanssa \u2013 he tiet\u00e4v\u00e4t reaaliaikaisesti, miss\u00e4 tapahtuu. Lis\u00e4ksi casting-haku omissa kanavissa."
+        },
+        {
+          "risk": "Tarinat voivat tuntua liian 'markkinointimaisilta' jos asiantuntijat vaikuttavat teenn\u00e4isilt\u00e4",
+          "mitigation": "Dokumentaarinen l\u00e4hestymistapa: emme ohjaa asiantuntijoita sanomaan tiettyj\u00e4 asioita. Autenttisuus syntyy seuraamalla todellista prosessia."
+        },
+        {
+          "risk": "Yksityisyydensuoja ja sensitiiviset aiheet (sairaudet, kuolemat)",
+          "mitigation": "Tiukka eettinen protokolla ja juridinen tarkistus. Kaikki osallistujat allekirjoittavat laajan suostumuksen ja n\u00e4kev\u00e4t materiaalin ennen julkaisua."
+        }
+      ]
+    },
+    {
+      "id": "concept_02",
+      "title": "Kaupungin Selviytyj\u00e4t",
+      "hook": "Suositut somevaikuttajat kohtaavat urbaanin arjen pahimmat painajaiset \u2013 ja oppivat selviytym\u00e4\u00e4n niist\u00e4 L\u00e4hiTapiolan asiantuntijoiden opastuksella.",
+      "premise": "Joka jaksossa tunnettu vaikuttaja joutuu simuloituun kriisitilanteeseen: s\u00e4hk\u00f6potkulauta-kolari, asuntomurto, puhelimen hakkerointi, ensiasunnon ostamisen sudenkuopat. He eiv\u00e4t tied\u00e4 etuk\u00e4teen, mit\u00e4 tulee \u2013 ja kamerat seuraavat aitoa reaktiota. L\u00e4hiTapiolan asiantuntijat opettavat, miten tilanteesta selvit\u00e4\u00e4n ja miten sen olisi voinut est\u00e4\u00e4. Preventio muuttuu viihdytt\u00e4v\u00e4ksi, kun julkkikset mokailevat ja oppivat.",
+      "long_form_extension": "6-osainen realitysarja MTV3:lle (30 min/jakso) prime time -slotiin, VOD Katsomossa. TV-versio sis\u00e4lt\u00e4\u00e4 laajemmat haasteet ja behind-the-scenes-materiaalin vaikuttajien reaktioista.",
+      "format": {
+        "series_type": "seasonal",
+        "episode_length": "8-12 minuuttia",
+        "cadence": "2 kertaa viikossa",
+        "season_length": "12 jaksoa (6 vaikuttajaa, 2 jaksoa per henkil\u00f6)"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "TikTok",
+          "rationale": "TikTok tavoittaa urbaanit nuoret aikuiset (18-35), jotka ovat L\u00e4hiTapiolan haaste-kohderyhm\u00e4. Vaikuttajien oma seuraajakunta tuo orgaanista levi\u00e4mist\u00e4 ja uskottavuutta.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "YouTube",
+            "rationale": "",
+            "adaptation": "Pidemm\u00e4t 'Full Episode' -versiot, jotka kokoavat TikTok-jaksojen tarinan yhteen 15 minuutin kokonaisuudeksi"
+          },
+          {
+            "platform": "Instagram Reels",
+            "rationale": "",
+            "adaptation": "Vaikuttajien omat behind-the-scenes-postaukset ja reaktiovideot"
+          }
+        ],
+        "amplification": "Vaikuttajien omat kanavat (cross-posting), L\u00e4hiTapiolan TikTok-tili, maksettu TikTok-mainonta kohdennettuna kaupunkeihin"
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Avaus: Vaikuttaja saa mystisen kutsun 'haasteeseen' (ei tied\u00e4 mit\u00e4 on tulossa)",
+          "Kriisi iskee: Simuloitu tilanne tapahtuu yll\u00e4tt\u00e4en",
+          "Reaktio: Aito h\u00e4mmennys ja ensireaktio",
+          "Asiantuntija astuu kuvaan: Opetus ja ratkaisu",
+          "Lopputesti: Vaikuttaja n\u00e4ytt\u00e4\u00e4 oppineensa (tai ei)"
+        ],
+        "variable_elements": [
+          "Kriisityyppi: Liikenne, koti, terveys, digiturvalllisuus, talous",
+          "Vaikuttaja: Eri persoonat tuovat erilaista energiaa",
+          "Ymp\u00e4rist\u00f6: Kaupunki vaihtuu (Helsinki, Tampere, Turku, Oulu)"
+        ],
+        "host_approach": "Ei erillist\u00e4 juontajaa. Vaikuttajat ovat p\u00e4\u00e4henkil\u00f6it\u00e4, asiantuntijat ovat 'mentoreita'. Voice-over selitt\u00e4\u00e4 opetukset."
+      },
+      "brand_integration": {
+        "philosophy": "L\u00e4hiTapiola on 'viisas kaveri', joka tiet\u00e4\u00e4 miten selvit\u00e4 \u2013 ei holhoava vanhempi. Asiantuntijat ovat samaistuttavia, ei p\u00f6n\u00f6tt\u00e4vi\u00e4.",
+        "integration_method": "Asiantuntijat esitell\u00e4\u00e4n rennolla tyylill\u00e4 ('T\u00e4ss\u00e4 on Mika, h\u00e4n tiet\u00e4\u00e4 kaiken autovahingoista'). Ei virallisia titteleit\u00e4, vaan inhimillist\u00e4 eksperttiytt\u00e4.",
+        "screen_time_balance": "75% viihde (vaikuttajan reaktiot ja tilanne), 25% br\u00e4ndi (asiantuntijan opetus ja lopputekstit)",
+        "cta_approach": "Jakson lopussa: '\u00c4l\u00e4 opi kantap\u00e4\u00e4n kautta. lahitapiola.fi'"
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Potkulautakatastrofi",
+          "description": "Tubettaja Roni Back ajaa s\u00e4hk\u00f6potkulaudalla 'simuloituun' onnettomuuteen \u2013 mit\u00e4 tapahtuu, kun vakuutusta ei ole?"
+        },
+        {
+          "number": 2,
+          "title": "Asuntoon on murtauduttu",
+          "description": "Lifestyle-vaikuttaja Sara Sieppi palaa kotiin ja huomaa, ett\u00e4 joku on k\u00e4ynyt \u2013 miten toimia ja miten varautua?"
+        },
+        {
+          "number": 3,
+          "title": "Puhelin hakkeroitiin",
+          "description": "Somet\u00e4hti Tuure Boelius menett\u00e4\u00e4 p\u00e4\u00e4syn kaikkiin tileihins\u00e4 \u2013 digitaalinen identiteettivarkaus reaaliajassa."
+        },
+        {
+          "number": 4,
+          "title": "Ensiasunnon sudenkuopat",
+          "description": "Nuori vaikuttajapari etsii ensiasuntoa \u2013 mit\u00e4 he eiv\u00e4t tienneet asuntolainasta ja kotivakuutuksesta?"
+        },
+        {
+          "number": 5,
+          "title": "Lomamatka meni pieleen",
+          "description": "Matkabloggaaja j\u00e4\u00e4 jumiin ulkomaille ilman toimivaa matkavakuutusta \u2013 mit\u00e4 nyt?"
+        },
+        {
+          "number": 6,
+          "title": "Terveysshokki",
+          "description": "Fitness-vaikuttaja loukkaantuu treeniss\u00e4 \u2013 miten terveysvakuutus toimii ja mit\u00e4 se oikeasti kattaa?"
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee j\u00e4nnitteen 'Ennaltaehk\u00e4isyn t\u00e4rkeys vs. Sis\u00e4ll\u00f6n tylsyys' tekem\u00e4ll\u00e4 preventiosta viihdett\u00e4. Opetus piiloutuu viihteen sis\u00e4\u00e4n.",
+        "competitive_differentiation": "Kukaan vakuutusyhti\u00f6 Suomessa ei tee vaikuttajayhteisty\u00f6t\u00e4 t\u00e4ll\u00e4 tasolla. If ja OP puhuvat nuorille \u2013 L\u00e4hiTapiola puhuu heid\u00e4n kanssaan.",
+        "audience_value_proposition": "Vaikuttajien fanit katsovat kaiken, mit\u00e4 heid\u00e4n suosikkinsa tekee. Lis\u00e4ksi 'kriisi-reality' on yksi TikTokin suosituimmista genreist\u00e4."
+      },
+      "execution": {
+        "complexity": "medium",
+        "budget_tier": "mid",
+        "timeline_to_first_episode": "8-10 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Vaikuttajien maine voi olla riskialtis \u2013 skandaalit heijastuvat br\u00e4ndiin",
+          "mitigation": "Huolellinen vaikuttajavalinta ja sopimukset, jotka mahdollistavat materiaalin vet\u00e4misen. Valitaan 'turvallisia' vaikuttajia, joilla on positiivinen maine."
+        },
+        {
+          "risk": "Simuloidut tilanteet voivat tuntua teenn\u00e4isilt\u00e4",
+          "mitigation": "Panostetaan yll\u00e4tyselementtiin \u2013 vaikuttajat eiv\u00e4t oikeasti tied\u00e4, mit\u00e4 on tulossa. Aidot reaktiot tekev\u00e4t sis\u00e4ll\u00f6st\u00e4 uskottavaa."
+        },
+        {
+          "risk": "Vakuutusaihe voi tuntua tyls\u00e4lt\u00e4 vaikuttajien yleis\u00f6lle",
+          "mitigation": "Fokus on viihdytt\u00e4viss\u00e4 reaktioissa ja oppimisessa, ei vakuutusehdoissa. Vakuutus on sivutuote, ei p\u00e4\u00e4asia."
+        }
+      ]
+    },
+    {
+      "id": "concept_03",
+      "title": "24 Tuntia Turvassa",
+      "hook": "Kunnianhimoinen live-tapahtuma ja TV-spektaakkeli, jossa suomalaiset julkkikset viett\u00e4v\u00e4t 24 tuntia erilaisissa kriisitilanteissa \u2013 ja koko Suomi seuraa, selvi\u00e4v\u00e4tk\u00f6 he.",
+      "premise": "Kerran vuodessa j\u00e4rjestett\u00e4v\u00e4 suurtapahtuma, jossa 6 julkisuuden henkil\u00f6\u00e4 lukitaan 24 tunniksi simuloituihin kriisiymp\u00e4rist\u00f6ihin: tulviva asunto, jumissa hissiin, auto hajonnut keskell\u00e4 ei-mit\u00e4\u00e4n, s\u00e4hk\u00f6katko talvipakkasella. Yleis\u00f6 seuraa liven\u00e4 ja \u00e4\u00e4nest\u00e4\u00e4, kuka selvi\u00e4\u00e4 parhaiten. L\u00e4hiTapiolan asiantuntijat ovat 'pelastustiimi', joka auttaa \u2013 mutta vasta kun julkkis on yritt\u00e4nyt itse. Selviytymisviihde kohtaa vakuutusopetuksen.",
+      "long_form_extension": "24 tunnin live-l\u00e4hetys jaettuna 4x6h blokkeihin Nelosella ja Ruutu+:ssa. Lis\u00e4ksi 90 minuutin 'Best of' -kooste prime time -l\u00e4hetykseksi seuraavana p\u00e4iv\u00e4n\u00e4.",
+      "format": {
+        "series_type": "event",
+        "episode_length": "24 tuntia live + 90 min kooste",
+        "cadence": "Kerran vuodessa (tammikuu \u2013 'uudenvuoden turvalupaus')",
+        "season_length": "1 tapahtuma/vuosi"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "cross_platform",
+          "rationale": "Tapahtuma on monialustainen spektaakkeli: TV (Nelonen) tavoittaa massat, YouTube/Twitch tavoittaa nuoremman yleis\u00f6n, TikTok levitt\u00e4\u00e4 parhaat hetket viraalisti.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "TikTok",
+            "rationale": "",
+            "adaptation": "Reaaliaikaiset klipit parhaista hetkist\u00e4 \u2013 'Katso kun [julkkis] paniikissa!' \u2013 jokainen viraalihetki jaetaan heti"
+          },
+          {
+            "platform": "YouTube",
+            "rationale": "",
+            "adaptation": "Live-striimi rinnakkain TV-l\u00e4hetyksen kanssa, behind-the-scenes-kamerat, chat-interaktio"
+          },
+          {
+            "platform": "Instagram",
+            "rationale": "",
+            "adaptation": "Stories-seuranta, \u00e4\u00e4nestyspollaukset, julkkisten omat postaukset tapahtuman aikana"
+          }
+        ],
+        "amplification": "Massiivinen PR-kampanja ennen tapahtumaa, julkkisten omat kanavat, kumppanuus iltap\u00e4iv\u00e4lehtien kanssa live-uutisointiin"
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Avausseremonia: Julkkikset esitell\u00e4\u00e4n ja kriisiymp\u00e4rist\u00f6t paljastetaan",
+          "Live-seuranta: Kamerat seuraavat jokaista julkkista 24 tunnin ajan",
+          "Yleis\u00f6\u00e4\u00e4nestykset: Katsojat \u00e4\u00e4nest\u00e4v\u00e4t, kuka selvi\u00e4\u00e4 parhaiten",
+          "Asiantuntija-interventiot: L\u00e4hiTapiolan tiimi auttaa kriisihetkill\u00e4",
+          "Finaali: Voittajan julistus ja opitun yhteenveto"
+        ],
+        "variable_elements": [
+          "Kriisiymp\u00e4rist\u00f6t vaihtuvat vuosittain (uudet skenaariot)",
+          "Julkkiskokoonpano vaihtuu",
+          "Interaktiiviset elementit kehittyv\u00e4t (AR, \u00e4\u00e4nestyssovellus)"
+        ],
+        "host_approach": "Tunnettu juontajapari (esim. Janne Kataja + Jenni P\u00e4\u00e4skysaari) studiossa, jotka kommentoivat tapahtumia ja haastattelevat asiantuntijoita."
+      },
+      "brand_integration": {
+        "philosophy": "L\u00e4hiTapiola on tapahtuman mahdollistaja ja 'pelastustiimi'. Br\u00e4ndi on l\u00e4sn\u00e4 joka hetkess\u00e4, mutta tarinan sankareita ovat julkkikset ja heid\u00e4n selviytymisens\u00e4.",
+        "integration_method": "Kriisiymp\u00e4rist\u00f6t on br\u00e4nd\u00e4tty ('L\u00e4hiTapiolan Tulvakoti'), asiantuntijat ovat n\u00e4kyv\u00e4sti esill\u00e4, mutta fokus on viihdytt\u00e4v\u00e4ss\u00e4 sis\u00e4ll\u00f6ss\u00e4.",
+        "screen_time_balance": "70% viihde (julkkisten selviytyminen), 30% br\u00e4ndi (asiantuntijat, br\u00e4nd\u00e4tyt ymp\u00e4rist\u00f6t, opetukset)",
+        "cta_approach": "Tapahtuman aikana: 'Tee oma turvallisuussuunnitelmasi lahitapiola.fi/24tuntia'. Lopussa: kampanjakoodi alennukseen."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Tulvakoti",
+          "description": "N\u00e4yttelij\u00e4 Jasper P\u00e4\u00e4kk\u00f6nen her\u00e4\u00e4 keskell\u00e4 y\u00f6t\u00e4 asuntoon, joka tulvii \u2013 vesi nousee ja h\u00e4nen pit\u00e4\u00e4 pelastaa t\u00e4rkeimm\u00e4t tavarat."
+        },
+        {
+          "number": 2,
+          "title": "Hissijumitus",
+          "description": "Laulaja SANNI j\u00e4\u00e4 jumiin hissiin 12 tunniksi \u2013 miten s\u00e4ilytt\u00e4\u00e4 rauhallisuus ja mit\u00e4 tehd\u00e4?"
+        },
+        {
+          "number": 3,
+          "title": "Auto hajosi Lapissa",
+          "description": "Koomikko Ismo Leikola j\u00e4\u00e4 yksin hajonneeseen autoon Lapin er\u00e4maassa -30 asteessa."
+        },
+        {
+          "number": 4,
+          "title": "S\u00e4hk\u00f6katko talvipakkasella",
+          "description": "Urheilija Nooralotta Neziri viett\u00e4\u00e4 24 tuntia talossa, jossa s\u00e4hk\u00f6t katkeavat ja l\u00e4mp\u00f6tila laskee."
+        },
+        {
+          "number": 5,
+          "title": "Digitaalinen kaappaus",
+          "description": "Tubettaja Roni Back menett\u00e4\u00e4 p\u00e4\u00e4syn kaikkiin laitteisiinsa ja tileihins\u00e4 \u2013 h\u00e4nen pit\u00e4\u00e4 selvit\u00e4 24 tuntia ilman digitaalista identiteetti\u00e4."
+        },
+        {
+          "number": 6,
+          "title": "Evakuointitilanne",
+          "description": "Toimittaja Maria Teresa her\u00e4\u00e4 keskell\u00e4 y\u00f6t\u00e4 paloh\u00e4lytykseen \u2013 h\u00e4nell\u00e4 on 5 minuuttia aikaa evakuoitua."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee kaikki kolme strategista j\u00e4nnitett\u00e4 kerralla: Tekee 'L\u00e4hi'-br\u00e4ndist\u00e4 relevantin urbaaneille (tapahtuma Helsingiss\u00e4), muuttaa ennaltaehk\u00e4isyn viihdytt\u00e4v\u00e4ksi spektaakkeliksi, ja todistaa El\u00e4m\u00e4nturvan arvon konkreettisesti.",
+        "competitive_differentiation": "Kukaan vakuutusyhti\u00f6 maailmassa ei ole tehnyt 24 tunnin live-selviytymisformaattia. T\u00e4m\u00e4 on t\u00e4ysin uusi genre vakuutusmarkkinoinnissa.",
+        "audience_value_proposition": "Selviytymisohjelmat (Selviytyj\u00e4t, Big Brother) ovat Suomen katsotuimpia formaatteja. T\u00e4m\u00e4 yhdist\u00e4\u00e4 selviytymisviihteen ja oppimisen \u2013 katsoja viihtyy JA oppii."
+      },
+      "execution": {
+        "complexity": "high",
+        "budget_tier": "premium",
+        "timeline_to_first_episode": "16-20 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Korkea budjetti ja kompleksi tuotanto",
+          "mitigation": "Aloitetaan pilotilla: 6 tunnin live-tapahtuma yhdell\u00e4 julkkiksella, testataan konsepti ennen t\u00e4ysimittaista 24h-versiota."
+        },
+        {
+          "risk": "Julkkisten turvallisuus simuloiduissa kriiseiss\u00e4",
+          "mitigation": "Kaikki ymp\u00e4rist\u00f6t ovat kontrolloituja ja turvallisia. Paikalla l\u00e4\u00e4kint\u00e4henkil\u00f6kunta ja turvallisuustiimi 24/7."
+        },
+        {
+          "risk": "Yleis\u00f6 ei sitoudu 24 tunnin l\u00e4hetykseen",
+          "mitigation": "Monipuolinen sis\u00e4lt\u00f6strategia: TikTok-klipit, YouTube-highlight-reel, TV-kooste. Kaikille ei tarvitse katsoa kaikkea \u2013 parhaat hetket levi\u00e4v\u00e4t orgaanisesti."
+        },
+        {
+          "risk": "Kriisitilanteiden simulointi voi tuntua ep\u00e4aidolta",
+          "mitigation": "Panostetaan lavastukseen ja yll\u00e4tyselementteihin. Julkkikset eiv\u00e4t tied\u00e4 tarkalleen, mit\u00e4 on tulossa. Aitous syntyy reaktioista."
+        }
+      ]
+    }
+  ],
+  "treatment_files": [
+    "/opt/render/project/src/runs/lhitapiola/TREATMENTS/lhitapiola_TREATMENT_01_20260128_070639.md",
+    "/opt/render/project/src/runs/lhitapiola/TREATMENTS/lhitapiola_TREATMENT_02_20260128_070639.md",
+    "/opt/render/project/src/runs/lhitapiola/TREATMENTS/lhitapiola_TREATMENT_03_20260128_070639.md"
+  ],
   "onepager_specs": [],
   "onepagers_skipped": false,
   "onepagers_error": null,
@@ -285,6 +629,15 @@
     {
       "phase": "strategize",
       "started_at": "2026-01-28T07:00:37.816645",
+      "completed_at": "2026-01-28T07:00:39.486126",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "create",
+      "started_at": "2026-01-28T07:00:39.491738",
       "completed_at": null,
       "success": false,
       "error_message": null,
