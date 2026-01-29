@@ -2,8 +2,8 @@
   "run_id": "20260129_075155",
   "company_slug": "stark-suomi",
   "created_at": "2026-01-29T07:51:55.043236",
-  "updated_at": "2026-01-29T07:51:55.043249",
-  "current_phase": "input",
+  "updated_at": "2026-01-29T07:51:57.816368",
+  "current_phase": "strategize",
   "user_input": {
     "company_name": "Stark Suomi",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -13,14 +13,289 @@
     "use_cached_research": true,
     "total_tv_only": true
   },
-  "dossier": null,
-  "concept_briefs": [],
+  "dossier": {
+    "company_name": "Stark Suomi",
+    "company_slug": "stark-suomi",
+    "generated_at": "2026-01-29T07:11:07.448431",
+    "brand_identity": {
+      "positioning": "Ammattirakentajan tuottavuuskumppani ja logistinen mahdollistaja. Implisiittinen lupaus: 'Ammattilainen asialla'.",
+      "visual_markers": {
+        "primary_color": "Stark Blue",
+        "secondary_colors": [
+          "White"
+        ],
+        "style_keywords": [
+          "Teollinen",
+          "J\u00e4m\u00e4kk\u00e4",
+          "Selke\u00e4 typografia"
+        ],
+        "tone_keywords": [
+          "Maskuliininen",
+          "Funktionaalinen"
+        ]
+      },
+      "voice_characteristics": [
+        "Asiallinen",
+        "Pragmaattinen",
+        "Auktoriteettia huokuva (The Ruler)",
+        "Tekniseen suorituskykyyn nojaava"
+      ]
+    },
+    "strategic_priorities": [
+      {
+        "rank": 1,
+        "priority": "Logistinen Ylivoima & Saatavuus (The 'Nonstop' Promise)",
+        "evidence": [
+          "Investoinnit 24/7 auki oleviin 'Nonstop'-myym\u00e4l\u00f6ihin",
+          "Uudet jakelukeskukset Oulussa ja Vantaalla",
+          "Viestint\u00e4: 'Ty\u00f6maa ei odota'"
+        ],
+        "execution_assessment": "strong"
+      },
+      {
+        "rank": 2,
+        "priority": "Vastuullisuus kilpailuetuna (Sustainability)",
+        "evidence": [
+          "Stark Groupin 'Net Zero' -tavoitteet",
+          "'Rewood'-konsepti (kierr\u00e4tetty puutavara)",
+          "ISO-sertifioinnit ja ESG-raportointi"
+        ],
+        "execution_assessment": "moderate"
+      },
+      {
+        "rank": 3,
+        "priority": "Digitaalinen Tehokkuus",
+        "evidence": [
+          "Stark Mobile -sovellus",
+          "Verkkokaupan uudistukset ammattilaisille"
+        ],
+        "execution_assessment": "moderate"
+      }
+    ],
+    "marketing_posture": {
+      "current_content_types": [
+        "Sponsorointi (Tunne-ankkurit: Leijonat, yleisurheilu)",
+        "Taktinen mainonta (aukioloajat, saatavuus)",
+        "Tuotevideot (asennusohjeet, esittelyt)"
+      ],
+      "channel_presence": {
+        "youtube": {
+          "active": true,
+          "assessment": "Passiivinen/Arkisto. P\u00e4\u00e4osin tuotevideoita ja mainosp\u00e4tki\u00e4. Ei omaa tuotantoa."
+        },
+        "tiktok": {
+          "active": false,
+          "assessment": "Ei mainittu merkitt\u00e4v\u00e4n\u00e4 (heikko/olematon)."
+        },
+        "instagram": {
+          "active": true,
+          "assessment": "Sekava. Yhdistelm\u00e4 tarjouksia, rekrytointia ja sponsorointihehkutusta."
+        },
+        "linkedin": {
+          "active": true,
+          "assessment": "Sekava. Yhdistelm\u00e4 tarjouksia, rekrytointia ja sponsorointihehkutusta."
+        }
+      },
+      "apparent_gaps": [
+        "Syv\u00e4 tarinankerronta (arkisen rakentamisen sankaritarina puuttuu)",
+        "Huumori (br\u00e4ndi on vakava ja j\u00e4ykk\u00e4)",
+        "Siltasis\u00e4lt\u00f6 (huippu-urheilun teemojen yhdist\u00e4minen konkreettiseen ty\u00f6h\u00f6n)"
+      ],
+      "audience_engagement": "Sitoutuminen korkeinta urheilusis\u00e4ll\u00f6iss\u00e4 (ulkoinen tunne), matalinta korporaatioviestinn\u00e4ss\u00e4."
+    },
+    "competitive_analysis": {
+      "key_competitors": [
+        {
+          "name": "Kesko (K-Rauta / Onninen)",
+          "content_strategy": "Massiivinen n\u00e4kyvyys, kuluttajayst\u00e4v\u00e4llisempi ote, vahva digitaalinen ekosysteemi.",
+          "threat_level": "high"
+        },
+        {
+          "name": "Bauhaus",
+          "content_strategy": "Hintavetoinen, valtava valikoima, DIY-kohderyhm\u00e4.",
+          "threat_level": "low"
+        },
+        {
+          "name": "Paikalliset toimijat",
+          "content_strategy": "Henkil\u00f6kohtainen palvelu ja paikallisuus.",
+          "threat_level": "medium"
+        }
+      ],
+      "brand_winning_areas": [
+        "24/7 saatavuus (Nonstop)",
+        "Puhdas B2B-fokus (ammattilaisliike vs. rautakauppa)"
+      ],
+      "brand_losing_areas": [
+        "Mielikuvallinen j\u00e4ykkyys",
+        "Emotionaalinen et\u00e4isyys asiakkaan arjesta"
+      ]
+    },
+    "strategic_tensions": [
+      {
+        "id": "tension_01",
+        "description": "'Corporate Green' vs. 'Dusty Boots': Emo-yhti\u00f6n hienostunut vastuullisuusjargon ei kohtaa katteiden kanssa kamppailevan rakentajan pragmaattista todellisuutta.",
+        "evidence": [
+          "Stark Group puhuu Net Zerosta ja ESG:st\u00e4",
+          "Kohderyhm\u00e4 taistelee selviytymisest\u00e4 matalasuhdanteessa",
+          "Viestinn\u00e4st\u00e4 puuttuu linkki: miten vihre\u00e4 = rahaa s\u00e4\u00e4st\u00e4v\u00e4"
+        ],
+        "opportunity_type": "gap",
+        "priority_score": 5
+      },
+      {
+        "id": "tension_02",
+        "description": "Huippu-urheilu vs. Arjen puurtaminen: Br\u00e4ndi lainaa tunnetta Leijonilta, mutta ep\u00e4onnistuu siirt\u00e4m\u00e4\u00e4n tuon tunteen uskottavasti asiakkaan omaan ty\u00f6h\u00f6n.",
+        "evidence": [
+          "Raskas sponsorointi (J\u00e4\u00e4kiekkoliitto, yleisurheilu)",
+          "Sis\u00e4lt\u00f6 on joko yl\u00e4tason hype\u00e4 tai alatason tuotefaktaa",
+          "V\u00e4list\u00e4 puuttuu samaistuttava arjen sankaruus"
+        ],
+        "opportunity_type": "aspiration",
+        "priority_score": 4
+      },
+      {
+        "id": "tension_03",
+        "description": "Koneisto vs. Kumppanuus: Stark myy itse\u00e4\u00e4n tehokkaana logistisena koneena, mutta asiakas kaipaa ymm\u00e4rt\u00e4v\u00e4\u00e4 ihmiskumppania.",
+        "evidence": [
+          "Markkinointi korostaa automaatiota ja 24/7-saatavuutta",
+          "Tavoitteena on olla 'luotettu kumppani'",
+          "Logistiikka on kylm\u00e4\u00e4, kumppanuus l\u00e4mmint\u00e4 \u2013 sis\u00e4lt\u00f6 ei yhdist\u00e4 n\u00e4it\u00e4"
+        ],
+        "opportunity_type": "gap",
+        "priority_score": 3
+      }
+    ],
+    "opportunity_zones": [
+      {
+        "id": "opp_01",
+        "description": "\"The Silent Partner\" (N\u00e4kym\u00e4t\u00f6n mahdollistaja)",
+        "rationale": "Ratkaisee j\u00e4nnitteen Koneisto vs. Kumppanuus. K\u00e4\u00e4nnet\u00e4\u00e4n logistinen koneisto inhimilliseksi hy\u00f6dyksi: Stark on niin hyv\u00e4, ett\u00e4 sit\u00e4 ei huomaa, jolloin rakentaja voi keskitty\u00e4 omaan ammattitaitoonsa.",
+        "risk_level": "low"
+      },
+      {
+        "id": "opp_02",
+        "description": "\"Resilience\" (Sisu ja empatia)",
+        "rationale": "Sis\u00e4lt\u00f6strategia, joka tunnustaa rakennusalan kriisin ja tarjoaa vertaistukea. Rakentaa syv\u00e4\u00e4 luottamusta ja erottuu Keskon 'kaikille kaikkea' -linjasta.",
+        "risk_level": "medium"
+      },
+      {
+        "id": "opp_03",
+        "description": "Kouluttava Viihde (Edutainment)",
+        "rationale": "YouTube-kanavan nostaminen uudelle tasolle ammattilaisille suunnatulla 'miten optimoit ty\u00f6maan' -sis\u00e4ll\u00f6ll\u00e4. Hy\u00f6dynt\u00e4\u00e4 asiantuntija-asemaa.",
+        "risk_level": "low"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Stark Suomi - Etusivu",
+        "url": "stark-suomi.fi",
+        "type": "company_site",
+        "date_accessed": "2026-01-29",
+        "relevance": "Primary source for positioning"
+      },
+      {
+        "title": "Stark Suomi - Vastuullisuus",
+        "url": "stark-suomi.fi",
+        "type": "company_site",
+        "date_accessed": "2026-01-29",
+        "relevance": "Source for sustainability strategy"
+      },
+      {
+        "title": "Stark Suomi - Palvelut (Nonstop 24/7)",
+        "url": "stark-suomi.fi",
+        "type": "company_site",
+        "date_accessed": "2026-01-29",
+        "relevance": "Source for logistic priority"
+      },
+      {
+        "title": "YouTube - Stark Suomi Channel",
+        "url": "youtube.com",
+        "type": "social",
+        "date_accessed": "2026-01-29",
+        "relevance": "Analysis of video content strategy"
+      },
+      {
+        "title": "Veikkausliiga / Leijonat (Sponsorointi)",
+        "url": "veikkausliiga.com",
+        "type": "news",
+        "date_accessed": "2026-01-29",
+        "relevance": "Source for marketing partnerships"
+      },
+      {
+        "title": "Suomi24 Keskustelut",
+        "url": "suomi24.fi",
+        "type": "other",
+        "date_accessed": "2026-01-29",
+        "relevance": "Sentiment analysis / Customer voice"
+      }
+    ]
+  },
+  "concept_briefs": [
+    {
+      "slot_id": "01",
+      "slot_type": "safe_bet",
+      "assigned_tension_id": "tension_01",
+      "strategic_focus": "'Corporate Green' vs. 'Dusty Boots': Emo-yhti\u00f6n hienostunut vastuullisuusjargon ei kohtaa katteiden kanssa kamppailevan rakentajan pragmaattista todellisuutta.",
+      "platform_focus": "youtube",
+      "format_guidance": "Focus on proven YouTube formats: documentary-style, interview series, or educational content. Episodes should be 8-15 minutes. Prioritize professional production quality and clear brand alignment. The series should have obvious rewatch and share value.",
+      "risk_profile": "low",
+      "success_hypothesis": "This concept directly addresses Stark Suomi's top strategic priority (gap) with a proven format that minimizes execution risk while delivering measurable brand value."
+    },
+    {
+      "slot_id": "02",
+      "slot_type": "challenger",
+      "assigned_tension_id": "tension_03",
+      "strategic_focus": "Koneisto vs. Kumppanuus: Stark myy itse\u00e4\u00e4n tehokkaana logistisena koneena, mutta asiakas kaipaa ymm\u00e4rt\u00e4v\u00e4\u00e4 ihmiskumppania.",
+      "platform_focus": "tiktok",
+      "format_guidance": "Design for TikTok/Reels first: vertical format, 30-90 seconds, hook in first 3 seconds. Embrace platform-native aesthetics and trends. Consider creator collaborations. Content should feel bold and contemporary, not like traditional brand advertising.",
+      "risk_profile": "medium",
+      "success_hypothesis": "This concept enables Stark Suomi to aggressively address their gap with bold positioning that differentiates them in the market and captures attention on high-engagement platforms."
+    },
+    {
+      "slot_id": "03",
+      "slot_type": "moonshot",
+      "assigned_tension_id": "tension_02",
+      "strategic_focus": "Huippu-urheilu vs. Arjen puurtaminen: Br\u00e4ndi lainaa tunnetta Leijonilta, mutta ep\u00e4onnistuu siirt\u00e4m\u00e4\u00e4n tuon tunteen uskottavasti asiakkaan omaan ty\u00f6h\u00f6n.",
+      "platform_focus": "cross_platform",
+      "format_guidance": "Think beyond single-platform content: interactive experiences, live events with digital extensions, user participation mechanics, or innovative cross-platform storytelling. This should feel like something the industry hasn't seen before. High production ambition is acceptable given the differentiation potential.",
+      "risk_profile": "high",
+      "success_hypothesis": "This concept unlocks an untapped opportunity for Stark Suomi by addressing their aspiration in a way that creates cultural relevance and positions the brand as an innovator in their space."
+    }
+  ],
   "concepts": [],
   "treatment_files": [],
   "onepager_specs": [],
   "onepagers_skipped": false,
   "onepagers_error": null,
   "pitch_email": "",
-  "phase_history": [],
-  "archive_ref": null
+  "phase_history": [
+    {
+      "phase": "validate",
+      "started_at": "2026-01-29T07:51:56.882085",
+      "completed_at": "2026-01-29T07:51:56.885819",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "check_archive",
+      "started_at": "2026-01-29T07:51:56.890417",
+      "completed_at": "2026-01-29T07:51:57.804226",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "strategize",
+      "started_at": "2026-01-29T07:51:57.810676",
+      "completed_at": null,
+      "success": false,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    }
+  ],
+  "archive_ref": "deliveries:stark-suomi/20260129_070759"
 }
