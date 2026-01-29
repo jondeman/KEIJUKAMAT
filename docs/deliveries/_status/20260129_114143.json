@@ -2,8 +2,8 @@
   "run_id": "20260129_114143",
   "company_slug": "stadium-urheilu",
   "created_at": "2026-01-29T11:41:43.155297",
-  "updated_at": "2026-01-29T11:44:33.471023",
-  "current_phase": "strategize",
+  "updated_at": "2026-01-29T11:50:43.273478",
+  "current_phase": "create",
   "user_input": {
     "company_name": "Stadium Urheilu",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -282,8 +282,366 @@
       "success_hypothesis": "This concept unlocks an untapped opportunity for Stadium Urheilu by addressing their aspiration in a way that creates cultural relevance and positions the brand as an innovator in their space."
     }
   ],
-  "concepts": [],
-  "treatment_files": [],
+  "concepts": [
+    {
+      "id": "concept_01",
+      "title": "Penkkiurheilu \u2013 Mertaranta & Saariluoma",
+      "hook": "Suomen rakastetuin urheilu\u00e4\u00e4ni ja kansanviihdytt\u00e4j\u00e4 tekev\u00e4t videopodcastin, jossa Stadium omistaa urheilukeskustelun \u2013 ei tuotemainoksia, vaan sis\u00e4lt\u00f6\u00e4 jonka pariin tullaan viihtym\u00e4\u00e4n.",
+      "premise": "Antero Mertaranta ja Janne Saariluoma istuvat viikoittain alas puhumaan urheilusta, el\u00e4m\u00e4st\u00e4 ja ilmi\u00f6ist\u00e4. Formaatti yhdist\u00e4\u00e4 Mertarannan legendaarisen urheilutiet\u00e4myksen ja Saariluoman absurdin huumorin \u2013 syntyy arvaamaton kemia, jossa keskustellaan kaikesta jalkapallofinaalien j\u00e4nnityksest\u00e4 lapsuuden hiihtokisojen traumoihin. Stadium on 'talo' jossa keskustelu k\u00e4yd\u00e4\u00e4n, ei myyj\u00e4 joka keskeytt\u00e4\u00e4.",
+      "long_form_extension": "60 minuutin erikoisjaksot Ruutu+:aan isojen urheilutapahtumien yhteydess\u00e4 (MM-kisat, olympialaiset). Lis\u00e4ksi 3x45min 'Best of' -kooste Neloselle kauden p\u00e4\u00e4tteeksi.",
+      "format": {
+        "series_type": "ongoing",
+        "episode_length": "25-35 minuuttia",
+        "cadence": "Viikoittain (tiistaisin)",
+        "season_length": null
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "YouTube",
+          "rationale": "Videopodcast-formaatti toimii parhaiten YouTubessa, jossa pitk\u00e4muotoinen sis\u00e4lt\u00f6 ker\u00e4\u00e4 uskollisen yleis\u00f6n ja algoritmi palkitsee s\u00e4\u00e4nn\u00f6llisyydest\u00e4. Suomalaiset urheilupodcastit (Urheilucast, Takasuora) ovat osoittaneet kysynn\u00e4n.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "TikTok",
+            "rationale": "",
+            "adaptation": "60-90 sekunnin parhaat palat: Mertarannan legendaariset one-linerit, Saariluoman absurdit kysymykset, vieraiden reaktiot. Pystyformaatti, tekstitykset, hook ensimm\u00e4isess\u00e4 sekunnissa."
+          },
+          {
+            "platform": "Instagram Reels",
+            "rationale": "",
+            "adaptation": "Behind-the-scenes materiaali studiosta, vieraiden saapumiset, 'ennen ja j\u00e4lkeen' -klipit joissa n\u00e4kyy kaksikon kemia."
+          },
+          {
+            "platform": "Spotify",
+            "rationale": "",
+            "adaptation": "Pelkk\u00e4 audio-versio podcastina niille jotka kuuntelevat lenkill\u00e4 tai autossa \u2013 laajentaa tavoittavuutta merkitt\u00e4v\u00e4sti."
+          }
+        ],
+        "amplification": "Vieraiden omat somekanavat (urheilijat, vaikuttajat), Stadiumin myym\u00e4l\u00e4verkosto (QR-koodit, n\u00e4yt\u00f6t), PR-nostot urheilumediassa (IS, IL urheilusivut)."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "'L\u00e4mmittely' \u2013 5 min ajankohtaista urheilupurkua ilman k\u00e4sikirjoitusta",
+          "'P\u00e4\u00e4peli' \u2013 15-20 min teema tai vieras",
+          "'Jatkoaika' \u2013 nopeat kysymykset, absurdit v\u00e4itt\u00e4m\u00e4t, katsojien kommentit",
+          "Studion visuaalinen ilme: Stadium-br\u00e4nd\u00e4tty 'olohuone', urheilumemorabiliat"
+        ],
+        "variable_elements": [
+          "Vieraat: urheilijat, valmentajat, julkkikset, tavalliset fanit",
+          "Teemat: ajankohtaiset kisat, nostalgia, urheilukulttuuri, fanittaminen",
+          "Erikoisjaksot: 'Live-reaktiot' isoista peleist\u00e4, 'Road trip' -jaksot tapahtumista"
+        ],
+        "host_approach": "Mertaranta ja Saariluoma ovat tasavertaiset juontajat. Mertaranta tuo urheiluasiantuntemuksen ja legendan statuksen, Saariluoma tuo kansanmiehen n\u00e4k\u00f6kulman ja huumorin. Kemia syntyy kontrastista."
+      },
+      "brand_integration": {
+        "philosophy": "Stadium on 'urheilukeskustelun koti' \u2013 is\u00e4nt\u00e4 joka mahdollistaa, ei myyj\u00e4 joka keskeytt\u00e4\u00e4. Br\u00e4ndi n\u00e4kyy ymp\u00e4rist\u00f6ss\u00e4, ei puheessa.",
+        "integration_method": "Studion sisustus Stadium-tuotteilla (luontevasti, ei esillepanona), juontajien vaatteet (SOC, Everest \u2013 ei mainita \u00e4\u00e4neen), jakson lopun 't\u00e4m\u00e4n viikon liike' -haaste joka linkittyy Stadiumin kampanjoihin.",
+        "screen_time_balance": "85% puhdasta sis\u00e4lt\u00f6\u00e4, 15% br\u00e4ndin\u00e4kyvyytt\u00e4 (logo, ymp\u00e4rist\u00f6, loppukortti)",
+        "cta_approach": "Jakson lopussa yksi selke\u00e4 CTA: 'L\u00f6yd\u00e4 oma liikkeesi stadium.fi/penkkiurheilu' \u2013 ei keskeyt\u00e4 sis\u00e4lt\u00f6\u00e4."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Pilotti: Miksi me katsomme urheilua?",
+          "description": "Mertaranta ja Saariluoma pohtivat fanittamisen psykologiaa \u2013 miksi aikuiset miehet itkev\u00e4t j\u00e4\u00e4kiekkofinaalissa?"
+        },
+        {
+          "number": 2,
+          "title": "Vieras: Teemu Pukki",
+          "description": "Suomen jalkapallosankari avautuu Premier League -unelmasta ja siit\u00e4 milt\u00e4 tuntuu kun koko kansa seuraa."
+        },
+        {
+          "number": 3,
+          "title": "Lapsuuden urheilutraumat",
+          "description": "Kaksikko ja katsojat jakavat noloimmat hetket pikkupoikien jalkapallokentilt\u00e4 ja hiihtokisoista."
+        },
+        {
+          "number": 4,
+          "title": "Vieras: Krista P\u00e4rm\u00e4koski",
+          "description": "Hiihtolegenda paljastaa mit\u00e4 tapahtuu kun kamera sammuu \u2013 ja miksi h\u00e4n jatkaa vaikka kroppa sanoo ei."
+        },
+        {
+          "number": 5,
+          "title": "Urheiluv\u00e4lineet jotka muuttivat el\u00e4m\u00e4n",
+          "description": "Ensimm\u00e4iset luistimet, is\u00e4n vanha tennismaila, se yksi pallo \u2013 tavaroiden tarinat."
+        },
+        {
+          "number": 6,
+          "title": "Live-reaktio: MM-kisojen avausottelu",
+          "description": "Mertaranta ja Saariluoma katsovat ja kommentoivat reaaliajassa \u2013 raakaa, suodattamatonta reaktiota."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee suoraan 'Inspiraatio vs. Transaktio' -j\u00e4nnitteen: t\u00e4m\u00e4 on sis\u00e4lt\u00f6\u00e4 jonka pariin tullaan viihtym\u00e4\u00e4n, ei ostamaan. Samalla korjaa 'Korporaatio vs. Ihminen' -ongelman antamalla br\u00e4ndille kasvot ja \u00e4\u00e4nen.",
+        "competitive_differentiation": "Mik\u00e4\u00e4n kilpailija (XXL, Intersport, DTC-br\u00e4ndit) ei omista urheilukeskustelua Suomessa. Stadium voi olla 'ESPN Suomessa' \u2013 paikka jossa urheilusta puhutaan.",
+        "audience_value_proposition": "Mertaranta on Suomen urheilu\u00e4\u00e4ni, Saariluoma kansansuosikki. Yhdistelm\u00e4 lupaa viihdett\u00e4 jota ei saa muualta. Katsoja tulee nauramaan, oppimaan ja tuntemaan yhteenkuuluvuutta."
+      },
+      "execution": {
+        "complexity": "medium",
+        "budget_tier": "mid",
+        "timeline_to_first_episode": "8-10 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "T\u00e4htien aikataulut ja saatavuus pitk\u00e4ss\u00e4 sarjassa",
+          "mitigation": "Nauhoitetaan useampi jakso kerralla (batch recording), joustava julkaisuaikataulu, varavieraat valmiina."
+        },
+        {
+          "risk": "Sis\u00e4lt\u00f6 j\u00e4\u00e4 liian 'sis\u00e4piirin' urheilun\u00f6rttien jutuksi",
+          "mitigation": "Saariluoman rooli on olla 'tavallisen katsojan' \u00e4\u00e4ni \u2013 h\u00e4n kysyy 'tyhm\u00e4t' kysymykset ja tuo huumorin joka avaa sis\u00e4ll\u00f6n laajemmalle yleis\u00f6lle."
+        },
+        {
+          "risk": "Br\u00e4ndi-integraatio koetaan teenn\u00e4isen\u00e4",
+          "mitigation": "Tiukka linja: juontajat eiv\u00e4t koskaan puhu tuotteista suoraan. Stadium n\u00e4kyy, ei kuulu."
+        }
+      ]
+    },
+    {
+      "id": "concept_02",
+      "title": "24h Haaste \u2013 Tavikset vs. Mahdottomat",
+      "hook": "TikTok-sarja jossa tavalliset suomalaiset yritt\u00e4v\u00e4t oppia uuden lajin 24 tunnissa ammattivalmentajan kanssa \u2013 raaka, aito ja t\u00e4ysin addiktoivaa.",
+      "premise": "Jokaisessa jaksossa yksi tavallinen ihminen (toimistoty\u00f6ntekij\u00e4, mummo, bussikuski) saa 24 tuntia aikaa oppia uusi urheilulaji tyhj\u00e4st\u00e4 ammattivalmentajan ohjauksessa. Lopussa he kohtaavat todellisen testin: onnistuuko ensimm\u00e4inen koripallo kolmen pisteen heitolla, pysyyk\u00f6 suksilla pystyss\u00e4 alam\u00e4ess\u00e4, osaako ly\u00f6d\u00e4 golfpallon 100 metri\u00e4? Sarja on inhimillist\u00e4 kamppailua, ep\u00e4onnistumisia ja pieni\u00e4 voittoja \u2013 TikTok-natiivi dokumentaarisuus parhaimmillaan.",
+      "long_form_extension": "Jokaisen haasteen 'Full Journey' -versio (15-20 min) YouTubeen. Kauden p\u00e4\u00e4tteeksi 45 min erikoisjakso Ruutu+:aan: 'Vuoden parhaat 24h haasteet' kooste.",
+      "format": {
+        "series_type": "ongoing",
+        "episode_length": "60-90 sekuntia (TikTok), 3-5 min (YouTube Shorts extended)",
+        "cadence": "3x viikossa",
+        "season_length": null
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "TikTok",
+          "rationale": "Formaatti on r\u00e4\u00e4t\u00e4l\u00f6ity TikTokin algoritmille: v\u00e4lit\u00f6n hook, emotionaalinen kaari, tyydytt\u00e4v\u00e4 loppu. 'Transformation' ja 'challenge' -sis\u00e4ll\u00f6t ovat alustan menestyneimpi\u00e4 genrej\u00e4.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "Instagram Reels",
+            "rationale": "",
+            "adaptation": "Samat klipit, mutta visuaalisesti hieman hiotummat \u2013 Instagramin yleis\u00f6 arvostaa estetiikkaa enemm\u00e4n."
+          },
+          {
+            "platform": "YouTube Shorts",
+            "rationale": "",
+            "adaptation": "Pystyformaatti, mutta linkit pitkiin versioihin ('Katso koko matka') \u2013 ohjaa liikennett\u00e4 YouTube-kanavalle."
+          },
+          {
+            "platform": "YouTube",
+            "rationale": "",
+            "adaptation": "15-20 minuutin 'Full Journey' -versiot jokaisesta haasteesta \u2013 syvempi tarina niille jotka haluavat enemm\u00e4n."
+          }
+        ],
+        "amplification": "Haastettavien omat verkostot (orgaaninen jako), urheiluseurojen ja valmentajien kanavat, Stadium-myym\u00e4l\u00f6iden n\u00e4yt\u00f6t, TikTok-mainosbudjetti parhaiten toimiville klipeille."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Hook: 'H\u00e4n ei ole koskaan [laji]. H\u00e4nell\u00e4 on 24 tuntia.'",
+          "Montaasi: harjoittelun yl\u00e4- ja alam\u00e4et, valmentajan reaktiot",
+          "Lopputesti: selke\u00e4, mitattava haaste",
+          "Reaktio: aito tunne onnistumisesta tai ep\u00e4onnistumisesta"
+        ],
+        "variable_elements": [
+          "Lajit: koripallo, hiihto, golf, kiipeily, nyrkkeily, tanssi, sukellus...",
+          "Haastettavat: eri ik\u00e4iset, eri taustoista, eri motivaatioilla",
+          "Valmentajat: ammattilaiset, ex-urheilijat, seuravalmentajat",
+          "Erikoishaasteet: julkkisversiot, pariskuntahaasteet, toimistotiimit"
+        ],
+        "host_approach": "Ei perinteist\u00e4 juontajaa. Valmentaja ja haastettava ovat keski\u00f6ss\u00e4. Voice-over kertoo tarinan lyhyesti ja tehokkaasti."
+      },
+      "brand_integration": {
+        "philosophy": "Stadium varustaa jokaisen haastettavan \u2013 luontevasti, koska he tarvitsevat v\u00e4lineet. Br\u00e4ndi on mahdollistaja, ei sponsori joka vaatii huomiota.",
+        "integration_method": "Haastettava saa varusteensa Stadium-myym\u00e4l\u00e4st\u00e4 (lyhyt klippi), k\u00e4ytt\u00e4\u00e4 niit\u00e4 koko matkan. Ei \u00e4\u00e4neen mainintaa, tuotteet n\u00e4kyv\u00e4t k\u00e4yt\u00f6ss\u00e4. Lopussa: 'Varusteet: Stadium'.",
+        "screen_time_balance": "90% sis\u00e4lt\u00f6\u00e4 (haaste, harjoittelu, tunteet), 10% br\u00e4ndin\u00e4kyvyytt\u00e4 (varusteet k\u00e4yt\u00f6ss\u00e4, loppukortti)",
+        "cta_approach": "Biolinkit, ei sis\u00e4ll\u00f6n sis\u00e4isi\u00e4 CTA:ita. 'Aloita oma haasteesi \u2013 stadium.fi/24h'"
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Mummo vs. Skeittaus",
+          "description": "67-vuotias Pirjo ei ole koskaan seisonut laudan p\u00e4\u00e4ll\u00e4 \u2013 24 tunnin p\u00e4\u00e4st\u00e4 h\u00e4nen pit\u00e4\u00e4 tehd\u00e4 ollie."
+        },
+        {
+          "number": 2,
+          "title": "IT-Mies vs. Nyrkkeily",
+          "description": "Toimistoty\u00f6ntekij\u00e4 Mikko ei ole ly\u00f6nyt ket\u00e4\u00e4n koskaan \u2013 voiko h\u00e4n selvit\u00e4 3 er\u00e4\u00e4 sparria vastaan?"
+        },
+        {
+          "number": 3,
+          "title": "Vegaani vs. Mets\u00e4stys",
+          "description": "Kasvissy\u00f6j\u00e4 Emilia kohtaa ennakkoluulonsa ja opettelee ampumaan \u2013 ei el\u00e4imi\u00e4, mutta kiekot lent\u00e4v\u00e4t."
+        },
+        {
+          "number": 4,
+          "title": "Bussikuski vs. Baletti",
+          "description": "Jari on ajanut bussia 20 vuotta \u2013 nyt h\u00e4nen pit\u00e4\u00e4 oppia tanssimaan joutsenta."
+        },
+        {
+          "number": 5,
+          "title": "Pariskunta vs. Tandem-py\u00f6r\u00e4ily",
+          "description": "Riitaisa pariskunta joutuu toimimaan yhdess\u00e4 \u2013 kest\u00e4\u00e4k\u00f6 suhde 24 tuntia tandem-py\u00f6r\u00e4ll\u00e4?"
+        },
+        {
+          "number": 6,
+          "title": "Toimistotiimi vs. K\u00f6ydenveto",
+          "description": "Viiden hengen tiimi harjoittelee p\u00e4iv\u00e4n ja kohtaa paikallisen k\u00f6ydenvetoklubi-legendan."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee 'Inspiraatio vs. Transaktio' -j\u00e4nnitteen n\u00e4ytt\u00e4m\u00e4ll\u00e4 liikkumisen ilon, ei myym\u00e4ll\u00e4 tuotteita. Tuo 'Kaikille' -lupauksen konkreettiseksi: tavalliset ihmiset, ei huippu-urheilijat.",
+        "competitive_differentiation": "XXL myy hintaa, Intersport asiantuntemusta, DTC-br\u00e4ndit t\u00e4hti\u00e4. Stadium omistaa 'aloittamisen' ja 'yritt\u00e4misen' \u2013 jokaisen ensimm\u00e4isen askeleen.",
+        "audience_value_proposition": "Samaistuttavat henkil\u00f6t, j\u00e4nnitt\u00e4v\u00e4 lopputulos, lyhyt formaatti. Katsoja ajattelee: 'Min\u00e4kin voisin kokeilla t\u00e4t\u00e4.' Addiktoiva, jaettava, kommentoitava."
+      },
+      "execution": {
+        "complexity": "medium",
+        "budget_tier": "mid",
+        "timeline_to_first_episode": "6-8 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Haastettavien l\u00f6yt\u00e4minen ja sitoutuminen 24h kuvauksiin",
+          "mitigation": "Casting-prosessi seurayhteisty\u00f6n\u00e4 (urheiluseurat, ty\u00f6paikat), selke\u00e4 kompensaatiomalli, joustava kuvausaikataulu."
+        },
+        {
+          "risk": "Sis\u00e4lt\u00f6 alkaa toistaa itse\u00e4\u00e4n",
+          "mitigation": "Lajien ja haastettavien monipuolisuus, erikoisjaksot (julkkikset, tiimit), kausiajattelu jossa teemat vaihtuvat."
+        },
+        {
+          "risk": "Ep\u00e4onnistumiset voivat tuntua nolaavilta",
+          "mitigation": "Tarkka casting: haastettavat jotka nauravat itselleen. Ep\u00e4onnistuminen on osa tarinaa, ei h\u00e4pe\u00e4 \u2013 editointi korostaa rohkeutta, ei mokailua."
+        }
+      ]
+    },
+    {
+      "id": "concept_03",
+      "title": "Suomen Suurin Fanilupaus",
+      "hook": "Interaktiivinen cross-platform-formaatti jossa fanit lupaavat julkisesti mit\u00e4 tekev\u00e4t jos heid\u00e4n joukkueensa voittaa \u2013 ja Stadium pit\u00e4\u00e4 huolen ett\u00e4 lupaukset pidet\u00e4\u00e4n.",
+      "premise": "Fanit ymp\u00e4ri Suomen tekev\u00e4t julkisia lupauksia: 'Jos Suomi voittaa MM-kultaa, juoksen maratonin.' 'Jos HIFK nousee mestariksi, hiihdan Vasaloppetia.' Stadium ker\u00e4\u00e4 lupaukset, dokumentoi matkan lupauksesta toteutukseen ja luo massiivisen faniyhteis\u00f6n. Formaatti yhdist\u00e4\u00e4 live-tapahtumat, dokumentaariset jaksot, some-haasteet ja reaaliaikaiset reaktiot \u2013 koko urheilufanittamisen tunnekirjo yhdess\u00e4 paketissa.",
+      "long_form_extension": "Dokumenttisarja (6x30 min) Ruutu+/Katsomo: 'Lupauksen pit\u00e4j\u00e4t' seuraa 6 fanin matkaa lupauksesta toteutukseen koko kauden ajan. Lis\u00e4ksi live-l\u00e4hetykset isoista urheilutapahtumista Stadiumin myym\u00e4l\u00f6ist\u00e4.",
+      "format": {
+        "series_type": "seasonal",
+        "episode_length": "Moniformaatti: 30-60s TikTok, 5-10 min YouTube, 30 min dokumentti",
+        "cadence": "Jatkuva some-sy\u00f6te, viikoittaiset YouTube-jaksot, kuukausittaiset dokumenttijaksot",
+        "season_length": "Sidottu urheilukauteen (esim. j\u00e4\u00e4kiekkokausi syyskuu-toukokuu)"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "Cross-platform hub: stadium.fi/fanilupaus",
+          "rationale": "Lupausten ker\u00e4\u00e4minen ja seuranta vaatii keskitetyn alustan. T\u00e4m\u00e4 ohjaa liikennett\u00e4 Stadiumin omiin kanaviin ja rakentaa suoraa asiakassuhdetta.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "TikTok",
+            "rationale": "",
+            "adaptation": "Lupausvideot (fanit kertovat lupauksensa), reaktiovideot (kun joukkue voittaa/h\u00e4vi\u00e4\u00e4), toteutusdokumentit (lyhyet klipit matkasta)."
+          },
+          {
+            "platform": "Instagram",
+            "rationale": "",
+            "adaptation": "Stories-\u00e4\u00e4nestykset ('Uskallatko luvata?'), Reels-koosteet, live-l\u00e4hetykset toteutushetkist\u00e4."
+          },
+          {
+            "platform": "YouTube",
+            "rationale": "",
+            "adaptation": "Viikoittaiset 'Lupausviikko' -katsaukset (5-10 min), pidemm\u00e4t toteutusdokumentit (15-20 min)."
+          },
+          {
+            "platform": "Live-tapahtumat (Akun Tehdas)",
+            "rationale": "",
+            "adaptation": "Fanilupaus-pisteet Stadiumin myym\u00e4l\u00f6iss\u00e4, live-katsomot isoissa peleiss\u00e4, toteutustapahtumien tuotanto."
+          }
+        ],
+        "amplification": "Urheiluseurojen viralliset kanavat, urheilumedia (IS, IL, MTV Sport), vaikuttajayhteisty\u00f6t (urheilijat haastavat fanejaan), PR-kampanja lupausten ymp\u00e4rill\u00e4."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Lupausten ker\u00e4\u00e4minen: some-haasteet, myym\u00e4l\u00e4pisteet, verkkolomake",
+          "Lupaussein\u00e4: julkinen seuranta stadium.fi:ss\u00e4",
+          "Reaktiohetket: live-sis\u00e4lt\u00f6\u00e4 kun pelit ratkaistaan",
+          "Toteutus: dokumentoitu matka lupauksesta maaliin"
+        ],
+        "variable_elements": [
+          "Lajit ja joukkueet: j\u00e4\u00e4kiekko, jalkapallo, yleisurheilu, olympialaiset...",
+          "Lupausten laajuus: pienist\u00e4 (juoksen 5 km) isoihin (juoksen ultramaratonin)",
+          "Fanien taustat: intohimoiset fanit, satunnaiset katsojat, julkkikset",
+          "Erikoistapahtumat: MM-kisat, olympialaiset, finaalit"
+        ],
+        "host_approach": "Ei yht\u00e4 juontajaa. Fanit ovat t\u00e4hti\u00e4. Stadium on fasilitaattori joka mahdollistaa ja dokumentoi."
+      },
+      "brand_integration": {
+        "philosophy": "Stadium on 'lupauksen pit\u00e4j\u00e4n kumppani' \u2013 varustaa, valmentaa ja kannustaa. Br\u00e4ndi osoittaa uskovansa tavallisten ihmisten kykyyn saavuttaa mahdottomalta tuntuvia asioita.",
+        "integration_method": "Lupauksen tekij\u00e4t saavat Stadiumilta varusteet matkaan (dokumentoidaan), valmentajan tuen (seurayhteisty\u00f6), ja Stadium j\u00e4rjest\u00e4\u00e4 toteutustapahtuman. Re:Activate-kulma: k\u00e4ytetyt varusteet kiertoon lupauksen j\u00e4lkeen.",
+        "screen_time_balance": "75% fani-tarinat, 15% toteutusmatka (Stadium mukana), 10% br\u00e4ndiviestint\u00e4",
+        "cta_approach": "Selke\u00e4 osallistumispolku: 'Tee oma lupauksesi stadium.fi/fanilupaus'. Ei myynti\u00e4, vaan yhteis\u00f6\u00f6n liittymist\u00e4."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Kampanjan lanseeraus: 'Mit\u00e4 sin\u00e4 lupaat?'",
+          "description": "Julkkis-urheilijat (esim. Pukki, P\u00e4rm\u00e4koski) tekev\u00e4t omat lupauksensa ja haastavat fanit mukaan."
+        },
+        {
+          "number": 2,
+          "title": "Ensimm\u00e4iset 1000 lupausta",
+          "description": "Kooste hulluimmista, koskettavimmista ja hauskoimmista lupauksista ymp\u00e4ri Suomen."
+        },
+        {
+          "number": 3,
+          "title": "Reaktio: Suomi-Ruotsi -ottelu",
+          "description": "Live-katsomo Stadiumin myym\u00e4l\u00e4ss\u00e4, fanien reaktiot, lupausten 'aktivoituminen' voiton my\u00f6t\u00e4."
+        },
+        {
+          "number": 4,
+          "title": "Matka alkaa: Markuksen maratonilupaus",
+          "description": "40-vuotias Markus lupasi juosta maratonin jos Suomi voittaa \u2013 nyt on 6 kuukautta aikaa harjoitella."
+        },
+        {
+          "number": 5,
+          "title": "Lupaus lunastettu: Emman Vasaloppet",
+          "description": "Emma hiihti 90 km koska lupasi \u2013 dokumentti matkasta ja maaliin saapumisesta."
+        },
+        {
+          "number": 6,
+          "title": "Kauden finaali: Suurin lupaus",
+          "description": "Kauden rohkein lupaus toteutetaan live-tapahtumana \u2013 koko Suomi seuraa."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee kaikki nelj\u00e4 j\u00e4nnitett\u00e4 kerralla: 1) Inspiraatio konkreettisten tarinoiden kautta, 2) Puhuttelee 'kaikkia' mutta persoonallisesti, 3) Ihmiset edell\u00e4, ei korporaatio, 4) Vastuullisuus (Re:Activate) osana toteutuksia.",
+        "competitive_differentiation": "Kukaan kilpailija ei omista faniyhteis\u00f6\u00e4. DTC-br\u00e4ndit puhuvat urheilijoille, Stadium puhuu faneille \u2013 ja antaa heille alustan tulla kuulluksi.",
+        "audience_value_proposition": "Osallistuminen on ilmaista ja hauskaa. Lupauksen tekeminen on sitoutumista omaan joukkueeseen. Toteutuksen seuraaminen on inspiroivaa. Yhteis\u00f6 syntyy orgaanisesti."
+      },
+      "execution": {
+        "complexity": "high",
+        "budget_tier": "premium",
+        "timeline_to_first_episode": "12-14 viikkoa (vaatii alustan rakentamisen)"
+      },
+      "risks": [
+        {
+          "risk": "Lupausten ker\u00e4\u00e4minen j\u00e4\u00e4 liian pieneksi (kriittinen massa)",
+          "mitigation": "Vahva lanseerauskampanja julkkis-urheilijoilla, seurayhteisty\u00f6t (HIFK, HJK, K\u00e4rp\u00e4t...), palkinnot aktiivisimmille."
+        },
+        {
+          "risk": "Lupaukset j\u00e4\u00e4v\u00e4t lunastamatta (uskottavuus k\u00e4rsii)",
+          "mitigation": "Stadium tarjoaa konkreettista tukea (varusteet, valmennus, tapahtumat). Lupausten realistisuuden tarkistus ennen julkaisua."
+        },
+        {
+          "risk": "Tekninen toteutus (alusta) monimutkainen ja kallis",
+          "mitigation": "MVP-l\u00e4hestyminen: aloitetaan yksinkertaisella lomakkeella ja sosiaalisella sein\u00e4ll\u00e4, laajennetaan onnistumisen my\u00f6t\u00e4."
+        },
+        {
+          "risk": "Urheilutapahtumat eiv\u00e4t tuota toivottuja tuloksia (Suomi h\u00e4vi\u00e4\u00e4)",
+          "mitigation": "Lupaukset voivat olla my\u00f6s 'jos joukkueeni pelaa finaalissa' tai 'jos pelaaja tekee maalin' \u2013 ei vain voittoja."
+        }
+      ]
+    }
+  ],
+  "treatment_files": [
+    "/opt/render/project/src/runs/stadium_urheilu/TREATMENTS/stadium_urheilu_TREATMENT_01_20260129_115043.md",
+    "/opt/render/project/src/runs/stadium_urheilu/TREATMENTS/stadium_urheilu_TREATMENT_02_20260129_115043.md",
+    "/opt/render/project/src/runs/stadium_urheilu/TREATMENTS/stadium_urheilu_TREATMENT_03_20260129_115043.md"
+  ],
   "onepager_specs": [],
   "onepagers_skipped": false,
   "onepagers_error": null,
@@ -319,6 +677,15 @@
     {
       "phase": "strategize",
       "started_at": "2026-01-29T11:44:33.465809",
+      "completed_at": "2026-01-29T11:44:35.095413",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "create",
+      "started_at": "2026-01-29T11:44:35.101112",
       "completed_at": null,
       "success": false,
       "error_message": null,
