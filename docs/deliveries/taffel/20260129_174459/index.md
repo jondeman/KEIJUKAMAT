@@ -16,6 +16,9 @@
 - [Concept 03](concepts/concept_03.md)
 
 ## Treatments
+- [taffel_TREATMENT_01_20260129_175317.md](treatments/taffel_TREATMENT_01_20260129_175317.md)
+- [taffel_TREATMENT_02_20260129_175317.md](treatments/taffel_TREATMENT_02_20260129_175317.md)
+- [taffel_TREATMENT_03_20260129_175317.md](treatments/taffel_TREATMENT_03_20260129_175317.md)
 
 ## One-Pagers
 - [One-Pager 01](onepagers/concept_01.png)

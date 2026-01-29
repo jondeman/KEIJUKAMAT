@@ -2,8 +2,8 @@
   "run_id": "20260129_174459",
   "company_slug": "taffel",
   "created_at": "2026-01-29T17:44:59.372087",
-  "updated_at": "2026-01-29T17:47:46.654369",
-  "current_phase": "strategize",
+  "updated_at": "2026-01-29T17:53:17.614543",
+  "current_phase": "create",
   "user_input": {
     "company_name": "Taffel ",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -248,8 +248,343 @@
       "success_hypothesis": "This concept unlocks an untapped opportunity for Taffel  by addressing their underserved audience in a way that creates cultural relevance and positions the brand as an innovator in their space."
     }
   ],
-  "concepts": [],
-  "treatment_files": [],
+  "concepts": [
+    {
+      "id": "concept_01",
+      "title": "Sohvaperunat",
+      "hook": "Dokumenttisarja, joka tekee Taffelin 'default-asemasta' kulttuurisen ikonisuuden \u2013 kun suomalaiset kertovat el\u00e4m\u00e4ns\u00e4 t\u00e4rkeimmist\u00e4 hetkist\u00e4, Taffel on aina ollut p\u00f6yd\u00e4ll\u00e4.",
+      "premise": "Jokaisessa jaksossa suomalainen julkkis tai tavallinen ihminen kertoo el\u00e4m\u00e4ns\u00e4 merkitt\u00e4v\u00e4st\u00e4 hetkest\u00e4 \u2013 ensitreffeist\u00e4, perheen perinteist\u00e4, yst\u00e4vyyden k\u00e4\u00e4nnekohdista \u2013 ja paljastaa, miten sipsihetki oli aina osa tarinaa. Sarja nostaa arkisen napostelun osaksi suomalaista tunnekulttuuria. Tuotanto on l\u00e4mmin, dokumentaarinen ja aidosti koskettava.",
+      "long_form_extension": "Nelonen/Ruutu+-jakso 22 min, jossa syvennet\u00e4\u00e4n tarinaa pidemmill\u00e4 haastatteluilla ja backstage-materiaalilla. Mahdollisuus kausikohtaiseen 'Sohvaperunat Special' -joulujaksoon broadcast-slotissa.",
+      "format": {
+        "series_type": "seasonal",
+        "episode_length": "10-15 minuuttia",
+        "cadence": "Viikoittain",
+        "season_length": "8 jaksoa"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "YouTube",
+          "rationale": "YouTube mahdollistaa pidemm\u00e4n, dokumentaarisen kerronnan ja hakukonel\u00f6ydett\u00e4vyyden. Suomalaiset katsovat mielell\u00e4\u00e4n tunnepitoista sis\u00e4lt\u00f6\u00e4 YouTubessa, ja jaksojen pituus sopii alustalle.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "Ruutu+",
+            "rationale": "",
+            "adaptation": "Pidennetyt 22 min broadcast-versiot eksklusiivisesti Ruutu+:ssa, lis\u00e4materiaaleilla."
+          },
+          {
+            "platform": "TikTok",
+            "rationale": "",
+            "adaptation": "60 sekunnin 'tarinan ydin' -klipit, joissa vieraan tunnustus tiivistyy yhteen lauseeseen ja reaktioon."
+          },
+          {
+            "platform": "Instagram",
+            "rationale": "",
+            "adaptation": "Kauniit still-kuvat ja 'Mik\u00e4 on sinun sohvaperunasi?' -UGC-kampanja Storiesissa."
+          }
+        ],
+        "amplification": "Vieraiden omat kanavat jakavat oman jaksonsa. Ruutu+-promootio Nelosen prime time -ohjelmien yhteydess\u00e4. PR-jutut Iltalehdess\u00e4 ja Iltasanomissa."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Sama intiimi sohva-setting jokaisessa jaksossa",
+          "Taffel-kulho p\u00f6yd\u00e4ll\u00e4 luontevasti, ei pakotetusti",
+          "Jakson lopussa vieras avaa tuoreen pussin ja 'rousk' kuuluu",
+          "Loppukysymys: 'Mik\u00e4 on sinun sohvaperunasi?'"
+        ],
+        "variable_elements": [
+          "Vieraan tarina ja el\u00e4m\u00e4nvaihe",
+          "Tarinan genre: romantiikka, yst\u00e4vyys, perhe, lapsuus",
+          "Sohvan sijainti: vieraan oma koti tai nostalgiapaikka"
+        ],
+        "host_approach": "Ei varsinaista juontajaa \u2013 vieras kertoo tarinansa suoraan kameralle. Tuottaja ohjaa keskustelua off-screen."
+      },
+      "brand_integration": {
+        "philosophy": "Taffel on hiljainen sivuhahmo, joka on aina l\u00e4sn\u00e4 el\u00e4m\u00e4n t\u00e4rkeiss\u00e4 hetkiss\u00e4. Ei myynti\u00e4, vaan tunneside.",
+        "integration_method": "Taffel-kulho p\u00f6yd\u00e4ll\u00e4 jokaisessa jaksossa. Vieras mainitsee orgaanisesti muiston, jossa sipsit olivat mukana. Lopun 'rousk' on rituaali.",
+        "screen_time_balance": "85% sis\u00e4lt\u00f6, 15% br\u00e4ndi (luontevasti osana lavastusta ja tarinaa)",
+        "cta_approach": "Jakson lopussa teksti: 'El\u00e4m\u00e4 on hyv\u00e4\u00e4. Mik\u00e4 on sinun hetkesi?' + linkki UGC-kampanjaan."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Ensitreffit sipsien \u00e4\u00e4rell\u00e4",
+          "description": "Julkkispariskunta kertoo, miten heid\u00e4n ensitreffeill\u00e4\u00e4n p\u00e4\u00e4dyttiin sohvalle Taffelin kanssa \u2013 ja miten se paljasti heid\u00e4n yhteensopivuutensa."
+        },
+        {
+          "number": 2,
+          "title": "Is\u00e4n ja pojan lauantai",
+          "description": "Tavallinen is\u00e4 kertoo, miten viikoittainen sipsirituaali teini-ik\u00e4isen pojan kanssa pelasti heid\u00e4n suhteensa."
+        },
+        {
+          "number": 3,
+          "title": "Muutto Suomeen",
+          "description": "Maahanmuuttaja muistelee ensimm\u00e4ist\u00e4 suomalaista yst\u00e4v\u00e4\u00e4ns\u00e4, joka toi Taffelia tervetulolahjaksi \u2013 ja miten sipseist\u00e4 tuli kotoutumisen symboli."
+        },
+        {
+          "number": 4,
+          "title": "M\u00f6kkilauantain perint\u00f6",
+          "description": "Kolme sukupolvea samasta perheest\u00e4 kertoo, miten Taffel-pussi on aina kuulunut m\u00f6kkisaunan j\u00e4lkeiseen iltaan."
+        },
+        {
+          "number": 5,
+          "title": "Yst\u00e4vyys, joka kesti",
+          "description": "Kaksi lapsuudenyst\u00e4v\u00e4\u00e4 muistelee, miten he ovat sy\u00f6neet Taffelia yhdess\u00e4 30 vuotta \u2013 ja mit\u00e4 se kertoo heid\u00e4n yst\u00e4vyydest\u00e4\u00e4n."
+        },
+        {
+          "number": 6,
+          "title": "Yksin kotona",
+          "description": "Tunnettu yksinasuja kertoo, miten 'Snack Time' -hetki on h\u00e4nen t\u00e4rkein itsehoitorituaalinsa \u2013 ilman h\u00e4pe\u00e4\u00e4."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee suoraan 'Default vs. Desired' -j\u00e4nnitteen: muuttaa arkisen valinnan tunnepohjaiseksi ikonisuudeksi. Tukee my\u00f6s tilannemarkkinointia (Big Time / Snack Time) nostamalla hetket tarinoiksi.",
+        "competitive_differentiation": "Estrella tekee makuinnovaatioita, Taffel omistaa tunteen. Kukaan muu sipsibr\u00e4ndi ei ole rakentanut dokumentaarista tunnebr\u00e4ndi\u00e4.",
+        "audience_value_proposition": "Aidot, koskettavat tarinat, joihin katsoja samaistuu. 'T\u00e4m\u00e4 on minunkin el\u00e4m\u00e4ni' -efekti."
+      },
+      "execution": {
+        "complexity": "medium",
+        "budget_tier": "mid",
+        "timeline_to_first_episode": "8-10 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Vieraat eiv\u00e4t kerro tarpeeksi kiinnostavia tarinoita",
+          "mitigation": "Tiukka esikarsinta ja esihaastattelu. Valitaan vain tarinat, joissa on aito k\u00e4\u00e4nnekohta."
+        },
+        {
+          "risk": "Br\u00e4ndi tuntuu p\u00e4\u00e4lle liimatulta",
+          "mitigation": "Taffel on aina lavastuksessa, mutta tarina ei 'myy' tuotetta. Vieras mainitsee sipsit vain jos se on aito osa muistoa."
+        }
+      ]
+    },
+    {
+      "id": "concept_02",
+      "title": "Rousk Battles",
+      "hook": "TikTok-natiivi kilpailuformaatti, jossa suositut tekij\u00e4t haastavat toisensa absurdeissa sipsikokeissa \u2013 ja yleis\u00f6 \u00e4\u00e4nest\u00e4\u00e4 voittajan.",
+      "premise": "Kaksi TikTok-tekij\u00e4\u00e4 kohtaa toisensa joka jaksossa erilaisissa 'sipsikokeissa': kuka tekee parhaan dippi-reseptin minuutissa, kuka tunnistaa maun silm\u00e4t sidottuina, kuka sy\u00f6 hitaimmin yhden sipsin. Formaatti on nopea, hauska ja osallistava \u2013 katsojat \u00e4\u00e4nest\u00e4v\u00e4t voittajan ja ehdottavat seuraavia haasteita.",
+      "long_form_extension": "Kauden p\u00e4\u00e4tteeksi 'Rousk Battles: Finaalit' \u2013 30 min erikoisjakso Nelosella/Ruutu+:ssa, jossa kauden voittajat kohtaavat studiossa live-yleis\u00f6n edess\u00e4.",
+      "format": {
+        "series_type": "seasonal",
+        "episode_length": "60-90 sekuntia (TikTok), 3-5 min (YouTube compilation)",
+        "cadence": "3 kertaa viikossa",
+        "season_length": "12 jaksoa + finaali"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "TikTok",
+          "rationale": "Kilpailuformaatit ja tekij\u00e4yhteisty\u00f6t ovat TikTokin ydin. Nopea, hauska, jaettava \u2013 juuri sit\u00e4 mit\u00e4 Gen Z haluaa.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "Instagram Reels",
+            "rationale": "",
+            "adaptation": "Samat klipit hieman pidemmill\u00e4 introteksteill\u00e4."
+          },
+          {
+            "platform": "YouTube",
+            "rationale": "",
+            "adaptation": "Viikkokoosteet 5 min, joissa 'behind the scenes' ja tekij\u00f6iden kommentit."
+          },
+          {
+            "platform": "Nelonen/Ruutu+",
+            "rationale": "",
+            "adaptation": "30 min finaalijakso studiossa, live-yleis\u00f6, juontaja."
+          }
+        ],
+        "amplification": "Tekij\u00e4t jakavat omilla kanavillaan. Maksettu TikTok-promootio. Yleis\u00f6n osallistaminen \u00e4\u00e4nestyksen ja haaste-ehdotusten kautta."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "'Rousk'-\u00e4\u00e4nitehoste jokaisen haasteen alussa ja lopussa",
+          "Kaksi tekij\u00e4\u00e4 vastakkain",
+          "Yleis\u00f6n \u00e4\u00e4nestys lopussa",
+          "Taffel-pussi aina n\u00e4kyv\u00e4sti esill\u00e4"
+        ],
+        "variable_elements": [
+          "Haasteen tyyppi: makutesti, nopeuskisa, luova resepti, absurdi temppu",
+          "Tekij\u00e4parit vaihtuvat",
+          "Erikoisjaksot: julkkishaastajat, yleis\u00f6n edustajat"
+        ],
+        "host_approach": "Ei vakituista juontajaa \u2013 tekij\u00e4t itse selitt\u00e4v\u00e4t s\u00e4\u00e4nn\u00f6t. Finaalissa studiojuontaja (esim. tunnettu somekasvo)."
+      },
+      "brand_integration": {
+        "philosophy": "Taffel on haasteen keskipiste ja palkinto. Br\u00e4ndi on hauska ja osallistava, ei auktoriteetti.",
+        "integration_method": "Jokainen haaste liittyy Taffeliin: makujen tunnistaminen, dippi-reseptit, pussin avaamisen \u00e4\u00e4ni. Voittaja saa 'Rousk-kruunun' (Taffel-teemainen hauska palkinto).",
+        "screen_time_balance": "70% sis\u00e4lt\u00f6, 30% br\u00e4ndi (tuote on haasteen v\u00e4line)",
+        "cta_approach": "Lopussa: 'Haasta kaveri ja t\u00e4g\u00e4\u00e4 @TaffelSuomi \u2013 paras haaste p\u00e4\u00e4see sarjaan!'"
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Makuarvaus silm\u00e4t kiinni",
+          "description": "Tekij\u00e4t maistavat Taffel-makuja silm\u00e4t sidottuina ja yritt\u00e4v\u00e4t arvata oikean \u2013 eniten oikeita voittaa."
+        },
+        {
+          "number": 2,
+          "title": "Minuutin dippi",
+          "description": "Kumpi tekee paremman dippireseptin 60 sekunnissa? Yleis\u00f6 \u00e4\u00e4nest\u00e4\u00e4."
+        },
+        {
+          "number": 3,
+          "title": "Hitain sipsi",
+          "description": "Kuka pystyy sy\u00f6m\u00e4\u00e4n yhden sipsin hitaimmin ilman ett\u00e4 se hajoaa? Absurdi, mutta koukuttava."
+        },
+        {
+          "number": 4,
+          "title": "Pussin avaus ASMR",
+          "description": "Kumpi avaa pussin tyylikk\u00e4\u00e4mmin ja saa parhaan 'rousk'-\u00e4\u00e4nen? Yleis\u00f6 tuomaroi."
+        },
+        {
+          "number": 5,
+          "title": "Sipsi-Jenga",
+          "description": "Kumpi rakentaa korkeimman tornin sipseist\u00e4 ennen kuin se romahtaa?"
+        },
+        {
+          "number": 6,
+          "title": "Julkkishaaste: Finaalin ennakko",
+          "description": "Tunnettu suomalainen julkkis haastaa kauden pistetilastojen k\u00e4rkiparin \u2013 finaalipaikan voittaja selvi\u00e4\u00e4."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee 'Default vs. Desired' -j\u00e4nnitteen tekem\u00e4ll\u00e4 Taffelista nuorekkaan ja hauskan. Tukee innovaattori-imagoa ilman tuotelanseerausta.",
+        "competitive_differentiation": "Estrella ei ole rakentanut osallistavaa someformaattia. Taffel omistaa 'rousk'-\u00e4\u00e4nen ja tekee siit\u00e4 kulttuurisen meemin.",
+        "audience_value_proposition": "Hauska, nopea, osallistava. Gen Z rakastaa kilpailuja ja tekij\u00e4yhteisty\u00f6t\u00e4."
+      },
+      "execution": {
+        "complexity": "low",
+        "budget_tier": "budget",
+        "timeline_to_first_episode": "4-6 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Formaatti tuntuu liian mainokselta",
+          "mitigation": "Tekij\u00f6ille vapaat k\u00e4det huumoriin. Haasteet ovat absurdeja, eiv\u00e4t 'myyntihetki\u00e4'."
+        },
+        {
+          "risk": "Yleis\u00f6n osallistaminen j\u00e4\u00e4 vaisuksi",
+          "mitigation": "Aktiivinen yhteis\u00f6managerointi, parhaat ehdotukset palkitaan ja nostetaan sarjaan."
+        }
+      ]
+    },
+    {
+      "id": "concept_03",
+      "title": "Suomen Suurin Sipsibileet",
+      "hook": "Interaktiivinen live-tapahtuma ja monikanavainen viihdekokonaisuus, jossa Suomi \u00e4\u00e4nest\u00e4\u00e4 reaaliajassa maan parhaan 'sipsibileet'-porukan \u2013 ja voittajat p\u00e4\u00e4sev\u00e4t TV:n kautta miljoonien eteen.",
+      "premise": "Taffel etsii Suomen parasta sipsibileit\u00e4: perheit\u00e4, kaveriporukoita, ty\u00f6yhteis\u00f6j\u00e4, jotka viett\u00e4v\u00e4t ikimuistoisia iltoja sipsien \u00e4\u00e4rell\u00e4. Yleis\u00f6 osallistuu somessa ja \u00e4\u00e4nest\u00e4\u00e4 suosikkejaan. Finaali on suora l\u00e4hetys studiosta, jossa kolme finalistiporukkaa kilpailee live-yleis\u00f6n ja katsojien \u00e4\u00e4nill\u00e4. Voittajaporukka saa 'Suomen virallisen sipsibileiden' tittelin ja oman Taffel-erikoispussin kauppoihin.",
+      "long_form_extension": "90 min live-finaali Nelosella prime timessa. Lis\u00e4ksi 6-osainen 'Matka finaaliin' -dokumenttisarja Ruutu+:ssa, jossa seurataan finalistien valmistautumista.",
+      "format": {
+        "series_type": "event",
+        "episode_length": "Someklipit 30-90 sek, dokumenttijaksot 20 min, finaali 90 min",
+        "cadence": "Someklipit p\u00e4ivitt\u00e4in karsinnan aikana, dokumenttijaksot viikoittain",
+        "season_length": "6 dokumenttijaksoa + live-finaali"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "Nelonen/Ruutu+",
+          "rationale": "Live-finaali on TV-tapahtuma, joka ker\u00e4\u00e4 massayleis\u00f6n. Dokumenttisarja rakentaa tunnesiteen finalisteihin ennen finaalia.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "TikTok",
+            "rationale": "",
+            "adaptation": "P\u00e4ivitt\u00e4iset klipit: hakijoiden esittelyt, hauskat palat, yleis\u00f6n \u00e4\u00e4nestys."
+          },
+          {
+            "platform": "Instagram",
+            "rationale": "",
+            "adaptation": "Stories-\u00e4\u00e4nestykset, behind the scenes, finalistien omat sis\u00e4ll\u00f6t."
+          },
+          {
+            "platform": "YouTube",
+            "rationale": "",
+            "adaptation": "Dokumenttijaksot ja finaalin kooste."
+          }
+        ],
+        "amplification": "PR-kampanja: 'Hae mukaan Suomen suurimpiin sipsibileisiin'. Vaikuttajat haastavat omia seuraajiaan hakemaan. Kauppojen Taffel-hyllyt viestiv\u00e4t kampanjasta."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Yleis\u00f6n \u00e4\u00e4nestys jokaisessa vaiheessa",
+          "'Sipsibileet'-tunnusmusiikki ja visuaalinen ilme",
+          "Finalistien esittely samalla formaatilla",
+          "Taffel-kulho keski\u00f6ss\u00e4 jokaisessa sis\u00e4ll\u00f6ss\u00e4"
+        ],
+        "variable_elements": [
+          "Hakijoiden taustat: perheet, kaverit, ty\u00f6paikat, harrastusryhm\u00e4t",
+          "Dokumenttijaksojen teemat: valmistautuminen, j\u00e4nnitys, yst\u00e4vyys",
+          "Live-finaalin haasteet ja yll\u00e4tykset"
+        ],
+        "host_approach": "Tunnettu juontaja (esim. Jenni P\u00e4\u00e4skysaari tai Mikko Leppilampi) vet\u00e4\u00e4 live-finaalin. Dokumenttijaksot ilman juontajaa, tarinat kertovat itse."
+      },
+      "brand_integration": {
+        "philosophy": "Taffel on juhlan mahdollistaja ja yhteis\u00f6llisyyden symboli. Br\u00e4ndi ei myy, vaan palkitsee.",
+        "integration_method": "Taffel-pussit ja -kulhot aina n\u00e4kyv\u00e4sti esill\u00e4. Voittajaporukka saa oman Taffel-erikoispussin kauppoihin (esim. 'Suomen Suurimmat Sipsibileet 2026'). Finaalin palkinto: Taffelin sponsoroima unelmabileet voittajaporukalle.",
+        "screen_time_balance": "75% sis\u00e4lt\u00f6, 25% br\u00e4ndi (tuote on luonteva osa juhlaa)",
+        "cta_approach": "Hae mukaan osoitteessa taffel.fi/sipsibileet. \u00c4\u00e4nest\u00e4 suosikkiasi TikTokissa."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Haku alkaa",
+          "description": "Suomalaiset perheet ja kaverit esittelev\u00e4t omat sipsibileens\u00e4 \u2013 parhaat p\u00e4\u00e4sev\u00e4t jatkoon."
+        },
+        {
+          "number": 2,
+          "title": "Top 10: Yleis\u00f6n suosikit",
+          "description": "Yleis\u00f6 \u00e4\u00e4nest\u00e4\u00e4 10 parasta porukkaa, joiden tarinat esitell\u00e4\u00e4n lyhyiss\u00e4 dokumenteissa."
+        },
+        {
+          "number": 3,
+          "title": "Semifinalistit: Kuka ansaitsee jatkopaikan?",
+          "description": "Viisi semifinalistia syvent\u00e4v\u00e4t tarinaansa \u2013 yleis\u00f6 p\u00e4\u00e4tt\u00e4\u00e4 kolme finalistia."
+        },
+        {
+          "number": 4,
+          "title": "Matka finaaliin: Valmistautuminen",
+          "description": "Dokumentti seuraa finalistien valmistautumista ja j\u00e4nnityst\u00e4 ennen suurta iltaa."
+        },
+        {
+          "number": 5,
+          "title": "Matka finaaliin: Yst\u00e4vyyden voima",
+          "description": "Finalistit kertovat, miksi heid\u00e4n porukkansa on erityinen \u2013 ja mit\u00e4 sipsibileet heille merkitsev\u00e4t."
+        },
+        {
+          "number": 6,
+          "title": "Live-finaali: Suomen Suurimmat Sipsibileet",
+          "description": "90 min suora l\u00e4hetys, jossa kolme finalistia kilpailee live-yleis\u00f6n ja katsojien \u00e4\u00e4nill\u00e4. Voittaja kruunataan."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee kaikki kolme j\u00e4nnitett\u00e4: tekee Taffelista haluttavan (ei vain defaultin), validoi sek\u00e4 Big Time- ett\u00e4 Snack Time -hetket, ja yhdist\u00e4\u00e4 massaviihteen aitoon sohvarealismiin.",
+        "competitive_differentiation": "Kukaan kilpailija ei ole rakentanut live-tapahtumaa sipsien ymp\u00e4rille. Taffel omistaa 'sipsibileet'-konseptin.",
+        "audience_value_proposition": "Osallistava, tunteellinen ja juhlistava. Katsoja voi itse hakea mukaan tai \u00e4\u00e4nest\u00e4\u00e4 suosikkiaan."
+      },
+      "execution": {
+        "complexity": "high",
+        "budget_tier": "premium",
+        "timeline_to_first_episode": "12-16 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Hakijoita ei tule tarpeeksi",
+          "mitigation": "Vahva vaikuttajakampanja ja PR-nosto heti alussa. Matala kynnys: yksi video riitt\u00e4\u00e4 hakemukseksi."
+        },
+        {
+          "risk": "Live-finaali ei kiinnosta massayleis\u00f6\u00e4",
+          "mitigation": "Tunnettu juontaja, yll\u00e4tyksi\u00e4 finaaliin (julkkisvieras, erikoispalkintoja), vahva somerakennus ennen finaalia."
+        }
+      ]
+    }
+  ],
+  "treatment_files": [
+    "/opt/render/project/src/runs/taffel/TREATMENTS/taffel_TREATMENT_01_20260129_175317.md",
+    "/opt/render/project/src/runs/taffel/TREATMENTS/taffel_TREATMENT_02_20260129_175317.md",
+    "/opt/render/project/src/runs/taffel/TREATMENTS/taffel_TREATMENT_03_20260129_175317.md"
+  ],
   "onepager_specs": [],
   "onepagers_skipped": false,
   "onepagers_error": null,
@@ -285,6 +620,15 @@
     {
       "phase": "strategize",
       "started_at": "2026-01-29T17:47:46.647701",
+      "completed_at": "2026-01-29T17:47:48.555241",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "create",
+      "started_at": "2026-01-29T17:47:48.563504",
       "completed_at": null,
       "success": false,
       "error_message": null,
