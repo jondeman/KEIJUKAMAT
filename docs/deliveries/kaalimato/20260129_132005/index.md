@@ -16,6 +16,9 @@
 - [Concept 03](concepts/concept_03.md)
 
 ## Treatments
+- [kaalimato_TREATMENT_01_20260129_133143.md](treatments/kaalimato_TREATMENT_01_20260129_133143.md)
+- [kaalimato_TREATMENT_02_20260129_133143.md](treatments/kaalimato_TREATMENT_02_20260129_133143.md)
+- [kaalimato_TREATMENT_03_20260129_133143.md](treatments/kaalimato_TREATMENT_03_20260129_133143.md)
 
 ## One-Pagers
 - [One-Pager 01](onepagers/concept_01.png)
