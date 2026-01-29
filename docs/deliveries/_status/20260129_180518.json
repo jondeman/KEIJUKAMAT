@@ -2,8 +2,8 @@
   "run_id": "20260129_180518",
   "company_slug": "fanta",
   "created_at": "2026-01-29T18:05:18.623925",
-  "updated_at": "2026-01-29T18:08:01.801591",
-  "current_phase": "strategize",
+  "updated_at": "2026-01-29T18:15:16.905383",
+  "current_phase": "create",
   "user_input": {
     "company_name": "Fanta",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -271,8 +271,332 @@
       "success_hypothesis": "This concept unlocks an untapped opportunity for Fanta by addressing their aspiration in a way that creates cultural relevance and positions the brand as an innovator in their space."
     }
   ],
-  "concepts": [],
-  "treatment_files": [],
+  "concepts": [
+    {
+      "id": "concept_01",
+      "title": "Fantan Sohvaperunat",
+      "hook": "Dokumentaarinen reality-sarja, joka antaa luvan olla tekem\u00e4tt\u00e4 mit\u00e4\u00e4n \u2013 ja tekee siit\u00e4 kansallisen ilmi\u00f6n.",
+      "premise": "Joka jaksossa seuraamme kolmea eri suomalaista, jotka ovat ansainneet t\u00e4ydellisen 'rotting'-p\u00e4iv\u00e4n: opiskelijaa tenttiviikon j\u00e4lkeen, yritt\u00e4j\u00e4\u00e4 projektin p\u00e4\u00e4tytty\u00e4, vanhempaa lasten l\u00e4hdetty\u00e4 mummolaan. Kamera tallentaa heid\u00e4n t\u00e4ydellisen hy\u00f6dytt\u00f6m\u00e4n p\u00e4iv\u00e4ns\u00e4 kaikessa kauneudessaan \u2013 snacksit, Fanta, sarjamaratonit ja autuaan tyhj\u00e4 kalenteri. Sarja on vastamyrkky hustle-kulttuurille ja antaa katsojille luvan nauttia omasta joutilaisuudestaan.",
+      "long_form_extension": "8x22min broadcast-versio Neloselle/MTV3:lle prime time -slotiin, VOD-jakelu Ruutu+/Katsomo. Mahdollisuus laajentaa 'Sohvaperunat Special' -jaksoksi, jossa julkkikset n\u00e4ytt\u00e4v\u00e4t oman rotting-p\u00e4iv\u00e4ns\u00e4.",
+      "format": {
+        "series_type": "seasonal",
+        "episode_length": "22-25 minuuttia",
+        "cadence": "Viikoittain",
+        "season_length": "8 jaksoa"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "YouTube",
+          "rationale": "Pitk\u00e4muotoinen dokumentaarinen sis\u00e4lt\u00f6 toimii YouTubessa, jossa katsojat etsiv\u00e4t rentoutumissis\u00e4lt\u00f6\u00e4 ja 'comfort content' -genre\u00e4. Algoritmi suosii watch timea, ja konsepti on luotu pitk\u00e4\u00e4n katseluun.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "TikTok",
+            "rationale": "",
+            "adaptation": "60 sekunnin 'Best Rotting Moments' -klipit: parhaat snack-hetket, ASMR-tyylinen Fanta-poreilu, hauskat one-linerit. Formaatti: POV: sinulla on lupa olla tekem\u00e4tt\u00e4 mit\u00e4\u00e4n."
+          },
+          {
+            "platform": "Instagram Reels",
+            "rationale": "",
+            "adaptation": "'Snack Setup' -videot: mit\u00e4 jokainen p\u00e4\u00e4henkil\u00f6 kokosi sohvap\u00f6yd\u00e4lleen. Visuaalisesti tyydytt\u00e4v\u00e4, jaettava sis\u00e4lt\u00f6."
+          }
+        ],
+        "amplification": "Julkkis-erikoisjakso (esim. Roope Salminen, Sita Salminen) nostaa PR-arvoa. UGC-kampanja #OmaSohvap\u00e4iv\u00e4 kannustaa katsojia jakamaan omia rotting-hetki\u00e4\u00e4n."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Kolme eri p\u00e4\u00e4henkil\u00f6\u00e4 per jakso, kaikki eri el\u00e4m\u00e4ntilanteissa",
+          "'Snack Spread' -reveal: mit\u00e4 p\u00e4\u00e4henkil\u00f6 on valinnut naposteltavaksi",
+          "Fanta-hetki: close-up korkin avaamisesta ja ensimm\u00e4isest\u00e4 huikasta",
+          "'Guilt-o-meter': humoristinen mittari, joka n\u00e4ytt\u00e4\u00e4 kuinka paljon p\u00e4\u00e4henkil\u00f6 EI tunne syyllisyytt\u00e4"
+        ],
+        "variable_elements": [
+          "Eri el\u00e4m\u00e4ntilanteet ja syyt ansaitulle vapaap\u00e4iv\u00e4lle",
+          "Erilaiset snack-valinnat ja Fanta-maut",
+          "Vaihtelevat 'rotting-aktiviteetit': sarjat, pelit, somescrollailu, p\u00e4iv\u00e4unet"
+        ],
+        "host_approach": "Ei perinteist\u00e4 juontajaa. L\u00e4mmin, humoristinen voice-over (esim. n\u00e4yttelij\u00e4 Kari Hietalahti) kommentoi tapahtumia lempe\u00e4n ironisesti."
+      },
+      "brand_integration": {
+        "philosophy": "Fanta on luonnollinen osa rentoutumisrituaalia, ei mainoskatkoa. Br\u00e4ndi on 'lupa nauttia' -filosofian fyysinen ilmentym\u00e4.",
+        "integration_method": "Fanta on aina osa snack-kokonaisuutta, mutta ei koskaan tuputtavasti. Poreilu ja v\u00e4rit toimivat visuaalisena ankkurina. P\u00e4\u00e4henkil\u00f6t voivat spontaanisti kommentoida makua.",
+        "screen_time_balance": "85% sis\u00e4lt\u00f6\u00e4, 15% br\u00e4ndin\u00e4kyvyytt\u00e4",
+        "cta_approach": "Jakson lopussa lempe\u00e4 'Mik\u00e4 on sinun Fanta-hetkesi?' -kysymys, ei aggressiivista myynti\u00e4."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Tenttiviikon j\u00e4lkeen",
+          "description": "Kolme opiskelijaa eri puolilta Suomea viett\u00e4v\u00e4t ensimm\u00e4isen vapaan p\u00e4iv\u00e4ns\u00e4 kuukauden lukuputken j\u00e4lkeen."
+        },
+        {
+          "number": 2,
+          "title": "Lapset mummolassa",
+          "description": "Kolme vanhempaa kokevat harvinaisen viikonlopun ilman lapsia \u2013 mit\u00e4 he tekev\u00e4t kun kukaan ei tarvitse heit\u00e4?"
+        },
+        {
+          "number": 3,
+          "title": "Projekti p\u00e4\u00e4ttyi",
+          "description": "Yritt\u00e4j\u00e4, graafikko ja rakennusmies ovat juuri saaneet ison projektin valmiiksi \u2013 nyt on aika olla olematta tuottava."
+        },
+        {
+          "number": 4,
+          "title": "Et\u00e4p\u00e4iv\u00e4 (oikeasti)",
+          "description": "Kolme et\u00e4ty\u00f6l\u00e4ist\u00e4 my\u00f6nt\u00e4v\u00e4t: t\u00e4n\u00e4\u00e4n ei tehd\u00e4 t\u00f6it\u00e4. Seuraamme heid\u00e4n salattua nautintoaan."
+        },
+        {
+          "number": 5,
+          "title": "Armeijan j\u00e4lkeen",
+          "description": "Kolme juuri siviiliin palanutta nuorta miest\u00e4 kokevat ensimm\u00e4isen p\u00e4iv\u00e4n ilman aikatauluja ja k\u00e4skyj\u00e4."
+        },
+        {
+          "number": 6,
+          "title": "Julkkis-spesiaali",
+          "description": "Tunnetut suomalaiset (esim. tubettaja, muusikko, urheilija) n\u00e4ytt\u00e4v\u00e4t omat h\u00e4pe\u00e4m\u00e4tt\u00f6m\u00e4t rotting-rituaalinsa."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee suoraan 'Needs vs. Wants' -j\u00e4nnitteen: sarja legitimoi joutilaisuuden ja tekee Fantasta sen symbolin. Gen Z:n burnout-kulttuuri saa vastamyrkkyns\u00e4.",
+        "competitive_differentiation": "Kilpailijat puhuvat energiasta ja tuottavuudesta. Fanta omistaa p\u00e4invastaisen tilan: luvan olla tekem\u00e4tt\u00e4 mit\u00e4\u00e4n. T\u00e4m\u00e4 on ainoa br\u00e4ndi, joka uskaltaa sanoa 'ole hy\u00f6dyt\u00f6n'.",
+        "audience_value_proposition": "Katsojat tunnistavat itsens\u00e4 ja saavat validaatiota omille rotting-hetkillens\u00e4. Comfort content -genre on valtava, ja t\u00e4m\u00e4 on sen suomalainen, humoristinen versio."
+      },
+      "execution": {
+        "complexity": "low",
+        "budget_tier": "mid",
+        "timeline_to_first_episode": "6-8 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Sis\u00e4lt\u00f6 voi n\u00e4ytt\u00e4\u00e4 liian 'laiskalta' tai v\u00e4h\u00e4iselt\u00e4",
+          "mitigation": "Korkealaatuinen kuvaus ja leikkaus tekev\u00e4t arkisestakin elokuvallista. Voice-over tuo kerroksellisuutta ja huumoria."
+        },
+        {
+          "risk": "Br\u00e4ndi-integraatio voi tuntua v\u00e4kin\u00e4iselt\u00e4",
+          "mitigation": "Fanta on aina luonnollinen osa snack-setupia, ei ikin\u00e4 erillinen mainoskohta. P\u00e4\u00e4henkil\u00f6t valitsevat itse juomansa."
+        }
+      ]
+    },
+    {
+      "id": "concept_02",
+      "title": "Fanta Flavor Lab",
+      "hook": "TikTok-natiivi kilpailuformaatti, jossa suomalaiset vaikuttajat luovat hulluimmat snack-yhdistelm\u00e4t \u2013 ja voittaja p\u00e4\u00e4see oikeasti tuotantoon.",
+      "premise": "Suomen suosituimmat ruoka- ja lifestyle-vaikuttajat haastavat toisensa luomaan mahdottomimpia mutta toimivia snack-yhdistelmi\u00e4 Fantan eri makujen kanssa. Jokainen jakso on intensiivinen, nopea ja visuaalisesti r\u00e4j\u00e4ht\u00e4v\u00e4. Kauden voittaja saa suunnitella limited edition 'Fnacking Kit' -paketin, joka myyd\u00e4\u00e4n oikeasti kaupoissa. Formaatti yhdist\u00e4\u00e4 kilpailun, ruokaviihteen ja vaikuttajamarkkinoinnin yhdeksi kokonaisuudeksi.",
+      "long_form_extension": "6x30min kilpailusarja MTV3/Nelonen prime time, jossa studiojaksot. VOD Ruutu+/Katsomo. Finaalit live-l\u00e4hetyksen\u00e4 Akun Tehtaalta.",
+      "format": {
+        "series_type": "seasonal",
+        "episode_length": "60-90 sekuntia (TikTok), 25-30 minuuttia (TV)",
+        "cadence": "3x viikossa TikTok, 1x viikossa TV",
+        "season_length": "6 TV-jaksoa + 18 TikTok-jaksoa"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "TikTok",
+          "rationale": "Ruokakokeilut ja 'cursed food combinations' ovat TikTokin suurimpia trendej\u00e4. Nopea, visuaalinen, jaettava. Vaikuttajien omat kanavat toimivat jakeluverkostona.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "YouTube",
+            "rationale": "",
+            "adaptation": "Behind-the-scenes -sis\u00e4lt\u00f6 ja extended cuts kilpailujaksoista. 'Making of Fnacking Kit' -dokumentti."
+          },
+          {
+            "platform": "Instagram Reels",
+            "rationale": "",
+            "adaptation": "Aesthetic food porn -versiot parhaista yhdistelmist\u00e4. Polling-stoorit: 'Toimiiko t\u00e4m\u00e4?'"
+          }
+        ],
+        "amplification": "Vaikuttajat jakavat omilla kanavillaan (kumulatiivinen reach 2M+). UGC-haaste #OmaFantaCombo. PR-kampanja voittajan Fnacking Kitin lanseerauksessa."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Kaksi vaikuttajaa vastakkain joka jaksossa",
+          "'Mystery Ingredient' -yll\u00e4tyselementti, joka paljastetaan kesken haasteen",
+          "Fanta-maistelupaneeli arvioi lopputulokset",
+          "'Cursed or Blessed?' -\u00e4\u00e4nestys, jossa yleis\u00f6 p\u00e4\u00e4tt\u00e4\u00e4"
+        ],
+        "variable_elements": [
+          "Eri vaikuttajat ja heid\u00e4n persoonalliset tyylins\u00e4",
+          "Vaihtelevat Fanta-maut ja snack-kategoriat",
+          "Erikoishaasteet: sokkona, yhdell\u00e4 k\u00e4dell\u00e4, aikaraja"
+        ],
+        "host_approach": "Energinen nuori juontaja (esim. Tuure Boelius, Veronica Verho) joka tuo kaaosta ja kommentoi reaktioita. TikTok-jaksoissa vaikuttajat itse juontavat."
+      },
+      "brand_integration": {
+        "philosophy": "Fanta on kilpailun keski\u00f6ss\u00e4, mutta luonnollisesti: se on ainesosa, jonka ymp\u00e4rille kaikki rakentuu. Br\u00e4ndi = luovuus ja kokeilunhalu.",
+        "integration_method": "Jokainen yhdistelm\u00e4 PIT\u00c4\u00c4 sis\u00e4lt\u00e4\u00e4 Fantan. Makujen valinta on strateginen p\u00e4\u00e4t\u00f6s. Voittajan Fnacking Kit on oikea tuote.",
+        "screen_time_balance": "70% kilpailutoimintaa, 30% br\u00e4ndin\u00e4kyvyytt\u00e4",
+        "cta_approach": "\u00c4\u00e4nest\u00e4 suosikkiasi, kokeile kotona, odota Fnacking Kiti\u00e4 kauppoihin."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Suolainen vs. Makea",
+          "description": "Roni Back ja Sara Parikka rakentavat vastakkaiset snack-maailmat \u2013 kumpi toimii Fantan kanssa?"
+        },
+        {
+          "number": 2,
+          "title": "Kotimainen vs. Kansainv\u00e4linen",
+          "description": "Suomalaisia klassikoita (Tuc, Pringles) vastaan eksoottisia tuontituotteita \u2013 mik\u00e4 on paras match?"
+        },
+        {
+          "number": 3,
+          "title": "Halpa vs. Premium",
+          "description": "Euron snacksit vastaan gourmet-naposteltavat \u2013 voittaako hinta vai laatu?"
+        },
+        {
+          "number": 4,
+          "title": "Lapsuusmuistot",
+          "description": "Vaikuttajat rakentavat snack-yhdistelmi\u00e4 omista lapsuusmuistoistaan \u2013 nostalgiaa ja yll\u00e4tyksi\u00e4."
+        },
+        {
+          "number": 5,
+          "title": "Cursed Combinations",
+          "description": "Tahallaan mahdottomimmat yhdistelm\u00e4t \u2013 toimiiko mik\u00e4\u00e4n? Katsojat \u00e4\u00e4nest\u00e4v\u00e4t."
+        },
+        {
+          "number": 6,
+          "title": "Finaali: Fnacking Kit",
+          "description": "Kauden parhaat kilpailevat live-l\u00e4hetyksess\u00e4 \u2013 voittaja suunnittelee oikean tuotteen."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee suoraan 'Fnacking'-prioriteetin: luo konkreettisen yhteyden Fantan ja snacksien v\u00e4lille. Samalla puhuttelee Gen Z:ta vaikuttajien ja TikTok-natiivin formaatin kautta.",
+        "competitive_differentiation": "Mirinda ei tee t\u00e4t\u00e4. Energiajuomat eiv\u00e4t sovi ruokasis\u00e4lt\u00f6\u00f6n. Fanta omistaa 'snack pairing' -tilan Suomessa.",
+        "audience_value_proposition": "Viihdytt\u00e4v\u00e4 kilpailu + ruokakokeilut + tutut vaikuttajat = orgaaninen kiinnostus ja jaettavuus. Mahdollisuus vaikuttaa oikeaan tuotteeseen sitouttaa."
+      },
+      "execution": {
+        "complexity": "medium",
+        "budget_tier": "mid",
+        "timeline_to_first_episode": "8-10 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Vaikuttajien saatavuus ja aikataulut",
+          "mitigation": "Laaja vaikuttajapooli (10-12 henkil\u00f6\u00e4), joustava kuvausaikataulu. Osa sis\u00e4ll\u00f6st\u00e4 voidaan kuvata vaikuttajien omissa tiloissa."
+        },
+        {
+          "risk": "Fnacking Kit -tuotanto ei onnistu",
+          "mitigation": "Sopimus Coca-Colan kanssa etuk\u00e4teen: voittajan konsepti toteutetaan edes limited editionina, vaikka pienimuotoisesti."
+        }
+      ]
+    },
+    {
+      "id": "concept_03",
+      "title": "Fanta Fever Dreams",
+      "hook": "Suomen ensimm\u00e4inen pystymuotoinen mikrodraama-sarja, jossa jokainen jakso on visuaalinen matka yhden Fanta-maun 'uneen' \u2013 ja katsojat p\u00e4\u00e4tt\u00e4v\u00e4t tarinan suunnan.",
+      "premise": "Jokainen 2-3 minuutin jakso on itsen\u00e4inen, surrealistinen tarina, joka tapahtuu yhden Fanta-maun 'maailmassa': appelsiinin neonhehkuinen kaupunki, vadelman synkk\u00e4 mets\u00e4, sitruunan aurinkoinen ranta. Nuoret n\u00e4yttelij\u00e4t seikkailevat n\u00e4iss\u00e4 hypervisuaalisissa unimaisemissa, ja jokaisen jakson lopussa katsojat \u00e4\u00e4nest\u00e4v\u00e4t seuraavan jakson suunnan. Formaatti yhdist\u00e4\u00e4 TikTok-mikrodraamojen nousun, interaktiivisuuden ja Fantan 'keinotekoisen' estetiikan t\u00e4ydellisesti.",
+      "long_form_extension": "3x45min 'elokuvaversio' Ruutu+/Katsomo: kunkin makumaailman tarinat yhdistetty kokonaiseksi kertomukseksi. Mahdollisuus Halloween-erikoisjaksoon, jossa kaikki maailmat kohtaavat.",
+      "format": {
+        "series_type": "seasonal",
+        "episode_length": "2-3 minuuttia (pystymuoto)",
+        "cadence": "P\u00e4ivitt\u00e4in arkisin 2 viikon ajan",
+        "season_length": "10 jaksoa per 'makumaailma', 3 maailmaa = 30 jaksoa"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "TikTok",
+          "rationale": "Pystymuotoiset mikrodraamat ovat alustan nopeimmin kasvava genre. Interaktiivisuus (\u00e4\u00e4nestykset, kommentit) on sis\u00e4\u00e4nrakennettu. Nuori yleis\u00f6 l\u00f6yt\u00e4\u00e4 sis\u00e4ll\u00f6n orgaanisesti.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "YouTube Shorts",
+            "rationale": "",
+            "adaptation": "Samat jaksot, mutta ilman interaktiivista \u00e4\u00e4nestyst\u00e4. Toimii arkistona ja discovery-kanavana."
+          },
+          {
+            "platform": "Instagram Reels",
+            "rationale": "",
+            "adaptation": "Visuaalisesti vaikuttavimmat kohtaukset leikattuina 30 sekunnin 'mood'-videoiksi."
+          }
+        ],
+        "amplification": "N\u00e4yttelij\u00e4valinnat nuorista suomalaisista t\u00e4hdist\u00e4 (esim. Squid Game -castingin tyylinen haku). AR-filtterit, joilla katsojat voivat 'astua' makumaailmoihin. Halloween-kampanja yhdist\u00e4\u00e4 kaiken."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Jokainen jakso alkaa Fanta-pullon avaamisella \u2013 poreilu vie katsojan 'maailmaan'",
+          "Sama visuaalinen kieli per makumaailma (v\u00e4ripaletti, \u00e4\u00e4nimaailma, estetiikka)",
+          "Cliffhanger-lopetus ja \u00e4\u00e4nestys seuraavasta suunnasta",
+          "'Fanta moment': hetki, jossa p\u00e4\u00e4henkil\u00f6 ottaa huikan ja jokin muuttuu"
+        ],
+        "variable_elements": [
+          "Eri makumaailmat t\u00e4ysin erilaisilla visuaalisilla identiteeteill\u00e4",
+          "Tarinan suunta riippuu katsojien \u00e4\u00e4nestyksist\u00e4",
+          "Eri n\u00e4yttelij\u00e4t ja hahmot per maailma"
+        ],
+        "host_approach": "Ei juontajaa. Tarinat puhuvat puolestaan. Voice-over vain tarvittaessa (mystinen kertoja)."
+      },
+      "brand_integration": {
+        "philosophy": "Fanta EI ole br\u00e4ndi tarinassa \u2013 Fanta ON tarina. Makumaailmat ovat br\u00e4ndin estetiikan t\u00e4ydellinen ilmentym\u00e4. Keinotekoisuudesta tulee taidetta.",
+        "integration_method": "Pullon avaus = portti maailmaan. Fanta-v\u00e4rit = maailman v\u00e4rit. Ei perinteist\u00e4 product placementia, koska koko maailma on tuote.",
+        "screen_time_balance": "95% tarina, 5% br\u00e4ndi-identiteetti (integroituna)",
+        "cta_approach": "\u00c4\u00e4nest\u00e4 seuraava suunta. Kokeile t\u00e4t\u00e4 makua. L\u00f6yd\u00e4 oma makumaailmasi."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Orange City: Her\u00e4tys",
+          "description": "Nuori nainen her\u00e4\u00e4 neonhohtoisessa kaupungissa, jossa kaikki on appelsiinin v\u00e4rist\u00e4 \u2013 ja joku seuraa h\u00e4nt\u00e4."
+        },
+        {
+          "number": 2,
+          "title": "Orange City: Valinta",
+          "description": "Seuraajan henkil\u00f6llisyys paljastuu \u2013 onko h\u00e4n yst\u00e4v\u00e4 vai vihollinen? Katsojat p\u00e4\u00e4tt\u00e4v\u00e4t."
+        },
+        {
+          "number": 3,
+          "title": "Raspberry Forest: Eksyminen",
+          "description": "Nuori mies eksyy synkk\u00e4\u00e4n vadelman v\u00e4riseen mets\u00e4\u00e4n, jossa puut kuiskivat."
+        },
+        {
+          "number": 4,
+          "title": "Raspberry Forest: Kohtaaminen",
+          "description": "Mets\u00e4n asukas tarjoaa apua \u2013 mutta mit\u00e4 h\u00e4n haluaa vastineeksi?"
+        },
+        {
+          "number": 5,
+          "title": "Lemon Beach: Saapuminen",
+          "description": "Pariskunta l\u00f6yt\u00e4\u00e4 autiolta rannalta mystisen pullon \u2013 sen avaaminen muuttaa kaiken."
+        },
+        {
+          "number": 6,
+          "title": "Worlds Collide: Halloween Special",
+          "description": "Kaikki kolme makumaailmaa yhdistyv\u00e4t yhdeksi kaoottiseksi uneksi \u2013 kuka selvi\u00e4\u00e4?"
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee 'Keinotekoinen vs. Aito' -j\u00e4nnitteen: tekee Fantan hypervisuaalisesta estetiikasta taiteellisen vahvuuden, ei heikkouden. Samalla omistaa Halloween-tilaisuuden ja puhuttelee Gen Z:ta mikrodraamojen kautta.",
+        "competitive_differentiation": "Kukaan Suomessa ei tee t\u00e4t\u00e4. Globaalisti mikrodraamat ovat valtava trendi (Kiina, Etel\u00e4-Korea), mutta Suomessa markkina on tyhj\u00e4. Fanta voi omistaa koko genren.",
+        "audience_value_proposition": "Visuaalisesti h\u00e4ik\u00e4isev\u00e4, interaktiivinen, mysteerinen. Katsojat haluavat n\u00e4hd\u00e4 mit\u00e4 seuraavaksi tapahtuu JA vaikuttaa siihen. Jaettavuus syntyy 'WTF is this?!' -reaktiosta."
+      },
+      "execution": {
+        "complexity": "high",
+        "budget_tier": "premium",
+        "timeline_to_first_episode": "12-14 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Visuaalinen kunnianhimo vaatii suuren budjetin",
+          "mitigation": "GenAI-ty\u00f6kalut (Runway, Midjourney) mahdollistavat hypervisuaalisten maailmojen luomisen murto-osalla perinteisest\u00e4 VFX-budjetista. WBITVP:n genAI-kyvykkyys on t\u00e4ss\u00e4 avainasemassa."
+        },
+        {
+          "risk": "Interaktiivisuus ei toimi TikTokissa teknisesti",
+          "mitigation": "\u00c4\u00e4nestys toteutetaan kommenteissa ja stickereill\u00e4, ei ulkoisella alustalla. Vaihtoehtoisesti poll-stoorit Instagramissa ohjaavat suuntaa."
+        },
+        {
+          "risk": "Liian abstrakti, yleis\u00f6 ei ymm\u00e4rr\u00e4",
+          "mitigation": "Ensimm\u00e4inen jakso on selke\u00e4 'hook' \u2013 mysteerinen mutta ymm\u00e4rrett\u00e4v\u00e4. Tutut genrekonventiot (j\u00e4nnitys, romantiikka) pit\u00e4v\u00e4t tarinan maassa."
+        }
+      ]
+    }
+  ],
+  "treatment_files": [
+    "/opt/render/project/src/runs/fanta/TREATMENTS/fanta_TREATMENT_01_20260129_181516.md",
+    "/opt/render/project/src/runs/fanta/TREATMENTS/fanta_TREATMENT_02_20260129_181516.md",
+    "/opt/render/project/src/runs/fanta/TREATMENTS/fanta_TREATMENT_03_20260129_181516.md"
+  ],
   "onepager_specs": [],
   "onepagers_skipped": false,
   "onepagers_error": null,
@@ -308,6 +632,15 @@
     {
       "phase": "strategize",
       "started_at": "2026-01-29T18:08:01.794830",
+      "completed_at": "2026-01-29T18:08:03.531888",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "create",
+      "started_at": "2026-01-29T18:08:03.537828",
       "completed_at": null,
       "success": false,
       "error_message": null,

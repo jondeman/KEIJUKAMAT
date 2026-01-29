@@ -16,6 +16,9 @@
 - [Concept 03](concepts/concept_03.md)
 
 ## Treatments
+- [fanta_TREATMENT_01_20260129_181516.md](treatments/fanta_TREATMENT_01_20260129_181516.md)
+- [fanta_TREATMENT_02_20260129_181516.md](treatments/fanta_TREATMENT_02_20260129_181516.md)
+- [fanta_TREATMENT_03_20260129_181516.md](treatments/fanta_TREATMENT_03_20260129_181516.md)
 
 ## One-Pagers
 - [One-Pager 01](onepagers/concept_01.png)
