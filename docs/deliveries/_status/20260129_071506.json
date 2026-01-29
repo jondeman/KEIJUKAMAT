@@ -2,8 +2,8 @@
   "run_id": "20260129_071506",
   "company_slug": "stadium",
   "created_at": "2026-01-29T07:15:06.960368",
-  "updated_at": "2026-01-29T07:17:21.436978",
-  "current_phase": "strategize",
+  "updated_at": "2026-01-29T07:23:21.105900",
+  "current_phase": "create",
   "user_input": {
     "company_name": "Stadium ",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -268,8 +268,347 @@
       "success_hypothesis": "This concept unlocks an untapped opportunity for Stadium  by addressing their underserved audience in a way that creates cultural relevance and positions the brand as an innovator in their space."
     }
   ],
-  "concepts": [],
-  "treatment_files": [],
+  "concepts": [
+    {
+      "id": "concept_01",
+      "title": "Penkkiurheilijan Polku",
+      "hook": "Mertaranta ja Saariluoma muuttavat Stadiumin geneerisest\u00e4 urheilukaupasta Suomen hauskimmaksi urheilusis\u00e4ll\u00f6ksi \u2013 ja samalla todistavat, ett\u00e4 liikkuminen kuuluu kaikille, ei vain kiilt\u00e4ville mainoskuville.",
+      "premise": "Antero Mertaranta ja Jaakko Saariluoma kokeilevat joka jaksossa uutta lajia t\u00e4ysin nollasta \u2013 ja ep\u00e4onnistuvat surkeasti, mutta viihdytt\u00e4v\u00e4sti. Duo l\u00e4hestyy urheilua penkkiurheilijan n\u00e4k\u00f6kulmasta: he tiet\u00e4v\u00e4t kaiken teoriasta, mutta k\u00e4yt\u00e4nn\u00f6ss\u00e4 homma menee reisille. Stadium varustaa heid\u00e4t joka jaksoon, ja katsoja n\u00e4kee samalla, miten tavallinen ihminen voi aloittaa mink\u00e4 tahansa lajin ilman paineita t\u00e4ydellisyydest\u00e4.",
+      "long_form_extension": "8x25min sarja Ruutu+/Katsomoon, lis\u00e4ksi 8x45min extended cut -versiot sis\u00e4lt\u00e4en behind-the-scenes -materiaalia. Broadcast cut (8x22min) Neloselle tai MTV3:lle.",
+      "format": {
+        "series_type": "seasonal",
+        "episode_length": "20-25 minuuttia",
+        "cadence": "Viikoittain",
+        "season_length": "8 jaksoa"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "YouTube",
+          "rationale": "YouTube mahdollistaa pidemm\u00e4n tarinankerronnan ja Mertaranta-Saariluoma-duon kemian t\u00e4yden hy\u00f6dynt\u00e4misen. Kanava sopii 'destination content' -ajatteluun, jossa yleis\u00f6 palaa viikoittain.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "TikTok",
+            "rationale": "",
+            "adaptation": "60-90 sekunnin 'epic fail' -koosteet joka jaksosta, behind-the-scenes -hetket ja Mertarannan selostukset heid\u00e4n omista mokistaan"
+          },
+          {
+            "platform": "Instagram Reels",
+            "rationale": "",
+            "adaptation": "Varusteiden esittely huumorin kautta ('T\u00e4ll\u00e4 paidalla Antero juoksi 47 metri\u00e4 ennen kuin kaatui')"
+          }
+        ],
+        "amplification": "Mertarannan ja Saariluoman omat somekanavat, yhteisty\u00f6 lajiliittojen kanssa (he jakavat 'julkkikset kokeilee meid\u00e4n lajia' -sis\u00e4lt\u00f6\u00e4), PR-nostot urheilumediassa"
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Mertarannan 'asiantuntijaselostus' ennen lajikokeilua (parodioi omaa tyyli\u00e4\u00e4n)",
+          "Saariluoman realistinen itsearviointi ('En ole koskaan ollut hyv\u00e4 miss\u00e4\u00e4n')",
+          "Stadium-myym\u00e4l\u00e4k\u00e4ynti, jossa myyj\u00e4 varustaa heid\u00e4t",
+          "Lajin ammattilainen opettaa perusteita (kontrasti)",
+          "Lopun 'Penkkiurheilijan tuomio' -arvostelu lajista"
+        ],
+        "variable_elements": [
+          "Laji vaihtuu joka jaksossa (padel, hiihto, crossfit, uinti, salibandy, frisbeegolf, juoksu, py\u00f6r\u00e4ily)",
+          "Vieraileva ammattilainen/valmentaja",
+          "Ymp\u00e4rist\u00f6 ja haasteet lajin mukaan"
+        ],
+        "host_approach": "Mertaranta ja Saariluoma ovat tasavertaiset juontajat, jotka kilpailevat kesken\u00e4\u00e4n. Dynamiikka on sama kuin heid\u00e4n vpodcastissaan: Antero on intohimoinen asiantuntija, Jaakko on skeptinen realisti."
+      },
+      "brand_integration": {
+        "philosophy": "Stadium on mahdollistaja, ei mainostaja. Br\u00e4ndi n\u00e4kyy luontevana osana tarinaa: 'Mist\u00e4 saan v\u00e4lineet?' -kysymykseen vastaus on aina Stadium.",
+        "integration_method": "Joka jakson alussa Stadium-myym\u00e4l\u00e4k\u00e4ynti, jossa myyj\u00e4 suosittelee tuotteita (SOC, Everest) aloittelijalle. Tuotteet n\u00e4kyv\u00e4t k\u00e4yt\u00f6ss\u00e4 koko jakson.",
+        "screen_time_balance": "75% viihdesis\u00e4lt\u00f6\u00e4, 25% br\u00e4ndi-integraatiota",
+        "cta_approach": "Jakson lopussa 'Haluatko kokeilla? Katso aloittajan paketit stadium.fi/aloita' \u2013 ei aggressiivista myynti\u00e4"
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Padel-ilmi\u00f6",
+          "description": "Mertaranta selostaa padelia kuin se olisi olympiafinaali, Saariluoma osuu palloon kolme kertaa tunnissa."
+        },
+        {
+          "number": 2,
+          "title": "Hiihtokoulu aikuisille",
+          "description": "Duo yritt\u00e4\u00e4 perinteist\u00e4 hiihtoa Pajulahdessa \u2013 Mertaranta muistelee Myllyl\u00e4\u00e4, Saariluoma kaatuu tasaisella."
+        },
+        {
+          "number": 3,
+          "title": "CrossFit-trauma",
+          "description": "Yksi tunti CrossFit-boksissa paljastaa, miksi penkkiurheilu on turvallisempaa."
+        },
+        {
+          "number": 4,
+          "title": "Uimahallissa",
+          "description": "Mertaranta opettelee perhosuintia, Saariluoma selviytyy hengiss\u00e4 koululaisradalta."
+        },
+        {
+          "number": 5,
+          "title": "Salibandy-legenda",
+          "description": "Duo pelaa er\u00e4n oikeaa salibandyottelua \u2013 tuloksena on urheiluhistorian alhaisin taso."
+        },
+        {
+          "number": 6,
+          "title": "Frisbeegolf-kierros",
+          "description": "18 v\u00e4yl\u00e4\u00e4, 47 kadonnutta kiekkoa ja yksi Mertarannan legendaarinen hole-in-one-huuto puuhun."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee suoraan j\u00e4nnitteet 'Inspiraatio vs. Transaktio' ja 'Geneerisyys vs. Persoonallisuus'. Stadium saa kasvot, sielun ja syyn katsoa ilman ostoaikomusta.",
+        "competitive_differentiation": "Kukaan kilpailija ei tee viihdett\u00e4. XXL myy hintaa, Intersport asiantuntijuutta \u2013 Stadium omistaa huumorin ja inhimillisyyden.",
+        "audience_value_proposition": "Katsoja saa nauraa kahdelle rakastettavalle julkkikselle, jotka ep\u00e4onnistuvat samalla tavalla kuin h\u00e4n itse. Samaistuttavuus on 100%."
+      },
+      "execution": {
+        "complexity": "medium",
+        "budget_tier": "mid",
+        "timeline_to_first_episode": "10-12 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Mertarannan ja Saariluoman aikataulut ovat tiukat",
+          "mitigation": "Kuvataan 2-3 jaksoa kerralla tehokkailla tuotantop\u00e4ivill\u00e4, hy\u00f6dynnet\u00e4\u00e4n heid\u00e4n olemassa olevaa vpodcast-yhteisty\u00f6t\u00e4\u00e4n"
+        },
+        {
+          "risk": "Konsepti voi tuntua 'liian hauskalta' br\u00e4ndin mielest\u00e4",
+          "mitigation": "Pilottijakso ensin, joka todistaa tasapainon viihteen ja br\u00e4ndiarvon v\u00e4lill\u00e4"
+        },
+        {
+          "risk": "Lajivalinnat voivat rajata kohderyhm\u00e4\u00e4",
+          "mitigation": "Valitaan lajit, joita Stadium myy eniten \u2013 n\u00e4in kaupallinen relevanssi s\u00e4ilyy"
+        }
+      ]
+    },
+    {
+      "id": "concept_02",
+      "title": "Ensimm\u00e4inen Kerta",
+      "hook": "TikTok-sarja, jossa tavalliset suomalaiset kokeilevat ensimm\u00e4ist\u00e4 kertaa jotain urheilullista \u2013 raaka, aito ja t\u00e4ydellisen ep\u00e4t\u00e4ydellinen vastaisku kiilt\u00e4v\u00e4lle urheilumainonnalle.",
+      "premise": "Lyhyt, pystymuotoinen dokumentaarisarja, jossa seuraamme tavallisten ihmisten aitoja ensikokemuksia: 45-vuotias is\u00e4 ensimm\u00e4isell\u00e4 juoksulenkill\u00e4\u00e4n 15 vuoteen, teini ensimm\u00e4isess\u00e4 kuntosalissa, mummo ensimm\u00e4isell\u00e4 padel-tunnilla. Ei selostusta, ei filttereit\u00e4 \u2013 vain aito j\u00e4nnitys, h\u00e4pe\u00e4, ilo ja helpotus. Stadium varustaa jokaisen kokeilijan, mutta p\u00e4\u00e4osassa on inhimillinen tarina.",
+      "long_form_extension": "TikTok-sarjasta kootaan 6x15min dokumenttisarja Ruutu+/Katsomoon, jossa syvennyt\u00e4\u00e4n 2-3 henkil\u00f6n tarinaan per jakso. Broadcast cut 3x22min Neloselle.",
+      "format": {
+        "series_type": "ongoing",
+        "episode_length": "60-90 sekuntia (TikTok), 2-3 minuuttia (YouTube Shorts extended)",
+        "cadence": "3x viikossa",
+        "season_length": null
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "TikTok",
+          "rationale": "TikTok suosii aitoa, editoimatonta sis\u00e4lt\u00f6\u00e4. 'First time doing X' on jo olemassa oleva trendi, jonka Stadium voi omistaa urheilukontekstissa.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "Instagram Reels",
+            "rationale": "",
+            "adaptation": "Sama sis\u00e4lt\u00f6, mutta enemm\u00e4n 'before/after' -kulmaa ja tunnetarinoita"
+          },
+          {
+            "platform": "YouTube Shorts",
+            "rationale": "",
+            "adaptation": "Extended versiot (2-3 min) enemm\u00e4n kontekstia ja taustatarinaa"
+          }
+        ],
+        "amplification": "UGC-kampanja: katsojat voivat l\u00e4hett\u00e4\u00e4 omia 'ensimm\u00e4inen kerta' -videoitaan hashtagilla #Ensimm\u00e4inenKerta, parhaat p\u00e4\u00e4sev\u00e4t Stadiumin kanavalle"
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Henkil\u00f6n esittely: nimi, ik\u00e4, mit\u00e4 kokeilee, miksi nyt",
+          "Hetki ennen: j\u00e4nnitys, pelot, odotukset",
+          "Itse kokeilu: raaka, leikkaamaton ydinhetki",
+          "Reaktio heti j\u00e4lkeen: aito tunne",
+          "Stadium-tuoten\u00e4ytt\u00f6: 'T\u00e4ll\u00e4 varustettuna' -teksti"
+        ],
+        "variable_elements": [
+          "Henkil\u00f6 ja tarina vaihtuu joka videossa",
+          "Laji ja konteksti vaihtelee",
+          "Tunnelma vaihtelee (hauska/koskettava/inspiroiva)"
+        ],
+        "host_approach": "Ei juontajaa \u2013 henkil\u00f6t puhuvat suoraan kameralle tai heit\u00e4 haastatellaan minimalistisesti. Dokumentaarinen ote."
+      },
+      "brand_integration": {
+        "philosophy": "Stadium on hiljainen mahdollistaja. Br\u00e4ndi ei puhu, se toimii. Jokainen kokeilija on varustettu Stadiumin tuotteilla, mutta fokus on ihmisess\u00e4.",
+        "integration_method": "Videon alussa tai lopussa teksti 'Varustettu: Stadium' ja tuotteiden nimet. Ei puhuttua mainosta.",
+        "screen_time_balance": "90% tarina, 10% br\u00e4ndi",
+        "cta_approach": "Linkki biossa: 'Aloita sin\u00e4kin \u2013 stadium.fi/aloita'"
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Jukan ensimm\u00e4inen lenkki",
+          "description": "45-vuotias Jukka juoksee ensimm\u00e4isen kilometrin 15 vuoteen \u2013 ja itkee maalissa."
+        },
+        {
+          "number": 2,
+          "title": "Ainon salidebyy",
+          "description": "17-vuotias Aino astuu ensimm\u00e4ist\u00e4 kertaa kuntosalille \u2013 pelko muuttuu ylpeydeksi."
+        },
+        {
+          "number": 3,
+          "title": "Mummon padel",
+          "description": "72-vuotias Raili pelaa padelia ensimm\u00e4ist\u00e4 kertaa lastenlastensa kanssa."
+        },
+        {
+          "number": 4,
+          "title": "Is\u00e4n ja pojan py\u00f6r\u00e4retki",
+          "description": "Is\u00e4, joka ei ole py\u00f6r\u00e4illyt 20 vuoteen, l\u00e4htee 8-vuotiaan poikansa kanssa ensimm\u00e4iselle retkelle."
+        },
+        {
+          "number": 5,
+          "title": "Ekan kerran uimahallissa",
+          "description": "Maahanmuuttajanainen ui ensimm\u00e4ist\u00e4 kertaa el\u00e4m\u00e4ss\u00e4\u00e4n aikuisena."
+        },
+        {
+          "number": 6,
+          "title": "Comeback-juoksu",
+          "description": "Entinen urheilija palaa lajiinsa 10 vuoden tauon j\u00e4lkeen \u2013 keho muistaa, mieli j\u00e4nnitt\u00e4\u00e4."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee j\u00e4nnitteen 'T\u00e4ydellisyys vs. Todellisuus'. Stadium n\u00e4ytt\u00e4\u00e4, ett\u00e4 liikkuminen on kaikille \u2013 ei vain kiilt\u00e4ville mainoskuville. T\u00e4m\u00e4 on 'Join the Movement' konkretisoituna.",
+        "competitive_differentiation": "Kilpailijat n\u00e4ytt\u00e4v\u00e4t huippu-urheilijoita ja siloteltuja kuvia. Stadium omistaa 'tavallisen ihmisen ensimm\u00e4isen askeleen'.",
+        "audience_value_proposition": "Katsoja n\u00e4kee itsens\u00e4. T\u00e4m\u00e4 on TikTokin 'real over perfect' -trendi urheilukontekstissa \u2013 samaistuttavaa, koskettavaa, jaettavaa."
+      },
+      "execution": {
+        "complexity": "low",
+        "budget_tier": "budget",
+        "timeline_to_first_episode": "4-6 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Henkil\u00f6iden l\u00f6yt\u00e4minen voi olla haastavaa",
+          "mitigation": "Yhteisty\u00f6 Stadiumin myym\u00e4l\u00f6iden kanssa \u2013 myyj\u00e4t tunnistavat 'ensikertalaisia' p\u00e4ivitt\u00e4in"
+        },
+        {
+          "risk": "Sis\u00e4lt\u00f6 voi tuntua liian 'halpistuotannolta'",
+          "mitigation": "Dokumentaarinen laatu, ei amat\u00f6\u00f6rim\u00e4isyys \u2013 hyv\u00e4 \u00e4\u00e4ni, vakaa kuva, tarkka editointi"
+        },
+        {
+          "risk": "Br\u00e4ndi-integraatio voi j\u00e4\u00e4d\u00e4 liian ohueksi",
+          "mitigation": "Jokainen video alkaa tai p\u00e4\u00e4ttyy selke\u00e4\u00e4n Stadium-tunnisteeseen, tuotteet n\u00e4kyv\u00e4t luontevasti"
+        }
+      ]
+    },
+    {
+      "id": "concept_03",
+      "title": "Liikkuva Suomi: 100 Paikkakuntaa, 100 Liikett\u00e4",
+      "hook": "Stadium k\u00e4ynnist\u00e4\u00e4 Suomen historian suurimman liikuntahaasteen \u2013 100 p\u00e4iv\u00e4ss\u00e4 100 paikkakunnalla, jossa jokainen kunta saa oman liikkeen ja oman tarinansa. T\u00e4m\u00e4 ei ole kampanja, t\u00e4m\u00e4 on kansanliike.",
+      "premise": "Massiivinen cross-platform-projekti, jossa Stadium kiert\u00e4\u00e4 100 suomalaista paikkakuntaa 100 p\u00e4iv\u00e4ss\u00e4. Jokaisella paikkakunnalla paikalliset ihmiset esittelev\u00e4t oman 'liikkeens\u00e4' \u2013 se voi olla mit\u00e4 tahansa kalastuksesta tanssiin, lumit\u00f6ist\u00e4 lacrosseen. Projekti yhdist\u00e4\u00e4 dokumentaarisen road tripin, paikallisyhteis\u00f6jen aktivoinnin, live-tapahtumat ja valtavan some-sis\u00e4lt\u00f6koneen. Stadium ei m\u00e4\u00e4rittele mit\u00e4 liikkuminen on \u2013 suomalaiset m\u00e4\u00e4rittelev\u00e4t sen itse.",
+      "long_form_extension": "8x45min dokumenttisarja Ruutu+/Katsomoon ('Liikkuva Suomi'), jossa syvennyt\u00e4\u00e4n 10-12 paikkakunnan tarinaan per jakso. Broadcast cut 8x22min MTV3/Nelonen. Lis\u00e4ksi live-finaali Akun Tehtaalta, jossa 100 paikkakunnan edustajat kokoontuvat.",
+      "format": {
+        "series_type": "event",
+        "episode_length": "60-90 sekuntia (p\u00e4ivitt\u00e4inen some), 45 minuuttia (viikottainen YouTube-kooste), 45 minuuttia (dokumenttisarja)",
+        "cadence": "P\u00e4ivitt\u00e4in 100 p\u00e4iv\u00e4n ajan (some), viikoittain (YouTube), dokumenttisarja projektin j\u00e4lkeen",
+        "season_length": "100 p\u00e4iv\u00e4\u00e4 + 8-osainen dokumentti"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "TikTok/Instagram",
+          "rationale": "P\u00e4ivitt\u00e4inen sis\u00e4lt\u00f6virta vaatii some-first-ajattelua. Jokainen paikkakunta on oma 'episodinsa', joka toimii itsen\u00e4isen\u00e4 sis\u00e4lt\u00f6n\u00e4.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "YouTube",
+            "rationale": "",
+            "adaptation": "Viikottaiset 15-20 minuutin koosteet ('Viikko 3: Lappi'), jotka kokoavat parhaat tarinat"
+          },
+          {
+            "platform": "Ruutu+/Katsomo",
+            "rationale": "",
+            "adaptation": "8-osainen dokumenttisarja projektin p\u00e4\u00e4tytty\u00e4, joka syventyy parhaisiin tarinoihin"
+          }
+        ],
+        "amplification": "Jokainen paikkakunta jakaa 'oman p\u00e4iv\u00e4ns\u00e4' paikallisesti, paikalliset mediat nostavat, kansallinen PR-kampanja, vaikuttajat osallistuvat omilla paikkakunnillaan"
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "P\u00e4iv\u00e4n paikkakunta ja sen esittely",
+          "Paikallinen henkil\u00f6/ryhm\u00e4 esittelee 'liikkeens\u00e4'",
+          "Stadium-tiimi kokeilee liikett\u00e4",
+          "Yhteis\u00f6llinen hetki: paikalliset mukaan",
+          "P\u00e4iv\u00e4n lopuksi: 'X/100 \u2013 Liikkuva Suomi jatkuu'"
+        ],
+        "variable_elements": [
+          "Paikkakunta, ihmiset ja 'liike' vaihtuu joka p\u00e4iv\u00e4",
+          "Vuodenaika ja s\u00e4\u00e4 vaikuttavat sis\u00e4lt\u00f6\u00f6n",
+          "Yll\u00e4tykset ja spontaanit hetket"
+        ],
+        "host_approach": "Kiert\u00e4v\u00e4 tiimi (2-3 henkil\u00f6\u00e4) toimii 'road crew'na, joka dokumentoi mutta ei dominoi. Paikalliset ovat aina p\u00e4\u00e4osassa. Mahdollisuus julkkisvierailuihin tietyill\u00e4 paikkakunnilla (esim. Mertaranta Rovaniemell\u00e4)."
+      },
+      "brand_integration": {
+        "philosophy": "Stadium ei kerro mit\u00e4 liikkuminen on \u2013 Stadium mahdollistaa sen. Br\u00e4ndi on kansanliikkeen alullepanija ja tukija, ei m\u00e4\u00e4rittelij\u00e4.",
+        "integration_method": "Stadium varustaa jokaisen paikkakunnan osallistujat, Stadium-auto/bussi on n\u00e4kyv\u00e4 elementti, paikalliset Stadium-myym\u00e4l\u00e4t osallistuvat tapahtumiin",
+        "screen_time_balance": "70% paikalliset tarinat, 30% Stadium-elementit",
+        "cta_approach": "Jokainen paikkakunta saa oman landing pagen (stadium.fi/oulu, stadium.fi/kuopio) varusteineen"
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "P\u00e4iv\u00e4 1: Helsinki \u2013 Kaupunkipy\u00f6r\u00e4ily",
+          "description": "Startti Helsingist\u00e4, miss\u00e4 kaupunkilaiset n\u00e4ytt\u00e4v\u00e4t miten py\u00f6r\u00e4ill\u00e4\u00e4n ruuhkassa."
+        },
+        {
+          "number": 2,
+          "title": "P\u00e4iv\u00e4 15: Rovaniemi \u2013 Poroajelu",
+          "description": "Onko poroajelu liikuntaa? Paikalliset poromiehet todistavat, ett\u00e4 kyll\u00e4 on."
+        },
+        {
+          "number": 3,
+          "title": "P\u00e4iv\u00e4 33: Savonlinna \u2013 Avantouinti",
+          "description": "Talvinen avantouinti Saimaan rannalla \u2013 paikallinen avantouintiseura opettaa."
+        },
+        {
+          "number": 4,
+          "title": "P\u00e4iv\u00e4 50: Sein\u00e4joki \u2013 Tangoaskeleet",
+          "description": "Tangon p\u00e4\u00e4kaupungissa liikutaan tanssien \u2013 Stadium-tiimi oppii perusaskeleet."
+        },
+        {
+          "number": 5,
+          "title": "P\u00e4iv\u00e4 75: Oulu \u2013 Talvipy\u00f6r\u00e4ily",
+          "description": "Maailman talvipy\u00f6r\u00e4ilyp\u00e4\u00e4kaupunki n\u00e4ytt\u00e4\u00e4 miten se tehd\u00e4\u00e4n -20 asteessa."
+        },
+        {
+          "number": 6,
+          "title": "P\u00e4iv\u00e4 100: Turku \u2013 Finaali",
+          "description": "Kiertue p\u00e4\u00e4ttyy Turkuun, jossa 100 paikkakunnan edustajat kokoontuvat yhteiseen liikkumiseen."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee kaikki kolme j\u00e4nnitett\u00e4 kerralla: t\u00e4m\u00e4 on inspiraatiota (ei transaktiota), t\u00e4m\u00e4 on persoonallista (ei geneerist\u00e4), t\u00e4m\u00e4 on todellista (ei t\u00e4ydellist\u00e4). 'Join the Movement' muuttuu kirjaimelliseksi kansanliikkeeksi.",
+        "competitive_differentiation": "Kukaan kilpailija ei pysty t\u00e4h\u00e4n. T\u00e4m\u00e4 vaatii Stadiumin myym\u00e4l\u00e4verkoston, resurssit ja rohkeuden. T\u00e4m\u00e4 on category-defining -sis\u00e4lt\u00f6\u00e4.",
+        "audience_value_proposition": "Jokainen suomalainen n\u00e4kee oman paikkakuntansa tai tunnistaa tutun paikan. T\u00e4m\u00e4 on 'meid\u00e4n juttu' \u2013 paikallisylpeys, yhteis\u00f6llisyys ja aito liikkumisen ilo."
+      },
+      "execution": {
+        "complexity": "high",
+        "budget_tier": "premium",
+        "timeline_to_first_episode": "16-20 viikkoa (suunnittelu + tuotannon k\u00e4ynnistys)"
+      },
+      "risks": [
+        {
+          "risk": "Logistinen monimutkaisuus on valtava",
+          "mitigation": "Kokenut road-tuotantotiimi, ennakkosuunnittelu paikkakuntien kanssa, paikallisten Stadium-myym\u00e4l\u00f6iden hy\u00f6dynt\u00e4minen koordinaatiossa"
+        },
+        {
+          "risk": "100 p\u00e4iv\u00e4n sitoutuminen on iso riski",
+          "mitigation": "Pilotti 10 paikkakunnalla ensin, modulaarinen rakenne mahdollistaa skaalauksen yl\u00f6s tai alas"
+        },
+        {
+          "risk": "Sis\u00e4ll\u00f6n laatu voi vaihdella",
+          "mitigation": "Selke\u00e4t laatustandardit, ennakkoscouting, varasuunnitelmat jokaiselle p\u00e4iv\u00e4lle"
+        },
+        {
+          "risk": "Kustannukset voivat karata",
+          "mitigation": "Kiinte\u00e4 p\u00e4iv\u00e4budjetti, paikalliset kumppanuudet (majoitus, ruoka), mahdollinen mediayhteisty\u00f6 (esim. Yle Areenan jakelu)"
+        }
+      ]
+    }
+  ],
+  "treatment_files": [
+    "/opt/render/project/src/runs/stadium/TREATMENTS/stadium_TREATMENT_01_20260129_072321.md",
+    "/opt/render/project/src/runs/stadium/TREATMENTS/stadium_TREATMENT_02_20260129_072321.md",
+    "/opt/render/project/src/runs/stadium/TREATMENTS/stadium_TREATMENT_03_20260129_072321.md"
+  ],
   "onepager_specs": [],
   "onepagers_skipped": false,
   "onepagers_error": null,
@@ -305,6 +644,15 @@
     {
       "phase": "strategize",
       "started_at": "2026-01-29T07:17:21.431947",
+      "completed_at": "2026-01-29T07:17:23.160320",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "create",
+      "started_at": "2026-01-29T07:17:23.165693",
       "completed_at": null,
       "success": false,
       "error_message": null,
