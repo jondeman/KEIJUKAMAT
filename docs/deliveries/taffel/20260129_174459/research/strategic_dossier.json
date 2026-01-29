@@ -1,0 +1,203 @@
+{
+  "company_name": "Taffel ",
+  "company_slug": "taffel",
+  "generated_at": "2026-01-29T17:47:44.766403",
+  "brand_identity": {
+    "positioning": "Suomen sipsi ja markkinan default-valinta. Edustaa mutkatonta nautintoa ja sosiaalisuutta lupauksella 'El\u00e4m\u00e4 on hyv\u00e4\u00e4'. Nojaa kotimaiseen perint\u00f6\u00f6n ja luotettavuuteen.",
+    "visual_markers": {
+      "primary_color": "Red (Iconic logo)",
+      "secondary_colors": [
+        "Strong primary colors (packaging)",
+        "Blue (Ranch)",
+        "Green (Sourcream & Onion)"
+      ],
+      "style_keywords": [
+        "Domestic heritage",
+        "Big Time / Snack Time packaging",
+        "Uncomplicated"
+      ],
+      "tone_keywords": [
+        "Relaxed",
+        "Approachable",
+        "Humorous",
+        "Inviting"
+      ]
+    },
+    "voice_characteristics": [
+      "The Everyman",
+      "The Jester",
+      "Rousk",
+      "Not preachy",
+      "Not overly sophisticated"
+    ]
+  },
+  "strategic_priorities": [
+    {
+      "rank": 1,
+      "priority": "Tilannepohjainen kasvu (Occasion-based marketing)",
+      "evidence": [
+        "Vuoden 2024\u20132025 laaja pakkausuudistus: Big Time / Good Time / Snack Time",
+        "Siirtyminen volyymimyynnist\u00e4 oikean kokoisen pussin tarjoamiseen jokaiseen hetkeen"
+      ],
+      "execution_assessment": "strong"
+    },
+    {
+      "rank": 2,
+      "priority": "Markkinajohtajuuden puolustaminen innovaatioilla",
+      "evidence": [
+        "Fazer x Taffel -suklaasipsit",
+        "Uudet kategoriat kuten linssisipsit ja p\u00e4hkin\u00e4t",
+        "Makujen remixaus (esim. Ranch Chili Kiss)"
+      ],
+      "execution_assessment": "moderate"
+    },
+    {
+      "rank": 3,
+      "priority": "Vastuullisuus kilpailuetuna",
+      "evidence": [
+        "Orklan vihre\u00e4 tehdas Ahvenanmaalla (biokaasu, omat j\u00e4tevedet)",
+        "Kotimainen peruna ja palmu\u00f6ljytt\u00f6myys"
+      ],
+      "execution_assessment": "moderate"
+    }
+  ],
+  "marketing_posture": {
+    "current_content_types": [
+      "Massamediavetoinen mainonta (TV-spotit)",
+      "Tuotekeskeinen fiilistely somessa",
+      "Humoristiset sketsit ja haasteet"
+    ],
+    "channel_presence": {
+      "youtube": {
+        "active": false,
+        "assessment": "Ei mainittu ensisijaisena; painotus TV & VOD (Ruutu/Sanoma) kanavissa."
+      },
+      "tiktok": {
+        "active": true,
+        "assessment": "Aktiivinen/Kokeileva. Pyrkii tavoittamaan Gen Z:n huumorilla. Haasteena orgaanisen ja mainosmaisen tasapaino."
+      },
+      "instagram": {
+        "active": true,
+        "assessment": "Aktiivinen. Tuotekuvia, uutuuksien lanseerausta. Sitoutuminen perustasoa."
+      },
+      "linkedin": {
+        "active": false,
+        "assessment": "Ei mainittu strategiassa."
+      }
+    },
+    "apparent_gaps": [
+      "Syv\u00e4llisemm\u00e4n lifestyle-sis\u00e4ll\u00f6n puute",
+      "Tarina rajoittuu pussin avaamiseen ja sy\u00f6miseen",
+      "Br\u00e4nditarina sipsien ulkopuolella puuttuu"
+    ],
+    "audience_engagement": "Vahva top-of-mind tunnettuus massoissa, mutta intohimoinen fanitus v\u00e4h\u00e4isemp\u00e4\u00e4 kuin trendikk\u00e4ill\u00e4 haastajilla."
+  },
+  "competitive_analysis": {
+    "key_competitors": [
+      {
+        "name": "Estrella",
+        "content_strategy": "Maku-innovaattori, rohkeat lanseeraukset, nuorekas ote.",
+        "threat_level": "high"
+      },
+      {
+        "name": "Private Label (Pirkka, Rainbow, Lidl)",
+        "content_strategy": "Hinta edell\u00e4, ei merkitt\u00e4v\u00e4\u00e4 sis\u00e4lt\u00f6markkinointia.",
+        "threat_level": "medium"
+      }
+    ],
+    "brand_winning_areas": [
+      "Perinteet",
+      "Kotimaisuus",
+      "Luotettavuus (Suomen sipsi)",
+      "Massiivinen n\u00e4kyvyys TV:ss\u00e4"
+    ],
+    "brand_losing_areas": [
+      "Uutuudenvieh\u00e4tys",
+      "Hype-kerroin nuorten keskuudessa",
+      "Hintaherk\u00e4t kuluttajat"
+    ]
+  },
+  "strategic_tensions": [
+    {
+      "id": "tension_01",
+      "description": "Default vs. Desired (Turvallinen vs. Haluttava). Taffel on kaikille tuttu turvallinen valinta, mutta ei her\u00e4t\u00e4 samanlaista intohimoa kuin haastajat.",
+      "evidence": [
+        "Markkinajohtajan ongelma: Miten pysy\u00e4 kiinnostavana, kun olet jo kaikille tuttu?",
+        "Kilpailija Estrella koetaan nuorekkaammaksi."
+      ],
+      "opportunity_type": "aspiration",
+      "priority_score": 5
+    },
+    {
+      "id": "tension_02",
+      "description": "Volyymi-historia vs. Tilanne-tulevaisuus. Kuluttajat opetettu ostamaan j\u00e4ttipusseja kilohinnalla, nyt yritet\u00e4\u00e4n myyd\u00e4 pienempi\u00e4 pusseja.",
+      "evidence": [
+        "Strateginen siirtym\u00e4 volyymimyynnist\u00e4 tilannepohjaiseen markkinointiin",
+        "Kuluttajan tottumus kilohinta-ajatteluun ristiriidassa pienten pussien kanssa"
+      ],
+      "opportunity_type": "gap",
+      "priority_score": 4
+    },
+    {
+      "id": "tension_03",
+      "description": "Massaviihde-kiiltokuva vs. Sohva-realismi. Mainonta on kiiltokuvamaista juhlaa, todellisuus on rentoa r\u00f6hn\u00f6tyst\u00e4.",
+      "evidence": [
+        "TV-mainonta n\u00e4ytt\u00e4\u00e4 juhlia ja sosiaalisia tilanteita",
+        "Todellisuus: muruja sohvalla, rasvaiset sormet, yksin sy\u00f6minen"
+      ],
+      "opportunity_type": "underserved_audience",
+      "priority_score": 3
+    }
+  ],
+  "opportunity_zones": [
+    {
+      "id": "opp_01",
+      "description": "Lupa herkutella (Validating the Snack Time)",
+      "rationale": "Ratkaisee j\u00e4nnitteen volyymin ja tilanteen v\u00e4lill\u00e4. Pieni pussi ei ole huono diili, se on lupa omaan hetkeen.",
+      "risk_level": "low"
+    },
+    {
+      "id": "opp_02",
+      "description": "Suomalainen sipsirealismi (Embracing the Mess)",
+      "rationale": "Ratkaisee j\u00e4nnitteen kiiltokuvan ja realismin v\u00e4lill\u00e4. Erottaa Taffelin Estrellasta olemalla aidosti kotimainen ja rehellinen.",
+      "risk_level": "medium"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Taffel.fi Company Site",
+      "url": "https://taffel.fi",
+      "type": "company_site",
+      "date_accessed": "2026-01-29",
+      "relevance": "L\u00e4hde br\u00e4ndilupaukselle ja tuotetiedoille."
+    },
+    {
+      "title": "Taffel Suomi TikTok",
+      "url": "https://tiktok.com",
+      "type": "social",
+      "date_accessed": "2026-01-29",
+      "relevance": "L\u00e4hde some-strategian analyysille."
+    },
+    {
+      "title": "Orkla Suomi Reports",
+      "url": "https://orkla.fi",
+      "type": "report",
+      "date_accessed": "2026-01-29",
+      "relevance": "L\u00e4hde vastuullisuustiedoille ja Ahvenanmaan tehtaalle."
+    },
+    {
+      "title": "Markkinointiuutiset",
+      "url": "https://www.markkinointiuutiset.fi",
+      "type": "news",
+      "date_accessed": "2026-01-29",
+      "relevance": "L\u00e4hde pakkausuudistukselle ja strategialle."
+    },
+    {
+      "title": "Kauppalehti",
+      "url": "https://www.kauppalehti.fi",
+      "type": "news",
+      "date_accessed": "2026-01-29",
+      "relevance": "L\u00e4hde talous- ja strategiauutisille."
+    }
+  ]
+}
