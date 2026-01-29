@@ -2,8 +2,8 @@
   "run_id": "20260129_145845",
   "company_slug": "kaalimato",
   "created_at": "2026-01-29T14:58:45.397344",
-  "updated_at": "2026-01-29T14:58:45.397363",
-  "current_phase": "input",
+  "updated_at": "2026-01-29T14:58:48.286730",
+  "current_phase": "strategize",
   "user_input": {
     "company_name": "Kaalimato",
     "user_email": "joona.kortesmaki@wbitvp.fi",
@@ -13,14 +13,285 @@
     "use_cached_research": true,
     "total_tv_only": false
   },
-  "dossier": null,
-  "concept_briefs": [],
+  "dossier": {
+    "company_name": "Kaalimato",
+    "company_slug": "kaalimato",
+    "generated_at": "2026-01-29T13:25:45.723466",
+    "brand_identity": {
+      "positioning": "Koko kansan seksikauppa - helposti l\u00e4hestytt\u00e4v\u00e4, turvallinen ja kotimainen toimija.",
+      "visual_markers": {
+        "primary_color": "Kirkkaanvihre\u00e4",
+        "secondary_colors": [
+          "Valkoinen"
+        ],
+        "style_keywords": [
+          "Konstailematon",
+          "Marketmainen",
+          "Retro (2010-luku)",
+          "Arkip\u00e4iv\u00e4inen"
+        ],
+        "tone_keywords": [
+          "Rempse\u00e4",
+          "Suora",
+          "Humoristinen",
+          "H\u00e4peilem\u00e4t\u00f6n",
+          "Kansanomainen"
+        ]
+      },
+      "voice_characteristics": [
+        "Vitsik\u00e4s",
+        "Ei-l\u00e4\u00e4ketieteellinen",
+        "Ei-pornahtava"
+      ]
+    },
+    "strategic_priorities": [
+      {
+        "rank": 1,
+        "priority": "Markkinajohtajuuden ja Top-of-Mind -aseman puolustaminen",
+        "evidence": [
+          "Massiivinen n\u00e4kyvyys valtakunnallisessa TV- ja radiomainonnassa",
+          "Ikoninen \u00e4\u00e4nilogo",
+          "Prime-time mainospaikat"
+        ],
+        "execution_assessment": "strong"
+      },
+      {
+        "rank": 2,
+        "priority": "Asiakaskokemuksen kitkattomuus ja luottamus",
+        "evidence": [
+          "Lupaus nopeasta ja huomaamattomasta toimituksesta",
+          "Avainlippu-merkin korostaminen",
+          "Verkkokaupan optimointi konversiolle"
+        ],
+        "execution_assessment": "strong"
+      },
+      {
+        "rank": 3,
+        "priority": "Seksilelujen normalisointi ja hyvinvointikulma",
+        "evidence": [
+          "Viestinn\u00e4n siirtym\u00e4 kohti parisuhteen hyvinvointia",
+          "Osallistuminen valtavirran kampanjoihin (esim. Roosa Nauha -kontekstit)"
+        ],
+        "execution_assessment": "moderate"
+      }
+    ],
+    "marketing_posture": {
+      "current_content_types": [
+        "Taktinen TV- ja radiomainonta (jingle-vetoinen)",
+        "SEO-artikkelit ja oppaat",
+        "Staattiset kuvat ja meemit sosiaalisessa mediassa"
+      ],
+      "channel_presence": {
+        "youtube": {
+          "active": false,
+          "assessment": "Ei mainittu strategisena painopisteen\u00e4 raportissa, fokus TV:ss\u00e4."
+        },
+        "tiktok": {
+          "active": true,
+          "assessment": "Aktiivinen mutta varovainen; sis\u00e4lt\u00f6 pehme\u00e4\u00e4 lifestylea s\u00e4\u00e4nt\u00f6jen vuoksi."
+        },
+        "instagram": {
+          "active": true,
+          "assessment": "Aktiivinen mutta varovainen; sitoutuminen haastavaa aiheen intiimiyden takia."
+        },
+        "linkedin": {
+          "active": false,
+          "assessment": "Ei mainittu raportissa."
+        }
+      },
+      "apparent_gaps": [
+        "Syv\u00e4llinen, tunteisiin vetoava videokerronta puuttuu",
+        "V\u00e4h\u00e4inen korkean profiilin vaikuttajien hy\u00f6dynt\u00e4minen lifestyle-kulmalla",
+        "Visuaalinen tarinankerronta vanhanaikaista verrattuna kv-kilpailijoihin"
+      ],
+      "audience_engagement": "Tunnettuus valtava, mutta julkinen sitoutuminen (tykk\u00e4ykset/jaot) matalaa yksityisyyssyist\u00e4."
+    },
+    "competitive_analysis": {
+      "key_competitors": [
+        {
+          "name": "Sinful",
+          "content_strategy": "Moderni, visuaalisesti hiottu, Instagram-yhteensopiva, vahva digipreesens.",
+          "threat_level": "high"
+        },
+        {
+          "name": "Luksusbr\u00e4ndit & D2C (Lelo, Womanizer)",
+          "content_strategy": "Design, teknologia, premium-mielikuva.",
+          "threat_level": "medium"
+        },
+        {
+          "name": "Hypermarketit (Prisma, K-Citymarket)",
+          "content_strategy": "Saatavuus, arkip\u00e4iv\u00e4isyys, impulssiostot.",
+          "threat_level": "medium"
+        }
+      ],
+      "brand_winning_areas": [
+        "Kotimainen luotettavuus",
+        "Toimitusnopeus",
+        "Massiivinen tunnettuus",
+        "Matala kynnys ensikertalaiselle"
+      ],
+      "brand_losing_areas": [
+        "Visuaalinen raikkaus",
+        "Premium-mielikuva",
+        "Moderni br\u00e4nditarina"
+      ]
+    },
+    "strategic_tensions": [
+      {
+        "id": "tension_01",
+        "description": "\"Rallatus\" vs. Asiantuntijuus: Br\u00e4ndi tunnetaan huumorista, mutta haluaa olla uskottava hyvinvointitoimija.",
+        "evidence": [
+          "Tunnettuus perustuu \"Onks tullu postii?\" -hokemaan",
+          "Kuluttajan vaikea ottaa \"vitsik\u00e4st\u00e4 matoa\" vakavasti intiimien ongelmien ratkaisijana"
+        ],
+        "opportunity_type": "aspiration",
+        "priority_score": 5
+      },
+      {
+        "id": "tension_02",
+        "description": "Massan\u00e4kyvyys vs. Algoritmien sensuuri: Hallitsee TV:t\u00e4, mutta tuotteet blokattu somessa.",
+        "evidence": [
+          "Tuote-esittelyt johtavat sometilien j\u00e4\u00e4dytt\u00e4miseen",
+          "Videostrategia ei voi perustua tuotedemoihin"
+        ],
+        "opportunity_type": "threat",
+        "priority_score": 4
+      },
+      {
+        "id": "tension_03",
+        "description": "Transaktio vs. Yhteis\u00f6llisyys: Tehokas logistiikka, mutta puuttuva emotionaalinen side.",
+        "evidence": [
+          "Asiakassuhde on salainen ja p\u00e4\u00e4ttyy tilaukseen",
+          "Br\u00e4ndill\u00e4 ei ole \"faneja\" jotka jakaisivat sis\u00e4lt\u00f6\u00e4 ylpe\u00e4sti"
+        ],
+        "opportunity_type": "gap",
+        "priority_score": 3
+      }
+    ],
+    "opportunity_zones": [
+      {
+        "id": "opp_01",
+        "description": "Samaistuttava arki (Relatability)",
+        "rationale": "Fokus tuotteista tilanteisiin ja parisuhteen arkeen. Kiert\u00e4\u00e4 sensuurin ja rakentaa emotionaalista sidett\u00e4.",
+        "risk_level": "low"
+      },
+      {
+        "id": "opp_02",
+        "description": "Edutainment 2.0 (Koulutusviihde)",
+        "rationale": "Myyttien purkaminen ja kysymyksiin vastaaminen nopeatempoisella, viihdytt\u00e4v\u00e4ll\u00e4 tyylill\u00e4. Rakentaa asiantuntijuutta rennosti.",
+        "risk_level": "medium"
+      },
+      {
+        "id": "opp_03",
+        "description": "Br\u00e4ndimielikuvan visuaalinen p\u00e4ivitys (Elevation)",
+        "rationale": "Tuotantoarvojen nostaminen vastaamaan kansainv\u00e4list\u00e4 kilpailua s\u00e4ilytt\u00e4en huumorin.",
+        "risk_level": "high"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Strateginen Dossier: Kaalimato.com",
+        "url": "internal://report/kaalimato-dossier",
+        "type": "report",
+        "date_accessed": "2026-01-29",
+        "relevance": "Ensisijainen l\u00e4hde: nykytila, kilpailijat ja tavoitteet."
+      },
+      {
+        "title": "Kaalimato Verkkokauppa",
+        "url": "https://www.kaalimato.com",
+        "type": "company_site",
+        "date_accessed": "2026-01-29",
+        "relevance": "L\u00e4hde visuaaliselle ilmeelle, v\u00e4reille ja tuotevalikoimalle."
+      },
+      {
+        "title": "Kaalimato Instagram",
+        "url": "https://www.instagram.com/kaalimato",
+        "type": "social",
+        "date_accessed": "2026-01-29",
+        "relevance": "L\u00e4hde some-strategian ja sitoutumisen analyysille."
+      },
+      {
+        "title": "Kaalimato TikTok",
+        "url": "https://www.tiktok.com/@kaalimato",
+        "type": "social",
+        "date_accessed": "2026-01-29",
+        "relevance": "L\u00e4hde videostrategian ja sensuuriongelmien analyysille."
+      },
+      {
+        "title": "Valtakunnallinen TV/Radio -seuranta",
+        "url": "N/A",
+        "type": "other",
+        "date_accessed": "2026-01-29",
+        "relevance": "Havainnot massamediamainonnasta ja \u00e4\u00e4nilogosta."
+      }
+    ]
+  },
+  "concept_briefs": [
+    {
+      "slot_id": "01",
+      "slot_type": "safe_bet",
+      "assigned_tension_id": "tension_01",
+      "strategic_focus": "\"Rallatus\" vs. Asiantuntijuus: Br\u00e4ndi tunnetaan huumorista, mutta haluaa olla uskottava hyvinvointitoimija.",
+      "platform_focus": "youtube",
+      "format_guidance": "Focus on proven YouTube formats: documentary-style, interview series, or educational content. Episodes should be 8-15 minutes. Prioritize professional production quality and clear brand alignment. The series should have obvious rewatch and share value.",
+      "risk_profile": "low",
+      "success_hypothesis": "This concept directly addresses Kaalimato's top strategic priority (aspiration) with a proven format that minimizes execution risk while delivering measurable brand value."
+    },
+    {
+      "slot_id": "02",
+      "slot_type": "challenger",
+      "assigned_tension_id": "tension_02",
+      "strategic_focus": "Massan\u00e4kyvyys vs. Algoritmien sensuuri: Hallitsee TV:t\u00e4, mutta tuotteet blokattu somessa.",
+      "platform_focus": "tiktok",
+      "format_guidance": "Design for TikTok/Reels first: vertical format, 30-90 seconds, hook in first 3 seconds. Embrace platform-native aesthetics and trends. Consider creator collaborations. Content should feel bold and contemporary, not like traditional brand advertising.",
+      "risk_profile": "medium",
+      "success_hypothesis": "This concept enables Kaalimato to aggressively address their threat with bold positioning that differentiates them in the market and captures attention on high-engagement platforms."
+    },
+    {
+      "slot_id": "03",
+      "slot_type": "moonshot",
+      "assigned_tension_id": "tension_03",
+      "strategic_focus": "Transaktio vs. Yhteis\u00f6llisyys: Tehokas logistiikka, mutta puuttuva emotionaalinen side.",
+      "platform_focus": "cross_platform",
+      "format_guidance": "Think beyond single-platform content: interactive experiences, live events with digital extensions, user participation mechanics, or innovative cross-platform storytelling. This should feel like something the industry hasn't seen before. High production ambition is acceptable given the differentiation potential.",
+      "risk_profile": "high",
+      "success_hypothesis": "This concept unlocks an untapped opportunity for Kaalimato by addressing their gap in a way that creates cultural relevance and positions the brand as an innovator in their space."
+    }
+  ],
   "concepts": [],
   "treatment_files": [],
   "onepager_specs": [],
   "onepagers_skipped": false,
   "onepagers_error": null,
   "pitch_email": "",
-  "phase_history": [],
-  "archive_ref": null
+  "phase_history": [
+    {
+      "phase": "validate",
+      "started_at": "2026-01-29T14:58:47.519949",
+      "completed_at": "2026-01-29T14:58:47.524041",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "check_archive",
+      "started_at": "2026-01-29T14:58:47.528767",
+      "completed_at": "2026-01-29T14:58:48.245688",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "strategize",
+      "started_at": "2026-01-29T14:58:48.268495",
+      "completed_at": null,
+      "success": false,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    }
+  ],
+  "archive_ref": "deliveries:kaalimato/20260129_132005"
 }
