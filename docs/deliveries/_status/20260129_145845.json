@@ -2,8 +2,8 @@
   "run_id": "20260129_145845",
   "company_slug": "kaalimato",
   "created_at": "2026-01-29T14:58:45.397344",
-  "updated_at": "2026-01-29T15:04:48.284590",
-  "current_phase": "create",
+  "updated_at": "2026-01-29T15:27:52.210434",
+  "current_phase": "visualize",
   "user_input": {
     "company_name": "Kaalimato",
     "user_email": "joona.kortesmaki@wbitvp.fi",
@@ -595,7 +595,83 @@
     "/opt/render/project/src/runs/kaalimato/TREATMENTS/kaalimato_TREATMENT_02_20260129_150448.md",
     "/opt/render/project/src/runs/kaalimato/TREATMENTS/kaalimato_TREATMENT_03_20260129_150448.md"
   ],
-  "onepager_specs": [],
+  "onepager_specs": [
+    {
+      "concept_id": "concept_01",
+      "brand_styling": {
+        "primary_color": "#005e32",
+        "secondary_color": "#006911",
+        "accent_color": "#b635ac",
+        "style_keywords": [],
+        "logo_available": true,
+        "logo_path": "/opt/render/project/src/runs/2026-01-29_kaalimato_20260129_145845/artifacts/onepagers/logos/kaalimato_logo_search_2.png"
+      },
+      "content": {
+        "headline": "Suomalaiset Puhuu Seksist\u00e4",
+        "subheadline": "Dokumentaarinen haastattelusarja, jossa tavalliset suomalaiset \u2013 pariskunnista yksinel\u00e4viin, 25-vuot",
+        "bullets": [],
+        "call_to_action": "Let's bring this to life \u2192"
+      },
+      "visual_direction": {
+        "mood": "professional, inspiring, clean",
+        "imagery_style": "photorealistic",
+        "composition_notes": "A4 portrait infographic layout with multiple sections."
+      },
+      "generation_prompt": "High-quality horizontal infographic one-pager in 16:9 landscape ratio. Final output should be 3840x2160 (4K UHD) for screen presentation.\n\n## OVERALL VISUAL STYLE\nProfessional, warm, trustworthy Finnish aesthetic. Clean lines, bright natural lighting, approachable imagery. Documentary/editorial feel inspired by premium Nordic design. Soft gradients, clean whitespace, corporate elegance with warmth.\nThe design must feel premium, professional, and pitch-ready \u2013 like it could be presented at a top creative agency.\nMood: trustworthy, professional, inspiring\n\n## LOGO PLACEMENT (CRITICAL)\n- TOP LEFT CORNER: Small, elegant Warner Bros. International Television Production Finland logo (use light/white version if dark background)\n- TOP RIGHT CORNER: Small, elegant Kaalimato company logo\n- Both logos are placed discretely at the very top edge (approximately 3-4% of image height), maintaining balance and symmetry\n- Logos must NOT dominate \u2013 they are subtle professional identifiers only\nJos et l\u00f6yd\u00e4 tarkkaa logoa tai br\u00e4ndiv\u00e4rej\u00e4, k\u00e4yt\u00e4 Kaalimaton virallista logoa sek\u00e4 logoon ja br\u00e4ndi-ilmeeseen sopivia v\u00e4ris\u00e4vyj\u00e4.\n\n## HEADER SECTION (top 18%)\nBelow the logos:\n- LARGE BOLD TITLE: \"Suomalaiset Puhuu Seksist\u00e4\"\n- Subtitle: \"Dokumentaarinen haastattelusarja, jossa tavalliset suomalaiset \u2013 pariskunnista yksinel\u00e4viin, 25-v...\"\nTypography: Bold, modern Finnish advertising style, highly legible, strong visual impact\n\n## TIIVISTYS (TOP)\nImmediately after the title, include a compact 3-line summary block:\n- **MIT\u00c4?** Dokumentaarinen haastattelusarja, jossa tavalliset suomalaiset \u2013 pariskunnista yksinel\u00e4viin, 25-vuotiaista 65-vuotiaisiin \u2013 puhuvat avoimesti seksiel\u00e4m\u00e4st\u00e4\u00e4n...\n- **MITEN?** **P\u00e4\u00e4formaatti:**   8-osainen dokumentaarinen haastattelusarja YouTubessa. Jokainen jakso 12\u201318 minuuttia, oma teemansa: - Jakso 1: \"Ensimm\u00e4inen kerta\" (koke...\n- **MIKSI?** Tekee Kaalimatosta puheenaiheen ja muuttaa kiinnostuksen toiminnaksi.\nThese lines must be punchy and attention-grabbing, capturing the core idea fast.\n\n\n\n\n## MAIN VISUAL SECTION (middle 52%)\nSection title: \"KONSEPTIN YDIN\"\n\nDokumentaarinen haastattelusarja, jossa tavalliset suomalaiset \u2013 pariskunnista yksinel\u00e4viin, 25-vuotiaista 65-vuotiaisiin \u2013 puhuvat avoimesti seksiel\u00e4m\u00e4st\u00e4\u00e4n, toiveistaan ja peloistaan. Ei kikkailevia asiantuntijoita, ei julkkiksia: aitoja ihmisi\u00e4, aidoissa tilanteissa, kertomassa tarinoita, joita harvoin kuulee \u00e4\u00e4neen. Kaalimato on taustalla mahdollistajana \u2013 br\u00e4ndi, joka uskalsi antaa \u00e4\u00e4nen aiheelle, josta Suomessa vaietaan.\n\n--- \n\nThis section should visually communicate the core concept in a rich, infographic style.\nUse stylized illustrations, photo compositions, and graphic elements that match the brand aesthetic.\nInclude key characters, settings, or scenarios that bring the concept to life.\nThis must feel like a fully art-directed pitch visual, not a minimal poster.\n\n## PROCESS/FORMAT SECTION (20%)\nTitle: \"N\u00c4IN SE TOIMII\"\n\n**P\u00e4\u00e4formaatti:**  \n8-osainen dokumentaarinen haastattelusarja YouTubessa. Jokainen jakso 12\u201318 minuuttia, oma teemansa:\n- Jakso 1: \"Ensimm\u00e4inen kerta\" (kokemukset ja odotukset)\n- Jakso 2: \"Pitk\u00e4n parisuhteen rutiinit\"\n- Jakso 3: \"Puhumattomuus\"\n- Jakso 4: \"Kun keho muuttuu\" (ik\u00e4\u00e4ntyminen, sairaudet)\n- Jakso 5: \"Yksin mutta ei yksin\u00e4inen\"\n- Jakso 6: \"Toiveet joita ei ole sanottu\"\n- Jakso 7: \"H\u00e4pe\u00e4\"\n- Jakso 8: \"Mit\u00e4 opin\" (seurantajakso)\n\n**Julkaisurytmi:**  \nViikoittain torstaisin (prime-time digitaaliselle aikuisyleis\u00f6lle). Sarjakaari rakennetaan niin, ett\u00e4 jokainen jakso toimii itsen\u00e4isesti mutta kokonaisuus syvenee.\n\n**Laajennukset:**\n- **TikTok/Reels:** 60\u201390 sekunnin \"confession\"-klipit jokaisesta jaksosta. Ei tuote-esittelyj\u00e4, ei logoja \u2013 pelkk\u00e4 aito hetki + tekstitys + loppuun \"Suomalaiset Puhuu Seksist\u00e4 | YouTube\".\n- **Podcast-versio:** Pidennetyt haastattelut Spotifyssa (30\u201345 min) niille, jotka haluavat kuunnella ty\u00f6matkoilla.\n- **PR:** \"Suomalaisten seksipuhe -tutkimus\" \u2013 sarjan pohjalta ker\u00e4tty data (anonymisoitu) julkaistaan mediatiedotteena. Ansaittu media.\n\n---\n\nPresent as a clear visual flowchart or step-by-step (3-5 stages) with:\n- Each stage in a colored box connected by arrows or visual flow\n- Icon or small visual + short descriptive text per stage\n- Color-coded using brand palette\n\n## BOTTOM SECTION (10%)\nTitle: \"STRATEGINEN MONIALUSTAINEN ILMI\u00d6\"\n\nThree-column layout showing distribution:\n- Primary channel icon + name\n- Secondary channels\n- Impact/reach indicators\n\n## FOOTER\n\"Konsepti joka tekee Kaalimatosta puheenaiheen ja tavoittaa uusia yleis\u00f6j\u00e4.\"\nA compelling summary of why this concept is perfect for this brand.\n\n## COLOR PALETTE\n- Primary brand color: #005e32\n- Secondary color: #006911\n- Accent color: #b635ac\n- Background: Light, airy background with subtle brand color accents or soft gradient\n- Text: High contrast for excellent readability\n\n## TECHNICAL REQUIREMENTS\n- 16:9 landscape layout (target 3840x2160)\n- Wide, cinematic composition with clear horizontal flow\n- All Finnish text must be clearly readable and well-spaced\n- Professional marketing document quality matching top creative agencies\n- Avoid generic stock photo aesthetics\n- No AI-looking artifacts or distortions in faces\n- Clean, sharp typography throughout\n- Premium infographic design language\n- The one-pager should immediately communicate value and create desire to learn more\n",
+      "generated_at": "2026-01-29T15:15:52.013042",
+      "output_path": "/opt/render/project/src/runs/2026-01-29_kaalimato_20260129_145845/artifacts/onepagers/concept_01.png"
+    },
+    {
+      "concept_id": "concept_02",
+      "brand_styling": {
+        "primary_color": "#005e32",
+        "secondary_color": "#006911",
+        "accent_color": "#b635ac",
+        "style_keywords": [],
+        "logo_available": true,
+        "logo_path": "/opt/render/project/src/runs/2026-01-29_kaalimato_20260129_145845/artifacts/onepagers/logos/kaalimato_logo_search_2.png"
+      },
+      "content": {
+        "headline": "Tabu vai Tavallista?",
+        "subheadline": "TikTok-sarja, jossa kaksi tavallista suomalaista \u2013 yksi avoimesti seksuaalisuudesta puhuva, toinen u",
+        "bullets": [],
+        "call_to_action": "Let's bring this to life \u2192"
+      },
+      "visual_direction": {
+        "mood": "bold, energetic, contemporary",
+        "imagery_style": "graphic",
+        "composition_notes": "A4 portrait infographic layout with multiple sections."
+      },
+      "generation_prompt": "High-quality horizontal infographic one-pager in 16:9 landscape ratio. Final output should be 3840x2160 (4K UHD) for screen presentation.\n\n## OVERALL VISUAL STYLE\nBold, energetic, contemporary Finnish style. Strong graphics, dynamic composition, social-media-native visual language. Urban, fresh, attention-grabbing. High contrast, unexpected color pops, modern edge.\nThe design must feel premium, professional, and pitch-ready \u2013 like it could be presented at a top creative agency.\nMood: bold, energetic, contemporary\n\n## LOGO PLACEMENT (CRITICAL)\n- TOP LEFT CORNER: Small, elegant Warner Bros. International Television Production Finland logo (use light/white version if dark background)\n- TOP RIGHT CORNER: Small, elegant Kaalimato company logo\n- Both logos are placed discretely at the very top edge (approximately 3-4% of image height), maintaining balance and symmetry\n- Logos must NOT dominate \u2013 they are subtle professional identifiers only\nJos et l\u00f6yd\u00e4 tarkkaa logoa tai br\u00e4ndiv\u00e4rej\u00e4, k\u00e4yt\u00e4 Kaalimaton virallista logoa sek\u00e4 logoon ja br\u00e4ndi-ilmeeseen sopivia v\u00e4ris\u00e4vyj\u00e4.\n\n## HEADER SECTION (top 18%)\nBelow the logos:\n- LARGE BOLD TITLE: \"Tabu vai Tavallista?\"\n- Subtitle: \"TikTok-sarja, jossa kaksi tavallista suomalaista \u2013 yksi avoimesti seksuaalisuudesta puhuva, toine...\"\nTypography: Bold, modern Finnish advertising style, highly legible, strong visual impact\n\n## TIIVISTYS (TOP)\nImmediately after the title, include a compact 3-line summary block:\n- **MIT\u00c4?** TikTok-sarja, jossa kaksi tavallista suomalaista \u2013 yksi avoimesti seksuaalisuudesta puhuva, toinen ujompi \u2013 kohtaa arkisia v\u00e4itt\u00e4mi\u00e4 ja tilanteita liittyen s...\n- **MITEN?** **P\u00e4\u00e4formaatti:**   - 60\u201390 sekunnin TikTok-videot, 2\u20133 jaksoa viikossa   - Kausi 1: 12 jaksoa (1 kk)   - Vertical-first, tekstitetty, nopea leikkaus  **Julk...\n- **MIKSI?** Tekee Kaalimatosta puheenaiheen ja muuttaa kiinnostuksen toiminnaksi.\nThese lines must be punchy and attention-grabbing, capturing the core idea fast.\n\n\n\n\n## MAIN VISUAL SECTION (middle 52%)\nSection title: \"KONSEPTIN YDIN\"\n\nTikTok-sarja, jossa kaksi tavallista suomalaista \u2013 yksi avoimesti seksuaalisuudesta puhuva, toinen ujompi \u2013 kohtaa arkisia v\u00e4itt\u00e4mi\u00e4 ja tilanteita liittyen seksiin, parisuhteeseen ja nautintoon. Jokainen jakso alkaa yksinkertaisella kysymyksell\u00e4: \"Tabu vai tavallista?\" Kaksikko keskustelee, v\u00e4ittelee ja paljastaa omat ennakkoluulonsa \u2013 ja lopussa n\u00e4ytet\u00e4\u00e4n, mit\u00e4 \"kansa\" oikeasti ajattelee (Kaalimaton ker\u00e4\u00e4m\u00e4 data tai some-\u00e4\u00e4nestys). Formaatti kiert\u00e4\u00e4 algoritmien sensuurin keskittym\u00e4ll\u00e4 puheeseen...\n\nThis section should visually communicate the core concept in a rich, infographic style.\nUse stylized illustrations, photo compositions, and graphic elements that match the brand aesthetic.\nInclude key characters, settings, or scenarios that bring the concept to life.\nThis must feel like a fully art-directed pitch visual, not a minimal poster.\n\n## PROCESS/FORMAT SECTION (20%)\nTitle: \"N\u00c4IN SE TOIMII\"\n\n**P\u00e4\u00e4formaatti:**  \n- 60\u201390 sekunnin TikTok-videot, 2\u20133 jaksoa viikossa  \n- Kausi 1: 12 jaksoa (1 kk)  \n- Vertical-first, tekstitetty, nopea leikkaus\n\n**Julkaisurytmi:**  \n- Ma & to: uusi jakso  \n- La: \"Kansan tuomio\" -kooste viikon aiheista\n\n**Laajennukset:**  \n- **IG Reels & YT Shorts:** Samat videot, platformin mukaan optimoitu hook  \n- **Kommentti-UGC:** Parhaat katsojav\u00e4itt\u00e4m\u00e4t nostetaan omiksi jaksoiksi (\"Teid\u00e4n tabu vai tavallista\")  \n- **Podcast-spin-off:** Pidempi, syvempi keskustelu viikon aiheista \u2013 Spotifyssa ja YouTubessa (ei sensuroitava)  \n- **PR:** Ensimm\u00e4isen kauden data julkaistaan \"Suomalaisten seksitabut 2026\" -tutkimuksena \u2013 media-arvo\n\nPresent as a clear visual flowchart or step-by-step (3-5 stages) with:\n- Each stage in a colored box connected by arrows or visual flow\n- Icon or small visual + short descriptive text per stage\n- Color-coded using brand palette\n\n## BOTTOM SECTION (10%)\nTitle: \"STRATEGINEN MONIALUSTAINEN ILMI\u00d6\"\n\nThree-column layout showing distribution:\n- Primary channel icon + name\n- Secondary channels\n- Impact/reach indicators\n\n## FOOTER\n\"Konsepti joka tekee Kaalimatosta puheenaiheen ja tavoittaa uusia yleis\u00f6j\u00e4.\"\nA compelling summary of why this concept is perfect for this brand.\n\n## COLOR PALETTE\n- Primary brand color: #005e32\n- Secondary color: #006911\n- Accent color: #b635ac\n- Background: Dynamic gradient or bold brand color with graphic elements\n- Text: High contrast for excellent readability\n\n## TECHNICAL REQUIREMENTS\n- 16:9 landscape layout (target 3840x2160)\n- Wide, cinematic composition with clear horizontal flow\n- All Finnish text must be clearly readable and well-spaced\n- Professional marketing document quality matching top creative agencies\n- Avoid generic stock photo aesthetics\n- No AI-looking artifacts or distortions in faces\n- Clean, sharp typography throughout\n- Premium infographic design language\n- The one-pager should immediately communicate value and create desire to learn more\n",
+      "generated_at": "2026-01-29T15:16:53.429936",
+      "output_path": "/opt/render/project/src/runs/2026-01-29_kaalimato_20260129_145845/artifacts/onepagers/concept_02.png"
+    },
+    {
+      "concept_id": "concept_03",
+      "brand_styling": {
+        "primary_color": "#005e32",
+        "secondary_color": "#006911",
+        "accent_color": "#b635ac",
+        "style_keywords": [],
+        "logo_available": true,
+        "logo_path": "/opt/render/project/src/runs/2026-01-29_kaalimato_20260129_145845/artifacts/onepagers/logos/kaalimato_logo_search_2.png"
+      },
+      "content": {
+        "headline": "SUOMEN SUURIN PARISUHDEKOKEILU",
+        "subheadline": "Suomen ensimm\u00e4inen kansallinen parisuhdetutkimus, joka toteutetaan viihdeformaattina. 1000 suomalais",
+        "bullets": [],
+        "call_to_action": "Let's bring this to life \u2192"
+      },
+      "visual_direction": {
+        "mood": "visionary, impactful, premium",
+        "imagery_style": "mixed",
+        "composition_notes": "A4 portrait infographic layout with multiple sections."
+      },
+      "generation_prompt": "High-quality horizontal infographic one-pager in 16:9 landscape ratio. Final output should be 3840x2160 (4K UHD) for screen presentation.\n\n## OVERALL VISUAL STYLE\nVisionary, cinematic, premium Finnish aesthetic. Award-worthy design quality, sophisticated layering, dramatic lighting. Editorial boldness, statement-making, the kind of design that wins at Cannes Lions.\nThe design must feel premium, professional, and pitch-ready \u2013 like it could be presented at a top creative agency.\nMood: visionary, impactful, premium\n\n## LOGO PLACEMENT (CRITICAL)\n- TOP LEFT CORNER: Small, elegant Warner Bros. International Television Production Finland logo (use light/white version if dark background)\n- TOP RIGHT CORNER: Small, elegant Kaalimato company logo\n- Both logos are placed discretely at the very top edge (approximately 3-4% of image height), maintaining balance and symmetry\n- Logos must NOT dominate \u2013 they are subtle professional identifiers only\nJos et l\u00f6yd\u00e4 tarkkaa logoa tai br\u00e4ndiv\u00e4rej\u00e4, k\u00e4yt\u00e4 Kaalimaton virallista logoa sek\u00e4 logoon ja br\u00e4ndi-ilmeeseen sopivia v\u00e4ris\u00e4vyj\u00e4.\n\n## HEADER SECTION (top 18%)\nBelow the logos:\n- LARGE BOLD TITLE: \"SUOMEN SUURIN PARISUHDEKOKEILU\"\n- Subtitle: \"Suomen ensimm\u00e4inen kansallinen parisuhdetutkimus, joka toteutetaan viihdeformaattina. 1000 suomal...\"\nTypography: Bold, modern Finnish advertising style, highly legible, strong visual impact\n\n## TIIVISTYS (TOP)\nImmediately after the title, include a compact 3-line summary block:\n- **MIT\u00c4?** Suomen ensimm\u00e4inen kansallinen parisuhdetutkimus, joka toteutetaan viihdeformaattina. 1000 suomalaista pariskuntaa osallistuu 30 p\u00e4iv\u00e4n \"l\u00e4heisyyshaasteeseen...\n- **MITEN?** **P\u00e4\u00e4formaatti:** - **6-osainen TV-dokumenttisarja** (45 min/jakso) \u2013 seuraa valittuja pariskuntia intiimisti - **YouTube-versio:** pidennetyt leikkaukset, b...\n- **MIKSI?** Tekee Kaalimatosta puheenaiheen ja muuttaa kiinnostuksen toiminnaksi.\nThese lines must be punchy and attention-grabbing, capturing the core idea fast.\n\n\n\n\n## MAIN VISUAL SECTION (middle 52%)\nSection title: \"KONSEPTIN YDIN\"\n\nSuomen ensimm\u00e4inen kansallinen parisuhdetutkimus, joka toteutetaan viihdeformaattina. 1000 suomalaista pariskuntaa osallistuu 30 p\u00e4iv\u00e4n \"l\u00e4heisyyshaasteeseen\" \u2013 ei seksiin pakottavaan, vaan arkiseen: kosketus, keskustelu, yhteinen aika. Tutkimuksen tuloksia seurataan reaaliaikaisesti, ja TV-sarja seuraa 5\u20137 pariskuntaa syv\u00e4sukelluksena. Lopputuloksena syntyy Suomen ensimm\u00e4inen \"L\u00e4heisyysindeksi\" \u2013 julkinen mittari siit\u00e4, miten suomalaiset pariskunnat voivat.\n\n--- \n\nThis section should visually communicate the core concept in a rich, infographic style.\nUse stylized illustrations, photo compositions, and graphic elements that match the brand aesthetic.\nInclude key characters, settings, or scenarios that bring the concept to life.\nThis must feel like a fully art-directed pitch visual, not a minimal poster.\n\n## PROCESS/FORMAT SECTION (20%)\nTitle: \"N\u00c4IN SE TOIMII\"\n\n**P\u00e4\u00e4formaatti:**\n- **6-osainen TV-dokumenttisarja** (45 min/jakso) \u2013 seuraa valittuja pariskuntia intiimisti\n- **YouTube-versio:** pidennetyt leikkaukset, behind-the-scenes, asiantuntijahaastattelut\n\n**Julkaisurytmi ja kaari:**\n1. **Viikko 0:** PR-lanseeraus \u2013 \"Suomen suurin parisuhdekokeilu alkaa\" (lehdist\u00f6tilaisuus, some-kampanja)\n2. **Viikot 1\u20134:** P\u00e4ivitt\u00e4iset TikTok/Reels-p\u00e4ivitykset osallistujilta + viikoittaiset \"v\u00e4litulokset\"\n3. **Viikot 5\u201310:** TV-sarja alkaa, jakso viikossa\n4. **Viikko 11:** Finaali + live-tapahtuma: \"L\u00e4heisyysindeksi 2026\" julkistetaan\n\n**Laajennukset:**\n- **TikTok-sarja:** \"30 p\u00e4iv\u00e4n haaste\" \u2013 osallistujat jakavat p\u00e4ivitt\u00e4isi\u00e4 teht\u00e4vi\u00e4 (ei seksuaalista, algoritmi-turvallista)\n- **Podcast:** \"Mit\u00e4 tapahtui y\u00f6n aikana\" \u2013 asiantuntija + pariskunta keskustelevat viikon teemoista\n- **OOH:** Reaaliaikaiset tilastot Helsingin p\u00e4\u00e4n\u00e4yt\u00f6ill\u00e4 (\"T\u00e4n\u00e4\u00e4n 847 pariskuntaa kosketti toisiaan yli 10 minuuttia\")\n- **Live-tapahtuma:** \"Suuri l\u00e4heisyysiltama\" \u2013 gaala, jossa palkitaan osallistujia ja julkistetaan tulokset\n\n---\n\nPresent as a clear visual flowchart or step-by-step (3-5 stages) with:\n- Each stage in a colored box connected by arrows or visual flow\n- Icon or small visual + short descriptive text per stage\n- Color-coded using brand palette\n\n## BOTTOM SECTION (10%)\nTitle: \"STRATEGINEN MONIALUSTAINEN ILMI\u00d6\"\n\nThree-column layout showing distribution:\n- Primary channel icon + name\n- Secondary channels\n- Impact/reach indicators\n\n## FOOTER\n\"Konsepti joka tekee Kaalimatosta puheenaiheen ja tavoittaa uusia yleis\u00f6j\u00e4.\"\nA compelling summary of why this concept is perfect for this brand.\n\n## COLOR PALETTE\n- Primary brand color: #005e32\n- Secondary color: #006911\n- Accent color: #b635ac\n- Background: Rich dark base with premium lighting effects and depth, or striking bold color statement\n- Text: High contrast for excellent readability\n\n## TECHNICAL REQUIREMENTS\n- 16:9 landscape layout (target 3840x2160)\n- Wide, cinematic composition with clear horizontal flow\n- All Finnish text must be clearly readable and well-spaced\n- Professional marketing document quality matching top creative agencies\n- Avoid generic stock photo aesthetics\n- No AI-looking artifacts or distortions in faces\n- Clean, sharp typography throughout\n- Premium infographic design language\n- The one-pager should immediately communicate value and create desire to learn more\n",
+      "generated_at": "2026-01-29T15:27:52.208462",
+      "output_path": "/opt/render/project/src/runs/2026-01-29_kaalimato_20260129_145845/artifacts/onepagers/concept_03.png"
+    }
+  ],
   "onepagers_skipped": false,
   "onepagers_error": null,
   "pitch_email": "",
@@ -630,6 +706,15 @@
     {
       "phase": "create",
       "started_at": "2026-01-29T14:58:50.051795",
+      "completed_at": "2026-01-29T15:04:50.259337",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "visualize",
+      "started_at": "2026-01-29T15:04:50.265525",
       "completed_at": null,
       "success": false,
       "error_message": null,
