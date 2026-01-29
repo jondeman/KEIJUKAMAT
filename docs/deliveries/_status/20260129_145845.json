@@ -2,8 +2,8 @@
   "run_id": "20260129_145845",
   "company_slug": "kaalimato",
   "created_at": "2026-01-29T14:58:45.397344",
-  "updated_at": "2026-01-29T14:58:48.286730",
-  "current_phase": "strategize",
+  "updated_at": "2026-01-29T15:04:48.284590",
+  "current_phase": "create",
   "user_input": {
     "company_name": "Kaalimato",
     "user_email": "joona.kortesmaki@wbitvp.fi",
@@ -258,8 +258,343 @@
       "success_hypothesis": "This concept unlocks an untapped opportunity for Kaalimato by addressing their gap in a way that creates cultural relevance and positions the brand as an innovator in their space."
     }
   ],
-  "concepts": [],
-  "treatment_files": [],
+  "concepts": [
+    {
+      "id": "concept_01",
+      "title": "Puheenaihe: Parisuhteen pime\u00e4 puoli",
+      "hook": "Dokumenttisarja, jossa suomalaiset parit keskustelevat avoimesti asioista, joista kukaan ei yleens\u00e4 puhu \u00e4\u00e4neen \u2013 ja l\u00f6yt\u00e4v\u00e4t toisensa uudelleen.",
+      "premise": "Jokaisessa jaksossa yksi aito suomalainen pari istuu alas terapeutin tai seksuaalineuvojan kanssa ja puhuu l\u00e4pi ne asiat, jotka ovat j\u00e4\u00e4neet sanomatta: haluttomuus, rutiinit, fantasiat, h\u00e4pe\u00e4. Jakso seuraa heid\u00e4n matkaansa vaikean keskustelun l\u00e4pi kohti uutta ymm\u00e4rryst\u00e4. Kaalimato on turvallinen taustatuki \u2013 ei myyj\u00e4, vaan mahdollistaja.",
+      "long_form_extension": "Formaatti skaalautuu 8x45min dokumenttisarjaksi Ruutu+/MTV Katsomoon. Broadcast-versio 6x30min MTV3:lle prime-time dokumenttina 'Suomen intiimeimm\u00e4t keskustelut' -otsikolla.",
+      "format": {
+        "series_type": "seasonal",
+        "episode_length": "12-15 minuuttia",
+        "cadence": "Viikoittain",
+        "season_length": "8 jaksoa"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "YouTube",
+          "rationale": "YouTube mahdollistaa pidemm\u00e4n, syv\u00e4llisen sis\u00e4ll\u00f6n, jota katsojat etsiv\u00e4t aktiivisesti. Algoritmit suosivat katseluaikaa, ja aihe (parisuhdekeskustelut) on SEO-kultaa.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "Spotify/Podcast",
+            "rationale": "",
+            "adaptation": "\u00c4\u00e4niraita julkaistaan podcast-muodossa \u2013 monet haluavat kuunnella intiimit keskustelut mieluummin kuin katsoa."
+          },
+          {
+            "platform": "Instagram",
+            "rationale": "",
+            "adaptation": "60 sekunnin 'ravisuttavimmat sitaatit' -klipit ja parien kuvat ennen/j\u00e4lkeen -tarinoina."
+          }
+        ],
+        "amplification": "PR-yhteisty\u00f6 Iltalehdelle/IS:lle ('T\u00e4m\u00e4 pari puhui vihdoin haluttomuudesta'), parien omat some-jaot, seksuaalineuvojien ammatilliset verkostot."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Aloitus: pari esittelee itsens\u00e4 ja 'asian, josta emme puhu'",
+          "Keskiosa: ohjattu keskustelu asiantuntijan kanssa",
+          "Lopetus: 'Mit\u00e4 opimme?' -reflektio ja konkreettinen askel eteenp\u00e4in"
+        ],
+        "variable_elements": [
+          "Parit vaihtelevat (nuoret, pitk\u00e4\u00e4n yhdess\u00e4 olleet, uusperheet)",
+          "Asiantuntija vaihtuu aiheen mukaan (seksuaaliterapeutti, parisuhdeterapeutti, l\u00e4\u00e4k\u00e4ri)",
+          "Aiheet vaihtelevat: haluttomuus, fantasiat, kehonkuva, uskottomuus"
+        ],
+        "host_approach": "Ei varsinaista juontajaa \u2013 asiantuntija toimii ohjaavana hahmona. Voice-over tiivist\u00e4\u00e4 opit jakson lopussa."
+      },
+      "brand_integration": {
+        "philosophy": "Kaalimato on turvallinen ymp\u00e4rist\u00f6, ei aktiivinen myyj\u00e4. Br\u00e4ndi n\u00e4kyy siin\u00e4, ett\u00e4 t\u00e4llainen keskustelu on mahdollista \u2013 ei tuote-esittelyiss\u00e4.",
+        "integration_method": "Jakson lopussa 'Kaalimadon vinkki' -osio, jossa asiantuntija suosittelee yht\u00e4 konkreettista asiaa (joka VOI olla tuote, mutta useammin harjoitus tai keskustelunavaus). End card ohjaa Kaalimadon blogin syvent\u00e4viin artikkeleihin.",
+        "screen_time_balance": "90% sis\u00e4lt\u00f6\u00e4, 10% br\u00e4ndi",
+        "cta_approach": "Pehme\u00e4: 'Lue lis\u00e4\u00e4 aiheesta kaalimato.com/parisuhde' \u2013 ei suoraa tuotemyynti\u00e4."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Se, mist\u00e4 emme puhu",
+          "description": "Pari, joka on ollut yhdess\u00e4 12 vuotta, k\u00e4sittelee ensimm\u00e4ist\u00e4 kertaa \u00e4\u00e4neen sen, ett\u00e4 toinen haluaa enemm\u00e4n kuin toinen."
+        },
+        {
+          "number": 2,
+          "title": "Fantasian h\u00e4pe\u00e4",
+          "description": "Nuori pari uskaltaa kertoa toisilleen fantasioistaan \u2013 ja huomaa, etteiv\u00e4t ne olekaan niin erilaisia."
+        },
+        {
+          "number": 3,
+          "title": "Kehoni ei tunnu omalta",
+          "description": "Synnytyksen j\u00e4lkeinen kehonkuva ja seksuaalisuus \u2013 \u00e4iti puhuu avoimesti siit\u00e4, miten vauva muutti kaiken."
+        },
+        {
+          "number": 4,
+          "title": "Rutiinin vankeus",
+          "description": "Pitk\u00e4\u00e4n yhdess\u00e4 ollut pari etsii tapoja rikkoa kaavan, jossa seksi on 'sunnuntain asia'."
+        },
+        {
+          "number": 5,
+          "title": "Luottamuksen j\u00e4lkeen",
+          "description": "Pari, joka on selvinnyt uskottomuudesta, rakentaa intiimiyden uudelleen alusta."
+        },
+        {
+          "number": 6,
+          "title": "Kun halut eiv\u00e4t kohtaa",
+          "description": "Pari, jossa toinen on aseksuaalinen ja toinen ei \u2013 miten l\u00f6yt\u00e4\u00e4 yhteinen s\u00e4vel?"
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee suoraan j\u00e4nnitteen 'rallatus vs. asiantuntijuus'. T\u00e4m\u00e4 on vakavaa, laadukasta sis\u00e4lt\u00f6\u00e4, joka asemoi Kaalimadon hyvinvointibr\u00e4ndiksi ilman, ett\u00e4 luovutaan l\u00e4mpim\u00e4st\u00e4, inhimillisest\u00e4 s\u00e4vyst\u00e4.",
+        "competitive_differentiation": "Sinful tekee lifestyle-sis\u00e4lt\u00f6\u00e4, Lelo tekee tuote-elokuvia. Kukaan ei tee aitoja, dokumentaarisia parisuhdetarinoita. T\u00e4m\u00e4 on uniikki positio.",
+        "audience_value_proposition": "Katsojat n\u00e4kev\u00e4t itsens\u00e4. Jokainen pitk\u00e4ss\u00e4 suhteessa oleva tunnistaa n\u00e4m\u00e4 keskustelut \u2013 tai niiden puutteen. Sis\u00e4lt\u00f6 on terapeuttista ja jaettavaa ('Meid\u00e4n pit\u00e4isi katsoa t\u00e4m\u00e4 yhdess\u00e4')."
+      },
+      "execution": {
+        "complexity": "medium",
+        "budget_tier": "mid",
+        "timeline_to_first_episode": "10-12 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Parien l\u00f6yt\u00e4minen: kuka haluaa puhua n\u00e4in intiimeist\u00e4 asioista kameralle?",
+          "mitigation": "Casting-prosessi alkaa anonyymisti (lomake), edet\u00e4\u00e4n vaiheittain. Tarjotaan mahdollisuus esikatsella oma jakso ennen julkaisua. Korvaus + 'hyv\u00e4 asia' -kulma motivoi."
+        },
+        {
+          "risk": "Algoritmien sensuuri: YouTube voi rajoittaa seksuaaliaiheiden n\u00e4kyvyytt\u00e4.",
+          "mitigation": "Sis\u00e4lt\u00f6 keskittyy tunteisiin ja keskusteluun, ei fyysisyyteen. Otsikointi ja thumbnailit suunnitellaan algoritmeja silm\u00e4ll\u00e4 pit\u00e4en ('Parisuhdekeskustelu' > 'Seksiel\u00e4m\u00e4')."
+        },
+        {
+          "risk": "Br\u00e4ndi j\u00e4\u00e4 liian taustalle \u2013 ei muisteta, kuka teki.",
+          "mitigation": "Kaalimadon nimi sarjan nimess\u00e4 ('Puheenaihe by Kaalimato'), johdonmukainen visuaalinen ilme, asiantuntija mainitsee Kaalimadon roolin luontevasti."
+        }
+      ]
+    },
+    {
+      "id": "concept_02",
+      "title": "Kysymyksi\u00e4, joita et googleta",
+      "hook": "TikTok-sarja, jossa seksuaaliterapeutti vastaa niihin kiusallisiin kysymyksiin, jotka kaikki googlettavat incognito-tilassa \u2013 mutta kukaan ei kysy \u00e4\u00e4neen.",
+      "premise": "Formaatti on yksinkertainen: katsojat l\u00e4hett\u00e4v\u00e4t anonyymisti kysymyksi\u00e4\u00e4n, ja asiantuntija vastaa suoraan kameraan 60 sekunnissa. S\u00e4vy on l\u00e4mmin, asiallinen ja h\u00e4peilem\u00e4t\u00f6n. Kaalimato tekee seksuaalisesta terveydest\u00e4 normaalin puheenaiheen \u2013 ei vitsill\u00e4, vaan faktoilla ja empatialla.",
+      "long_form_extension": "TikTok-klipeist\u00e4 kootaan temaattisia YouTube-kokoelmia (20-30 min). Parhaista kysymyksist\u00e4 rakennetaan 6x22min 'Suomen kiusallisimmat kysymykset' -sarja Ruutu+:aan, jossa syvennyt\u00e4\u00e4n aiheisiin studiokeskusteluin ja asiantuntijapaneelein.",
+      "format": {
+        "series_type": "ongoing",
+        "episode_length": "45-90 sekuntia",
+        "cadence": "3-5 kertaa viikossa",
+        "season_length": null
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "TikTok",
+          "rationale": "TikTok on Suomen nopeimmin kasvava alusta, ja 'opettava sis\u00e4lt\u00f6' on yksi sen menestyneimmist\u00e4 kategorioista. Lyhyt formaatti kiert\u00e4\u00e4 sensuurin, kun fokus on tiedossa, ei tuotteissa.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "Instagram Reels",
+            "rationale": "",
+            "adaptation": "Sama sis\u00e4lt\u00f6 suoraan ristiinjulkaistuna, optimoitu IG:n algoritmille (tekstitykset, eri musiikki)."
+          },
+          {
+            "platform": "YouTube Shorts",
+            "rationale": "",
+            "adaptation": "Shorts-versiot ohjaavat pitkiin kokoelmavideoihin."
+          }
+        ],
+        "amplification": "Kysymysten ker\u00e4\u00e4minen IG-storyissa ja TikTok-kommenteissa. Vaikuttajayhteisty\u00f6t: suositut somettajat 'l\u00e4hett\u00e4v\u00e4t kysymyksen' ja reagoivat vastaukseen omalla tilill\u00e4\u00e4n."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Aloitus: kysymys n\u00e4ytet\u00e4\u00e4n ruudulla (anonyymin l\u00e4hett\u00e4j\u00e4n teksti)",
+          "Asiantuntija vastaa suoraan kameraan",
+          "Lopetus: 'L\u00e4het\u00e4 oma kysymyksesi' -CTA"
+        ],
+        "variable_elements": [
+          "Kysymykset vaihtelevat viikoittain (anatomia, suhteet, tuotteet, tabut)",
+          "Asiantuntijat voivat vaihtua (seksuaaliterapeutti, gynekologi, urologi, psykologi)",
+          "Erikoisjaksot: 'Pariskunnat kysyv\u00e4t toisiltaan'"
+        ],
+        "host_approach": "P\u00e4\u00e4asiantuntija on kasvot \u2013 tunnistettava, l\u00e4mmin, auktoriteettinen hahmo. Vierailevat asiantuntijat tuovat vaihtelua."
+      },
+      "brand_integration": {
+        "philosophy": "Kaalimato on luotettava tietol\u00e4hde, ei kauppias. Br\u00e4ndi rakentuu uskottavuudelle: 'Jos Kaalimato sanoo, se pit\u00e4\u00e4 paikkansa.'",
+        "integration_method": "Kaalimadon logo end cardissa, bio-linkki, satunnaiset 'Kaalimadon vinkki' -jaksot, joissa tuote mainitaan kontekstissa (esim. 'Liukuvoide auttaa t\u00e4ss\u00e4 \u2013 kaalimato.com/liukuvoiteet').",
+        "screen_time_balance": "95% sis\u00e4lt\u00f6\u00e4, 5% br\u00e4ndi",
+        "cta_approach": "Pehme\u00e4 ja kontekstuaalinen. Tuotelinkit biossa, ei jokaisessa videossa."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Onko normaalia, ett\u00e4...?",
+          "description": "Klassinen 'normaalius'-kysymys, johon vastaus on aina sama: kyll\u00e4, ja t\u00e4ss\u00e4 on miksi."
+        },
+        {
+          "number": 2,
+          "title": "Miksi kumppanini ei halua?",
+          "description": "Haluttomuuden syyt ja miten siit\u00e4 puhutaan ilman syyllist\u00e4mist\u00e4."
+        },
+        {
+          "number": 3,
+          "title": "Miten sanon, mit\u00e4 haluan?",
+          "description": "Konkreettiset lausemallit vaikeisiin keskusteluihin."
+        },
+        {
+          "number": 4,
+          "title": "Sattuuko t\u00e4m\u00e4n kuulua?",
+          "description": "Fyysinen kipu ja milloin pit\u00e4\u00e4 menn\u00e4 l\u00e4\u00e4k\u00e4riin."
+        },
+        {
+          "number": 5,
+          "title": "Onko t\u00e4m\u00e4 fantasia outo?",
+          "description": "Fantasioiden normalisointi ja raja fantasian ja todellisuuden v\u00e4lill\u00e4."
+        },
+        {
+          "number": 6,
+          "title": "Miten aloitan yksin?",
+          "description": "Itsetyydytyksen aloittaminen aikuisena \u2013 ei koskaan liian my\u00f6h\u00e4ist\u00e4."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee j\u00e4nnitteen 'massan\u00e4kyvyys vs. algoritmien sensuuri'. Sis\u00e4lt\u00f6 on tiedollista, ei visuaalisesti eksplisiittist\u00e4 \u2013 se p\u00e4\u00e4see l\u00e4pi algoritmeista ja rakentaa asiantuntijamielikuvaa.",
+        "competitive_differentiation": "Sinful tekee lifestyle-sis\u00e4lt\u00f6\u00e4, mutta kukaan ei omista 'seksuaaliterveyden asiantuntija' -positiota somessa Suomessa. T\u00e4m\u00e4 on avoin kentt\u00e4.",
+        "audience_value_proposition": "Katsojat saavat vastauksia kysymyksiin, joita he eiv\u00e4t kehtaa kysy\u00e4 kenelt\u00e4k\u00e4\u00e4n. Sis\u00e4lt\u00f6 on jaettavaa ('L\u00e4het\u00e4 t\u00e4m\u00e4 sille kaverille, joka aina kysyy')."
+      },
+      "execution": {
+        "complexity": "low",
+        "budget_tier": "budget",
+        "timeline_to_first_episode": "4-6 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "TikTokin sis\u00e4lt\u00f6politiikka voi silti rajoittaa n\u00e4kyvyytt\u00e4.",
+          "mitigation": "Kieli on kliinist\u00e4, ei rivoa. Testataan eri sanamuotoja. Varmuuskopio: sis\u00e4lt\u00f6 toimii my\u00f6s YouTubessa."
+        },
+        {
+          "risk": "Asiantuntijan l\u00f6yt\u00e4minen: kuka on tarpeeksi karismaattinen JA uskottava?",
+          "mitigation": "Casting useammasta vaihtoehdosta. Yhteisty\u00f6 Sexpo-s\u00e4\u00e4ti\u00f6n tai vastaavan kanssa. Voidaan aloittaa useammalla kasvolla ja katsoa, kuka resonoi."
+        },
+        {
+          "risk": "Sis\u00e4lt\u00f6 j\u00e4\u00e4 liian 'opettavaksi' \u2013 ei viihdyt\u00e4.",
+          "mitigation": "Kysymykset ovat itsess\u00e4\u00e4n viihdytt\u00e4vi\u00e4 ('Googletin t\u00e4m\u00e4n klo 3 y\u00f6ll\u00e4'). Editointi on nopeaa ja modernia. Asiantuntijan persoona on avainasemassa."
+        }
+      ]
+    },
+    {
+      "id": "concept_03",
+      "title": "Treffit pime\u00e4ss\u00e4",
+      "hook": "Dating-formaatti, jossa sinkut kohtaavat t\u00e4ydess\u00e4 pimeydess\u00e4 \u2013 ja joutuvat tutustumaan pelk\u00e4n keskustelun ja kosketuksen kautta, ilman ulkon\u00e4\u00f6n tuomaa ennakkoarviota.",
+      "premise": "Jokaisessa jaksossa kaksi sinkkua tapaa t\u00e4ysin pimennetyss\u00e4 tilassa. He eiv\u00e4t n\u00e4e toisiaan, mutta voivat puhua, kuunnella \u2013 ja halutessaan koskettaa. Formaatti tutkii, mit\u00e4 tapahtuu, kun ulkon\u00e4k\u00f6 poistetaan yht\u00e4l\u00f6st\u00e4: syntyyk\u00f6 yhteys? Jakson lopussa valot syttyv\u00e4t. Kaalimato sponsoroi formaattia, joka haastaa pinnallisen deittikulttuurin.",
+      "long_form_extension": "Ydinformaatti on 8x25min sarja Ruutu+:aan/MTV Katsomoon. Broadcast-versio MTV3:lle prime-time realityn\u00e4. Jokaisesta jaksosta leikataan 3-5 TikTok/Shorts-klippi\u00e4 ('Parhaat hetket pime\u00e4ss\u00e4').",
+      "format": {
+        "series_type": "seasonal",
+        "episode_length": "22-25 minuuttia",
+        "cadence": "Viikoittain (binge-julkaisu mahdollinen)",
+        "season_length": "8 jaksoa"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "Ruutu+/MTV Katsomo",
+          "rationale": "Suoratoistopalvelut etsiv\u00e4t suomalaista alkuper\u00e4issis\u00e4lt\u00f6\u00e4. Dating-formaatit ovat todistetusti suosittuja. T\u00e4m\u00e4 on premium-sis\u00e4lt\u00f6\u00e4, joka ansaitsee premium-alustan.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "TikTok",
+            "rationale": "",
+            "adaptation": "60 sekunnin klipit parhaista hetkist\u00e4: 'H\u00e4n kosketti k\u00e4tt\u00e4ni ja...' Pystymuotoinen, dramatiikka tiivistettyn\u00e4."
+          },
+          {
+            "platform": "YouTube",
+            "rationale": "",
+            "adaptation": "Behind-the-scenes: miten pimeys rakennetaan, osallistujien reaktiot j\u00e4lkik\u00e4teen."
+          },
+          {
+            "platform": "Instagram",
+            "rationale": "",
+            "adaptation": "Osallistujien esittelyt, \u00e4\u00e4nestykset ('Uskoitko, ett\u00e4 he tapasivat uudelleen?'), j\u00e4lkikeskustelut."
+          }
+        ],
+        "amplification": "PR-kampanja ('Suomen rohkein deittiohjelma'), osallistujien omat some-kanavat, vaikuttajat kommentoivat jaksoja, mahdollinen live-tapahtuma Akun Tehtaalla ('Treffit pime\u00e4ss\u00e4 LIVE')."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Intro: osallistujat esitell\u00e4\u00e4n valossa, kerrotaan mit\u00e4 he etsiv\u00e4t",
+          "Pime\u00e4 tila: 15-20 minuutin kohtaaminen t\u00e4ydess\u00e4 pimeydess\u00e4",
+          "Valojen syttyminen: ensireaktio, p\u00e4\u00e4t\u00f6s tavataanko uudelleen",
+          "Outro: kuukausi my\u00f6hemmin \u2013 mit\u00e4 tapahtui?"
+        ],
+        "variable_elements": [
+          "Osallistujat vaihtelevat (ik\u00e4, tausta, etsim\u00e4ns\u00e4)",
+          "Pime\u00e4n tilan 'teht\u00e4v\u00e4t' vaihtelevat (keskustelu, leikki, kosketus)",
+          "Erikoisjaksot: 'Ex-parit pime\u00e4ss\u00e4', 'Paras kaveri valitsee'"
+        ],
+        "host_approach": "Voice-over -kerronta, joka ohjaa katsojaa. Ei studiojuontajaa \u2013 fokus on osallistujissa."
+      },
+      "brand_integration": {
+        "philosophy": "Kaalimato edustaa rohkeutta, intiimiytt\u00e4 ja aitoutta. Br\u00e4ndi on formaatin mahdollistaja \u2013 se, joka uskaltaa puhua asioista, joista muut vaikenevat.",
+        "integration_method": "Kaalimadon nimi sarjan esittelyss\u00e4 ('Kaalimato esitt\u00e4\u00e4: Treffit pime\u00e4ss\u00e4'). Pime\u00e4ss\u00e4 tilassa voi olla Kaalimadon br\u00e4nd\u00e4ttyj\u00e4 elementtej\u00e4 (valaistus syttyess\u00e4). Jaksojen lopussa 'Kaalimadon vinkki' -osio parisuhteen aloittamiseen.",
+        "screen_time_balance": "85% sis\u00e4lt\u00f6\u00e4, 15% br\u00e4ndi",
+        "cta_approach": "End card: 'Uskalla tutustua \u2013 kaalimato.com'. Ei suoraa tuotemyynti\u00e4 ohjelmassa."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Ensikosketus",
+          "description": "Kaksi sinkkua kohtaa ensimm\u00e4ist\u00e4 kertaa pime\u00e4ss\u00e4 \u2013 voiko kemia synty\u00e4 ilman katsekontaktia?"
+        },
+        {
+          "number": 2,
+          "title": "\u00c4\u00e4nen voima",
+          "description": "Osallistuja, joka on aina tuominnut itsens\u00e4 ulkon\u00e4k\u00f6ns\u00e4 takia, l\u00f6yt\u00e4\u00e4 itsevarmuuden \u00e4\u00e4nens\u00e4 kautta."
+        },
+        {
+          "number": 3,
+          "title": "Kosketus kertoo",
+          "description": "Jakso, jossa osallistujat saavat koskettaa toistensa k\u00e4si\u00e4 \u2013 ja tekev\u00e4t yll\u00e4tt\u00e4vi\u00e4 havaintoja."
+        },
+        {
+          "number": 4,
+          "title": "Sanat riitt\u00e4v\u00e4t",
+          "description": "Introvertti ja ekstrovertti kohtaavat \u2013 ja l\u00f6yt\u00e4v\u00e4t yll\u00e4tt\u00e4v\u00e4n yhteyden hiljaisuuden hetkiss\u00e4."
+        },
+        {
+          "number": 5,
+          "title": "Odotukset vs. todellisuus",
+          "description": "Osallistuja, jolla on hyvin tarkka 'tyyppi', joutuu kohtaamaan ennakkoluulonsa valojen syttyess\u00e4."
+        },
+        {
+          "number": 6,
+          "title": "Toinen mahdollisuus",
+          "description": "Kaksi ihmist\u00e4, jotka ovat aiemmin hyl\u00e4nneet toisensa Tinderiss\u00e4, kohtaavat pime\u00e4ss\u00e4 \u2013 tiet\u00e4m\u00e4tt\u00e4 kuka toinen on."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee j\u00e4nnitteen 'transaktio vs. yhteis\u00f6llisyys'. Formaatti rakentaa emotionaalisen siteen br\u00e4ndiin \u2013 Kaalimato on se, joka uskaltaa tutkia aitoa yhteytt\u00e4.",
+        "competitive_differentiation": "Yksik\u00e4\u00e4n kilpailija ei omista TV-formaattia. T\u00e4m\u00e4 on kulttuurinen puheenaihe, ei vain mainos. Sinful ei voi kopioida t\u00e4t\u00e4.",
+        "audience_value_proposition": "Dating-sis\u00e4lt\u00f6 on todistettua viihdett\u00e4 (Love Island, First Dates). T\u00e4m\u00e4 tuo uuden kulman: mit\u00e4 jos poistamme ulkon\u00e4\u00f6n? Katsojat haluavat tiet\u00e4\u00e4, mit\u00e4 tapahtuu."
+      },
+      "execution": {
+        "complexity": "high",
+        "budget_tier": "premium",
+        "timeline_to_first_episode": "16-20 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Tuotannollinen monimutkaisuus: pime\u00e4ss\u00e4 kuvaaminen vaatii erikoiskalustoa.",
+          "mitigation": "Infrapunakamerat ja \u00e4\u00e4nitekniikka ovat todistettuja (vrt. 'Love is Blind'). WBITVP:n tuotanto-osaaminen riitt\u00e4\u00e4."
+        },
+        {
+          "risk": "Br\u00e4ndiassosiaatio: dating-formaatti + seksikauppa voi tuntua liian suoralta.",
+          "mitigation": "Formaatti keskittyy yhteyteen ja intiimiuteen, ei seksiin. Kaalimadon rooli on 'rohkeuden mahdollistaja', ei tuotemyyj\u00e4."
+        },
+        {
+          "risk": "Osallistujien l\u00f6yt\u00e4minen: kuka uskaltaa menn\u00e4 t\u00e4ysin pime\u00e4\u00e4n tilaan tuntemattoman kanssa?",
+          "mitigation": "Casting korostaa turvallisuutta (tuotantotiimi paikalla, safe word). Rohkeat sinkut hakevat huomiota \u2013 t\u00e4m\u00e4 on uniikki kokemus."
+        }
+      ]
+    }
+  ],
+  "treatment_files": [
+    "/opt/render/project/src/runs/kaalimato/TREATMENTS/kaalimato_TREATMENT_01_20260129_150448.md",
+    "/opt/render/project/src/runs/kaalimato/TREATMENTS/kaalimato_TREATMENT_02_20260129_150448.md",
+    "/opt/render/project/src/runs/kaalimato/TREATMENTS/kaalimato_TREATMENT_03_20260129_150448.md"
+  ],
   "onepager_specs": [],
   "onepagers_skipped": false,
   "onepagers_error": null,
@@ -286,6 +621,15 @@
     {
       "phase": "strategize",
       "started_at": "2026-01-29T14:58:48.268495",
+      "completed_at": "2026-01-29T14:58:50.045660",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "create",
+      "started_at": "2026-01-29T14:58:50.051795",
       "completed_at": null,
       "success": false,
       "error_message": null,
