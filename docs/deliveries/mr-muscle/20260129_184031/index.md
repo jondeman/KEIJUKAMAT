@@ -16,6 +16,9 @@
 - [Concept 03](concepts/concept_03.md)
 
 ## Treatments
+- [mr_muscle_TREATMENT_01_20260129_184853.md](treatments/mr_muscle_TREATMENT_01_20260129_184853.md)
+- [mr_muscle_TREATMENT_02_20260129_184853.md](treatments/mr_muscle_TREATMENT_02_20260129_184853.md)
+- [mr_muscle_TREATMENT_03_20260129_184853.md](treatments/mr_muscle_TREATMENT_03_20260129_184853.md)
 
 ## One-Pagers
 - [One-Pager 01](onepagers/concept_01.png)

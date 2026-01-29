@@ -2,8 +2,8 @@
   "run_id": "20260129_184031",
   "company_slug": "mr-muscle",
   "created_at": "2026-01-29T18:40:31.154533",
-  "updated_at": "2026-01-29T18:43:11.259138",
-  "current_phase": "strategize",
+  "updated_at": "2026-01-29T18:48:53.338320",
+  "current_phase": "create",
   "user_input": {
     "company_name": "Mr Muscle",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -268,8 +268,339 @@
       "success_hypothesis": "This concept unlocks an untapped opportunity for Mr Muscle by addressing their gap in a way that creates cultural relevance and positions the brand as an innovator in their space."
     }
   ],
-  "concepts": [],
-  "treatment_files": [],
+  "concepts": [
+    {
+      "id": "concept_01",
+      "title": "Likatiede \u2013 Laboratorio kohtaa arjen",
+      "hook": "Mr Muscle todistaa tieteellisen ylivoimansa dokumentaarisarjassa, jossa kemistit ja mikrobiologit kohtaavat Suomen pahimmat liat \u2013 ja selitt\u00e4v\u00e4t, miksi ne h\u00e4vi\u00e4v\u00e4t.",
+      "premise": "Jokaisessa jaksossa Likatiede vie katsojan todelliseen suomalaiseen kotiin, ravintolakeitti\u00f6\u00f6n tai teollisuustilaan, jossa jokin pinta on t\u00e4ysin toivoton. Oikea kemisti analysoi lian koostumuksen, selitt\u00e4\u00e4 sen molekyylitasolla ja demonstroi, miksi Mr Musclen formulat toimivat juuri t\u00e4h\u00e4n ongelmaan. Sarja yhdist\u00e4\u00e4 ASMR-tyyppisen tyydytt\u00e4v\u00e4n puhdistuksen tieteelliseen syvyyteen, jota kilpailijat eiv\u00e4t tarjoa.",
+      "long_form_extension": "Kausi kootaan 3x45min dokumenttiformaattiin Ruutu+:aan otsikolla 'Likatiede: Suomen siivoton totuus' \u2013 teemoina koti, ravintola ja teollisuus.",
+      "format": {
+        "series_type": "seasonal",
+        "episode_length": "10-14 minuuttia",
+        "cadence": "Viikoittain",
+        "season_length": "8 jaksoa"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "YouTube",
+          "rationale": "YouTube on paras alusta pitk\u00e4muotoiselle opettavaiselle sis\u00e4ll\u00f6lle, jossa katsoja sitoutuu tiedeaspektiin ja palaa hakemaan vinkkej\u00e4.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "TikTok",
+            "rationale": "",
+            "adaptation": "60 sekunnin 'Lian anatomia' -klipit: mikroskooppikuvaa liasta + dramaattinen puhdistushetki."
+          },
+          {
+            "platform": "Instagram Reels",
+            "rationale": "",
+            "adaptation": "'Before/After' -tyydytysvideot jakson parhaista hetkist\u00e4, ASMR-\u00e4\u00e4nimaisema."
+          }
+        ],
+        "amplification": "Yhteisty\u00f6 suomalaisten tiedevaikuttajien kanssa (esim. Scientific Cooking, kemisti-somet\u00e4hdet) sek\u00e4 PR-kulma 'Suomen likaisin paikka l\u00f6ytyi'."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Avaus: 'T\u00e4m\u00e4n lian ik\u00e4 on X vuotta' -reveal",
+          "Kemistin analyysi laboratoriossa (mikroskooppikuva, molekyylivisualisointi)",
+          "Tieteellinen selitys: miksi juuri t\u00e4m\u00e4 Mr Muscle -formula toimii",
+          "Tyydytt\u00e4v\u00e4 puhdistusprosessi (hidastukset, ASMR-\u00e4\u00e4ni)",
+          "Lopputulos ja omistajan reaktio"
+        ],
+        "variable_elements": [
+          "Lian tyyppi (rasva, kalkki, ruoste, home, orgaaninen)",
+          "Ymp\u00e4rist\u00f6 (koti, ravintola, teollisuus, julkinen tila)",
+          "Vieraileva asiantuntija (mikrobiologi, hygieniatarkastaja, ammattisiivooja)"
+        ],
+        "host_approach": "Sarjaa juontaa karismaattinen suomalainen kemisti tai tiedetoimittaja, joka toimii 'lian tulkkina' \u2013 ei Mr Muscle -hahmo, vaan aito asiantuntija."
+      },
+      "brand_integration": {
+        "philosophy": "Br\u00e4ndi on tieteellinen auktoriteetti, ei mainostaja. Mr Muscle ansaitsee paikkansa, koska sen kemia todistettavasti toimii.",
+        "integration_method": "Tuote n\u00e4kyy osana ratkaisua, kemisti selitt\u00e4\u00e4 formulan toimintaperiaatteen. Ei slogan-toistoa, vaan 't\u00e4m\u00e4 toimii, koska...'",
+        "screen_time_balance": "75% sis\u00e4lt\u00f6\u00e4 ja tiedett\u00e4, 25% tuoteintegraatio",
+        "cta_approach": "Jakson lopussa linkki 'Opi lis\u00e4\u00e4 lian tieteest\u00e4' -landing pagelle, ei suora ostokehote."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Uunin musta historia",
+          "description": "15 vuotta puhdistamaton uuni helsinkil\u00e4isess\u00e4 kerrostalossa \u2013 mit\u00e4 palanut rasva todella on?"
+        },
+        {
+          "number": 2,
+          "title": "Ravintolakeitti\u00f6n salaisuus",
+          "description": "Suositun ravintolan rasvakaivo paljastaa vuosien kerrostumat, hygieniatarkastaja kommentoi."
+        },
+        {
+          "number": 3,
+          "title": "Kylpyhuoneen kalkkikasa",
+          "description": "Kovan veden alueella asuvan perheen suihkusein\u00e4 \u2013 miksi kalkki on niin sitke\u00e4\u00e4?"
+        },
+        {
+          "number": 4,
+          "title": "Viem\u00e4rin hirvi\u00f6",
+          "description": "Kampaamon viem\u00e4ri ei ved\u00e4 \u2013 mikrobiologi tutkii, mit\u00e4 hiusmassan seassa el\u00e4\u00e4."
+        },
+        {
+          "number": 5,
+          "title": "Teollisuushallin lattia",
+          "description": "Konepajan \u00f6ljyl\u00e4isk\u00e4t ovat imeytyneet betoniin vuosikymmeni\u00e4 \u2013 onko toivoa?"
+        },
+        {
+          "number": 6,
+          "title": "M\u00f6kin talviuni",
+          "description": "Kes\u00e4m\u00f6kki avataan kev\u00e4\u00e4ll\u00e4: home, hiiret ja vuoden p\u00f6ly kohtaavat kemistin."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Vahvistaa 'Tehokkuuden ylivoima' -prioriteettia todistamalla tieteellisen ylivoiman, ei vain v\u00e4itt\u00e4m\u00e4ll\u00e4 sit\u00e4. Siirt\u00e4\u00e4 br\u00e4ndin 'laboratorio vs. olohuone' -j\u00e4nnitteen pois tuomalla laboratorion oikeaan el\u00e4m\u00e4\u00e4n.",
+        "competitive_differentiation": "CleanTok-kilpailijat n\u00e4ytt\u00e4v\u00e4t tyydytt\u00e4vi\u00e4 videoita, mutta eiv\u00e4t selit\u00e4 miksi. Mr Muscle omistaa 'tieteen' ja 'ymm\u00e4rryksen' \u2013 kukaan muu ei tee t\u00e4t\u00e4.",
+        "audience_value_proposition": "Katsoja oppii jotain yll\u00e4tt\u00e4v\u00e4\u00e4 joka jaksossa, saa tyydytt\u00e4v\u00e4n visuaalisen kokemuksen JA k\u00e4yt\u00e4nn\u00f6n vinkin. Jakamisen arvoista sis\u00e4lt\u00f6\u00e4."
+      },
+      "execution": {
+        "complexity": "medium",
+        "budget_tier": "mid",
+        "timeline_to_first_episode": "10-12 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Tieteellinen sis\u00e4lt\u00f6 voi tuntua tyls\u00e4lt\u00e4 tai opettavaiselta",
+          "mitigation": "Juontajan karisma ja visuaalinen tyydytt\u00e4vyys (ASMR, hidastukset) pit\u00e4v\u00e4t viihdearvon korkealla. Jokainen jakso alkaa shokeeraavalla 'reveal'-hetkell\u00e4."
+        },
+        {
+          "risk": "Br\u00e4ndi-integraatio voi tuntua v\u00e4kin\u00e4iselt\u00e4",
+          "mitigation": "Kemisti selitt\u00e4\u00e4 formulan neutraalisti, kuin tutkija \u2013 ei myyntipuheena. Tuote ansaitsee paikkansa tuloksilla, ei toistolla."
+        }
+      ]
+    },
+    {
+      "id": "concept_02",
+      "title": "Sotku \u2013 Siivouskilpailu ilman h\u00e4pe\u00e4\u00e4",
+      "hook": "Mr Muscle haastaa CleanTok-kulttuurin omistamalla 'oikean sotkun' \u2013 kilpailuformaatti, jossa tavalliset suomalaiset paljastavat kotinsa pahimmat nurkat ja kilpailevat tyydytt\u00e4vimm\u00e4st\u00e4 muodonmuutoksesta.",
+      "premise": "Sotku on TikTok-first kilpailuformaatti, jossa katsojat l\u00e4hett\u00e4v\u00e4t videoita kotinsa pahimmista sotkuista. Viikoittain valitaan kolme finalistia, joiden kodit kuvataan ammattimaisesti: aitoa sotkua, aitoja ihmisi\u00e4, aito puhdistusprosessi. Yhteis\u00f6 \u00e4\u00e4nest\u00e4\u00e4 tyydytt\u00e4vimm\u00e4n transformaation voittajan. Formaatti k\u00e4\u00e4nt\u00e4\u00e4 h\u00e4pe\u00e4n ylpeydeksi ja tekee siivoamisesta yhteis\u00f6llist\u00e4 viihdett\u00e4.",
+      "long_form_extension": "Kauden finaalit ja parhaat palat kootaan 4x21min 'Sotku: Suomen suursiivous' -sarjaksi MTV Katsomoon ja mahdollisesti broadcast-slottiin.",
+      "format": {
+        "series_type": "seasonal",
+        "episode_length": "60-90 sekuntia (TikTok), 3-5 min (YouTube compilation)",
+        "cadence": "3 videota viikossa (TikTok), 1 viikkoyhteenveto (YouTube)",
+        "season_length": "10 viikkoa, 30+ TikTok-videota"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "TikTok",
+          "rationale": "TikTok on CleanTok-kulttuurin koti. Mr Muscle tulee kilpailijoiden kotikent\u00e4lle ja voittaa heid\u00e4t omilla s\u00e4\u00e4nn\u00f6ill\u00e4\u00e4n \u2013 yhteis\u00f6llisyydell\u00e4 ja osallistumisella.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "YouTube Shorts",
+            "rationale": "",
+            "adaptation": "Samat videot crosspostataan, plus viikoittainen 5 min 'Viikon parhaat sotkut' -compilation."
+          },
+          {
+            "platform": "Instagram Reels",
+            "rationale": "",
+            "adaptation": "Before/After -karusselleja ja Stories-\u00e4\u00e4nestyksi\u00e4 finalisteista."
+          }
+        ],
+        "amplification": "Yhteisty\u00f6 suomalaisten lifestyle- ja sisustusvaikuttajien kanssa, jotka 'tuomaroivat' tai osallistuvat omilla sotkuillaan. Hashtag-haaste #MrMuscleSotku."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Viikon sotkut -esittely (3 finalistia)",
+          "'Tunnustus'-hetki: omistaja kertoo sotkun tarinan",
+          "Tyydytt\u00e4v\u00e4 puhdistusprosessi (ASMR, POV-kuvaus)",
+          "Before/After -reveal dramaattisella musiikilla",
+          "Yhteis\u00f6\u00e4\u00e4nestys: 'Kumpi oli tyydytt\u00e4v\u00e4mpi?'"
+        ],
+        "variable_elements": [
+          "Sotkun tyyppi ja sijainti",
+          "Osallistujan tarina ja persoona",
+          "Vieraileva tuomari/vaikuttaja"
+        ],
+        "host_approach": "Ei perinteist\u00e4 juontajaa \u2013 '\u00e4\u00e4ni' on Mr Muscle -br\u00e4ndin TikTok-persoona (ei CGI-hahmo, vaan br\u00e4ndin voice-over/tekstitys). Vaikuttajat toimivat vierailevina tuomareina."
+      },
+      "brand_integration": {
+        "philosophy": "Br\u00e4ndi on mahdollistaja ja yhteis\u00f6n kokoaja, ei pelastaja. Mr Muscle antaa v\u00e4lineet, ihmiset tekev\u00e4t itse.",
+        "integration_method": "Tuotteet n\u00e4kyv\u00e4t luontevasti puhdistusprosessissa. 'T\u00e4ll\u00e4 meni' -tekstitys ilman tyrkytyst\u00e4. Vaikuttajat voivat mainita omat suosikkinsa.",
+        "screen_time_balance": "85% sis\u00e4lt\u00f6\u00e4 ja yhteis\u00f6\u00e4, 15% tuoten\u00e4kyvyys",
+        "cta_approach": "Osallistumiskutsu: 'L\u00e4het\u00e4 oma sotkusi' \u2013 ei ostokehote, vaan yhteis\u00f6\u00f6n liittyminen."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Opiskelijan j\u00e4\u00e4kaappi",
+          "description": "Kolmen k\u00e4mppiksen jaettu j\u00e4\u00e4kaappi ei ole n\u00e4hty valoa kuukausiin \u2013 kuka uskaltaa avata?"
+        },
+        {
+          "number": 2,
+          "title": "Autotallin lattia",
+          "description": "Is\u00e4n projekti 2019: \u00f6ljy, maali ja sahanpuru ovat sulautuneet yhdeksi kerrokseksi."
+        },
+        {
+          "number": 3,
+          "title": "Lemmikkikoti",
+          "description": "Kolmen koiran ja kahden kissan perhe paljastaa olohuoneen nurkan, jota ei koskaan siivota."
+        },
+        {
+          "number": 4,
+          "title": "Kes\u00e4m\u00f6kin grilli",
+          "description": "Viiden kes\u00e4n kerrostumat \u2013 grillimestari ei ole koskaan pessyt ritil\u00e4\u00e4."
+        },
+        {
+          "number": 5,
+          "title": "Lastenhuoneen kaaos",
+          "description": "Kolmen lapsen huone: tussij\u00e4ljet seiniss\u00e4, liman j\u00e4\u00e4nteet matossa, tarinat takana."
+        },
+        {
+          "number": 6,
+          "title": "Finaalit: Suomen sotkuisin koti",
+          "description": "Kauden pahimmat sotkut kohtaavat \u2013 yhteis\u00f6 p\u00e4\u00e4tt\u00e4\u00e4, kuka saa Mr Muscle -vuosisiivouspalvelun."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee 'Pelastaja vs. Mahdollistaja' -j\u00e4nnitteen: br\u00e4ndi ei pelasta, vaan mahdollistaa. Samalla vastaa CleanTok-uhkaan tulemalla kilpailijoiden kent\u00e4lle yhteis\u00f6llisell\u00e4 formaatilla.",
+        "competitive_differentiation": "Pink Stuff ja Scrub Daddy n\u00e4ytt\u00e4v\u00e4t omia siivousvideoitaan. Mr Muscle omistaa YHTEIS\u00d6N sotkut \u2013 osallistava formaatti, ei vain katsottava.",
+        "audience_value_proposition": "Katsoja saa tyydytt\u00e4v\u00e4n visuaalisen kokemuksen, samaistuttavia tarinoita ja mahdollisuuden osallistua. 'Mun sotku on pahempi!' -reaktio = jakaminen."
+      },
+      "execution": {
+        "complexity": "medium",
+        "budget_tier": "mid",
+        "timeline_to_first_episode": "6-8 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Osallistujam\u00e4\u00e4r\u00e4 j\u00e4\u00e4 liian pieneksi",
+          "mitigation": "K\u00e4ynnistet\u00e4\u00e4n vaikuttajayhteisty\u00f6ll\u00e4 \u2013 5-10 vaikuttajaa l\u00e4hett\u00e4\u00e4 omat sotkunsa ensimm\u00e4isell\u00e4 viikolla, mik\u00e4 luo sosiaalisen normin osallistumiselle."
+        },
+        {
+          "risk": "Sis\u00e4lt\u00f6 voi tuntua liian samanlaiselta joka viikko",
+          "mitigation": "Teemaviikot (keitti\u00f6, kylpp\u00e4ri, ulkotilat, lemmikit) ja erikoisjaksot (julkkissotkut, ammattisiivoojan haaste) tuovat vaihtelua."
+        }
+      ]
+    },
+    {
+      "id": "concept_03",
+      "title": "Merest\u00e4 kotiin \u2013 Pullon matka",
+      "hook": "Mr Muscle kertoo ensimm\u00e4isen\u00e4 siivotusbr\u00e4ndin\u00e4 todellisen tarinan: minne muovij\u00e4te p\u00e4\u00e4tyy, kuka sen ker\u00e4\u00e4, ja miten siit\u00e4 tulee pullo, joka on nyt sinun k\u00e4dess\u00e4si.",
+      "premise": "Merest\u00e4 kotiin on monikanavainen dokumentaarinen el\u00e4myskonsepti, joka seuraa Mr Muscle -pullon matkaa Filippiinien rannikolta suomalaiseen kotiin. Sarja yhdist\u00e4\u00e4 investigatiivisen dokumentin, henkil\u00f6tarinat muovinker\u00e4\u00e4jist\u00e4 ja interaktiivisen elementin: jokainen pullo saa QR-koodin, joka avaa 'oman pullonsa tarinan'. Konsepti tekee n\u00e4kyv\u00e4ksi Ocean-Bound Plastic -kumppanuuden ja muuttaa 'teollisuusmyrkky'-mielikuvan 'merenpelastajaksi'.",
+      "long_form_extension": "P\u00e4\u00e4tuotanto on 3x45min dokumenttisarja 'Merest\u00e4 kotiin' Ruutu+:aan ja Yle Areenaan (co-production mahdollisuus). Broadcast cut 1x60min erikoisl\u00e4hetyksen\u00e4.",
+      "format": {
+        "series_type": "limited",
+        "episode_length": "45 minuuttia (dokumentti), 15 min (YouTube mid-form), 60 sek (some)",
+        "cadence": "3 dokumenttijaksoa 3 viikon aikana, some-sis\u00e4lt\u00f6\u00e4 p\u00e4ivitt\u00e4in kampanja-aikana",
+        "season_length": "3 jaksoa + jatkuva QR-sis\u00e4lt\u00f6"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "Streaming (Ruutu+/Yle Areena)",
+          "rationale": "Dokumentaarinen, arvopohjainen sis\u00e4lt\u00f6 ansaitsee premium-alustan. Yle-yhteisty\u00f6 tuo uskottavuutta ja laajaa tavoittavuutta.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "YouTube",
+            "rationale": "",
+            "adaptation": "15 min 'Behind the Journey' -jaksot: henkil\u00f6kohtaiset tarinat muovinker\u00e4\u00e4jilt\u00e4 ja tuotantoketjun ihmisilt\u00e4."
+          },
+          {
+            "platform": "TikTok/Reels",
+            "rationale": "",
+            "adaptation": "60 sek 'T\u00e4m\u00e4n pullon tarina' -videot: yksitt\u00e4isten pullojen matka visualisoituna, QR-koodi lopussa."
+          },
+          {
+            "platform": "Fyysinen tuote",
+            "rationale": "",
+            "adaptation": "Jokainen Mr Muscle -pullo saa QR-koodin, joka avaa personoidun 'pullosi matka' -mikrovideon (genAI-generoitu yksil\u00f6llinen sis\u00e4lt\u00f6)."
+          }
+        ],
+        "amplification": "PR-kampanja 'Suomen ensimm\u00e4inen pullo, jonka tarinan voit j\u00e4ljitt\u00e4\u00e4'. Yhteisty\u00f6 ymp\u00e4rist\u00f6j\u00e4rjest\u00f6jen kanssa. Live-tapahtuma: 'Muovimatka' -n\u00e4yttely Akun Tehtaalla."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Pullon matkan visualisointi (animoitu kartta + live-kuvaus)",
+          "Henkil\u00f6tarina: muovinker\u00e4\u00e4j\u00e4, tehtaanty\u00f6ntekij\u00e4, logistiikkahenkil\u00f6",
+          "Tieteellinen osio: mit\u00e4 muoville tapahtuu meress\u00e4 ja kierr\u00e4tyksess\u00e4",
+          "Suomalainen kuluttaja: miten t\u00e4m\u00e4 pullo p\u00e4\u00e4tyy kotiin"
+        ],
+        "variable_elements": [
+          "Maantieteellinen fokus (Filippiinit, Indonesia, Suomi)",
+          "Henkil\u00f6haastattelut ja tarinat",
+          "Tuotantoketjun vaihe (ker\u00e4ys, prosessointi, valmistus, jakelu)"
+        ],
+        "host_approach": "Suomalainen dokumentaristi/toimittaja (esim. ymp\u00e4rist\u00f6journalisti) seuraa matkaa ja haastattelee ihmisi\u00e4. Ei br\u00e4ndin edustaja, vaan riippumaton \u00e4\u00e4ni."
+      },
+      "brand_integration": {
+        "philosophy": "Br\u00e4ndi on tarinan mahdollistaja ja muutoksen tekij\u00e4, ei sankari. Tarina on ihmisten ja planeetan \u2013 Mr Muscle on v\u00e4line, joka tekee muutoksen mahdolliseksi.",
+        "integration_method": "Tuote n\u00e4kyy matkan p\u00e4\u00e4tepisteess\u00e4 \u2013 pullo, joka on tehty merest\u00e4 ker\u00e4tyst\u00e4 muovista. QR-koodi kytkee fyysisen tuotteen digitaaliseen tarinaan.",
+        "screen_time_balance": "90% dokumentaarista sis\u00e4lt\u00f6\u00e4, 10% br\u00e4ndi-kytk\u00f6s (matkan p\u00e4\u00e4tepiste)",
+        "cta_approach": "Skannaa QR-koodi pullostasi ja n\u00e4e sen matka. Ei ostokehote, vaan kokemus."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Rannikko",
+          "description": "Filippiinil\u00e4inen kalastaja Maria ker\u00e4\u00e4 muovia elantonsa turvaamiseksi \u2013 mit\u00e4 merest\u00e4 nousee ja minne se l\u00e4htee?"
+        },
+        {
+          "number": 2,
+          "title": "Tehdas",
+          "description": "Indonesian kierr\u00e4tyslaitoksella muovi muuttuu pelleteiksi \u2013 prosessi, jota kukaan ei ole n\u00e4hnyt n\u00e4in l\u00e4helt\u00e4."
+        },
+        {
+          "number": 3,
+          "title": "Koti",
+          "description": "Suomalainen perhe avaa Mr Muscle -pullon ja skannaa QR-koodin \u2013 matka p\u00e4\u00e4ttyy, mutta tarina jatkuu."
+        },
+        {
+          "number": 4,
+          "title": "QR-sis\u00e4lt\u00f6: Marian tarina",
+          "description": "Personoitu 90 sekunnin video: Maria kertoo, miten sinun pullosi muovi ker\u00e4ttiin."
+        },
+        {
+          "number": 5,
+          "title": "QR-sis\u00e4lt\u00f6: Matkan kartta",
+          "description": "Animoitu visualisointi: pullosi matka pisteest\u00e4 A pisteeseen B (genAI-personoitu)."
+        },
+        {
+          "number": 6,
+          "title": "Live: Muovimatka-n\u00e4yttely",
+          "description": "Akun Tehtaalla avautuva interaktiivinen n\u00e4yttely, jossa voi seurata pullon matkaa ja tavata muovinker\u00e4\u00e4ji\u00e4 videoyhteyden kautta."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee suurimman strategisen j\u00e4nnitteen: 'teollisuusmyrkky' vs. 'merensuojelija'. Tekee n\u00e4kyv\u00e4ksi Ocean-Bound Plastic -kumppanuuden tavalla, jota kukaan kilpailija ei voi kopioida.",
+        "competitive_differentiation": "Yksik\u00e4\u00e4n siivotusbr\u00e4ndi ei ole kertonut tuotteensa alkuper\u00e4tarinaa n\u00e4in l\u00e4pin\u00e4kyv\u00e4sti. T\u00e4m\u00e4 on 'farm-to-table' siivoustuotteille.",
+        "audience_value_proposition": "Katsoja saa merkityksellisen dokumenttiel\u00e4myksen JA henkil\u00f6kohtaisen yhteyden oman tuotteensa tarinaan. Jakamisen arvoista: 'Katso mist\u00e4 mun pullo tulee.'"
+      },
+      "execution": {
+        "complexity": "high",
+        "budget_tier": "premium",
+        "timeline_to_first_episode": "16-20 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Kansainv\u00e4linen tuotanto on logistisesti haastava",
+          "mitigation": "Yhteisty\u00f6 paikallisten tuotantoyhti\u00f6iden kanssa Filippiineill\u00e4 ja Indonesiassa. SC Johnsonin ja Plastic Bankin olemassa olevat yhteydet helpottavat p\u00e4\u00e4sy\u00e4."
+        },
+        {
+          "risk": "Dokumentti voi tuntua 'viherpesulta' jos toteutus ei ole aito",
+          "mitigation": "Riippumaton dokumentaristi/toimittaja, ei br\u00e4ndin edustaja. Kriittinenkin n\u00e4k\u00f6kulma sallitaan \u2013 aitous on t\u00e4rke\u00e4mp\u00e4\u00e4 kuin kiillotus."
+        },
+        {
+          "risk": "QR-sis\u00e4ll\u00f6n tekninen toteutus vaatii kehitysty\u00f6t\u00e4",
+          "mitigation": "GenAI-pohjainen personointi mahdollistaa skaalautuvan sis\u00e4ll\u00f6ntuotannon. MVP-versio voi olla yksinkertaisempi (3-5 eri versiota, ei t\u00e4ysi personointi)."
+        }
+      ]
+    }
+  ],
+  "treatment_files": [
+    "/opt/render/project/src/runs/mr_muscle/TREATMENTS/mr_muscle_TREATMENT_01_20260129_184853.md",
+    "/opt/render/project/src/runs/mr_muscle/TREATMENTS/mr_muscle_TREATMENT_02_20260129_184853.md",
+    "/opt/render/project/src/runs/mr_muscle/TREATMENTS/mr_muscle_TREATMENT_03_20260129_184853.md"
+  ],
   "onepager_specs": [],
   "onepagers_skipped": false,
   "onepagers_error": null,
@@ -305,6 +636,15 @@
     {
       "phase": "strategize",
       "started_at": "2026-01-29T18:43:11.253880",
+      "completed_at": "2026-01-29T18:43:13.007517",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "create",
+      "started_at": "2026-01-29T18:43:13.014392",
       "completed_at": null,
       "success": false,
       "error_message": null,
