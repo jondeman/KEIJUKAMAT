@@ -1,0 +1,226 @@
+{
+  "company_name": "Fanta",
+  "company_slug": "fanta",
+  "generated_at": "2026-01-29T18:07:59.966883",
+  "brand_identity": {
+    "positioning": "Gen Z:n 'lupa nauttia' (permission to indulge) ja vastavoima suorituspaineille tarjoten 'tyhm\u00e4\u00e4 hauskuutta' (dumb fun) ja spontaania iloa ilman syyllisyytt\u00e4. Slogan: 'In the name of play.'",
+    "visual_markers": {
+      "primary_color": "Kirkkaat, neon-hohtoiset, moniv\u00e4riset",
+      "secondary_colors": [
+        "Neon-oranssi",
+        "Neon-vihre\u00e4",
+        "Neon-violetti"
+      ],
+      "style_keywords": [
+        "Pop-taide",
+        "Rohkea",
+        "Kokeellinen",
+        "Lo-fi"
+      ],
+      "tone_keywords": [
+        "Ep\u00e4kunnioittava (irreverent)",
+        "Kaoottinen",
+        "Nokkela (witty)",
+        "Spontaani"
+      ]
+    },
+    "voice_characteristics": [
+      "Internet-natiivi",
+      "Ei saarnaava",
+      "Meemihenkinen"
+    ]
+  },
+  "strategic_priorities": [
+    {
+      "rank": 1,
+      "priority": "Gen Z:n rekrytointi (Aging Up)",
+      "evidence": [
+        "'Wanta Fanta' -kampanjan uudelleenl\u00e4mmittely (needs vs. wants)",
+        "TikTok-natiivi, kaoottinen sis\u00e4lt\u00f6strategia"
+      ],
+      "execution_assessment": "strong"
+    },
+    {
+      "rank": 2,
+      "priority": "Snacking-tilanteiden omistajuus ('Fnacking')",
+      "evidence": [
+        "Intiassa lanseerattu termi 'Fnacking'",
+        "Snack Hacking -kampanjat ja kokeelliset ruokayhdistelm\u00e4t"
+      ],
+      "execution_assessment": "moderate"
+    },
+    {
+      "rank": 3,
+      "priority": "Halloweenin omistajuus (Tentpole Marketing)",
+      "evidence": [
+        "Yhteisty\u00f6 Beetlejuice Beetlejuice (2024) -elokuvan kanssa",
+        "LTO-maut ja teemalliset digitaaliset kokemukset"
+      ],
+      "execution_assessment": "strong"
+    },
+    {
+      "rank": 4,
+      "priority": "Zero Sugar -kasvu",
+      "evidence": [
+        "Uudet Zero-maut (Apple, Raspberry)",
+        "Viestint\u00e4 korostaa makua terveyshy\u00f6tyjen sijaan"
+      ],
+      "execution_assessment": "moderate"
+    }
+  ],
+  "marketing_posture": {
+    "current_content_types": [
+      "TikTok-trendit ja haasteet (#WantaFanta)",
+      "Aistimarkkinointi (ASMR, visuaalinen poreilu)",
+      "Gamified AR (filtterit ja mobiilipelit)"
+    ],
+    "channel_presence": {
+      "youtube": {
+        "active": true,
+        "assessment": "Passiivisempi/Arkisto. Toimii TV-mainosten ja pidempien vaikuttajayhteist\u00f6iden varastona."
+      },
+      "tiktok": {
+        "active": true,
+        "assessment": "Eritt\u00e4in aktiivinen. P\u00e4\u00e4kanava. Estetiikka 'lo-fi' ja nopeatempoinen."
+      },
+      "instagram": {
+        "active": false,
+        "assessment": "Ei erikseen mainittu analyysiss\u00e4, painopiste TikTokissa."
+      },
+      "linkedin": {
+        "active": false,
+        "assessment": "Ei relevantti kuluttajakohderyhm\u00e4lle t\u00e4ss\u00e4 strategiassa."
+      }
+    },
+    "apparent_gaps": [
+      "Pitk\u00e4kestoinen tarinankerronta puuttuu; sis\u00e4lt\u00f6 on sirpalemaista",
+      "Yhteis\u00f6llisyyden syvent\u00e4minen pelk\u00e4n trendiosallistumisen sijaan"
+    ],
+    "audience_engagement": "Yleis\u00f6 reagoi vahvasti 'outoon' ja meemihenkiseen sis\u00e4lt\u00f6\u00f6n. Kiillotettu mainonta ei toimi t\u00e4ss\u00e4 kohderyhm\u00e4ss\u00e4."
+  },
+  "competitive_analysis": {
+    "key_competitors": [
+      {
+        "name": "Mirinda (PepsiCo)",
+        "content_strategy": "'No Flavor Like Your Flavor' - korostaa luovuutta ja hauskuutta.",
+        "threat_level": "high"
+      },
+      {
+        "name": "Toiminnalliset juomat (Olipop, energiajuomat)",
+        "content_strategy": "Terveyshy\u00f6dyt, tuottavuus, 'clean energy'.",
+        "threat_level": "high"
+      }
+    ],
+    "brand_winning_areas": [
+      "Puhdas hedonismi",
+      "Lupa olla hy\u00f6dyt\u00f6n ('dumb fun')"
+    ],
+    "brand_losing_areas": [
+      "Terveysargumentit",
+      "Funktionaalisuus ja hy\u00f6dyllisyys"
+    ]
+  },
+  "strategic_tensions": [
+    {
+      "id": "tension_01",
+      "description": "Needs vs. Wants / Tuottavuus vs. Nautinto: Gen Z kokee painetta olla tuottava, Fanta tarjoaa luvan nauttia.",
+      "evidence": [
+        "'Wanta Fanta' -kampanjan sanoitukset",
+        "Tutkimushavainto burnout-kulttuurista"
+      ],
+      "opportunity_type": "gap",
+      "priority_score": 5
+    },
+    {
+      "id": "tension_02",
+      "description": "Keinotekoinen vs. Aito: Ruokatrendi on 'raw & organic', mutta Fanta syleilee 'kemiallista' neon-estetiikkaa.",
+      "evidence": [
+        "Visuaalinen identiteetti (pop-taide, kirkkaat v\u00e4rit)",
+        "Beetlejuice-yhteisty\u00f6"
+      ],
+      "opportunity_type": "threat",
+      "priority_score": 4
+    },
+    {
+      "id": "tension_03",
+      "description": "Globaali br\u00e4ndi vs. Lokaali maku: Yhten\u00e4inen 'play'-br\u00e4ndi vs. radikaalisti vaihteleva tuotereseptiikka.",
+      "evidence": [
+        "Satoja makuvariantteja ymp\u00e4ri maailmaa",
+        "'What the Fanta' -kampanjat"
+      ],
+      "opportunity_type": "aspiration",
+      "priority_score": 3
+    }
+  ],
+  "opportunity_zones": [
+    {
+      "id": "opp_01",
+      "description": "Sensory Overload / Aistien ylikuormitus",
+      "rationale": "Fanta on 'kemiallista' ja poreilevaa, tarjoten voimakkaan aistikokemuksen (ASMR, tekstuurit), joka erottuu tasaisessa somevirrassa.",
+      "risk_level": "low"
+    },
+    {
+      "id": "opp_02",
+      "description": "Glorified 'Rotting' / Joutilaisuuden ylistys",
+      "rationale": "Sis\u00e4lt\u00f6\u00e4, joka n\u00e4ytt\u00e4\u00e4 'bed rotting' -ilmi\u00f6t\u00e4 positiivisessa valossa. Ratkaisee tension_01:n antamalla luvan olla suorittamatta.",
+      "risk_level": "medium"
+    },
+    {
+      "id": "opp_03",
+      "description": "Experimental 'Snack Hacking'",
+      "rationale": "Rohkaistaan k\u00e4ytt\u00e4ji\u00e4 luomaan outoja ruokayhdistelmi\u00e4 (esim. suolakurkut + Fanta). Tukee Fnacking-strategiaa shock valuella.",
+      "risk_level": "medium"
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Coca-Cola Company Press Releases (Wanta Fanta, Beetlejuice)",
+      "url": "https://www.coca-colacompany.com/media-center",
+      "type": "company_site",
+      "date_accessed": "2026-01-29",
+      "relevance": "Primary source for campaign launches"
+    },
+    {
+      "title": "Marketing Dive & AdWeek Analysis: Gen Z Strategies",
+      "url": "https://www.marketingdive.com",
+      "type": "news",
+      "date_accessed": "2026-01-29",
+      "relevance": "Industry analysis of rebranding"
+    },
+    {
+      "title": "Jones Knowles Ritchie (JKR) Case Studies",
+      "url": "https://jkrglobal.com/work",
+      "type": "other",
+      "date_accessed": "2026-01-29",
+      "relevance": "Visual identity rebranding details"
+    },
+    {
+      "title": "Coca-Cola Q3/2024 Earnings Call",
+      "url": "https://investors.coca-colacompany.com",
+      "type": "report",
+      "date_accessed": "2026-01-29",
+      "relevance": "Financial performance and strategic direction"
+    },
+    {
+      "title": "Medianews4u.com: Fnacking Campaigns",
+      "url": "https://www.medianews4u.com",
+      "type": "news",
+      "date_accessed": "2026-01-29",
+      "relevance": "Regional strategy evidence (India)"
+    },
+    {
+      "title": "Trendhunter.com: Sensory Marketing Trends",
+      "url": "https://www.trendhunter.com",
+      "type": "report",
+      "date_accessed": "2026-01-29",
+      "relevance": "Context for sensory marketing opportunity"
+    },
+    {
+      "title": "Insidefmcg.com.au: Product Reformulations",
+      "url": "https://insidefmcg.com.au",
+      "type": "news",
+      "date_accessed": "2026-01-29",
+      "relevance": "Zero sugar and product changes"
+    }
+  ]
+}
