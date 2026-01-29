@@ -1,0 +1,223 @@
+{
+  "company_name": "Stadium ",
+  "company_slug": "stadium",
+  "generated_at": "2026-01-29T07:17:19.755996",
+  "brand_identity": {
+    "positioning": "Join the Movement - Aktiivisen el\u00e4m\u00e4ntavan mahdollistaja (The Enabler) kaikille, ei vain huippu-urheilijoille.",
+    "visual_markers": {
+      "primary_color": "Puhdas, dynaaminen, pohjoismaisen raikas (tarkka hex ei m\u00e4\u00e4ritelty)",
+      "secondary_colors": [
+        "Valkoinen",
+        "Musta",
+        "Punainen"
+      ],
+      "style_keywords": [
+        "Puhdas",
+        "Dynaaminen",
+        "Pohjoismaisen raikas",
+        "Siloteltu",
+        "Studiolaatuinen"
+      ],
+      "tone_keywords": [
+        "Kannustava",
+        "Energinen",
+        "Korporatiivinen",
+        "Kliininen",
+        "Asiallinen"
+      ]
+    },
+    "voice_characteristics": [
+      "Tuotekeskeinen",
+      "Persoonaton",
+      "Turvallinen",
+      "Huumorintajuton"
+    ]
+  },
+  "strategic_priorities": [
+    {
+      "rank": 1,
+      "priority": "Omien tuotemerkkien (Private Label) kasvattaminen",
+      "evidence": [
+        "SOC- ja Everest-br\u00e4ndien dominoiva n\u00e4kyvyys myym\u00e4l\u00f6iss\u00e4",
+        "Uskottavat vaihtoehdot A-br\u00e4ndeille"
+      ],
+      "execution_assessment": "strong"
+    },
+    {
+      "rank": 2,
+      "priority": "Hinta-laatusuhde (Value for Money)",
+      "evidence": [
+        "Aggressiivinen Member-hinnoittelu",
+        "Jatkuvat kausikampanjat",
+        "Taktiset tarjoukset inflaatiomarkkinassa"
+      ],
+      "execution_assessment": "strong"
+    },
+    {
+      "rank": 3,
+      "priority": "Omnichannel-kokemus",
+      "evidence": [
+        "Order in store -konseptit",
+        "Verkkokaupan ja kivijalan integraatio",
+        "Nopeat toimituslupaukset"
+      ],
+      "execution_assessment": "moderate"
+    },
+    {
+      "rank": 4,
+      "priority": "Kest\u00e4v\u00e4 kehitys ja kiertotalous",
+      "evidence": [
+        "Re:Activate -konsepti (k\u00e4ytetyt v\u00e4lineet)",
+        "Vastuullisuusraportointi"
+      ],
+      "execution_assessment": "moderate"
+    }
+  ],
+  "marketing_posture": {
+    "current_content_types": [
+      "Kausivetoiset taktiset kampanjat",
+      "Korkean tuotantoarvon fiilisvideot",
+      "Tuote-esittelyt"
+    ],
+    "channel_presence": {
+      "youtube": {
+        "active": false,
+        "assessment": "Passiivinen varasto mainosfilmeille"
+      },
+      "tiktok": {
+        "active": true,
+        "assessment": "Aktiivinen, mutta tuotekeskeinen ilman aitoa tarinankerrontaa"
+      },
+      "instagram": {
+        "active": true,
+        "assessment": "Aktiivinen, laadukasta mutta kliinist\u00e4 kuvastoa"
+      },
+      "linkedin": {
+        "active": false,
+        "assessment": "Ei mainittu analyysissa"
+      }
+    },
+    "apparent_gaps": [
+      "Tarinallisuuden puute",
+      "Huumorin puute",
+      "Inhimillisyyden puute",
+      "Vastaa kysymykseen 'mit\u00e4', mutta ei 'miksi'"
+    ],
+    "audience_engagement": "Korkea tunnettuus (Top of Mind), mutta matala tunneside (Share of Heart). Br\u00e4ndi koetaan luotettavaksi mutta hajuttomaksi."
+  },
+  "competitive_analysis": {
+    "key_competitors": [
+      {
+        "name": "XXL",
+        "content_strategy": "Volyymi, hinta, varastomainen suoruus",
+        "threat_level": "high"
+      },
+      {
+        "name": "Intersport",
+        "content_strategy": "Paikallisuus, kauppiasvetoisuus, asiantuntijuus",
+        "threat_level": "medium"
+      },
+      {
+        "name": "Zalando / Sportamore / DTC",
+        "content_strategy": "Personoitu digikokemus, valtava valikoima, muodikkuus",
+        "threat_level": "high"
+      }
+    ],
+    "brand_winning_areas": [
+      "Turvallinen keskitie",
+      "Helposti l\u00e4hestytt\u00e4vyys",
+      "Vahvat omat merkit (SOC, Everest)"
+    ],
+    "brand_losing_areas": [
+      "Persoonallisuus",
+      "Erottuvuus",
+      "Vaara j\u00e4\u00e4d\u00e4 harmaaksi massaksi"
+    ]
+  },
+  "strategic_tensions": [
+    {
+      "id": "tension_01",
+      "description": "Inspiraatio vs. Transaktio: Br\u00e4ndilupaus on liikuttaa ihmisi\u00e4, mutta sis\u00e4lt\u00f6 on puhdasta tuotemyynti\u00e4.",
+      "evidence": [
+        "Slogan viittaa yhteis\u00f6\u00f6n, sis\u00e4lt\u00f6 hintaan",
+        "90% sis\u00e4ll\u00f6st\u00e4 taktista",
+        "Ei syyt\u00e4 liikkua, vain v\u00e4lineet"
+      ],
+      "opportunity_type": "gap",
+      "priority_score": 5
+    },
+    {
+      "id": "tension_02",
+      "description": "Geneerisyys vs. Persoonallisuus: Markkinajohtaja ilman tunnistettavaa sielua.",
+      "evidence": [
+        "Kuvapankkimainen mainonta",
+        "Kasvojen ja inhimillisen \u00e4\u00e4nen puute",
+        "Kilpailijat inhimillisempi\u00e4"
+      ],
+      "opportunity_type": "threat",
+      "priority_score": 5
+    },
+    {
+      "id": "tension_03",
+      "description": "T\u00e4ydellisyys vs. Todellisuus: Br\u00e4ndi on 'kaikille', mutta kuvasto on siloteltua huippusuorittamista.",
+      "evidence": [
+        "Vain t\u00e4ydellisi\u00e4 vartaloita kuvastossa",
+        "Tavallinen suomalainen ei samaistu",
+        "Urheilu esitet\u00e4\u00e4n vakavana suorittamisena"
+      ],
+      "opportunity_type": "underserved_audience",
+      "priority_score": 4
+    }
+  ],
+  "opportunity_zones": [
+    {
+      "id": "opp_01",
+      "description": "Br\u00e4ndin inhimillist\u00e4minen viihteen kautta (Mertaranta & Saariluoma -kulma)",
+      "rationale": "Ratkaisee geneerisyyden ja t\u00e4ydellisyyden j\u00e4nnitteet tuomalla br\u00e4ndin alas jalustalta huumorin ja tunnettujen kasvojen avulla.",
+      "risk_level": "medium"
+    },
+    {
+      "id": "opp_02",
+      "description": "Formatoidun sis\u00e4ll\u00f6n rakentaminen (Content-First)",
+      "rationale": "Siirtyminen mainosspoteista jatkuvaan sarjamuotoiseen sis\u00e4lt\u00f6\u00f6n rakentaa Share of Heartia ja antaa syyn palata br\u00e4ndin pariin.",
+      "risk_level": "medium"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Strateginen Dossier: Stadium",
+      "url": "internal://research/stadium-dossier-2026",
+      "type": "report",
+      "date_accessed": "2026-01-29",
+      "relevance": "Ensisijainen analyysidokumentti"
+    },
+    {
+      "title": "Stadium Official Website & E-com",
+      "url": "https://www.stadium.fi",
+      "type": "company_site",
+      "date_accessed": "2026-01-29",
+      "relevance": "L\u00e4hde visuaaliselle ilmeelle ja hinnoittelustrategialle"
+    },
+    {
+      "title": "Stadium Social Media Channels (IG/TikTok)",
+      "url": "https://www.instagram.com/stadiumfinland",
+      "type": "social",
+      "date_accessed": "2026-01-29",
+      "relevance": "L\u00e4hde sis\u00e4lt\u00f6strategian ja sitoutumisen analyysille"
+    },
+    {
+      "title": "Competitor Analysis: XXL & Intersport",
+      "url": "https://www.xxl.fi",
+      "type": "other",
+      "date_accessed": "2026-01-29",
+      "relevance": "Vertailuaineisto kilpailija-analyysiin"
+    },
+    {
+      "title": "Stadium Sustainability Report / Re:Activate",
+      "url": "https://www.stadium.fi/sustainability",
+      "type": "report",
+      "date_accessed": "2026-01-29",
+      "relevance": "L\u00e4hde vastuullisuusstrategian arvioinnille"
+    }
+  ]
+}
