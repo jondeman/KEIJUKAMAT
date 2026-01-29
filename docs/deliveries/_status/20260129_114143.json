@@ -2,8 +2,8 @@
   "run_id": "20260129_114143",
   "company_slug": "stadium-urheilu",
   "created_at": "2026-01-29T11:41:43.155297",
-  "updated_at": "2026-01-29T11:41:43.155309",
-  "current_phase": "input",
+  "updated_at": "2026-01-29T11:44:31.860811",
+  "current_phase": "research",
   "user_input": {
     "company_name": "Stadium Urheilu",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -13,7 +13,243 @@
     "use_cached_research": true,
     "total_tv_only": false
   },
-  "dossier": null,
+  "dossier": {
+    "company_name": "Stadium Urheilu",
+    "company_slug": "stadium-urheilu",
+    "generated_at": "2026-01-29T11:44:31.849500",
+    "brand_identity": {
+      "positioning": "\"Join the Movement\" & \"Activate the world.\" \u2013 Aktiivisen el\u00e4m\u00e4ntavan mahdollistaja, ei vain huippu-urheilun suorituskeskeinen br\u00e4ndi.",
+      "visual_markers": {
+        "primary_color": "Pohjoismaisen selke\u00e4 (Clean)",
+        "secondary_colors": [
+          "Studiomainen",
+          "Steriili"
+        ],
+        "style_keywords": [
+          "Hallittu",
+          "Tuotekeskeinen",
+          "Geneerinen"
+        ],
+        "tone_keywords": [
+          "Kannustava",
+          "Inklusiivinen",
+          "Energinen",
+          "Varovainen",
+          "Turvallinen"
+        ]
+      },
+      "voice_characteristics": [
+        "Kiva",
+        "Hajuton ja mauton",
+        "Korporaatio",
+        "Ei inhimillinen"
+      ]
+    },
+    "strategic_priorities": [
+      {
+        "rank": 1,
+        "priority": "Kannattavuuden palauttaminen",
+        "evidence": [
+          "Liikevaihdon lasku n. 10 % (2024)",
+          "Tulospaineet",
+          "Markkinoinnin on tuotava mitattavia tehoja"
+        ],
+        "execution_assessment": "weak"
+      },
+      {
+        "rank": 2,
+        "priority": "Omat merkit (Private Label: SOC, Everest)",
+        "evidence": [
+          "Elint\u00e4rkeit\u00e4 katteen kannalta",
+          "Halu olla br\u00e4nditalo eik\u00e4 vain j\u00e4lleenmyyj\u00e4"
+        ],
+        "execution_assessment": "strong"
+      },
+      {
+        "rank": 3,
+        "priority": "Vastuullisuus (Re:Activate)",
+        "evidence": [
+          "Tavoite pienent\u00e4\u00e4 hiilijalanj\u00e4lke\u00e4 50 % vuoteen 2030 menness\u00e4",
+          "Toimii br\u00e4ndin olemassaolon oikeutuksena"
+        ],
+        "execution_assessment": "moderate"
+      },
+      {
+        "rank": 4,
+        "priority": "Digitaalinen ansainta (Retail Media)",
+        "evidence": [
+          "Mirakl Ads -yhteisty\u00f6",
+          "Mainostilan myynti omissa kanavissa"
+        ],
+        "execution_assessment": "moderate"
+      }
+    ],
+    "marketing_posture": {
+      "current_content_types": [
+        "Kausivetoiset kampanjat (Back to School, Black Friday)",
+        "Taktiset tuote + hinta -mainokset",
+        "Geneeriset \"how-to\" -oppaat"
+      ],
+      "channel_presence": {
+        "youtube": {
+          "active": false,
+          "assessment": "Passiivinen varasto. TV-spotteja ja oppaita, ei viihdearvoa."
+        },
+        "tiktok": {
+          "active": true,
+          "assessment": "Vaikuttajayhteisty\u00f6t\u00e4, joka tuntuu p\u00e4\u00e4lleliimatulta tuote-esittelylt\u00e4."
+        },
+        "instagram": {
+          "active": true,
+          "assessment": "Aktiivinen, mutta sis\u00e4lt\u00f6 usein geneerist\u00e4 'katso minua treenaamassa' -tuote-esittely\u00e4."
+        },
+        "linkedin": {
+          "active": false,
+          "assessment": "Ei mainittu analyysissa."
+        }
+      },
+      "apparent_gaps": [
+        "Destination Content (sis\u00e4lt\u00f6 jonka pariin tullaan viihtym\u00e4\u00e4n)",
+        "Persoonat (br\u00e4ndilt\u00e4 puuttuvat kasvot ja inhimillinen \u00e4\u00e4ni)"
+      ],
+      "audience_engagement": "Transaktionaalista. Asiakkaat etsiv\u00e4t tietoa tai tarjouksia, eiv\u00e4t yhteis\u00f6\u00e4."
+    },
+    "competitive_analysis": {
+      "key_competitors": [
+        {
+          "name": "XXL",
+          "content_strategy": "Aggressiivinen hintaviestint\u00e4, \"huutaa kovempaa\".",
+          "threat_level": "high"
+        },
+        {
+          "name": "Intersport",
+          "content_strategy": "Paikallinen asiantuntijuus, kauppiasvetoinen luottamus.",
+          "threat_level": "medium"
+        },
+        {
+          "name": "DTC-br\u00e4ndit (Nike, Adidas)",
+          "content_strategy": "Rakentavat suoraa tunnesidett\u00e4 ja \"cooliutta\" kuluttajaan.",
+          "threat_level": "high"
+        }
+      ],
+      "brand_winning_areas": [
+        "Omien merkkien (SOC) hinta-laatusuhde",
+        "Pohjoismainen selkeys",
+        "Vastuullisuusohjelma"
+      ],
+      "brand_losing_areas": [
+        "Hintakilpailu (vs. XXL)",
+        "Katu-uskottavuus/haluttavuus (vs. Nike/Adidas)",
+        "Inhimillinen palvelumielikuva (vs. Intersport)"
+      ]
+    },
+    "strategic_tensions": [
+      {
+        "id": "tension_01",
+        "description": "Inspiraatio vs. Transaktio: Br\u00e4ndilupaus on emotionaalinen, mutta kohtaamispisteet kylm\u00e4n rationaalisia.",
+        "evidence": [
+          "Slogan \"Join the Movement\" vs. mainonta \"Takki 49,90\u20ac\"",
+          "YouTube-kanava toimii mainosvarastona, ei inspiraation l\u00e4hteen\u00e4"
+        ],
+        "opportunity_type": "gap",
+        "priority_score": 5
+      },
+      {
+        "id": "tension_02",
+        "description": "\"Kaikille\" vs. \"Ei kenellek\u00e4\u00e4n\": Pyrkimys puhua koko kansalle tekee br\u00e4ndist\u00e4 liian turvallisen ja s\u00e4rm\u00e4tt\u00f6m\u00e4n.",
+        "evidence": [
+          "\u00c4\u00e4nens\u00e4vy on \"kiva\" mutta vailla mielipiteit\u00e4",
+          "Visuaalisuus on studiomaisen hallittua, puuttuu rosoisuus"
+        ],
+        "opportunity_type": "threat",
+        "priority_score": 4
+      },
+      {
+        "id": "tension_03",
+        "description": "Korporaatio vs. Ihminen: Stadium viestii instituutiona, kun ihmiset haluavat kuunnella toisia ihmisi\u00e4.",
+        "evidence": [
+          "Sis\u00e4ll\u00f6ist\u00e4 puuttuvat toistuvat, tunnistettavat \"is\u00e4nt\u00e4kasvot\"",
+          "Vaikuttajayhteisty\u00f6t ovat irrallisia kampanjal\u00e4ht\u00f6j\u00e4"
+        ],
+        "opportunity_type": "gap",
+        "priority_score": 4
+      },
+      {
+        "id": "tension_04",
+        "description": "Vastuullisuuspuhe vs. Kulutusvetoisuus: Br\u00e4ndi rakentaa identiteetti\u00e4 vastuullisuudelle, mutta bisnes vaatii uuden myynti\u00e4.",
+        "evidence": [
+          "Kovat p\u00e4\u00e4st\u00f6tavoitteet (-50% 2030) vs. sesonkivetoinen myyntisykli",
+          "Tarve oikeuttaa olemassaolo muutenkin kuin tavaran myynnill\u00e4"
+        ],
+        "opportunity_type": "aspiration",
+        "priority_score": 3
+      }
+    ],
+    "opportunity_zones": [
+      {
+        "id": "opp_01",
+        "description": "Entertainment-First -strategia (Mertaranta & Saariluoma)",
+        "rationale": "Ratkaisee hajuttomuuden ja persoonavajeen luomalla 'Destination Contentia', jota kulutetaan vapaaehtoisesti. Tuo \u00e4\u00e4nen, huumorin ja inhimillisyyden.",
+        "risk_level": "medium"
+      },
+      {
+        "id": "opp_02",
+        "description": "Urheilukulttuurin omistaminen (\"The Host\")",
+        "rationale": "Ratkaisee inspiraatio-transaktio -j\u00e4nnitteen. Br\u00e4ndi fasilitoi keskustelua ilmi\u00f6ist\u00e4 ja tunteista, legitimoiden paikkansa 'liikkeen' keskell\u00e4.",
+        "risk_level": "low"
+      },
+      {
+        "id": "opp_03",
+        "description": "Vastuullinen fanitus ja huolto",
+        "rationale": "Lievent\u00e4\u00e4 vastuullisuus vs. kulutus -j\u00e4nnitett\u00e4 keskittym\u00e4ll\u00e4 huoltoon ja kest\u00e4vyyteen, mik\u00e4 tukee Re:Activate-strategiaa konkreettisesti.",
+        "risk_level": "low"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Stadium Finland",
+        "url": "https://www.stadium.fi",
+        "type": "company_site",
+        "date_accessed": "2024-05-20",
+        "relevance": "Primary source for current campaigns and pricing"
+      },
+      {
+        "title": "Stadium Sweden",
+        "url": "https://www.stadium.se",
+        "type": "company_site",
+        "date_accessed": "2024-05-20",
+        "relevance": "Primary source for group level strategy"
+      },
+      {
+        "title": "Smash the Design",
+        "url": "smashthedesign.com",
+        "type": "other",
+        "date_accessed": "2024-05-20",
+        "relevance": "Brand identity and design analysis"
+      },
+      {
+        "title": "Stadium YouTube Channel",
+        "url": "youtube.com",
+        "type": "video",
+        "date_accessed": "2024-05-20",
+        "relevance": "Analysis of video content strategy"
+      },
+      {
+        "title": "Reddit Consumer Discussions",
+        "url": "reddit.com",
+        "type": "social",
+        "date_accessed": "2024-05-20",
+        "relevance": "Consumer sentiment and unfiltered feedback"
+      },
+      {
+        "title": "Stadium Business Summit",
+        "url": "stadiumbusinesssummit.com",
+        "type": "news",
+        "date_accessed": "2024-05-20",
+        "relevance": "Industry trends and strategic context"
+      }
+    ]
+  },
   "concept_briefs": [],
   "concepts": [],
   "treatment_files": [],
@@ -21,6 +257,34 @@
   "onepagers_skipped": false,
   "onepagers_error": null,
   "pitch_email": "",
-  "phase_history": [],
+  "phase_history": [
+    {
+      "phase": "validate",
+      "started_at": "2026-01-29T11:41:44.772100",
+      "completed_at": "2026-01-29T11:41:44.775995",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "check_archive",
+      "started_at": "2026-01-29T11:41:44.780700",
+      "completed_at": "2026-01-29T11:41:45.112831",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "research",
+      "started_at": "2026-01-29T11:41:45.117830",
+      "completed_at": null,
+      "success": false,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    }
+  ],
   "archive_ref": null
 }
