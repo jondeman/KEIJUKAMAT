@@ -2,8 +2,8 @@
   "run_id": "20260129_070759",
   "company_slug": "stark-suomi",
   "created_at": "2026-01-29T07:07:59.581124",
-  "updated_at": "2026-01-29T07:11:09.149165",
-  "current_phase": "strategize",
+  "updated_at": "2026-01-29T07:16:27.547709",
+  "current_phase": "create",
   "user_input": {
     "company_name": "Stark Suomi",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -262,8 +262,334 @@
       "success_hypothesis": "This concept unlocks an untapped opportunity for Stark Suomi by addressing their aspiration in a way that creates cultural relevance and positions the brand as an innovator in their space."
     }
   ],
-  "concepts": [],
-  "treatment_files": [],
+  "concepts": [
+    {
+      "id": "concept_01",
+      "title": "Ty\u00f6maan Hiljainen Sankari",
+      "hook": "Dokumenttisarja, joka tekee n\u00e4kyv\u00e4ksi sen n\u00e4kym\u00e4tt\u00f6m\u00e4n ty\u00f6n, joka pit\u00e4\u00e4 Suomen rakennusty\u00f6maat k\u00e4ynniss\u00e4 \u2013 ja osoittaa, miksi logistiikka on rakentajan t\u00e4rkein ty\u00f6kalu.",
+      "premise": "Jokaisessa jaksossa seuraamme yht\u00e4 kriittist\u00e4 rakennusprojektia kellosta riippumatta: mit\u00e4 tapahtuu, kun betoniauto ei saavu, kun erikoistilausta tarvitaan keskell\u00e4 y\u00f6t\u00e4, kun aikataulu pett\u00e4\u00e4. Sarja paljastaa, miten Starkin logistiikkakoneisto toimii kulissien takana \u2013 ja miten se mahdollistaa tavallisten rakentajien sankariteot.",
+      "long_form_extension": "8-osainen dokumenttisarja Ruutu+:aan, josta leikataan 4x45min broadcast-versio MTV3:lle teemaotsikolla 'Suomi Rakentaa Y\u00f6ss\u00e4'.",
+      "format": {
+        "series_type": "limited",
+        "episode_length": "12-15 minuuttia",
+        "cadence": "Viikoittain",
+        "season_length": "8 jaksoa"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "YouTube",
+          "rationale": "Ammattilaisyleis\u00f6 hakee pitk\u00e4muotoista, informatiivista sis\u00e4lt\u00f6\u00e4 YouTubesta. Dokumentaarinen formaatti rakentaa uskottavuutta ja hakukonel\u00f6ydett\u00e4vyytt\u00e4.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "TikTok",
+            "rationale": "",
+            "adaptation": "60s 'Y\u00f6vuoro'-klipit: dramaattiset hetket ty\u00f6maalta (kello 03:17, pakkanen -22\u00b0C, rekka saapuu)"
+          },
+          {
+            "platform": "LinkedIn",
+            "rationale": "",
+            "adaptation": "Pidempi\u00e4 behind-the-scenes -p\u00e4tki\u00e4 logistiikkajohdolle: 'N\u00e4in optimoimme 24/7-toimitusketjun'"
+          }
+        ],
+        "amplification": "Rakennusalan ammattilehtien yhteisty\u00f6, rakennusliittojen kanavat, kohdennettu YouTube-mainonta rakennusalan hakutermeill\u00e4"
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Kellonaikaruutu jokaisessa kohtauksessa (dokumentoi ymp\u00e4rivuorokautisuuden)",
+          "Rakentajan oma \u00e4\u00e4ni voice-overina (ei ulkopuolista kertojaa)",
+          "Lopputeksti: 'T\u00e4n\u00e4\u00e4n toimitettiin X tuotetta Y ty\u00f6maalle'"
+        ],
+        "variable_elements": [
+          "Eri rakennusprojektityypit (kerrostalo, infra, saneeraus, teollisuus)",
+          "Eri vuodenajat ja s\u00e4\u00e4olosuhteet",
+          "Eri Stark-toimipisteet ymp\u00e4ri Suomen"
+        ],
+        "host_approach": "Ei perinteist\u00e4 juontajaa. Rakentajat ja Stark-ty\u00f6ntekij\u00e4t kertovat oman tarinansa. Dokumentaarinen, ei ohjattu."
+      },
+      "brand_integration": {
+        "philosophy": "Stark on mahdollistaja, ei sankari. Br\u00e4ndi n\u00e4kyy siin\u00e4, mit\u00e4 se tekee, ei siin\u00e4, mit\u00e4 se sanoo.",
+        "integration_method": "Logistiikkaprosessi on luonteva osa tarinaa: Nonstop-myym\u00e4l\u00e4t, y\u00f6toimitukset, mobiilisovelluksen k\u00e4ytt\u00f6. Ei erillist\u00e4 mainoshetke\u00e4.",
+        "screen_time_balance": "85% rakentajan tarina, 15% Stark-prosessi osana tarinaa",
+        "cta_approach": "Jakson lopussa QR-koodi: 'Katso miten Nonstop toimii sinun alueellasi'"
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Y\u00f6 jolloin betoni j\u00e4\u00e4tyi",
+          "description": "Helsingin keskustan kerrostaloty\u00f6maalla pakkanen yll\u00e4tt\u00e4\u00e4 \u2013 erikoistilaus tarvitaan ennen aamua."
+        },
+        {
+          "number": 2,
+          "title": "14 tuntia Oulusta Rovaniemelle",
+          "description": "Seuraamme yht\u00e4 kuormaa arktiselle ty\u00f6maalle ja miten s\u00e4\u00e4olosuhteet haastavat koko ketjun."
+        },
+        {
+          "number": 3,
+          "title": "Saneeraus joka ei saa my\u00f6h\u00e4sty\u00e4",
+          "description": "Helsingin sairaalan remontti vaatii t\u00e4sm\u00e4toimituksia \u00f6isin \u2013 potilaiden turvallisuus on peliss\u00e4."
+        },
+        {
+          "number": 4,
+          "title": "Kun suunnitelma muuttuu",
+          "description": "Tampereen ratikkaty\u00f6maalla l\u00f6ytyy odottamaton maaper\u00e4 \u2013 koko materiaalitilaus pit\u00e4\u00e4 uusia 48 tunnissa."
+        },
+        {
+          "number": 5,
+          "title": "Yksinyritt\u00e4j\u00e4n viikko",
+          "description": "Pienurakoitsija Jyv\u00e4skyl\u00e4ss\u00e4 kertoo, miten 24/7-saatavuus muutti h\u00e4nen ty\u00f6viikkonsa."
+        },
+        {
+          "number": 6,
+          "title": "Joulukuun viimeinen ty\u00f6p\u00e4iv\u00e4",
+          "description": "Katsaus vuoden kiireisimp\u00e4\u00e4n p\u00e4iv\u00e4\u00e4n Starkin logistiikkakeskuksessa \u2013 ja ihmisiin jotka tekev\u00e4t sen mahdolliseksi."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee suoraan 'Koneisto vs. Kumppanuus' -j\u00e4nnitteen n\u00e4ytt\u00e4m\u00e4ll\u00e4 ihmisen koneen takana ja sen, mit\u00e4 logistiikka oikeasti mahdollistaa rakentajan arjessa.",
+        "competitive_differentiation": "Kukaan kilpailija ei ole dokumentoinut rakennuslogistiikan todellisuutta n\u00e4in syv\u00e4llisesti. K-Rauta ja Bauhaus puhuvat tuotteista, Stark puhuu mahdollistamisesta.",
+        "audience_value_proposition": "Ammattilaiselle tunnistettava todellisuus, jota harvoin n\u00e4ytet\u00e4\u00e4n. Ei mainosmielikuvia vaan aito arki \u2013 ja tieto siit\u00e4, miten ongelmat ratkaistaan."
+      },
+      "execution": {
+        "complexity": "medium",
+        "budget_tier": "mid",
+        "timeline_to_first_episode": "10-12 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Rakennusty\u00f6maiden aikataulut ovat arvaamattomia \u2013 kuvaukset voivat viiv\u00e4sty\u00e4",
+          "mitigation": "Kuvataan useampaa projektia rinnakkain, jotta materiaalia on aina saatavilla"
+        },
+        {
+          "risk": "Dokumentaarinen tyyli voi tuntua hitaalta verrattuna viihteellisemp\u00e4\u00e4n sis\u00e4lt\u00f6\u00f6n",
+          "mitigation": "TikTok-leikkaukset tarjoavat nopean sis\u00e4\u00e4ntulon, YouTube-versio syvent\u00e4\u00e4 kiinnostuneille"
+        }
+      ]
+    },
+    {
+      "id": "concept_02",
+      "title": "Raksa vs. Rinkula",
+      "hook": "Kun Leijonien pelaaja kohtaa oikean rakennusmiehen, selvi\u00e4\u00e4 kumpi on kovempi \u2013 ja miksi molemmat ovat arjen huippu-urheilijoita.",
+      "premise": "Jokaisessa jaksossa yksi Leijonien pelaaja haastaa yhden ammattirakentajan: kuka kantaa enemm\u00e4n kipsilevyj\u00e4, kuka kest\u00e4\u00e4 pidemp\u00e4\u00e4n pakkasessa, kuka hallitsee tarkkuusty\u00f6n. Mutta lopussa molemmat tekev\u00e4t toistensa ty\u00f6t\u00e4 \u2013 j\u00e4\u00e4kiekkoilija rakennusty\u00f6maalla, rakentaja j\u00e4\u00e4ll\u00e4. Huumori syntyy kunnioituksesta.",
+      "long_form_extension": "6-osainen viihdesarja Ruutu+:aan. Broadcast-optio: 2x60min erikoisohjelma MTV3:lle otsikolla 'Suomen Kovimmat Duunit'.",
+      "format": {
+        "series_type": "limited",
+        "episode_length": "8-10 minuuttia",
+        "cadence": "Viikoittain",
+        "season_length": "6 jaksoa"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "TikTok",
+          "rationale": "Haaste-formaatti on TikTokin ytimess\u00e4. Leijonien pelaajien fanit ovat aktiivisia somessa. Humoristinen sis\u00e4lt\u00f6 levi\u00e4\u00e4 orgaanisesti.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "YouTube",
+            "rationale": "",
+            "adaptation": "Pidennetyt 10-minuuttiset versiot behind-the-scenes -materiaalilla ja pelaajien haastatteluilla"
+          },
+          {
+            "platform": "Instagram Reels",
+            "rationale": "",
+            "adaptation": "Parhaiden haasteiden highlight-klipit ja pelaajien omat jakamiset"
+          }
+        ],
+        "amplification": "Leijonien viralliset kanavat, pelaajien henkil\u00f6kohtaiset tilit, Starkin sponsorointikumppanuuden hy\u00f6dynt\u00e4minen"
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Haaste-ilmoitus dramaattisella \u00e4\u00e4niefektill\u00e4",
+          "Molemmat osapuolet arvioivat toistensa ammattitaitoa etuk\u00e4teen (usein pieleen)",
+          "Roolin vaihto: pelaaja tekee rakentajan ty\u00f6t\u00e4, rakentaja menee j\u00e4\u00e4lle"
+        ],
+        "variable_elements": [
+          "Eri Leijonien pelaajat (mix: nuoret lupaukset, veteraanit)",
+          "Eri rakennusty\u00f6lajit (betoni, puu, s\u00e4hk\u00f6, LVI)",
+          "Eri haastetyypit (voima, tarkkuus, nopeus, kest\u00e4vyys)"
+        ],
+        "host_approach": "Ei erillist\u00e4 juontajaa. Pelaaja ja rakentaja keskustelevat kesken\u00e4\u00e4n. Voice-over selitt\u00e4\u00e4 haasteen s\u00e4\u00e4nn\u00f6t."
+      },
+      "brand_integration": {
+        "philosophy": "Stark on areena, jolla haaste tapahtuu \u2013 luonnollinen osa rakennusymp\u00e4rist\u00f6\u00e4.",
+        "integration_method": "Haasteet tapahtuvat Stark-myym\u00e4l\u00f6iss\u00e4, Nonstop-pisteill\u00e4 tai Stark-toimitetuilla ty\u00f6mailla. Ty\u00f6kalut ja materiaalit ovat Starkin valikoimasta.",
+        "screen_time_balance": "75% viihde ja haaste, 25% Stark-ymp\u00e4rist\u00f6 ja -tuotteet luonnollisena osana",
+        "cta_approach": "Jakson lopussa: 'Haluatko haastaa oman ty\u00f6kaverisi? Jaa oma #RaksaVsRinkula'"
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Kipsilevykisa",
+          "description": "Leijonien puolustaja vs. sis\u00e4valmistaja: kuka kantaa 50 kipsilevy\u00e4 nopeammin?"
+        },
+        {
+          "number": 2,
+          "title": "Pakkastesti",
+          "description": "Hy\u00f6kk\u00e4\u00e4j\u00e4 vs. kattorakentaja: kumpi ty\u00f6skentelee pidemp\u00e4\u00e4n -25 asteessa?"
+        },
+        {
+          "number": 3,
+          "title": "Tarkkuuslaukaus vs. tarkkuuspora",
+          "description": "Maalivahti vs. s\u00e4hk\u00f6mies: kuka osuu tarkemmin omalla ty\u00f6kalullaan?"
+        },
+        {
+          "number": 4,
+          "title": "Nopeusremontti",
+          "description": "Sentteri vs. saneeraaja: kuka saa WC:n valmiiksi ensimm\u00e4isen\u00e4?"
+        },
+        {
+          "number": 5,
+          "title": "Aamuy\u00f6n ty\u00f6vuoro",
+          "description": "Laitahy\u00f6kk\u00e4\u00e4j\u00e4 seuraa y\u00f6rakentajaa Nonstop-myym\u00e4l\u00e4\u00e4n klo 03:00 \u2013 ja yritt\u00e4\u00e4 pysy\u00e4 tahdissa."
+        },
+        {
+          "number": 6,
+          "title": "Finaali: Kokonainen ty\u00f6p\u00e4iv\u00e4",
+          "description": "Leijonien kapteeni viett\u00e4\u00e4 10 tuntia oikealla ty\u00f6maalla \u2013 ja rakentaja saa p\u00e4iv\u00e4n j\u00e4\u00e4harjoituksissa."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee suoraan 'Huippu-urheilu vs. Arjen puurtaminen' -j\u00e4nnitteen luomalla sillan Leijona-sponsoroinnin ja asiakkaan todellisuuden v\u00e4lille.",
+        "competitive_differentiation": "K-Rauta tai Bauhaus eiv\u00e4t voi tehd\u00e4 t\u00e4t\u00e4 \u2013 heill\u00e4 ei ole Leijonien sponsorointia. Stark k\u00e4ytt\u00e4\u00e4 olemassa olevaa assettia uudella tavalla.",
+        "audience_value_proposition": "Viihteellinen, jaettava, kunnioittava. Rakentaja n\u00e4kee itsens\u00e4 sankarina, urheilufani n\u00e4kee idolinsa uudessa roolissa."
+      },
+      "execution": {
+        "complexity": "medium",
+        "budget_tier": "mid",
+        "timeline_to_first_episode": "8-10 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Pelaajien aikataulut ovat tiukkoja kauden aikana",
+          "mitigation": "Kuvataan kes\u00e4ll\u00e4 ja syksyll\u00e4 ennen kauden alkua, hy\u00f6dynnet\u00e4\u00e4n maajoukkuetaukoja"
+        },
+        {
+          "risk": "Konsepti voi tuntua 'p\u00e4\u00e4lleliimatulta' jos toteutus on huono",
+          "mitigation": "Aito kunnioitus molempia ammatteja kohtaan, ei pilkkaa. Rakentaja on aina tasavertainen sankari."
+        }
+      ]
+    },
+    {
+      "id": "concept_03",
+      "title": "Projekti Sisu: Suomen Kovin Ty\u00f6maa",
+      "hook": "Live-tapahtuma ja dokumenttisarja, jossa rakennusalan ammattilaiset kilpailevat Suomen vaativimmalla ty\u00f6maalla \u2013 ja koko Suomi seuraa reaaliajassa.",
+      "premise": "Stark rakentaa pop-up-ty\u00f6maan \u00e4\u00e4riolosuhteisiin (arktinen talvi, saaristo, korkea rakennus) ja kutsuu Suomen parhaat rakentajat kilpailemaan. Tapahtuma on oikeasti live: yleis\u00f6 seuraa TikTokissa ja YouTubessa reaaliaikaista ty\u00f6skentely\u00e4, \u00e4\u00e4nest\u00e4\u00e4 haasteista ja n\u00e4kee, kuka selvi\u00e4\u00e4. Dokumenttisarja kokoaa tarinan j\u00e4lkik\u00e4teen.",
+      "long_form_extension": "3x45min dokumenttisarja Ruutu+:aan ja MTV3:lle. Live-tapahtuma striimattavissa Akun Tehtaan kautta, tallenteena Ruutu+:ssa.",
+      "format": {
+        "series_type": "event",
+        "episode_length": "45 minuuttia (dokumentti) + 4-8h live-striimi",
+        "cadence": "Yksi iso tapahtuma per vuosi, dokumentti 3 viikkoa my\u00f6hemmin",
+        "season_length": "1 live-tapahtuma + 3-osainen dokumentti"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "cross_platform",
+          "rationale": "Live-tapahtuma vaatii monikanavaista l\u00e4hestymist\u00e4: TikTok ja YouTube live tavoittavat eri yleis\u00f6t, dokumentti syvent\u00e4\u00e4 tarinaa my\u00f6hemmin.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "TikTok Live",
+            "rationale": "",
+            "adaptation": "Reaaliaikainen striimi ty\u00f6maalta, yleis\u00f6 \u00e4\u00e4nest\u00e4\u00e4 lis\u00e4haasteista ('Anna heille 10 minuuttia v\u00e4hemm\u00e4n aikaa')"
+          },
+          {
+            "platform": "YouTube Live",
+            "rationale": "",
+            "adaptation": "Pidempi, kommentoitu striimi rakennusalan asiantuntijoiden kanssa"
+          },
+          {
+            "platform": "Instagram Stories",
+            "rationale": "",
+            "adaptation": "Behind-the-scenes osallistujien valmistautumisesta ja tapahtuman j\u00e4lkeisist\u00e4 reaktioista"
+          }
+        ],
+        "amplification": "Rakennusalan ammattiliittojen yhteisty\u00f6, paikallismedia tapahtumapaikalla, vaikuttajayhteisty\u00f6 rakentaja-sometileill\u00e4"
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Kellonaikaruutu ja s\u00e4\u00e4tiedot n\u00e4kyviss\u00e4 koko ajan",
+          "Asiantuntijapaneeli kommentoi teknisi\u00e4 ratkaisuja",
+          "Yleis\u00f6\u00e4\u00e4nestys jokaisessa vaiheessa"
+        ],
+        "variable_elements": [
+          "Sijainti vaihtuu vuosittain (Lappi, saaristo, kaupunki)",
+          "Haasteen tyyppi (nopeus, tarkkuus, ongelmanratkaisu)",
+          "Kilpailijat valitaan avoimella haulla \u2013 uudet kasvot joka vuosi"
+        ],
+        "host_approach": "Ammattijuontaja (esim. Riku Nieminen tai Arman Alizad) yhdistettyn\u00e4 oikeaan rakennusalan asiantuntijaan."
+      },
+      "brand_integration": {
+        "philosophy": "Stark on tapahtuman mahdollistaja ja ty\u00f6maan rakentaja \u2013 ei vain sponsori vaan koko infrastruktuurin takana.",
+        "integration_method": "Kaikki materiaalit, ty\u00f6kalut ja logistiikka tulevat Starkilta. Nonstop-palvelu on osa kilpailua: osallistujat voivat 'tilata' lis\u00e4materiaaleja kesken haasteen.",
+        "screen_time_balance": "70% kilpailu ja draama, 30% Stark-infrastruktuuri ja -osaaminen luonnollisena osana",
+        "cta_approach": "Live-tapahtuman aikana: 'Tarvitsetko saman kaluston omalle ty\u00f6maalle? Skannaa QR.' Dokumentissa: 'N\u00e4in rakennat oman projektisi Starkin kanssa.'"
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Kutsu Lapin pakkaseen",
+          "description": "Kilpailijat saapuvat Enonteki\u00f6lle, tutustuvat haasteeseen ja kohtaavat ensimm\u00e4isen -30\u00b0C y\u00f6n."
+        },
+        {
+          "number": 2,
+          "title": "Ensimm\u00e4inen rakennusp\u00e4iv\u00e4 (LIVE)",
+          "description": "8 tunnin live-striimi: rakentajat aloittavat tyhj\u00e4st\u00e4, yleis\u00f6 \u00e4\u00e4nest\u00e4\u00e4 ensimm\u00e4isen lis\u00e4haasteen."
+        },
+        {
+          "number": 3,
+          "title": "Y\u00f6n yli (LIVE)",
+          "description": "Ty\u00f6maa jatkuu pime\u00e4ss\u00e4 \u2013 kuka nukahtaa, kuka jatkaa?"
+        },
+        {
+          "number": 4,
+          "title": "Kriisip\u00e4iv\u00e4 (LIVE)",
+          "description": "Odottamaton ongelma (s\u00e4\u00e4, materiaali, tekniikka) \u2013 kuka ratkaisee ensimm\u00e4isen\u00e4?"
+        },
+        {
+          "number": 5,
+          "title": "Loppusuora (LIVE)",
+          "description": "Viimeiset tunnit, lopputarkastus, voittajan julkistus."
+        },
+        {
+          "number": 6,
+          "title": "Dokumentti: Mit\u00e4 todella tapahtui",
+          "description": "Tapahtuman j\u00e4lkeen julkaistava 3-osainen dokumentti, joka n\u00e4ytt\u00e4\u00e4 kaiken mit\u00e4 striimiss\u00e4 ei n\u00e4kynyt."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee 'Resilience/Sisu' -mahdollisuusalueen luomalla alustan, jolla rakentajien ammattitaito ja kest\u00e4vyys ovat p\u00e4\u00e4osassa \u2013 ja Stark on se, joka tekee sen mahdolliseksi.",
+        "competitive_differentiation": "Kukaan rakennusalan toimija ei ole tehnyt live-tapahtumaa t\u00e4ss\u00e4 mittakaavassa. T\u00e4m\u00e4 luo uuden kategorian ja asemoi Starkin innovaattoriksi.",
+        "audience_value_proposition": "Aito draama, oikeat panokset, tunnistettavat sankarit. Yhdist\u00e4\u00e4 Survivorin j\u00e4nnityksen ja ammattiosaamisen arvostuksen."
+      },
+      "execution": {
+        "complexity": "high",
+        "budget_tier": "premium",
+        "timeline_to_first_episode": "16-20 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Live-tuotanto \u00e4\u00e4riolosuhteissa on teknisesti vaativa ja kallis",
+          "mitigation": "Akun Tehtaan live-tuotanto-osaaminen, varasuunnitelmat s\u00e4\u00e4n varalle, hybridimalli (osa live, osa tallenteena)"
+        },
+        {
+          "risk": "Osallistujien turvallisuus \u00e4\u00e4riolosuhteissa",
+          "mitigation": "Ammattimaiset turvallisuusj\u00e4rjestelyt, l\u00e4\u00e4kint\u00e4henkil\u00f6kunta paikalla, selke\u00e4t keskeytysprotokollat"
+        },
+        {
+          "risk": "Liian iso investointi ensimm\u00e4iselle vuodelle",
+          "mitigation": "Pilotoidaan pienemm\u00e4ll\u00e4 tapahtumalla (esim. yhden p\u00e4iv\u00e4n haaste), skaalataan menestyksen mukaan"
+        }
+      ]
+    }
+  ],
+  "treatment_files": [
+    "/opt/render/project/src/runs/stark_suomi/TREATMENTS/stark_suomi_TREATMENT_01_20260129_071627.md",
+    "/opt/render/project/src/runs/stark_suomi/TREATMENTS/stark_suomi_TREATMENT_02_20260129_071627.md",
+    "/opt/render/project/src/runs/stark_suomi/TREATMENTS/stark_suomi_TREATMENT_03_20260129_071627.md"
+  ],
   "onepager_specs": [],
   "onepagers_skipped": false,
   "onepagers_error": null,
@@ -299,6 +625,15 @@
     {
       "phase": "strategize",
       "started_at": "2026-01-29T07:11:09.143622",
+      "completed_at": "2026-01-29T07:11:10.737432",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "create",
+      "started_at": "2026-01-29T07:11:10.744141",
       "completed_at": null,
       "success": false,
       "error_message": null,
