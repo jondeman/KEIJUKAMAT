@@ -2,8 +2,8 @@
   "run_id": "20260129_075155",
   "company_slug": "stark-suomi",
   "created_at": "2026-01-29T07:51:55.043236",
-  "updated_at": "2026-01-29T07:51:57.816368",
-  "current_phase": "strategize",
+  "updated_at": "2026-01-29T07:57:49.967512",
+  "current_phase": "create",
   "user_input": {
     "company_name": "Stark Suomi",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -262,8 +262,354 @@
       "success_hypothesis": "This concept unlocks an untapped opportunity for Stark Suomi by addressing their aspiration in a way that creates cultural relevance and positions the brand as an innovator in their space."
     }
   ],
-  "concepts": [],
-  "treatment_files": [],
+  "concepts": [
+    {
+      "id": "concept_01",
+      "title": "Ty\u00f6maan Tunnit",
+      "hook": "Dokumenttisarja, joka nostaa ammattirakentajan arjen sankaritarinaksi ja todistaa, ett\u00e4 Stark ymm\u00e4rt\u00e4\u00e4 asiakkaansa todellisuuden \u2013 ei vain myy heille tavaraa.",
+      "premise": "Ty\u00f6maan Tunnit on 8-osainen dokumenttisarja, joka seuraa suomalaisia ammattirakentajia heid\u00e4n todellisissa projekteissaan ymp\u00e4ri Suomen. Jokaisessa jaksossa n\u00e4hd\u00e4\u00e4n yksi ty\u00f6maa, yksi tiimi ja yksi haaste \u2013 aikataulupaineet, s\u00e4\u00e4olosuhteet, yll\u00e4tt\u00e4v\u00e4t ongelmat. Sarja paljastaa sen n\u00e4kym\u00e4tt\u00f6m\u00e4n ty\u00f6n, joka tekee Suomesta rakennetun maan.",
+      "long_form_extension": "Sarja toteutetaan ensisijaisesti 8x25min jaksona Nelonen + Ruutu+ -jakeluun. YouTube saa 8-12 minuutin tiivistetyt versiot ja TikTok/Reels 60 sekunnin highlight-klipit.",
+      "format": {
+        "series_type": "limited",
+        "episode_length": "25 minuuttia (TV), 8-12 minuuttia (YouTube)",
+        "cadence": "Viikoittain",
+        "season_length": "8 jaksoa"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "Nelonen + Ruutu+",
+          "rationale": "TV-jakelu tavoittaa laajan yleis\u00f6n ja antaa br\u00e4ndille uskottavuutta 'oikean' sis\u00e4ll\u00f6n tuottajana. Ruutu+ mahdollistaa binge-katselun ja nuoremman yleis\u00f6n tavoittamisen.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "YouTube",
+            "rationale": "",
+            "adaptation": "8-12 minuutin tiivistetyt jaksot, jotka toimivat itsen\u00e4isin\u00e4 tarinoina. Behind-the-scenes -materiaali ja ty\u00f6kaluvinkit."
+          },
+          {
+            "platform": "TikTok/Reels",
+            "rationale": "",
+            "adaptation": "60 sekunnin 'p\u00e4iv\u00e4n ongelma' -klipit: dramaattisin hetki jaksosta, jossa ratkaisu paljastuu. Formaatti: 'T\u00e4m\u00e4 ty\u00f6maa oli 2 p\u00e4iv\u00e4\u00e4 my\u00f6h\u00e4ss\u00e4, kunnes...'"
+          }
+        ],
+        "amplification": "Sanoma-mediakumppanuus (IS, HS Teema), sarjan p\u00e4\u00e4henkil\u00f6iden omat somekanavat, alan ammattilehtien yhteisty\u00f6."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Aamun alku ty\u00f6maalla (kello 06:00)",
+          "P\u00e4iv\u00e4n suurin haaste esitell\u00e4\u00e4n",
+          "Tiimin esittely ja roolit",
+          "Stark-logistiikan rooli ratkaisussa (luonteva, ei mainosmainen)",
+          "Lopputulos ja tiimin reflektio"
+        ],
+        "variable_elements": [
+          "Eri rakennustyyppi joka jaksossa (kerrostalo, omakotitalo, julkinen rakennus, saneeraus)",
+          "Eri maantieteellinen sijainti",
+          "Eri haasteen tyyppi (s\u00e4\u00e4, aikataulu, materiaaliongelma, henkil\u00f6st\u00f6)"
+        ],
+        "host_approach": "Ei erillist\u00e4 juontajaa. Voice-over kertoo tarinan, mutta p\u00e4\u00e4henkil\u00f6t ovat aina ty\u00f6maiden oikeat ammattilaiset. Dokumentaarinen, ei reality-tyylinen."
+      },
+      "brand_integration": {
+        "philosophy": "Stark on 'n\u00e4kym\u00e4t\u00f6n mahdollistaja' \u2013 silloin kun asiat toimivat, Stark on taustalla. Br\u00e4ndi n\u00e4kyy luontevasti osana ty\u00f6maiden arkea, ei erillisen\u00e4 mainoksena.",
+        "integration_method": "Stark-autot, myym\u00e4l\u00e4t ja Nonstop-palvelu n\u00e4kyv\u00e4t osana todellisia tilanteita. Yhdess\u00e4 jaksossa esim. materiaalitilaus tulee y\u00f6ll\u00e4 Nonstop-myym\u00e4l\u00e4st\u00e4, koska aikataulu vaatii.",
+        "screen_time_balance": "85% sis\u00e4lt\u00f6, 15% luonteva br\u00e4ndin\u00e4kyvyys",
+        "cta_approach": "Jakson lopussa tekstiplanssi: 'Stark \u2013 Ammattilainen asialla' + linkki stark.fi/ammattilaiset"
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Kerrostalon kello tikitt\u00e4\u00e4",
+          "description": "Helsingin Kalasatamassa rakennustiimi taistelee kahden viikon viiv\u00e4styst\u00e4 vastaan \u2013 ja voittaa."
+        },
+        {
+          "number": 2,
+          "title": "Lapin pakkanen",
+          "description": "Rovaniemell\u00e4 omakotitalon perustukset valetaan -25 asteen pakkasessa."
+        },
+        {
+          "number": 3,
+          "title": "Vanhan talon sielu",
+          "description": "1920-luvun puutalon saneeraus Porvoossa paljastaa yll\u00e4tyksi\u00e4 seinien sis\u00e4lt\u00e4."
+        },
+        {
+          "number": 4,
+          "title": "Koulun ovi auki",
+          "description": "Tampereen uuden koulun on oltava valmis elokuussa \u2013 hein\u00e4kuussa kattoa ei viel\u00e4 ole."
+        },
+        {
+          "number": 5,
+          "title": "Yksin yritt\u00e4j\u00e4n\u00e4",
+          "description": "Yksinyritt\u00e4j\u00e4-kirvesmies Jyv\u00e4skyl\u00e4ss\u00e4 tekee m\u00f6kkiprojektin alusta loppuun."
+        },
+        {
+          "number": 6,
+          "title": "Sairaalan syd\u00e4n",
+          "description": "Oulussa sairaalan laajennus etenee, vaikka vanha osa toimii t\u00e4ydell\u00e4 kapasiteetilla vieress\u00e4."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee suoraan 'Huippu-urheilu vs. Arjen puurtaminen' -j\u00e4nnitteen nostamalla tavallisen rakentajan sankariksi. Samalla osoittaa 'Koneisto vs. Kumppanuus' -j\u00e4nnitteess\u00e4, ett\u00e4 logistiikan takana on ihmisten auttaminen.",
+        "competitive_differentiation": "K-Rauta puhuu kuluttajille, Stark puhuu ammattilaisille \u2013 ja nyt my\u00f6s n\u00e4ytt\u00e4\u00e4 heid\u00e4n todellisuutensa. Kukaan kilpailija ei ole tehnyt t\u00e4t\u00e4 Suomessa.",
+        "audience_value_proposition": "Dokumentaarinen sis\u00e4lt\u00f6, joka kunnioittaa katsojaa: ei mainosmaisuutta, vaan aito katsaus ammattiin, jota harva tuntee. Vetoaa sek\u00e4 alan ihmisiin (tunnistaminen) ett\u00e4 maallikoihin (uteliaisuus)."
+      },
+      "execution": {
+        "complexity": "medium",
+        "budget_tier": "mid",
+        "timeline_to_first_episode": "12-14 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Ty\u00f6maiden aikataulut muuttuvat, kuvaukset vaikeutuvat",
+          "mitigation": "Valitaan 10-12 potentiaalista ty\u00f6maata, joista 8 p\u00e4\u00e4tyy sarjaan. Joustava tuotantoaikataulu."
+        },
+        {
+          "risk": "P\u00e4\u00e4henkil\u00f6t eiv\u00e4t ole luontevia kameran edess\u00e4",
+          "mitigation": "Casting-prosessi, jossa testataan kamerak\u00e4ytt\u00e4ytymist\u00e4. Dokumentaarinen tyyli sallii luonnollisen puheen."
+        },
+        {
+          "risk": "Sis\u00e4lt\u00f6 j\u00e4\u00e4 liian 'harmaaksi' ja tyls\u00e4ksi",
+          "mitigation": "Jokainen jakso rakennetaan selke\u00e4n draaman kaaren ymp\u00e4rille (ongelma \u2192 kriisi \u2192 ratkaisu). Leikkaus ja musiikki nostavat j\u00e4nnitett\u00e4."
+        }
+      ]
+    },
+    {
+      "id": "concept_02",
+      "title": "Raksa vs. Raksa",
+      "hook": "Kilpailuformaatti, jossa ammattirakentajat ottavat mittaa toisistaan hauskoissa haasteissa \u2013 ja Stark murtaa 'vakavan rautakaupan' mielikuvan.",
+      "premise": "Raksa vs. Raksa on viihteellinen kilpailusarja, jossa kaksi ammattirakentajatiimi\u00e4 kohtaa toisensa erilaisissa rakennushaasteissa. Haasteet ovat oikeita ammattitaitoja vaativia, mutta toteutus on viihteellinen ja hauska: nopeus, tarkkuus ja luovuus ratkaisevat. Juontajana toimii tunnettu kasvo, joka tuo huumoria ja energiaa.",
+      "long_form_extension": "Sarja toteutetaan 6x30min jaksona MTV3 + Katsomo -jakeluun prime time -slotissa. TikTok/Reels saa pystymuotoiset 60-90 sekunnin challenge-klipit, jotka toimivat itsen\u00e4isin\u00e4 viihdepalasina.",
+      "format": {
+        "series_type": "seasonal",
+        "episode_length": "30 minuuttia (TV), 60-90 sekuntia (TikTok)",
+        "cadence": "Viikoittain (TV), p\u00e4ivitt\u00e4in (some)",
+        "season_length": "6 jaksoa + finaali"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "MTV3 + Katsomo",
+          "rationale": "Prime time -viihde tavoittaa laajan yleis\u00f6n ja rakentaa br\u00e4nditunnettuutta. Katsomo mahdollistaa nuoremman yleis\u00f6n tavoittamisen.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "TikTok",
+            "rationale": "",
+            "adaptation": "Jokainen haaste leikataan 60-90 sekunnin klipiksi: 'Kuka rakentaa nopeammin?' -formaatti. Hook ensimm\u00e4isess\u00e4 3 sekunnissa."
+          },
+          {
+            "platform": "Instagram Reels",
+            "rationale": "",
+            "adaptation": "Behind-the-scenes -sis\u00e4lt\u00f6, juontajan kommentit, kilpailijoiden esittelyt."
+          },
+          {
+            "platform": "YouTube",
+            "rationale": "",
+            "adaptation": "Kokonaiset jaksot + 'Extended Edition' -versiot lis\u00e4materiaalilla."
+          }
+        ],
+        "amplification": "Juontajan ja kilpailijoiden omat somekanavat, MTV:n markkinointikoneisto, alan ammattiliittojen kanavat."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Tiimien esittely ja 'trash talk'",
+          "Kolme haastetta per jakso (nopeus, tarkkuus, luovuus)",
+          "Stark-tuomaristo arvioi tulokset",
+          "Juontajan kommentointi ja huumori",
+          "Jakson voittaja ja kokonaistilanne"
+        ],
+        "variable_elements": [
+          "Eri haastetyypit (sein\u00e4n pystytys, laatoitus, runkorakentaminen, erikoisteht\u00e4v\u00e4t)",
+          "Eri ammattitaustat (kirvesmiehet vs. muurari, LVI vs. s\u00e4hk\u00f6)",
+          "Vierailijatuomarit (tunnetut rakennusalan ammattilaiset)"
+        ],
+        "host_approach": "Tunnettu suomalainen juontaja, joka tuo huumoria mutta kunnioittaa ammattitaitoa. Ehdotus: Janne Kataja, Riku Nieminen tai vastaava 'tavallisen miehen' energialla."
+      },
+      "brand_integration": {
+        "philosophy": "Stark on kilpailun mahdollistaja ja tuomari \u2013 auktoriteetti, joka tuntee ammatin. Br\u00e4ndi n\u00e4kyy luontevasti areenana ja ty\u00f6kalujen tarjoajana.",
+        "integration_method": "Kilpailut k\u00e4yd\u00e4\u00e4n Stark-myym\u00e4l\u00e4n/varaston ymp\u00e4rist\u00f6ss\u00e4. Kaikki ty\u00f6kalut ja materiaalit ovat Starkin valikoimasta. 'Stark-haaste' on yksi kolmesta teht\u00e4v\u00e4st\u00e4 joka jaksossa.",
+        "screen_time_balance": "75% viihde/kilpailu, 25% luonteva br\u00e4ndin\u00e4kyvyys",
+        "cta_approach": "Jakson lopussa: 'Stark \u2013 Ammattilaiset tiet\u00e4v\u00e4t' + kehotus seurata somessa."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Sein\u00e4 pystyyn",
+          "description": "Kaksi kirvesmiesduoa kilpailee: kuka pystytt\u00e4\u00e4 v\u00e4lisein\u00e4n nopeimmin ja tarkimmin?"
+        },
+        {
+          "number": 2,
+          "title": "Laattataituri",
+          "description": "Laatoittajat ottavat mittaa kylpyhuoneen sein\u00e4ss\u00e4 \u2013 millimetrit ratkaisevat."
+        },
+        {
+          "number": 3,
+          "title": "Putki vet\u00e4\u00e4",
+          "description": "LVI-asentajat kilpailevat vesijohtoasennuksessa \u2013 vuotaako vai eik\u00f6?"
+        },
+        {
+          "number": 4,
+          "title": "S\u00e4hk\u00f6\u00e4 ilmassa",
+          "description": "S\u00e4hk\u00f6asentajat rakentavat toimivan s\u00e4hk\u00f6keskuksen paineen alla."
+        },
+        {
+          "number": 5,
+          "title": "Katto kuntoon",
+          "description": "Kattoasentajat kilpailevat peltikaton asennuksessa \u2013 s\u00e4\u00e4 ei anna armoa."
+        },
+        {
+          "number": 6,
+          "title": "Finaali: T\u00e4ydellinen m\u00f6kki",
+          "description": "Kauden parhaat tiimit rakentavat pienen m\u00f6kin alusta loppuun 48 tunnissa."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee suoraan 'Huumori puuttuu' -aukon. Stark n\u00e4ytt\u00e4ytyy br\u00e4ndin\u00e4, joka osaa nauraa ja viihty\u00e4, ei vain myyd\u00e4. Samalla 'Huippu-urheilu vs. Arjen puurtaminen' -j\u00e4nnite ratkeaa: rakentajat ovat t\u00e4m\u00e4n ohjelman urheilijat.",
+        "competitive_differentiation": "Kukaan kilpailija ei ole tehnyt viihteellist\u00e4 kilpailuformaattia rakennusalalle Suomessa. T\u00e4m\u00e4 on t\u00e4ysin uusi kategoria.",
+        "audience_value_proposition": "Viihteellinen, helposti seurattava kilpailuformaatti, joka vetoaa sek\u00e4 alan ammattilaisiin (tunnistaminen, ammattitaidon arvostus) ett\u00e4 tavallisiin katsojiin (kilpailuj\u00e4nnitys, huumori)."
+      },
+      "execution": {
+        "complexity": "medium",
+        "budget_tier": "mid",
+        "timeline_to_first_episode": "10-12 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Kilpailijat eiv\u00e4t ole viihdytt\u00e4vi\u00e4 persoonallisuuksia",
+          "mitigation": "Laaja casting-prosessi, jossa etsit\u00e4\u00e4n 'persoonallisia ammattilaisia'. Juontajan rooli korostuu."
+        },
+        {
+          "risk": "Formaatti tuntuu liian 'mainosmaiselta'",
+          "mitigation": "Viihde edell\u00e4, br\u00e4ndi taustalla. Kilpailut ovat aitoja ammattitaitokilpailuja, ei tuote-esittelyj\u00e4."
+        },
+        {
+          "risk": "Turvallisuusriskit kuvauksissa",
+          "mitigation": "Ammattimaiset turvaj\u00e4rjestelyt, vakuutukset ja kokenut tuotantotiimi."
+        }
+      ]
+    },
+    {
+      "id": "concept_03",
+      "title": "24 Tuntia",
+      "hook": "Poikkileikkaava tapahtumasarja, joka seuraa 24 tunnin aikana kaikkea mit\u00e4 Suomessa rakennetaan \u2013 ja osoittaa, ett\u00e4 Stark on mukana jokaisessa hetkess\u00e4.",
+      "premise": "24 Tuntia on kunnianhimoinen dokumenttitapahtuma, joka seuraa yhden vuorokauden aikana rakennusty\u00f6maita ymp\u00e4ri Suomen reaaliaikaisesti. Kello 00:00 alkaa matka: y\u00f6ty\u00f6maita, aamuisia materiaalitilauksia, p\u00e4iv\u00e4n kriisej\u00e4, illan loppukirej\u00e4. Formaatti yhdist\u00e4\u00e4 live-elementin, dokumentin ja yhteis\u00f6llisen some-kokemuksen.",
+      "long_form_extension": "Ydintuotanto on 2x60min dokumenttielokuva (Nelonen + Ruutu+), joka koostetaan 24 tunnin materiaalista. Live-elementti toteutetaan 24 tunnin some-streamina (YouTube Live + TikTok Live), jossa katsojat voivat seurata eri ty\u00f6maita vuorotellen.",
+      "format": {
+        "series_type": "event",
+        "episode_length": "2x60 minuuttia (dokumentti), 24h (live-stream)",
+        "cadence": "Kertaluonteinen tapahtuma, mahdollisesti vuosittainen",
+        "season_length": "1 tapahtuma + 2-osainen dokumentti"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "Nelonen + Ruutu+ (dokumentti)",
+          "rationale": "Dokumenttielokuva antaa tapahtumalle pysyv\u00e4n arvon ja tavoittaa laajan yleis\u00f6n. Ruutu+ mahdollistaa on-demand-katselun.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "YouTube Live",
+            "rationale": "",
+            "adaptation": "24 tunnin live-stream, jossa vaihdetaan ty\u00f6maiden v\u00e4lill\u00e4. Katsojat voivat \u00e4\u00e4nest\u00e4\u00e4, mit\u00e4 ty\u00f6maata seurataan seuraavaksi."
+          },
+          {
+            "platform": "TikTok Live",
+            "rationale": "",
+            "adaptation": "Rinnakkainen live-stream nuoremmalle yleis\u00f6lle. Lyhyemm\u00e4t p\u00e4tk\u00e4t, enemm\u00e4n interaktiota."
+          },
+          {
+            "platform": "Instagram",
+            "rationale": "",
+            "adaptation": "Stories-seuranta koko 24 tunnin ajan. Behind-the-scenes, haastattelut, yll\u00e4tykset."
+          }
+        ],
+        "amplification": "Tapahtumap\u00e4iv\u00e4n ymp\u00e4rille rakennetaan viikon mittainen kampanja. Sanoma-mediakumppanuus, influencer-yhteisty\u00f6t, alan ammattiliittojen osallistaminen."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Kellonaikap\u00e4ivitykset ('Kello 03:00 \u2013 Oulun Nonstop-myym\u00e4l\u00e4')",
+          "Eri ty\u00f6maiden v\u00e4lill\u00e4 vaihtaminen",
+          "Stark-ty\u00f6ntekij\u00f6iden haastattelut",
+          "Katsojien interaktio (kysymykset, \u00e4\u00e4nestykset)",
+          "Yhteenveto joka 6. tunti"
+        ],
+        "variable_elements": [
+          "Eri ty\u00f6maat ja projektit",
+          "Eri vuorokaudenajat ja niiden haasteet",
+          "Yll\u00e4tt\u00e4v\u00e4t tilanteet ja kriisit",
+          "Vierailevat asiantuntijat ja kommentaattorit"
+        ],
+        "host_approach": "Live-streamia juontaa 2-3 hengen tiimi vuoroissa. Dokumentin voice-over on tunnettu \u00e4\u00e4ni (esim. Ville Haapasalo tai vastaava). P\u00e4\u00e4henkil\u00f6t ovat ty\u00f6maiden oikeat ammattilaiset."
+      },
+      "brand_integration": {
+        "philosophy": "Stark on kaikkialla, kaikkina vuorokauden aikoina \u2013 n\u00e4kym\u00e4t\u00f6n mutta l\u00e4sn\u00e4. Formaatti todistaa 'Nonstop'-lupauksen todeksi.",
+        "integration_method": "Stark-myym\u00e4l\u00e4t ja logistiikka ovat luonteva osa tarinaa. Y\u00f6ll\u00e4 n\u00e4hd\u00e4\u00e4n Nonstop-myym\u00e4l\u00e4n toiminta, aamulla materiaalitoimitus, p\u00e4iv\u00e4ll\u00e4 asiakaspalvelu. Ei erillist\u00e4 mainontaa \u2013 br\u00e4ndi on osa tarinaa.",
+        "screen_time_balance": "80% ty\u00f6maat ja ammattilaiset, 20% Stark-infrastruktuuri",
+        "cta_approach": "Tapahtuman j\u00e4lkeen: 'Stark \u2013 24/7 ammattilaisen asialla' + kampanjasivu."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "00:00-06:00: Y\u00f6n sankarit",
+          "description": "Seuraamme y\u00f6ty\u00f6maita ja Stark Nonstop -myym\u00e4l\u00e4n hiljaisia tunteja, kun materiaalit liikkuvat."
+        },
+        {
+          "number": 2,
+          "title": "06:00-12:00: P\u00e4iv\u00e4 alkaa",
+          "description": "Aamun ensimm\u00e4iset toimitukset, ty\u00f6maiden k\u00e4ynnistyminen, kahvitauot ja suunnitelmat."
+        },
+        {
+          "number": 3,
+          "title": "12:00-18:00: Paineen alla",
+          "description": "P\u00e4iv\u00e4n kriisit: my\u00f6h\u00e4stynyt toimitus, s\u00e4\u00e4muutos, odottamaton ongelma \u2013 ja ratkaisut."
+        },
+        {
+          "number": 4,
+          "title": "18:00-24:00: Loppukiri",
+          "description": "Illan viimeiset tunnit: projektien valmistuminen, kotiin l\u00e4ht\u00f6, y\u00f6ty\u00f6n alkaminen."
+        },
+        {
+          "number": 5,
+          "title": "Dokumentti osa 1: Rakennettu y\u00f6",
+          "description": "Ensimm\u00e4inen dokumenttiosa keskittyy y\u00f6n ja aamun tapahtumiin \u2013 n\u00e4kym\u00e4tt\u00f6m\u00e4\u00e4n ty\u00f6h\u00f6n."
+        },
+        {
+          "number": 6,
+          "title": "Dokumentti osa 2: Rakennettu p\u00e4iv\u00e4",
+          "description": "Toinen osa seuraa p\u00e4iv\u00e4n ja illan draamaa \u2013 kriisej\u00e4, ratkaisuja ja voittoja."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Todistaa 'Logistinen Ylivoima & Saatavuus' -prioriteetin konkreettisesti: Stark on l\u00e4sn\u00e4 24/7. Ratkaisee 'Koneisto vs. Kumppanuus' -j\u00e4nnitteen n\u00e4ytt\u00e4m\u00e4ll\u00e4 ihmisen koneen takana.",
+        "competitive_differentiation": "T\u00e4ysin uusi formaatti rakennusalalla. Kukaan ei ole tehnyt 24 tunnin poikkileikkausta Suomen rakentamisesta. T\u00e4m\u00e4 on kulttuuriteko, ei vain mainos.",
+        "audience_value_proposition": "Ainutlaatuinen kokemus: mahdollisuus n\u00e4hd\u00e4, mit\u00e4 Suomessa tapahtuu 24 tunnin aikana. Vetoaa uteliaisuuteen, kansallisylpeyteen ja ammattitaidon arvostukseen."
+      },
+      "execution": {
+        "complexity": "high",
+        "budget_tier": "premium",
+        "timeline_to_first_episode": "16-20 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Tuotanto on logistisesti eritt\u00e4in haastava (useita tiimej\u00e4, 24h)",
+          "mitigation": "Akun Tehtaan tapahtumatuotanto-osaaminen, kokeneet dokumenttitiimit, selke\u00e4 tuotantosuunnitelma."
+        },
+        {
+          "risk": "Live-streamin katsojam\u00e4\u00e4r\u00e4t j\u00e4\u00e4v\u00e4t pieniksi",
+          "mitigation": "Dokumentti on ydintuote, live on lis\u00e4arvo. Markkinointi keskittyy dokumenttiin, live on 'superfaneille'."
+        },
+        {
+          "risk": "Yll\u00e4tt\u00e4v\u00e4t tapahtumat (onnettomuus, kriisi) pilaa tapahtuman",
+          "mitigation": "Kriisiviestint\u00e4suunnitelma, useita varaty\u00f6maita, mahdollisuus vaihtaa fokusta."
+        }
+      ]
+    }
+  ],
+  "treatment_files": [
+    "/opt/render/project/src/runs/stark_suomi/TREATMENTS/stark_suomi_TREATMENT_01_20260129_075749.md",
+    "/opt/render/project/src/runs/stark_suomi/TREATMENTS/stark_suomi_TREATMENT_02_20260129_075749.md",
+    "/opt/render/project/src/runs/stark_suomi/TREATMENTS/stark_suomi_TREATMENT_03_20260129_075749.md"
+  ],
   "onepager_specs": [],
   "onepagers_skipped": false,
   "onepagers_error": null,
@@ -290,6 +636,15 @@
     {
       "phase": "strategize",
       "started_at": "2026-01-29T07:51:57.810676",
+      "completed_at": "2026-01-29T07:51:59.431347",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "create",
+      "started_at": "2026-01-29T07:51:59.436651",
       "completed_at": null,
       "success": false,
       "error_message": null,
