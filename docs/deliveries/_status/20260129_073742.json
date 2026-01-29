@@ -2,8 +2,8 @@
   "run_id": "20260129_073742",
   "company_slug": "valokuitunen",
   "created_at": "2026-01-29T07:37:42.011933",
-  "updated_at": "2026-01-29T08:06:10.104624",
-  "current_phase": "research",
+  "updated_at": "2026-01-29T08:06:12.041414",
+  "current_phase": "strategize",
   "user_input": {
     "company_name": "Valokuitunen",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -235,7 +235,38 @@
       }
     ]
   },
-  "concept_briefs": [],
+  "concept_briefs": [
+    {
+      "slot_id": "01",
+      "slot_type": "safe_bet",
+      "assigned_tension_id": "tension_01",
+      "strategic_focus": "Digitaalinen unelma vs. Analoginen sotku. Br\u00e4ndi myy futuristista digitaalista el\u00e4m\u00e4\u00e4, mutta toimitus on kuukausia kest\u00e4v\u00e4\u00e4 mutaa ja asfalttipaikkauksia.",
+      "platform_focus": "youtube",
+      "format_guidance": "Focus on proven YouTube formats: documentary-style, interview series, or educational content. Episodes should be 8-15 minutes. Prioritize professional production quality and clear brand alignment. The series should have obvious rewatch and share value.",
+      "risk_profile": "low",
+      "success_hypothesis": "This concept directly addresses Valokuitunen's top strategic priority (gap) with a proven format that minimizes execution risk while delivering measurable brand value."
+    },
+    {
+      "slot_id": "02",
+      "slot_type": "challenger",
+      "assigned_tension_id": "tension_02",
+      "strategic_focus": "Vapauden paradoksi. Valokuitunen lupaa 'vapauden valita', mutta kuluttaja kokee sen vaikeutena ja kaipaa yksinkertaista yhden laskun ratkaisua.",
+      "platform_focus": "tiktok",
+      "format_guidance": "Design for TikTok/Reels first: vertical format, 30-90 seconds, hook in first 3 seconds. Embrace platform-native aesthetics and trends. Consider creator collaborations. Content should feel bold and contemporary, not like traditional brand advertising.",
+      "risk_profile": "medium",
+      "success_hypothesis": "This concept enables Valokuitunen to aggressively address their threat with bold positioning that differentiates them in the market and captures attention on high-engagement platforms."
+    },
+    {
+      "slot_id": "03",
+      "slot_type": "moonshot",
+      "assigned_tension_id": "tension_04",
+      "strategic_focus": "5G-tyytyv\u00e4isyys vs. Tulevaisuuden tarve. Kohderyhm\u00e4 kokee 5G:n riitt\u00e4v\u00e4ksi eik\u00e4 ymm\u00e4rr\u00e4 kuidun arvoa (latenssi/vakaus) ennen kuin on my\u00f6h\u00e4ist\u00e4.",
+      "platform_focus": "cross_platform",
+      "format_guidance": "Think beyond single-platform content: interactive experiences, live events with digital extensions, user participation mechanics, or innovative cross-platform storytelling. This should feel like something the industry hasn't seen before. High production ambition is acceptable given the differentiation potential.",
+      "risk_profile": "high",
+      "success_hypothesis": "This concept unlocks an untapped opportunity for Valokuitunen by addressing their underserved audience in a way that creates cultural relevance and positions the brand as an innovator in their space."
+    }
+  ],
   "concepts": [],
   "treatment_files": [],
   "onepager_specs": [],
@@ -264,6 +295,15 @@
     {
       "phase": "research",
       "started_at": "2026-01-29T07:37:44.157520",
+      "completed_at": "2026-01-29T08:06:12.026206",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "strategize",
+      "started_at": "2026-01-29T08:06:12.033696",
       "completed_at": null,
       "success": false,
       "error_message": null,
