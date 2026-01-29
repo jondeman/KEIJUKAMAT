@@ -2,8 +2,8 @@
   "run_id": "20260129_184031",
   "company_slug": "mr-muscle",
   "created_at": "2026-01-29T18:40:31.154533",
-  "updated_at": "2026-01-29T18:40:31.154548",
-  "current_phase": "input",
+  "updated_at": "2026-01-29T18:43:09.343279",
+  "current_phase": "research",
   "user_input": {
     "company_name": "Mr Muscle",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -13,7 +13,229 @@
     "use_cached_research": true,
     "total_tv_only": false
   },
-  "dossier": null,
+  "dossier": {
+    "company_name": "Mr Muscle",
+    "company_slug": "mr-muscle",
+    "generated_at": "2026-01-29T18:43:09.331650",
+    "brand_identity": {
+      "positioning": "Tiedemies-supersankari, joka vapauttaa kuluttajan vastenmielisist\u00e4 t\u00f6ist\u00e4 ylivoimaisen kemian avulla. 'Loves the jobs you hate.'",
+      "visual_markers": {
+        "primary_color": "Varoitusoranssi (teollinen voima)",
+        "secondary_colors": [
+          "Vihre\u00e4 (teho/kemia)"
+        ],
+        "style_keywords": [
+          "Laboratorioestetiikka",
+          "CGI-hahmo",
+          "Steriiliys"
+        ],
+        "tone_keywords": [
+          "Maskuliininen",
+          "Funktionaalinen",
+          "In your face"
+        ]
+      },
+      "voice_characteristics": [
+        "Auktoritatiivinen",
+        "Ratkaisukeskeinen",
+        "Asiantuntijamainen"
+      ]
+    },
+    "strategic_priorities": [
+      {
+        "rank": 1,
+        "priority": "Kest\u00e4v\u00e4 kehitys (Sustainability)",
+        "evidence": [
+          "Yhteisty\u00f6 Plastic Bankin kanssa",
+          "100 % Ocean-Bound Plastic -kierr\u00e4tysmuovin k\u00e4ytt\u00f6 pulloissa"
+        ],
+        "execution_assessment": "moderate"
+      },
+      {
+        "rank": 2,
+        "priority": "Tehokkuuden ylivoima (Efficacy)",
+        "evidence": [
+          "Platinum-tuotesarja",
+          "Viem\u00e4rigeelit",
+          "Tieteellinen argumentaatio (Science of Tough Cleaning)"
+        ],
+        "execution_assessment": "strong"
+      },
+      {
+        "rank": 3,
+        "priority": "Globaali yhten\u00e4isyys",
+        "evidence": [
+          "Saman konseptin k\u00e4ytt\u00f6 globaalisti",
+          "CGI-hahmon hy\u00f6dynt\u00e4minen skaalautuvuuden vuoksi",
+          "Paikalliset kasvot saman sateenvarjon alla"
+        ],
+        "execution_assessment": "moderate"
+      }
+    ],
+    "marketing_posture": {
+      "current_content_types": [
+        "Perinteiset ongelma-ratkaisu -demot (TVC)",
+        "Jaetun ruudun vertailut (likainen vs. puhdas)",
+        "Tuotekeskeiset mainokset"
+      ],
+      "channel_presence": {
+        "youtube": {
+          "active": false,
+          "assessment": "Passiivinen. Toimii mainosarkistona, ei yhteis\u00f6kanavana."
+        },
+        "tiktok": {
+          "active": false,
+          "assessment": "Heikko. Ei orgaanista contentia tai osallistumista trendeihin."
+        },
+        "instagram": {
+          "active": false,
+          "assessment": "Heikko l\u00e4sn\u00e4olo."
+        },
+        "linkedin": {
+          "active": false,
+          "assessment": "Ei mainittu raportissa."
+        }
+      },
+      "apparent_gaps": [
+        "Viihdytt\u00e4v\u00e4, hy\u00f6dyllinen tai 'tyydytt\u00e4v\u00e4' (satisfying) sis\u00e4lt\u00f6 puuttuu",
+        "Sosiaalinen ja orgaaninen l\u00e4sn\u00e4olo olematonta verrattuna haastajiin"
+      ],
+      "audience_engagement": "Matala. Yleis\u00f6 n\u00e4kee br\u00e4ndin 'pakollisena pahana' tai tehokkaana ty\u00f6kaluna, ei lifestyle-br\u00e4ndin\u00e4."
+    },
+    "competitive_analysis": {
+      "key_competitors": [
+        {
+          "name": "The Pink Stuff / Scrub Daddy",
+          "content_strategy": "Tyydytt\u00e4v\u00e4t ASMR-videot, visuaalinen hauskuus, yhteis\u00f6llisyys, viraliteetti (CleanTok).",
+          "threat_level": "high"
+        },
+        {
+          "name": "Cillit Bang",
+          "content_strategy": "Aggressiivinen teho, 'Bang and the dirt is gone'.",
+          "threat_level": "medium"
+        },
+        {
+          "name": "Method / Ecover",
+          "content_strategy": "Estetiikka, 'counter-worthy' design, pehme\u00e4t arvot.",
+          "threat_level": "medium"
+        }
+      ],
+      "brand_winning_areas": [
+        "Tieteellinen uskottavuus",
+        "Raskaan sarjan ongelmanratkaisu (viem\u00e4rit, uunit)",
+        "Tunnettuus"
+      ],
+      "brand_losing_areas": [
+        "Kulttuurinen relevanssi",
+        "Viihdearvo",
+        "Estetiikka",
+        "Tunneyhteys"
+      ]
+    },
+    "strategic_tensions": [
+      {
+        "id": "tension_01",
+        "description": "Visuaalinen aggressio vs. Ekologinen todellisuus: Br\u00e4ndin visuaalinen ilme huutaa 'teollisuusmyrkky\u00e4', vaikka tuote on strategisesti siirtym\u00e4ss\u00e4 merta suojelevaksi ekoteoksi.",
+        "evidence": [
+          "Neon-oranssi v\u00e4rikoodi ja varoitusmerkit vs. Plastic Bank -yhteisty\u00f6",
+          "Kuluttajat piilottavat pullon kaappiin sen ulkon\u00e4\u00f6n vuoksi"
+        ],
+        "opportunity_type": "aspiration",
+        "priority_score": 5
+      },
+      {
+        "id": "tension_02",
+        "description": "'Pelastaja' vs. 'Mahdollistaja' (Kulttuurinen vinouma): Br\u00e4ndi nojaa vanhentuneeseen 'mieshahmo pelastaa avuttoman naisen' -narratiiviin, kun moderni siivouskulttuuri korostaa tekij\u00e4n omaa hallinnantunnetta.",
+        "evidence": [
+          "Historiallinen mainonta: Hahmo ilmestyy ja tekee ty\u00f6n",
+          "CleanTok-trendi: Siivoaminen on rituaali, jota tekij\u00e4 hallitsee"
+        ],
+        "opportunity_type": "threat",
+        "priority_score": 4
+      },
+      {
+        "id": "tension_03",
+        "description": "Steriili laboratorio vs. Sotkuinen el\u00e4m\u00e4: Mainonta tapahtuu kliinisiss\u00e4 studio-olosuhteissa, mik\u00e4 tekee br\u00e4ndist\u00e4 et\u00e4isen verrattuna kilpailijoihin.",
+        "evidence": [
+          "Mainosten 'mainoslika' vs. todellinen pinttynyt lika",
+          "Laboratorioestetiikka vs. kodikkuus"
+        ],
+        "opportunity_type": "gap",
+        "priority_score": 3
+      }
+    ],
+    "opportunity_zones": [
+      {
+        "id": "opp_01",
+        "description": "Eco-Tough \u2013 Vastuullisuuden uudelleenbr\u00e4nd\u00e4ys",
+        "rationale": "Ratkaisee tension_01:n. Yhdist\u00e4\u00e4 br\u00e4ndin kaksi k\u00e4rke\u00e4 (teho + eco) tavalla, jota pehme\u00e4t ekobr\u00e4ndit eiv\u00e4t voi omia. N\u00e4ytet\u00e4\u00e4n, ett\u00e4 kierr\u00e4tetty on vahvaa.",
+        "risk_level": "medium"
+      },
+      {
+        "id": "opp_02",
+        "description": "Satisfying Science \u2013 ASMR kohtaa laboratorion",
+        "rationale": "Ratkaisee tension_03:n ja vastaa CleanTok-uhkaan. Tekee tieteest\u00e4 visuaalista viihdett\u00e4 (reaktiot, vaahto) ilman hassuttelua.",
+        "risk_level": "low"
+      },
+      {
+        "id": "opp_03",
+        "description": "Hahmon evoluutio: Valmentaja (Coach)",
+        "rationale": "Ratkaisee tension_02:n. Muutetaan hahmo taikurista valmentajaksi ('corner man'), joka antaa kuluttajalle v\u00e4lineet voittoon.",
+        "risk_level": "high"
+      }
+    ],
+    "sources": [
+      {
+        "title": "SC Johnson Sustainability Reports (2023-2024)",
+        "url": "N/A",
+        "type": "report",
+        "date_accessed": "2024-01-01",
+        "relevance": "Strateginen prioriteetti: Kest\u00e4v\u00e4 kehitys"
+      },
+      {
+        "title": "Plastic Bank Partnership Announcements",
+        "url": "N/A",
+        "type": "company_site",
+        "date_accessed": "2024-01-01",
+        "relevance": "Todiste vastuullisuustoimista"
+      },
+      {
+        "title": "Newsworks Awards (Contextual Advertising)",
+        "url": "N/A",
+        "type": "other",
+        "date_accessed": "2024-01-01",
+        "relevance": "Todiste mediatoimistojen taktisesta luovuudesta"
+      },
+      {
+        "title": "Social Media Audit (YouTube/TikTok 2024)",
+        "url": "N/A",
+        "type": "social",
+        "date_accessed": "2024-01-01",
+        "relevance": "Analyysi kanavapresenssist\u00e4 ja kilpailijoista"
+      },
+      {
+        "title": "packaging-gateway.com",
+        "url": "N/A",
+        "type": "news",
+        "date_accessed": "2024-01-01",
+        "relevance": "Tieto kierr\u00e4tysmuovin k\u00e4yt\u00f6st\u00e4 pakkauksissa"
+      },
+      {
+        "title": "petnology.com",
+        "url": "N/A",
+        "type": "news",
+        "date_accessed": "2024-01-01",
+        "relevance": "Tieto pakkausteknologiasta"
+      },
+      {
+        "title": "scribd.com",
+        "url": "N/A",
+        "type": "other",
+        "date_accessed": "2024-01-01",
+        "relevance": "Taustatietoa markkinatilanteesta"
+      }
+    ]
+  },
   "concept_briefs": [],
   "concepts": [],
   "treatment_files": [],
@@ -21,6 +243,34 @@
   "onepagers_skipped": false,
   "onepagers_error": null,
   "pitch_email": "",
-  "phase_history": [],
+  "phase_history": [
+    {
+      "phase": "validate",
+      "started_at": "2026-01-29T18:40:32.936607",
+      "completed_at": "2026-01-29T18:40:32.940862",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "check_archive",
+      "started_at": "2026-01-29T18:40:32.945938",
+      "completed_at": "2026-01-29T18:40:33.287244",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "research",
+      "started_at": "2026-01-29T18:40:33.292868",
+      "completed_at": null,
+      "success": false,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    }
+  ],
   "archive_ref": null
 }
