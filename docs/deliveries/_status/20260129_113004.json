@@ -2,8 +2,8 @@
   "run_id": "20260129_113004",
   "company_slug": "stark-suomi",
   "created_at": "2026-01-29T11:30:04.597464",
-  "updated_at": "2026-01-29T11:30:07.249836",
-  "current_phase": "strategize",
+  "updated_at": "2026-01-29T11:35:45.996300",
+  "current_phase": "create",
   "user_input": {
     "company_name": "Stark Suomi",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -262,8 +262,331 @@
       "success_hypothesis": "This concept unlocks an untapped opportunity for Stark Suomi by addressing their aspiration in a way that creates cultural relevance and positions the brand as an innovator in their space."
     }
   ],
-  "concepts": [],
-  "treatment_files": [],
+  "concepts": [
+    {
+      "id": "concept_01",
+      "title": "Mestarin K\u00e4siss\u00e4",
+      "hook": "Dokumentaarinen remonttiohjelma, jossa kokeneet rakennusmestarit pelastavat tavallisten suomalaisten ep\u00e4onnistuneet remonttiprojektit \u2013 ja samalla paljastavat ammattitaidon salat.",
+      "premise": "Joka jaksossa Starkin verkostosta l\u00f6ytyv\u00e4 konkarirakentaja astuu sis\u00e4\u00e4n keskener\u00e4iseen tai pieleen menneeseen remonttikohteeseen \u2013 olipa kyse 70-luvun rintamamiestalon kylpyhuoneesta tai kes\u00e4m\u00f6kin terassista. Mestari analysoi tilanteen, opettaa oikeat tekniikat ja johtaa projektin maaliin. Sarja yhdist\u00e4\u00e4 opetuksellisen sis\u00e4ll\u00f6n emotionaaliseen tarinaan kodista ja perheest\u00e4.",
+      "long_form_extension": "8x45min TV-sarja Neloselle/Ruutu+:lle prime time -slotiin. Jokaisesta jaksosta tuotetaan lis\u00e4ksi 22min broadcast-versio kansainv\u00e4liseen levitykseen.",
+      "format": {
+        "series_type": "seasonal",
+        "episode_length": "45 minuuttia",
+        "cadence": "Viikoittain",
+        "season_length": "8 jaksoa"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "Nelonen/Ruutu+",
+          "rationale": "Prime time -remonttisarja tavoittaa laajan yleis\u00f6n ja rakentaa Starkin tunnettuutta ammattilaisena, joka ymm\u00e4rt\u00e4\u00e4 my\u00f6s kuluttajan tarpeita.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "YouTube",
+            "rationale": "",
+            "adaptation": "12-15min syvent\u00e4v\u00e4t 'Mestarin vinkit' -jaksot, joissa k\u00e4sitell\u00e4\u00e4n yksitt\u00e4isi\u00e4 tekniikoita tarkemmin."
+          },
+          {
+            "platform": "TikTok/Reels",
+            "rationale": "",
+            "adaptation": "60sec 'Ennen/J\u00e4lkeen' -klipit ja '\u00c4l\u00e4 tee n\u00e4in' -virhekokoelmat."
+          }
+        ],
+        "amplification": "Starkin myym\u00e4l\u00e4verkosto markkinoi sarjaa, jaksojen kohteet nostetaan paikallismedioihin, mestarit kiert\u00e4v\u00e4t Stark-tapahtumissa."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Mestarin ensireaktio kohteeseen ('T\u00e4m\u00e4 on n\u00e4hty ennenkin')",
+          "Ongelmien analyysi ja materiaalivalinnat Starkin valikoimasta",
+          "Opetushetki: mestari n\u00e4ytt\u00e4\u00e4 oikean tekniikan",
+          "Perheen reaktio valmiiseen lopputulokseen"
+        ],
+        "variable_elements": [
+          "Eri remonttityypit: kylpyhuone, terassi, keitti\u00f6, m\u00f6kki, kellari",
+          "Eri mestarit eri jaksoissa (alueellinen kattavuus)",
+          "Yll\u00e4tt\u00e4v\u00e4t ongelmat ja niiden ratkaisut"
+        ],
+        "host_approach": "Kukin jakso seuraa yht\u00e4 mestaria \u2013 ei vakituista juontajaa. Mestarit ovat aitoja Starkin kumppaniverkostosta l\u00f6ytyvi\u00e4 ammattilaisia, joiden persoona ja alueellinen murre tuovat autenttisuutta."
+      },
+      "brand_integration": {
+        "philosophy": "Stark on mestarin luotettava kumppani, joka mahdollistaa ty\u00f6n sujuvuuden. Br\u00e4ndi n\u00e4kyy luonnollisena osana ammattitaitoista tekemist\u00e4, ei mainoksena.",
+        "integration_method": "Materiaalit haetaan Starkista, Nonstop-palvelu n\u00e4kyy kun tavaraa tarvitaan \u00e4kki\u00e4, mestari selitt\u00e4\u00e4 miksi valitsee tietyt tuotteet.",
+        "screen_time_balance": "85% sis\u00e4lt\u00f6, 15% br\u00e4ndi",
+        "cta_approach": "Jakson lopussa 'L\u00f6yd\u00e4 omat materiaalisi stark.fi' -teksti, ei aggressiivista myynti\u00e4."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Rintamamiestalon kylpyhuone",
+          "description": "50-luvun talon m\u00e4rk\u00e4tila on homeessa \u2013 mestari purkaa ja rakentaa uudelleen oikeilla tekniikoilla."
+        },
+        {
+          "number": 2,
+          "title": "Kes\u00e4m\u00f6kin terassi",
+          "description": "Omak\u00e4tinen terassi on vajonnut ja lahoaa \u2013 mestari n\u00e4ytt\u00e4\u00e4 miten perustukset tehd\u00e4\u00e4n kunnolla."
+        },
+        {
+          "number": 3,
+          "title": "Kellarin muutos asunnoksi",
+          "description": "Kosteusongelmainen kellari pit\u00e4isi muuttaa nuoren asunnoksi \u2013 mestari opettaa vedeneristyksen."
+        },
+        {
+          "number": 4,
+          "title": "Omakotitalon energiaremontti",
+          "description": "70-luvun talo sy\u00f6 s\u00e4hk\u00f6\u00e4 \u2013 mestari p\u00e4ivitt\u00e4\u00e4 eristykset ja ikkunat nykyaikaan."
+        },
+        {
+          "number": 5,
+          "title": "Parveke-ep\u00e4onnistuminen",
+          "description": "Itse rakennettu lasitettu parveke vuotaa \u2013 mestari korjaa rakennevirheet."
+        },
+        {
+          "number": 6,
+          "title": "Saunan uudistus",
+          "description": "80-luvun sauna kaipaa modernisointia \u2013 mestari tekee ajattoman ja turvallisen l\u00f6ylyhuoneen."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee 'Koneisto vs. Kumppanuus' -j\u00e4nnitteen n\u00e4ytt\u00e4m\u00e4ll\u00e4 Starkin ihmiskasvot: oikeat mestarit, jotka v\u00e4litt\u00e4v\u00e4t laadusta ja auttavat tavallisia ihmisi\u00e4.",
+        "competitive_differentiation": "K-Rauta ei tee prime time -TV:t\u00e4. Stark asemoituu ammattitaidon puolestapuhujaksi, ei pelk\u00e4ksi tavarantoimittajaksi.",
+        "audience_value_proposition": "Katsoja oppii konkreettisia taitoja, samaistuu remonttiunelmiin ja saa emotionaalisen tarinan kodista \u2013 klassinen suomalainen remonttiformaatti uudella twistill\u00e4."
+      },
+      "execution": {
+        "complexity": "medium",
+        "budget_tier": "mid",
+        "timeline_to_first_episode": "12-14 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Kohteiden l\u00f6yt\u00e4minen ja aikataulutus voi viiv\u00e4stytt\u00e4\u00e4 tuotantoa.",
+          "mitigation": "Starkin myym\u00e4l\u00e4verkosto ja asiakaskunta toimivat kohteiden l\u00e4hteen\u00e4 \u2013 casting alkaa heti."
+        },
+        {
+          "risk": "Mestarit eiv\u00e4t ole luontevia kameran edess\u00e4.",
+          "mitigation": "Huolellinen casting ja mediavalmennus. Autenttisuus on t\u00e4rke\u00e4mp\u00e4\u00e4 kuin kiillotettu esiintyminen."
+        }
+      ]
+    },
+    {
+      "id": "concept_02",
+      "title": "Ty\u00f6maan Tunnustukset",
+      "hook": "Rakennusalan suosituimmat somepersoonat paljastavat alan totuudet, tabut ja parhaat vinkit \u2013 raa'alla rehellisyydell\u00e4 ja huumorilla.",
+      "premise": "Vertikaali mikrodraama-/tositelevisiosarja, jossa rakennusalan tunnetut vaikuttajat (kuten @rakentajanel\u00e4m\u00e4\u00e4, @timpurintotuudet) kertovat ty\u00f6maiden hulluimmat tarinat, paljastavat yleisimm\u00e4t virheet ja jakavat ammattisalaisuuksia. Formaatti on 'Suoraan sanottuna' rakennusalan n\u00e4k\u00f6kulmasta \u2013 huumoria, draamaa ja hy\u00f6dyllist\u00e4 tietoa.",
+      "long_form_extension": "Konsepti laajenee 6x30min TV-sarjaksi MTV3/Katsomoon, jossa vaikuttajat vierailevat oikeilla ty\u00f6mailla ja testaavat v\u00e4itteit\u00e4\u00e4n k\u00e4yt\u00e4nn\u00f6ss\u00e4.",
+      "format": {
+        "series_type": "ongoing",
+        "episode_length": "60-90 sekuntia (some) / 30 minuuttia (TV)",
+        "cadence": "3x viikossa (some), viikoittain (TV)",
+        "season_length": "Jatkuva somesis\u00e4lt\u00f6 + 6-osainen TV-kausi"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "TikTok/Instagram Reels",
+          "rationale": "Rakennusalan vaikuttajilla on jo miljoonayleis\u00f6t n\u00e4ill\u00e4 alustoilla. Formaatti hy\u00f6dynt\u00e4\u00e4 olemassa olevaa orgaanista vetovoimaa ja tuo Starkin nuorempien ammattilaisten tietoisuuteen.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "MTV3/Katsomo",
+            "rationale": "",
+            "adaptation": "Pidempi 30min formaatti, jossa studiokeskustelut ja kentt\u00e4k\u00e4ynnit yhdistyv\u00e4t."
+          },
+          {
+            "platform": "YouTube",
+            "rationale": "",
+            "adaptation": "10-15min 'Best of' -koosteet ja syvent\u00e4v\u00e4t haastattelut."
+          }
+        ],
+        "amplification": "Vaikuttajien omat kanavat jakavat sis\u00e4lt\u00f6\u00e4, Stark sponsoroi nostoja, alan ammattilehdet nostavat parhaat palat."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "'Tunnustus' -segmentti: vaikuttaja kertoo oman mokansa tai oivalluksensa",
+          "'Totta vai tarua' -v\u00e4itt\u00e4m\u00e4t rakentamisesta",
+          "'Starkin ratkaisu' -vinkki, joka liittyy jakson aiheeseen"
+        ],
+        "variable_elements": [
+          "Eri vaikuttajat ja heid\u00e4n erikoisalueensa (timpuri, LVI, laatoittaja)",
+          "Aiheet vaihtelevat: ty\u00f6turvallisuus, asiakaskokemukset, materiaalivalinnat, alan tulevaisuus",
+          "Vierailijahaasteet ja duetot"
+        ],
+        "host_approach": "Kiert\u00e4v\u00e4 vaikuttajapooli. TV-versiossa vakituinen juontaja-hahmo (esim. stand-up-koomikko, joka ei ole ammattilainen) toimii 'taviksen' \u00e4\u00e4nen\u00e4 ja provosoi keskustelua."
+      },
+      "brand_integration": {
+        "philosophy": "Stark on se luotettava taustavoima, jonka puoleen ammattilaisetkin k\u00e4\u00e4ntyv\u00e4t. Br\u00e4ndi n\u00e4kyy ratkaisijana, ei p\u00e4\u00e4henkil\u00f6n\u00e4.",
+        "integration_method": "Vaikuttajat mainitsevat Starkin luonnollisesti osana tarinoita ('Onneksi Nonstop oli auki kolmelta y\u00f6ll\u00e4'), tuotteet n\u00e4kyv\u00e4t k\u00e4yt\u00f6ss\u00e4.",
+        "screen_time_balance": "90% sis\u00e4lt\u00f6, 10% br\u00e4ndi",
+        "cta_approach": "Somessa linkki biossa Starkin sivuille, TV:ss\u00e4 jakson lopussa 'Stark \u2013 Reilusti rakentajan asialla' -tunnus."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Pahimmat asiakaskokemukset",
+          "description": "Vaikuttajat kertovat j\u00e4rkytt\u00e4vimm\u00e4t tarinat asiakkaista, jotka tiesiv\u00e4t 'paremmin'."
+        },
+        {
+          "number": 2,
+          "title": "Materiaalit, joita en en\u00e4\u00e4 koskaan k\u00e4yt\u00e4",
+          "description": "Ammattilaisten black list \u2013 ja mit\u00e4 k\u00e4ytt\u00e4v\u00e4t sen sijaan."
+        },
+        {
+          "number": 3,
+          "title": "Ty\u00f6maan vaaralliset hetket",
+          "description": "L\u00e4helt\u00e4 piti -tilanteet ja mit\u00e4 niist\u00e4 opittiin."
+        },
+        {
+          "number": 4,
+          "title": "Aloittelijan virheet",
+          "description": "Mit\u00e4 jokainen tekee v\u00e4\u00e4rin uransa alussa \u2013 ja miten v\u00e4ltt\u00e4\u00e4 ne."
+        },
+        {
+          "number": 5,
+          "title": "Remontin hinta vs. todellisuus",
+          "description": "Miksi remontti maksaa sen mit\u00e4 maksaa \u2013 selitettyn\u00e4 kansantajuisesti."
+        },
+        {
+          "number": 6,
+          "title": "Alan tulevaisuus",
+          "description": "Mit\u00e4 nuoren kannattaa opiskella ja mihin ala on menossa."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee 'Huumori puuttuu' -aukon ja 'Dusty Boots' -j\u00e4nnitteen: sis\u00e4lt\u00f6 puhuu ammattilaisen kielt\u00e4 ilman yritystermej\u00e4.",
+        "competitive_differentiation": "Kukaan kilpailija ei tee vaikuttajavetoista, huumoripainotteista br\u00e4ndisis\u00e4lt\u00f6\u00e4. Stark nappaa nuoremman ammattilaissukupolven huomion.",
+        "audience_value_proposition": "Viihdytt\u00e4v\u00e4, samaistuttava ja hy\u00f6dyllinen \u2013 katsoja nauraa, oppii ja jakaa eteenp\u00e4in."
+      },
+      "execution": {
+        "complexity": "low",
+        "budget_tier": "budget",
+        "timeline_to_first_episode": "4-6 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Vaikuttajien sis\u00e4lt\u00f6 voi olla liian ronskia br\u00e4ndin imagolle.",
+          "mitigation": "Selke\u00e4t sis\u00e4lt\u00f6linjaukset sopimuksissa, ennakkokatselu ennen julkaisua, mutta s\u00e4ilytet\u00e4\u00e4n autenttisuus."
+        },
+        {
+          "risk": "Formaatti j\u00e4\u00e4 pelk\u00e4ksi someilmi\u00f6ksi ilman TV-laajennusta.",
+          "mitigation": "TV-tuotanto suunnitellaan alusta asti rinnakkain \u2013 pilottijakso kuvataan heti ensimm\u00e4isten somesis\u00e4lt\u00f6jen yhteydess\u00e4."
+        }
+      ]
+    },
+    {
+      "id": "concept_03",
+      "title": "Suomen Suurin Remontti",
+      "hook": "Massiivinen live-tapahtuma ja TV-spektaakkeli, jossa 50 ammattirakentajaa kilpailee remontoimalla kokonaisen kerrostalorapun 48 tunnissa \u2013 ja katsojat p\u00e4\u00e4tt\u00e4v\u00e4t voittajan.",
+      "premise": "Kerran vuodessa j\u00e4rjestett\u00e4v\u00e4 megatapahtuma, jossa Stark kokoaa Suomen parhaat rakentajatiimit yhteen paikkaan. Joukkueet saavat identtiset l\u00e4ht\u00f6tilanteet (esim. r\u00e4nsistyneen kerrostaloasunnon) ja 48 tuntia aikaa. Koko prosessi striimataan liven\u00e4, TV:ss\u00e4 n\u00e4ytet\u00e4\u00e4n tiivistetty versio, ja katsojat \u00e4\u00e4nest\u00e4v\u00e4t voittajan. Voittajatiimi saa merkitt\u00e4v\u00e4n palkinnon ja 'Vuoden Rakentaja' -tittelin.",
+      "long_form_extension": "2x90min live-l\u00e4hetys (aloitus + finaali) + 4x45min dokumentaarinen sarja Neloselle/Ruutu+:lle, joka seuraa tiimien valmistautumista ja kilpailun kulissien takana.",
+      "format": {
+        "series_type": "event",
+        "episode_length": "90 min live + 45 min dokumentit",
+        "cadence": "Vuosittainen tapahtuma",
+        "season_length": "2 live-l\u00e4hetyst\u00e4 + 4-osainen dokumenttisarja"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "Nelonen/Ruutu+ (live) + fyysinen tapahtuma",
+          "rationale": "Live-kilpailu luo v\u00e4litt\u00f6myytt\u00e4 ja j\u00e4nnityst\u00e4. Fyysinen tapahtuma (Akun Tehdas -toteutus) tuo Starkin br\u00e4ndin k\u00e4sin kosketeltavaksi.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "Twitch/YouTube Live",
+            "rationale": "",
+            "adaptation": "24/7 live-striimi ty\u00f6maalta, jossa katsojat voivat seurata tiimej\u00e4 reaaliajassa ja kommentoida."
+          },
+          {
+            "platform": "TikTok/Reels",
+            "rationale": "",
+            "adaptation": "Reaaliaikaiset p\u00e4ivitykset, 'behind the scenes' -klipit, tiimien esittelyt ja dramaattisimmat hetket."
+          }
+        ],
+        "amplification": "Valtakunnallinen mediakampanja, Starkin myym\u00e4l\u00e4t rekrytoivat osallistujia, alan ammattiliitot ja oppilaitokset mukaan kumppaneiksi."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Tiimien esittely ja strategiat",
+          "'Checkpoint' -hetket, joissa tuomarit arvioivat edistymist\u00e4",
+          "Yll\u00e4tyshaasteet (materiaalipula, aikataulumuutos)",
+          "Katsoja\u00e4\u00e4nestys ja live-tulokset"
+        ],
+        "variable_elements": [
+          "Kohteiden tyyppi vaihtelee vuosittain (kerrostalo, rivitalo, julkinen tila)",
+          "Erikoisteemat (esim. vastuullisuusvuosi: kierr\u00e4tysmateriaalien k\u00e4ytt\u00f6)",
+          "Julkkisvieraat ja asiantuntijakommentaattorit"
+        ],
+        "host_approach": "P\u00e4\u00e4juontaja (esim. Riku Rantala tai vastaava seikkailuhenkinen persoona) + asiantuntijakommentaattori (kokenut rakennusmestari). Live-striimiss\u00e4 omat juontajat."
+      },
+      "brand_integration": {
+        "philosophy": "Stark on koko tapahtuman mahdollistaja ja ammattilaisten tukija. Br\u00e4ndi n\u00e4kyy kaikkialla, mutta fokus on rakentajien taidoissa ja tarinoissa.",
+        "integration_method": "Kaikki materiaalit Starkilta, Nonstop-logistiikka n\u00e4kyv\u00e4sti osana kilpailua, Stark-asiantuntijat tarjoavat teknist\u00e4 tukea tiimeille.",
+        "screen_time_balance": "75% sis\u00e4lt\u00f6, 25% br\u00e4ndi",
+        "cta_approach": "Tapahtuman aikana 'Hae mukaan ensi vuonna' -kampanja, Starkin rekrytointin\u00e4kyvyys, tuotelinkit live-striimin yhteydess\u00e4."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Tiimien valinta (dokumentti)",
+          "description": "Seuraamme castingia ymp\u00e4ri Suomea \u2013 ketk\u00e4 p\u00e4\u00e4sev\u00e4t mukaan ja miksi?"
+        },
+        {
+          "number": 2,
+          "title": "Valmistautuminen (dokumentti)",
+          "description": "Tiimit suunnittelevat strategiansa ja harjoittelevat yhteisty\u00f6t\u00e4."
+        },
+        {
+          "number": 3,
+          "title": "L\u00e4ht\u00f6laukaus (live)",
+          "description": "48 tunnin kilpailu alkaa \u2013 ensimm\u00e4iset tunnit ja yll\u00e4tykset."
+        },
+        {
+          "number": 4,
+          "title": "Y\u00f6n yli (dokumentti/live-koosteet)",
+          "description": "Miten tiimit selvi\u00e4v\u00e4t v\u00e4symyksest\u00e4 ja paineesta?"
+        },
+        {
+          "number": 5,
+          "title": "Loppukiri (dokumentti)",
+          "description": "Viimeiset tunnit, viimeistely ja paniikki."
+        },
+        {
+          "number": 6,
+          "title": "Finaali ja palkintojenjako (live)",
+          "description": "Tuomarit ja katsojat valitsevat voittajan \u2013 tunteikas p\u00e4\u00e4t\u00f6s."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee kaikki kolme j\u00e4nnitett\u00e4: n\u00e4ytt\u00e4\u00e4 ihmisen koneen takana, yhdist\u00e4\u00e4 huippu-urheilun intensiteetin arkiseen ty\u00f6h\u00f6n, ja tekee vastuullisuudesta konkreettista (kierr\u00e4tysmateriaalit, tehokkuus).",
+        "competitive_differentiation": "Kukaan ei ole tehnyt t\u00e4t\u00e4 Suomessa. T\u00e4m\u00e4 on kategoriaa m\u00e4\u00e4ritt\u00e4v\u00e4 teko, joka asemoi Starkin alan johtajaksi vuosiksi eteenp\u00e4in.",
+        "audience_value_proposition": "Draama, j\u00e4nnitys, samaistuminen ja ylpeys suomalaisesta ammattitaidosta. T\u00e4m\u00e4 on kuin 'Suomen huippumalli' rakennusalalle."
+      },
+      "execution": {
+        "complexity": "high",
+        "budget_tier": "premium",
+        "timeline_to_first_episode": "6-9 kuukautta"
+      },
+      "risks": [
+        {
+          "risk": "Logistinen kompleksisuus ja turvallisuusriskit live-tapahtumassa.",
+          "mitigation": "Akun Tehtaan tapahtumaosaaminen, kokenut live-tuotantotiimi, perusteellinen turvallisuussuunnitelma ja vakuutukset."
+        },
+        {
+          "risk": "Osallistujien rekrytointi voi olla haastavaa kiireisess\u00e4 rakennusalassa.",
+          "mitigation": "Houkutteleva palkinto, alan arvostuksen korostaminen, Starkin asiakasverkoston hy\u00f6dynt\u00e4minen, oppilaitosten mukaan ottaminen."
+        },
+        {
+          "risk": "Live-l\u00e4hetyksen tekninen toteutus vaatii merkitt\u00e4vi\u00e4 resursseja.",
+          "mitigation": "Kokenut broadcast-kumppani, useita varasuunnitelmia, harjoitusl\u00e4hetys ennen varsinaista tapahtumaa."
+        }
+      ]
+    }
+  ],
+  "treatment_files": [
+    "/opt/render/project/src/runs/stark_suomi/TREATMENTS/stark_suomi_TREATMENT_01_20260129_113545.md",
+    "/opt/render/project/src/runs/stark_suomi/TREATMENTS/stark_suomi_TREATMENT_02_20260129_113545.md",
+    "/opt/render/project/src/runs/stark_suomi/TREATMENTS/stark_suomi_TREATMENT_03_20260129_113545.md"
+  ],
   "onepager_specs": [],
   "onepagers_skipped": false,
   "onepagers_error": null,
@@ -290,6 +613,15 @@
     {
       "phase": "strategize",
       "started_at": "2026-01-29T11:30:07.244649",
+      "completed_at": "2026-01-29T11:30:09.065434",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "create",
+      "started_at": "2026-01-29T11:30:09.072636",
       "completed_at": null,
       "success": false,
       "error_message": null,
