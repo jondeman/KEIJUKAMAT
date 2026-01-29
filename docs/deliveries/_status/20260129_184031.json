@@ -2,8 +2,8 @@
   "run_id": "20260129_184031",
   "company_slug": "mr-muscle",
   "created_at": "2026-01-29T18:40:31.154533",
-  "updated_at": "2026-01-29T18:43:09.343279",
-  "current_phase": "research",
+  "updated_at": "2026-01-29T18:43:11.259138",
+  "current_phase": "strategize",
   "user_input": {
     "company_name": "Mr Muscle",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -236,7 +236,38 @@
       }
     ]
   },
-  "concept_briefs": [],
+  "concept_briefs": [
+    {
+      "slot_id": "01",
+      "slot_type": "safe_bet",
+      "assigned_tension_id": "tension_01",
+      "strategic_focus": "Visuaalinen aggressio vs. Ekologinen todellisuus: Br\u00e4ndin visuaalinen ilme huutaa 'teollisuusmyrkky\u00e4', vaikka tuote on strategisesti siirtym\u00e4ss\u00e4 merta suojelevaksi ekoteoksi.",
+      "platform_focus": "youtube",
+      "format_guidance": "Focus on proven YouTube formats: documentary-style, interview series, or educational content. Episodes should be 8-15 minutes. Prioritize professional production quality and clear brand alignment. The series should have obvious rewatch and share value.",
+      "risk_profile": "low",
+      "success_hypothesis": "This concept directly addresses Mr Muscle's top strategic priority (aspiration) with a proven format that minimizes execution risk while delivering measurable brand value."
+    },
+    {
+      "slot_id": "02",
+      "slot_type": "challenger",
+      "assigned_tension_id": "tension_02",
+      "strategic_focus": "'Pelastaja' vs. 'Mahdollistaja' (Kulttuurinen vinouma): Br\u00e4ndi nojaa vanhentuneeseen 'mieshahmo pelastaa avuttoman naisen' -narratiiviin, kun moderni siivouskulttuuri korostaa tekij\u00e4n omaa hallinnantu",
+      "platform_focus": "tiktok",
+      "format_guidance": "Design for TikTok/Reels first: vertical format, 30-90 seconds, hook in first 3 seconds. Embrace platform-native aesthetics and trends. Consider creator collaborations. Content should feel bold and contemporary, not like traditional brand advertising.",
+      "risk_profile": "medium",
+      "success_hypothesis": "This concept enables Mr Muscle to aggressively address their threat with bold positioning that differentiates them in the market and captures attention on high-engagement platforms."
+    },
+    {
+      "slot_id": "03",
+      "slot_type": "moonshot",
+      "assigned_tension_id": "tension_03",
+      "strategic_focus": "Steriili laboratorio vs. Sotkuinen el\u00e4m\u00e4: Mainonta tapahtuu kliinisiss\u00e4 studio-olosuhteissa, mik\u00e4 tekee br\u00e4ndist\u00e4 et\u00e4isen verrattuna kilpailijoihin.",
+      "platform_focus": "cross_platform",
+      "format_guidance": "Think beyond single-platform content: interactive experiences, live events with digital extensions, user participation mechanics, or innovative cross-platform storytelling. This should feel like something the industry hasn't seen before. High production ambition is acceptable given the differentiation potential.",
+      "risk_profile": "high",
+      "success_hypothesis": "This concept unlocks an untapped opportunity for Mr Muscle by addressing their gap in a way that creates cultural relevance and positions the brand as an innovator in their space."
+    }
+  ],
   "concepts": [],
   "treatment_files": [],
   "onepager_specs": [],
@@ -265,6 +296,15 @@
     {
       "phase": "research",
       "started_at": "2026-01-29T18:40:33.292868",
+      "completed_at": "2026-01-29T18:43:11.247778",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "strategize",
+      "started_at": "2026-01-29T18:43:11.253880",
       "completed_at": null,
       "success": false,
       "error_message": null,
