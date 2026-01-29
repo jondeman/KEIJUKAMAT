@@ -2,8 +2,8 @@
   "run_id": "20260129_184031",
   "company_slug": "mr-muscle",
   "created_at": "2026-01-29T18:40:31.154533",
-  "updated_at": "2026-01-29T18:53:13.486526",
-  "current_phase": "package",
+  "updated_at": "2026-01-29T18:53:25.849771",
+  "current_phase": "deliver",
   "user_input": {
     "company_name": "Mr Muscle",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -748,6 +748,15 @@
     {
       "phase": "package",
       "started_at": "2026-01-29T18:53:13.486504",
+      "completed_at": "2026-01-29T18:53:25.840792",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "deliver",
+      "started_at": "2026-01-29T18:53:25.849747",
       "completed_at": null,
       "success": false,
       "error_message": null,
