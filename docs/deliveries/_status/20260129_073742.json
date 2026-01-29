@@ -2,8 +2,8 @@
   "run_id": "20260129_073742",
   "company_slug": "valokuitunen",
   "created_at": "2026-01-29T07:37:42.011933",
-  "updated_at": "2026-01-29T08:06:12.041414",
-  "current_phase": "strategize",
+  "updated_at": "2026-01-29T08:11:55.058122",
+  "current_phase": "create",
   "user_input": {
     "company_name": "Valokuitunen",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -267,8 +267,339 @@
       "success_hypothesis": "This concept unlocks an untapped opportunity for Valokuitunen by addressing their underserved audience in a way that creates cultural relevance and positions the brand as an innovator in their space."
     }
   ],
-  "concepts": [],
-  "treatment_files": [],
+  "concepts": [
+    {
+      "id": "concept_01",
+      "title": "Kuidun Alla \u2013 Suomen Pisin Naapurirauha",
+      "hook": "Dokumenttisarja, joka todistaa, miten yhteinen rakennusprojekti yhdist\u00e4\u00e4 naapuruston ja nostaa koko alueen arvoa \u2013 ja samalla inhimillist\u00e4\u00e4 kuidun rakentamisen.",
+      "premise": "Kuidun Alla seuraa kolmea erilaista suomalaista omakotitaloaluetta, joiden asukkaat p\u00e4\u00e4tt\u00e4v\u00e4t yhdess\u00e4 hankkia valokuidun. Sarja dokumentoi matkan ensimm\u00e4isest\u00e4 naapuruston kokouksesta valmiin verkon juhlahetkeen \u2013 kaivuty\u00f6t, naapuridraamat, yll\u00e4tykset ja lopulta yhteisen onnistumisen. Jokainen jakso paljastaa, miten infrastruktuuriprojekti muuttuu yhteis\u00f6n tarinaksi.",
+      "long_form_extension": "8-osainen dokumenttisarja Ruutu+:ssa, lis\u00e4ksi 3x45min broadcast-versio Neloselle 'Suomen Pisin Naapurirauha' -otsikolla.",
+      "format": {
+        "series_type": "limited",
+        "episode_length": "10-15 minuuttia",
+        "cadence": "Viikoittain",
+        "season_length": "8 jaksoa"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "YouTube",
+          "rationale": "YouTube mahdollistaa pitk\u00e4muotoisen tarinankerronnan ja hakukonel\u00f6ydett\u00e4vyyden ('valokuitu kokemuksia', 'omakotitalon valokuitu'). Dokumentaarinen sis\u00e4lt\u00f6 toimii YouTubessa erinomaisesti.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "TikTok",
+            "rationale": "",
+            "adaptation": "60 sekunnin 'Naapurin reaktio' -klipit: hauskat ja aidot hetket kaivuty\u00f6mailta, naapurien kommentit, yll\u00e4tykset."
+          },
+          {
+            "platform": "Instagram",
+            "rationale": "",
+            "adaptation": "Reels-versiot parhaista hetkist\u00e4 + carousel-kuvat 'Ennen ja j\u00e4lkeen' -tyyliin."
+          }
+        ],
+        "amplification": "Paikallismedia-PR jokaiselta kuvatulta alueelta, Facebook-ryhm\u00e4yhteisty\u00f6t (omakotitaloasujat), YouTube pre-roll kohdennettuna postinumeroalueille."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Jakson alussa 'Naapuruston profiili' \u2013 keit\u00e4 he ovat ja miksi he p\u00e4\u00e4ttiv\u00e4t l\u00e4hte\u00e4 mukaan",
+          "Viikottainen 'Ty\u00f6maan tilanne' -seuranta kaivinkoneen kuljettajan n\u00e4k\u00f6kulmasta",
+          "Jakson lopussa 'Mit\u00e4 opimme' -hetki, jossa asukas kertoo yll\u00e4tt\u00e4vimm\u00e4n asian"
+        ],
+        "variable_elements": [
+          "Eri alueiden ainutlaatuiset haasteet (kallio, pohjavesi, tiukat aikataulut)",
+          "Vaihtelevat naapuripersoonat ja heid\u00e4n motivaationsa",
+          "Sesongit: syksy-talvi-kev\u00e4t -vaihtelu rakennusty\u00f6maalla"
+        ],
+        "host_approach": "Ei erillist\u00e4 juontajaa. Tarinan kertovat asukkaat itse ja Valokuitusen ty\u00f6ntekij\u00e4t \u2013 erityisesti kaivinkoneenkuljettajat ja asentajat, jotka tulevat tutuiksi."
+      },
+      "brand_integration": {
+        "philosophy": "Valokuitunen on mahdollistaja, ei p\u00e4\u00e4henkil\u00f6. Br\u00e4ndi n\u00e4kyy luonnollisesti ty\u00f6maa-asuissa, autoissa ja asiantuntijaroolissa \u2013 ei mainospuheena.",
+        "integration_method": "Valokuitusen projektip\u00e4\u00e4llikk\u00f6 on sarjan 'luotettava asiantuntija', joka selitt\u00e4\u00e4 prosessia. Asentajat ovat sankareita, jotka tekev\u00e4t ty\u00f6n.",
+        "screen_time_balance": "85% asukastarinaa, 15% Valokuitusen henkil\u00f6st\u00f6 asiantuntijaroolissa",
+        "cta_approach": "Jakson lopussa hillitty 'Tarkista saatavuus alueellasi' -teksti, ei aggressiivista myynti\u00e4."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Ensimm\u00e4inen Kokous",
+          "description": "Kolmen alueen asukkaat kokoontuvat ensimm\u00e4ist\u00e4 kertaa keskustelemaan kuidusta \u2013 ep\u00e4ilyt, innostus ja naapurien yll\u00e4tyksellinen yhteishenki."
+        },
+        {
+          "number": 2,
+          "title": "Kun Kone Tulee Pihaan",
+          "description": "Kaivuty\u00f6t alkavat. Seuraamme ensimm\u00e4ist\u00e4 p\u00e4iv\u00e4\u00e4, kun kaivinkoneet saapuvat \u2013 ja naapurien reaktioita mutaan ja meluun."
+        },
+        {
+          "number": 3,
+          "title": "Kallio Vastaan",
+          "description": "Yhdell\u00e4 alueella t\u00f6rm\u00e4t\u00e4\u00e4n kallioon. Miten ongelma ratkaistaan ja miten naapurusto reagoi viiv\u00e4stykseen?"
+        },
+        {
+          "number": 4,
+          "title": "Naapurin Kahvit",
+          "description": "Rakennusty\u00f6maa synnytt\u00e4\u00e4 yll\u00e4tt\u00e4v\u00e4n perinteen: naapurit alkavat k\u00e4yd\u00e4 toistensa luona kahvilla ensimm\u00e4ist\u00e4 kertaa vuosiin."
+        },
+        {
+          "number": 5,
+          "title": "Viimeinen Metri",
+          "description": "Asennus loppusuoralla. Seuraamme j\u00e4nnitt\u00e4v\u00e4\u00e4 hetke\u00e4, kun ensimm\u00e4inen kuitu kytket\u00e4\u00e4n ja netti testataan."
+        },
+        {
+          "number": 6,
+          "title": "Juhlahetki",
+          "description": "Kaikki kolme aluetta juhlivat valmista verkkoa. Mit\u00e4 asukkaat oppivat matkasta ja toisistaan?"
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee suoraan 'Digitaalinen unelma vs. Analoginen sotku' -j\u00e4nnitteen inhimillist\u00e4m\u00e4ll\u00e4 rakennusprosessin. Muta ja odotus muuttuvat yhteis\u00f6n tarinaksi.",
+        "competitive_differentiation": "Kilpailijat puhuvat vain teknisist\u00e4 ominaisuuksista. T\u00e4m\u00e4 on ainoa sarja, joka n\u00e4ytt\u00e4\u00e4 kuidun hankinnan ihmisten n\u00e4k\u00f6kulmasta \u2013 aito dokumentaarisuus erottaa.",
+        "audience_value_proposition": "Katsoja saa aidon kurkistuksen siihen, milt\u00e4 kuidun hankinta oikeasti n\u00e4ytt\u00e4\u00e4. Reality-viihteen elementit (naapuridraama, yll\u00e4tykset) tekev\u00e4t sis\u00e4ll\u00f6st\u00e4 jaettavaa."
+      },
+      "execution": {
+        "complexity": "medium",
+        "budget_tier": "mid",
+        "timeline_to_first_episode": "10-12 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Rakennusprojektin viiv\u00e4stykset vaikuttavat kuvausaikatauluun",
+          "mitigation": "Kuvataan kolmea aluetta rinnakkain, jolloin aina on materiaalia k\u00e4ytett\u00e4viss\u00e4."
+        },
+        {
+          "risk": "Asukkaat eiv\u00e4t ole tarpeeksi kiinnostavia kameralle",
+          "mitigation": "Huolellinen casting-prosessi etuk\u00e4teen ja useamman alueen seuranta takaa monipuoliset persoonat."
+        }
+      ]
+    },
+    {
+      "id": "concept_02",
+      "title": "Latenssi \u2013 Kun Sekunti Ratkaisee",
+      "hook": "TikTok-sarja, jossa suomalaiset e-urheilijat ja striimaajat todistavat millisekuntien merkityksen \u2013 ja paljastavat, miksi 5G ei riit\u00e4, kun pelit ratkeavat.",
+      "premise": "Latenssi on nopeatempoinen somesarja, jossa tunnetut suomalaiset pelaajat ja striimaajat asetetaan tilanteisiin, joissa yhteyden laatu ratkaisee kaiken. Formaatti yhdist\u00e4\u00e4 kilpailuelementin, teknisen demonstraation ja viihdytt\u00e4v\u00e4n persoonavetoisuuden. Jokainen jakso todistaa konkreettisesti, mit\u00e4 millisekunnit merkitsev\u00e4t \u2013 ja miksi kuitu on ainoa oikea ratkaisu vakavalle pelaajalle.",
+      "long_form_extension": "6-osainen YouTube-dokumenttisarja 'Latenssi: Suomen Nopein Yhteys', jossa syvennyt\u00e4\u00e4n e-urheilun tekniseen puoleen ja haastatellaan huippupelaajia. Optio Ruutu+ -jakeluun.",
+      "format": {
+        "series_type": "ongoing",
+        "episode_length": "45-90 sekuntia",
+        "cadence": "2-3 kertaa viikossa",
+        "season_length": null
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "TikTok",
+          "rationale": "Gaming-sis\u00e4lt\u00f6 ja teknologiavertailut ovat TikTokin kasvavia kategorioita. Nuori kohderyhm\u00e4 (18-35) tavoitetaan parhaiten t\u00e4\u00e4ll\u00e4.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "YouTube Shorts",
+            "rationale": "",
+            "adaptation": "Samat klipit, mutta optimoitu Shorts-algoritmille ja hakusanoille ('latenssi peli', '5G vs kuitu')."
+          },
+          {
+            "platform": "Instagram Reels",
+            "rationale": "",
+            "adaptation": "Editoidut highlight-versiot parhaista reaktioista ja 'fails'-hetkist\u00e4."
+          },
+          {
+            "platform": "Twitch",
+            "rationale": "",
+            "adaptation": "Live-klippien jakaminen ja striimaajien omien kanavien hy\u00f6dynt\u00e4minen."
+          }
+        ],
+        "amplification": "Vaikuttajayhteisty\u00f6t: pelaajat jakavat omilla kanavillaan. Gaming-median PR (esim. Pelaaja-lehti, Dome). Discord-yhteis\u00f6markkinointi."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "'Latenssi-testi': visuaalinen mittari, joka n\u00e4ytt\u00e4\u00e4 reaaliaikaisen latenssin",
+          "Pelaajan reaktio hidastettuna, kun yhteys pett\u00e4\u00e4 tai toimii",
+          "Lopussa aina 'Tulos': kuitu vs. 5G -vertailu numeroina"
+        ],
+        "variable_elements": [
+          "Eri pelit ja pelitilanteet (CS2, Fortnite, racing-pelit, VR)",
+          "Vaihtelevat vaikuttajat ja heid\u00e4n persoonalliset reaktionsa",
+          "Erilaiset haaste-formaatit: 1v1, aikapaine, sokkohaaste"
+        ],
+        "host_approach": "Ei erillist\u00e4 juontajaa. Pelaajat ja striimaajat ovat t\u00e4hti\u00e4. Valokuitusen 'teknikko' voi esiinty\u00e4 satunnaisesti selitt\u00e4m\u00e4ss\u00e4 teknisi\u00e4 yksityiskohtia."
+      },
+      "brand_integration": {
+        "philosophy": "Valokuitunen on 'tieteen' tarjoaja \u2013 he mahdollistavat testin ja todistavat v\u00e4itteen. Br\u00e4ndi on asiantuntija, ei mainostaja.",
+        "integration_method": "Latenssi-mittari on Valokuitunen-br\u00e4nd\u00e4tty. Testiymp\u00e4rist\u00f6 on selke\u00e4sti 'Valokuitusen laboratorio'. Pelaajat mainitsevat luontevasti, mill\u00e4 yhteydell\u00e4 pelaavat.",
+        "screen_time_balance": "90% peli\u00e4 ja reaktioita, 10% br\u00e4ndi-elementtej\u00e4",
+        "cta_approach": "Videon lopussa 'Tarkista saatavuus' -linkki biossa. Ei puhuttua CTA:ta."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "1ms vs. 50ms \u2013 CS2-clutch",
+          "description": "Suosittu CS2-striimaaja pelaa saman clutch-tilanteen kahdella eri yhteydell\u00e4. Millisekunnit ratkaisevat."
+        },
+        {
+          "number": 2,
+          "title": "VR-haaste \u2013 Kun latenssi aiheuttaa pahoinvointia",
+          "description": "VR-pelaaja testaa, miten latenssi vaikuttaa VR-kokemukseen ja fyysiseen oloon."
+        },
+        {
+          "number": 3,
+          "title": "Fortnite-build battle sokkona",
+          "description": "Kaksi pelaajaa rakentaa kilpaa \u2013 toinen kuidulla, toinen 5G:ll\u00e4. Kumpi voittaa?"
+        },
+        {
+          "number": 4,
+          "title": "Racing-simulaattori: 0,1s = 10 sijaa",
+          "description": "Simracing-ammattilainen n\u00e4ytt\u00e4\u00e4, miten pieni viive vaikuttaa kilpailutulokseen."
+        },
+        {
+          "number": 5,
+          "title": "Striimaajan pahin painajainen",
+          "description": "Suosittu striimaaja kertoo, miten yhteyskatkot ovat tuhonneet striimej\u00e4 \u2013 ja testaa kuidun vakauden."
+        },
+        {
+          "number": 6,
+          "title": "Perhe vs. Pelaaja",
+          "description": "Mit\u00e4 tapahtuu pelaajan latenssille, kun perhe striimaa Netflixi\u00e4 ja lataa p\u00e4ivityksi\u00e4 samaan aikaan?"
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee '5G-tyytyv\u00e4isyys vs. Tulevaisuuden tarve' -j\u00e4nnitteen konkreettisella demonstraatiolla. Ei v\u00e4itet\u00e4 \u2013 todistetaan.",
+        "competitive_differentiation": "Kukaan kilpailija ei ole vallannut gaming-yhteis\u00f6\u00e4. Valokuitunen voi asemoitua 'pelaajien valinnaksi' ennen muita.",
+        "audience_value_proposition": "Viihdytt\u00e4v\u00e4\u00e4 gaming-sis\u00e4lt\u00f6\u00e4, jossa oppii jotain uutta. Pelaajat jakavat, koska sis\u00e4lt\u00f6 validoi heid\u00e4n omia kokemuksiaan."
+      },
+      "execution": {
+        "complexity": "medium",
+        "budget_tier": "mid",
+        "timeline_to_first_episode": "6-8 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Tekninen demonstraatio voi tuntua 'liian mainokselta' gaming-yhteis\u00f6lle",
+          "mitigation": "Vaikuttajat valitaan uskottavuuden perusteella. Sis\u00e4lt\u00f6 on viihde ensin, todiste toisena."
+        },
+        {
+          "risk": "5G-latenssi voi olla riitt\u00e4v\u00e4n hyv\u00e4 tietyiss\u00e4 olosuhteissa, jolloin vertailu ei vakuuta",
+          "mitigation": "Testataan realistisissa kotiolosuhteissa, joissa 5G:n heikkoudet korostuvat (ruuhka-ajat, useat k\u00e4ytt\u00e4j\u00e4t)."
+        }
+      ]
+    },
+    {
+      "id": "concept_03",
+      "title": "Suomen Hitain Kyl\u00e4 \u2013 Digitaalinen Pelastusoperaatio",
+      "hook": "Live-tapahtuma ja dokumenttisarja, jossa Valokuitunen ja julkkistiimi pelastavat Suomen huonoimmalla netill\u00e4 k\u00e4rsiv\u00e4n kyl\u00e4n \u2013 ja muuttavat heid\u00e4n el\u00e4m\u00e4ns\u00e4 72 tunnissa.",
+      "premise": "Suomen Hitain Kyl\u00e4 on spektaakkelimainen cross-platform-formaatti, jossa etsit\u00e4\u00e4n Suomen surkeimmalla internetyhteydell\u00e4 k\u00e4rsiv\u00e4 yhteis\u00f6 ja toteutetaan heille huippunopea valokuituverkko viikonlopun aikana. Dokumenttisarja seuraa matkaa hakemuksista valmiiseen verkkoon, ja huipentuu live-l\u00e4hetykseen, jossa kyl\u00e4 'her\u00e4\u00e4' digitaaliseen aikaan. Mukana on julkkistiimi, joka auttaa asukkaita l\u00f6yt\u00e4m\u00e4\u00e4n uuden yhteyden mahdollisuudet.",
+      "long_form_extension": "4-osainen dokumenttisarja MTV Katsomoon + 2h live-l\u00e4hetys MTV3:lla 'Suomen Hitain Kyl\u00e4 \u2013 Suuri Muutos' -finaalina. Optio jatkokausille eri kyliss\u00e4.",
+      "format": {
+        "series_type": "event",
+        "episode_length": "20-25 minuuttia (dokumentti) + 2h live",
+        "cadence": "Dokumenttijaksot viikoittain, live-finaali kauden p\u00e4\u00e4tteeksi",
+        "season_length": "4 jaksoa + live-finaali"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "MTV/Katsomo",
+          "rationale": "Suuri spektaakkeli vaatii broadcast-alustan tavoittavuutta. MTV3:n live-l\u00e4hetys luo massatavoittavuutta ja uutisarvoa.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "TikTok",
+            "rationale": "",
+            "adaptation": "Reaaliaikaiset p\u00e4ivitykset rakennusty\u00f6maalta, asukkaiden reaktiot, behind-the-scenes. 'Kyl\u00e4n hitain netti' -haaste, jossa ihmiset jakavat omia nopeustestej\u00e4\u00e4n."
+          },
+          {
+            "platform": "YouTube",
+            "rationale": "",
+            "adaptation": "Pitk\u00e4t behind-the-scenes -dokumentit, tekniset selitykset ja asukashaastattelut."
+          },
+          {
+            "platform": "Instagram",
+            "rationale": "",
+            "adaptation": "Stories-seuranta live-viikonlopulta, Reels-klipit parhaista reaktioista."
+          }
+        ],
+        "amplification": "Valtakunnallinen PR-kampanja ('Hae Suomen Hitain Kyl\u00e4'), paikallismedia kyl\u00e4n alueelta, some-kilpailu hakuvaiheessa. Julkkistiimin omat kanavat."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "'Nopeustesti': jokaisen jakson alussa mitataan kyl\u00e4n nykytilanne",
+          "Asukasprofiili: kuka k\u00e4rsii eniten ja miksi (et\u00e4ty\u00f6l\u00e4inen, opiskelija, yritt\u00e4j\u00e4)",
+          "Julkkistiimin 'teht\u00e4v\u00e4': jokainen auttaa yht\u00e4 asukasta hy\u00f6dynt\u00e4m\u00e4\u00e4n uutta netti\u00e4"
+        ],
+        "variable_elements": [
+          "Eri kylien ainutlaatuiset haasteet (sijainti, maasto, v\u00e4est\u00f6)",
+          "Vaihtelevat julkkistiimin j\u00e4senet ja heid\u00e4n erikoisosaamisensa",
+          "Yll\u00e4tykset rakennusprojektissa"
+        ],
+        "host_approach": "Tunnettu juontaja (esim. Riku Nieminen tai vastaava 'kansansuosikki') toimii sarjan kasvona ja live-l\u00e4hetyksen vet\u00e4j\u00e4n\u00e4. Julkkistiimi vaihtuu."
+      },
+      "brand_integration": {
+        "philosophy": "Valokuitunen on sankari \u2013 mutta ei mahtipontinen. Br\u00e4ndi n\u00e4kyy tekij\u00e4n\u00e4, joka mahdollistaa muutoksen. Fokus on asukkaiden el\u00e4m\u00e4nmuutoksessa.",
+        "integration_method": "Valokuitusen tiimi on dokumentin 'pelastusryhm\u00e4'. Logot n\u00e4kyv\u00e4t luonnollisesti ty\u00f6asuissa ja kalustossa. Live-l\u00e4hetyksess\u00e4 Valokuitusen edustaja puhuu asiantuntijana.",
+        "screen_time_balance": "75% asukastarinat ja julkkistiimi, 25% Valokuitusen tiimi ja prosessi",
+        "cta_approach": "Live-l\u00e4hetyksen aikana 'Hae seuraavan kauden kyl\u00e4ksi' ja 'Tarkista saatavuus'. Dokumenttijaksoissa ei suoraa myynti\u00e4."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Suomen Hitain \u2013 Etsint\u00e4 alkaa",
+          "description": "Tuhansia hakemuksia saapuu. Tiimi vierailee finalistikyliss\u00e4 ja mittaa todellisuuden \u2013 kuka k\u00e4rsii eniten?"
+        },
+        {
+          "number": 2,
+          "title": "Valittu Kyl\u00e4 \u2013 Tutustuminen",
+          "description": "Voittajakyl\u00e4 julkistetaan. Seuraamme asukkaita: et\u00e4ty\u00f6l\u00e4inen, joka ei voi tehd\u00e4 t\u00f6it\u00e4, ja nuori, joka ei voi opiskella."
+        },
+        {
+          "number": 3,
+          "title": "72 Tuntia Alkaa \u2013 Rakentaminen",
+          "description": "Valokuitusen tiimi saapuu. Kaivuty\u00f6t alkavat ja kyl\u00e4 her\u00e4\u00e4. Julkkistiimi tutustuu asukkaisiin."
+        },
+        {
+          "number": 4,
+          "title": "Viimeiset Metrit \u2013 J\u00e4nnitys",
+          "description": "Asennus loppusuoralla. Ennakoimattomat ongelmat uhkaavat aikataulua. Ehtiik\u00f6 kaikki valmiiksi?"
+        },
+        {
+          "number": 5,
+          "title": "LIVE: Suuri Muutos",
+          "description": "2 tunnin live-l\u00e4hetys, jossa kyl\u00e4 kytket\u00e4\u00e4n verkkoon. Asukkaiden reaktiot, julkkistiimin yll\u00e4tykset ja ensimm\u00e4iset videoyhteydet ulkomailla asuviin sukulaisiin."
+        },
+        {
+          "number": 6,
+          "title": "Kuukausi My\u00f6hemmin \u2013 Seuranta",
+          "description": "Palaamme kyl\u00e4\u00e4n kuukauden p\u00e4\u00e4st\u00e4. Miten el\u00e4m\u00e4 on muuttunut? Mit\u00e4 asukkaat tekev\u00e4t nyt, kun netti toimii?"
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee kaikki kolme j\u00e4nnitett\u00e4: inhimillist\u00e4\u00e4 rakentamisen (dokumentti), todistaa kuidun arvon (vertailu) ja rakentaa luottamusta (ei myynti\u00e4, vaan lahja).",
+        "competitive_differentiation": "Kukaan kilpailija ei ole tehnyt mit\u00e4\u00e4n n\u00e4in isoa. T\u00e4m\u00e4 on kulttuuriteko, ei kampanja. Se asemoi Valokuitusen Suomen digitaalisen infrastruktuurin rakentajaksi.",
+        "audience_value_proposition": "Feel-good-viihde, jossa tavalliset suomalaiset saavat apua. Jaettava, tunteita her\u00e4tt\u00e4v\u00e4 ja uutisarvoinen. 'Extreme Makeover' kohtaa suomalaisen infrastruktuurin."
+      },
+      "execution": {
+        "complexity": "high",
+        "budget_tier": "premium",
+        "timeline_to_first_episode": "16-20 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Logistinen kompleksisuus: kuidun rakentaminen 72 tunnissa on haastava lupaus",
+          "mitigation": "Valitaan kyl\u00e4, jossa rakentaminen on teknisesti mahdollista aikataulussa. Tarvittaessa 'viikonloppu' venyy, mutta tarina pysyy."
+        },
+        {
+          "risk": "Korkea budjetti ja broadcast-riippuvuus",
+          "mitigation": "Neuvotellaan MTV-kumppanuus, jossa kanava jakaa tuotantokustannuksia mainosajan vastineeksi. Valokuitunen on p\u00e4\u00e4sponsori, ei ainoa rahoittaja."
+        },
+        {
+          "risk": "Formaatti voi tuntua 'hyv\u00e4ntekev\u00e4isyydelt\u00e4', joka ei skaalaudu kaupallisesti",
+          "mitigation": "Jokainen jakso sis\u00e4lt\u00e4\u00e4 'Hae seuraavaksi kyl\u00e4ksi' -elementin, joka generoi liidej\u00e4 ja pit\u00e4\u00e4 formaatin kaupallisesti relevanttina."
+        }
+      ]
+    }
+  ],
+  "treatment_files": [
+    "/opt/render/project/src/runs/valokuitunen/TREATMENTS/valokuitunen_TREATMENT_01_20260129_081155.md",
+    "/opt/render/project/src/runs/valokuitunen/TREATMENTS/valokuitunen_TREATMENT_02_20260129_081155.md",
+    "/opt/render/project/src/runs/valokuitunen/TREATMENTS/valokuitunen_TREATMENT_03_20260129_081155.md"
+  ],
   "onepager_specs": [],
   "onepagers_skipped": false,
   "onepagers_error": null,
@@ -304,6 +635,15 @@
     {
       "phase": "strategize",
       "started_at": "2026-01-29T08:06:12.033696",
+      "completed_at": "2026-01-29T08:06:13.726206",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "create",
+      "started_at": "2026-01-29T08:06:13.731631",
       "completed_at": null,
       "success": false,
       "error_message": null,
