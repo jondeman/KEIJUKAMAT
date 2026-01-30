@@ -2,8 +2,8 @@
   "run_id": "20260130_071425",
   "company_slug": "valokuitunen",
   "created_at": "2026-01-30T07:14:25.661570",
-  "updated_at": "2026-01-30T07:14:29.067226",
-  "current_phase": "strategize",
+  "updated_at": "2026-01-30T07:19:56.814695",
+  "current_phase": "create",
   "user_input": {
     "company_name": "Valokuitunen",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -267,8 +267,329 @@
       "success_hypothesis": "This concept unlocks an untapped opportunity for Valokuitunen by addressing their underserved audience in a way that creates cultural relevance and positions the brand as an innovator in their space."
     }
   ],
-  "concepts": [],
-  "treatment_files": [],
+  "concepts": [
+    {
+      "id": "concept_01",
+      "title": "Valokuitunen \u2013 Suomen pisin dokumentti",
+      "hook": "Dokumenttisarja, joka seuraa valokuidun matkaa maan alta suomalaisten koteihin \u2013 ja paljastaa, miksi digitaalinen tulevaisuus rakennetaan mutaisilla pihoilla.",
+      "premise": "Kahdeksanosainen dokumenttisarja, jossa seuraamme kolmen eri alueen valokuiturakennushankkeita alusta loppuun. Jokaisessa jaksossa tutustumme sek\u00e4 rakentajiin ett\u00e4 asukkaisiin: mink\u00e4laisia unelmia he liitt\u00e4v\u00e4t nopeaan nettiin, ja miten arki muuttuu, kun kuitu lopulta kytkeytyy? Ms. Valokuitunen \u2013 asiantuntija ja sarjan juontaja \u2013 vie katsojan kulissien taakse ja selitt\u00e4\u00e4 prosessin inhimillisesti.",
+      "long_form_extension": "8x25 min dokumenttisarja Ruutu+/Katsomo-palveluun, lis\u00e4ksi tiivistetty 3x45 min broadcast-versio Neloselle tai MTV3:lle.",
+      "format": {
+        "series_type": "limited",
+        "episode_length": "22-28 minuuttia",
+        "cadence": "Viikoittain",
+        "season_length": "8 jaksoa"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "YouTube",
+          "rationale": "YouTube on Suomen suosituin pitk\u00e4n dokumenttisis\u00e4ll\u00f6n alusta. Sarjalle rakennetaan oma soittolista ja julkaisurytmi, joka tukee hakukonel\u00f6ydett\u00e4vyytt\u00e4 ja pitk\u00e4ik\u00e4ist\u00e4 katselua.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "TikTok",
+            "rationale": "",
+            "adaptation": "60 sekunnin 'P\u00e4iv\u00e4n kaivaus' -klipit: ty\u00f6maan huippuhetket, ty\u00f6ntekij\u00f6iden kommentit, asukkaiden reaktiot \u2013 huumorilla ja inhimillisyydell\u00e4."
+          },
+          {
+            "platform": "Instagram Reels",
+            "rationale": "",
+            "adaptation": "'Ennen ja j\u00e4lkeen' -vertailut: mutainen piha vs. toimiva kuitu. Ms. Valokuitunen vastaa yleisimpiin kysymyksiin 30 sekunnissa."
+          }
+        ],
+        "amplification": "Paikallismedia-PR jokaiselta rakennusalueelta. Jaksojen julkaisut synkronoidaan alueellisten Facebook-ryhmien ja paikallislehtien kanssa."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Ms. Valokuitunen avaa jakson selitt\u00e4m\u00e4ll\u00e4 rakennusvaiheen",
+          "Seuraamme yht\u00e4 perhett\u00e4 tai taloyhti\u00f6t\u00e4 per jakso",
+          "Jakso p\u00e4\u00e4ttyy 'Kuidun hetki' -kohtaukseen, jossa yhteys testataan ensimm\u00e4ist\u00e4 kertaa"
+        ],
+        "variable_elements": [
+          "Eri maantieteelliset alueet (maaseutu, taajama, omakotialue)",
+          "Erilaiset asukkaat ja el\u00e4m\u00e4ntilanteet (et\u00e4ty\u00f6l\u00e4inen, peliperhe, el\u00e4kel\u00e4ispariskunta)",
+          "Erilaiset haasteet (kallio, talvi, taloyhti\u00f6politiikka)"
+        ],
+        "host_approach": "Ms. Valokuitunen (tunnistettava asiantuntija-persoona, ei julkkis) toimii l\u00e4mpim\u00e4n\u00e4 oppaana ja selitt\u00e4j\u00e4n\u00e4. H\u00e4n ei myy, vaan kouluttaa ja inhimillist\u00e4\u00e4."
+      },
+      "brand_integration": {
+        "philosophy": "Valokuitunen on tarina itse \u2013 ei sponsori vaan subjekti. Br\u00e4ndi n\u00e4kyy luontevasti ty\u00f6mailla, autoissa ja ty\u00f6ntekij\u00f6iden vaatteissa.",
+        "integration_method": "Dokumentaarinen l\u00e4sn\u00e4olo: logot n\u00e4kyv\u00e4t orgaanisesti, ty\u00f6ntekij\u00e4t puhuvat omalla \u00e4\u00e4nell\u00e4\u00e4n, ei k\u00e4sikirjoitettuja mainospuheita.",
+        "screen_time_balance": "85% sis\u00e4lt\u00f6 (asukkaat, rakentajat, prosessi), 15% br\u00e4ndi (Ms. Valokuitunen, ty\u00f6maan\u00e4kym\u00e4t)",
+        "cta_approach": "Jakson lopussa tekstitaulu: 'Tarkista saatavuus alueellasi \u2013 valokuitunen.fi'. Ei aggressiivista myynti\u00e4."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Ensimm\u00e4inen kaivaus",
+          "description": "Seuraamme Pirkanmaalla perhett\u00e4, joka on odottanut kuitua kaksi vuotta \u2013 nyt kaivinkoneet saapuvat vihdoin pihaan."
+        },
+        {
+          "number": 2,
+          "title": "Taloyhti\u00f6n \u00e4\u00e4nestys",
+          "description": "Espoolaisen kerrostalon hallitus \u00e4\u00e4nest\u00e4\u00e4 kuidusta \u2013 seuraamme neuvotteluja, ep\u00e4ilyksi\u00e4 ja lopulta p\u00e4\u00e4t\u00f6st\u00e4."
+        },
+        {
+          "number": 3,
+          "title": "Talvi tulee",
+          "description": "Pohjois-Savossa rakentajat taistelevat routaa ja pimeytt\u00e4 vastaan \u2013 miten kuitu vedet\u00e4\u00e4n -25 asteessa?"
+        },
+        {
+          "number": 4,
+          "title": "Pelitalo",
+          "description": "Nuori perhe Oulussa odottaa kuitua pelistriimauksen ja et\u00e4ty\u00f6n vuoksi \u2013 mit\u00e4 tapahtuu, kun latenssi putoaa?"
+        },
+        {
+          "number": 5,
+          "title": "Mummon yhteys",
+          "description": "El\u00e4kel\u00e4ispariskunta Keski-Suomessa saa kuidun \u2013 miten se muuttaa yhteydenpitoa lapsenlapsiin?"
+        },
+        {
+          "number": 6,
+          "title": "Avoimuuden voima",
+          "description": "Ms. Valokuitunen selitt\u00e4\u00e4, miksi avoin kuitu eroaa operaattorisidonnaisesta \u2013 ja seuraamme asiakasta, joka vaihtaa operaattoria."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee suoraan j\u00e4nnitteen 'digitaalinen unelma vs. analoginen sotku' inhimillist\u00e4m\u00e4ll\u00e4 rakennusprosessin ja tekem\u00e4ll\u00e4 odotusajasta tarinan.",
+        "competitive_differentiation": "Kilpailijat eiv\u00e4t tee dokumentteja \u2013 he tekev\u00e4t mainoksia. T\u00e4m\u00e4 rakentaa luottamusta ja asiantuntijapositiota ilman myyntipuhetta.",
+        "audience_value_proposition": "Suomalaiset rakastavat 'making of' -sis\u00e4lt\u00f6\u00e4 ja arkidokumentteja. Sarja vastaa kysymykseen 'mit\u00e4 oikeasti tapahtuu, kun tilaan kuidun?'"
+      },
+      "execution": {
+        "complexity": "medium",
+        "budget_tier": "mid",
+        "timeline_to_first_episode": "10-12 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Rakennusprojektit viiv\u00e4styv\u00e4t, mik\u00e4 vaikeuttaa kuvausaikataulua",
+          "mitigation": "Kuvataan useampaa projektia rinnakkain, jotta materiaalia on aina saatavilla. Joustavat julkaisuaikataulut."
+        },
+        {
+          "risk": "Sis\u00e4lt\u00f6 koetaan liian hitaaksi nuoremmalle yleis\u00f6lle",
+          "mitigation": "TikTok-klipit nostavat parhaat hetket nopeasti \u2013 pitk\u00e4 formaatti palvelee syvemp\u00e4\u00e4 kiinnostusta."
+        }
+      ]
+    },
+    {
+      "id": "concept_02",
+      "title": "Latenssisodat",
+      "hook": "TikTok-kilpailusarja, jossa pelaajat, striimaajat ja et\u00e4ty\u00f6l\u00e4iset testaavat 5G:n ja valokuidun eroa oikeissa tilanteissa \u2013 ja h\u00e4vi\u00e4j\u00e4 joutuu my\u00f6nt\u00e4m\u00e4\u00e4n totuuden.",
+      "premise": "Lyhyt, iskev\u00e4 kilpailusarja, jossa Ms. Valokuitunen haastaa eri alojen ihmisi\u00e4 testaamaan, kumpi oikeasti toimii: 5G vai kuitu. Joka jaksossa kaksi kilpailijaa \u2013 yksi 5G:ll\u00e4, yksi kuidulla \u2013 suorittaa saman teht\u00e4v\u00e4n reaaliajassa. Tulokset puhuvat puolestaan, mutta tapa on viihdytt\u00e4v\u00e4, ei saarnaileva.",
+      "long_form_extension": "Kauden p\u00e4\u00e4tteeksi 45 min erikoisjakso Ruutu+:aan, jossa kootaan parhaat hetket ja syvennyt\u00e4\u00e4n teknisiin eroihin asiantuntijoiden kanssa.",
+      "format": {
+        "series_type": "seasonal",
+        "episode_length": "60-90 sekuntia",
+        "cadence": "3 kertaa viikossa",
+        "season_length": "12 jaksoa + 1 erikoisjakso"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "TikTok",
+          "rationale": "TikTok on alusta, jossa 5G-tyytyv\u00e4iset nuoret aikuiset viett\u00e4v\u00e4t aikaa. Nopea, kilpailuhenkinen sis\u00e4lt\u00f6 sopii algoritmiin ja haastaa suoraan 'good enough' -ajattelua.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "YouTube Shorts",
+            "rationale": "",
+            "adaptation": "Samat jaksot vertikaalisina shortseina, optimoitu YouTube-hakuun (esim. '5G vs kuitu testi')."
+          },
+          {
+            "platform": "Instagram Reels",
+            "rationale": "",
+            "adaptation": "Tulosklipit ja 'Reaction' -videot, joissa kilpailijat kommentoivat omia suorituksiaan."
+          }
+        ],
+        "amplification": "Vaikuttajayhteisty\u00f6: suomalaiset pelistriimaajat ja et\u00e4ty\u00f6vaikuttajat osallistuvat ja jakavat omilla kanavillaan."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Ms. Valokuitunen esittelee haasteen ja kilpailijat",
+          "Split-screen -n\u00e4kym\u00e4: 5G vs. kuitu reaaliajassa",
+          "Lopussa latenssi- ja nopeusmittarit n\u00e4kyv\u00e4t ruudulla"
+        ],
+        "variable_elements": [
+          "Eri teht\u00e4v\u00e4t: videopeli, Teams-palaveri, livestriimi, tiedostolataus",
+          "Eri kilpailijat: tubettaja, yritt\u00e4j\u00e4, opiskelija, perhe",
+          "Eri ymp\u00e4rist\u00f6t: kaupunki, maaseutu, kerrostalo, omakotitalo"
+        ],
+        "host_approach": "Ms. Valokuitunen on energinen ja reilu tuomari \u2013 h\u00e4n ei hauku 5G:t\u00e4, vaan antaa tulosten puhua."
+      },
+      "brand_integration": {
+        "philosophy": "Br\u00e4ndi on areenan rakentaja, ei osallistuja. Valokuitunen mahdollistaa testin \u2013 ei v\u00e4it\u00e4 olevansa parempi, vaan n\u00e4ytt\u00e4\u00e4 sen.",
+        "integration_method": "Valokuitunen-logot n\u00e4kyv\u00e4t mittareissa ja loppugrafiikassa. Ms. Valokuitunen mainitsee 'avoimen kuidun' kerran per jakso luontevassa yhteydess\u00e4.",
+        "screen_time_balance": "90% kilpailu ja viihde, 10% br\u00e4ndielementit",
+        "cta_approach": "Jakson lopussa teksti: 'Testaa oma yhteytesi \u2013 valokuitunen.fi'. Ei \u00e4\u00e4neen luettua CTA:ta."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Boss Fight",
+          "description": "Kaksi pelaajaa kohtaa saman bossin \u2013 kenen yhteys pett\u00e4\u00e4 paineen alla?"
+        },
+        {
+          "number": 2,
+          "title": "Et\u00e4palaveri helvetti",
+          "description": "Kaksi et\u00e4ty\u00f6l\u00e4ist\u00e4 pit\u00e4\u00e4 saman esityksen asiakkaalle \u2013 kumpi j\u00e4\u00e4tyy?"
+        },
+        {
+          "number": 3,
+          "title": "Striimi-start",
+          "description": "Kaksi striimaajaa aloittaa l\u00e4hetyksen samaan aikaan \u2013 kumman laatu kest\u00e4\u00e4?"
+        },
+        {
+          "number": 4,
+          "title": "Perheen elokuvahetki",
+          "description": "Kaksi perhett\u00e4 lataa saman 4K-elokuvan \u2013 kumpi p\u00e4\u00e4see katsomaan ensin?"
+        },
+        {
+          "number": 5,
+          "title": "Maaseudun haaste",
+          "description": "Testaamme yhteyksi\u00e4 haja-asutusalueella \u2013 miss\u00e4 5G loppuu ja kuitu alkaa?"
+        },
+        {
+          "number": 6,
+          "title": "Peliturnauskoe",
+          "description": "Kaksi kilpapelaajaa pelaa finaalin \u2013 latenssi ratkaisee voittajan."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Purkaa suoraan j\u00e4nnitteen '5G-tyytyv\u00e4isyys vs. tulevaisuuden tarve' n\u00e4ytt\u00e4m\u00e4ll\u00e4 eron konkreettisesti, ei v\u00e4itt\u00e4m\u00e4ll\u00e4.",
+        "competitive_differentiation": "Kukaan kilpailija ei uskalla laittaa tuotettaan suoraan testiin n\u00e4in l\u00e4pin\u00e4kyv\u00e4sti. T\u00e4m\u00e4 on rohkea ja erottuva.",
+        "audience_value_proposition": "Kilpailuformaatit toimivat TikTokissa. Katsoja haluaa n\u00e4hd\u00e4, kumpi voittaa \u2013 ja oppii samalla jotain."
+      },
+      "execution": {
+        "complexity": "low",
+        "budget_tier": "budget",
+        "timeline_to_first_episode": "4-6 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "5G toimii testiss\u00e4 odotettua paremmin, mik\u00e4 heikent\u00e4\u00e4 viesti\u00e4",
+          "mitigation": "Valitaan testit, joissa latenssi ja vakaus ratkaisevat (pelaaminen, striimaus). Kuitu voittaa n\u00e4iss\u00e4 johdonmukaisesti."
+        },
+        {
+          "risk": "Sis\u00e4lt\u00f6 koetaan liian mainokselliseksi",
+          "mitigation": "Ms. Valokuitunen pysyy reiluna ja antaa tulosten puhua. Ei ylily\u00f6ntej\u00e4 tai pilkkaa h\u00e4vi\u00e4j\u00e4\u00e4 kohtaan."
+        }
+      ]
+    },
+    {
+      "id": "concept_03",
+      "title": "Suomen pisin yhteys \u2013 Live",
+      "hook": "Valtakunnallinen live-tapahtuma, jossa Suomen kaukaisimmat kuitukytkenn\u00e4t yhdistet\u00e4\u00e4n reaaliajassa ja asukkaat kohtaavat toisensa ensimm\u00e4ist\u00e4 kertaa digitaalisesti.",
+      "premise": "Kerran vuodessa toistuva mediatempaus, jossa Valokuitunen j\u00e4rjest\u00e4\u00e4 historiallisen 'kytkent\u00e4hetken': saman p\u00e4iv\u00e4n aikana kymmeni\u00e4 uusia kuitualueita kytket\u00e4\u00e4n verkkoon, ja asukkaat osallistuvat yhteiseen live-l\u00e4hetykseen. Suora l\u00e4hetys seuraa tiimej\u00e4 ymp\u00e4ri Suomen, ja huipentuu hetkeen, jossa Suomen pohjoisin ja etel\u00e4isin kuituasiakas kohtaavat videopuhelussa \u2013 ensimm\u00e4ist\u00e4 kertaa ilman viivett\u00e4.",
+      "long_form_extension": "2-3 tunnin suora l\u00e4hetys Ruutu+:ssa ja YouTubessa, josta leikataan 60 min dokumentti Neloselle sek\u00e4 6x10 min minidokumenttisarja 'Kytkent\u00e4tarinat' Ruutu+:aan.",
+      "format": {
+        "series_type": "event",
+        "episode_length": "2-3 tuntia (live) + 60 min (dokumentti) + 6x10 min (minisarja)",
+        "cadence": "Vuosittainen tapahtuma",
+        "season_length": null
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "YouTube Live",
+          "rationale": "YouTube Live mahdollistaa laajan tavoittavuuden ja tallenteen, joka ker\u00e4\u00e4 katseluja kuukausia tapahtuman j\u00e4lkeen.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "TikTok Live",
+            "rationale": "",
+            "adaptation": "Rinnakkainen 'behind the scenes' -striimi, jossa Ms. Valokuitunen kommentoi tapahtumia ja vastaa kysymyksiin."
+          },
+          {
+            "platform": "Instagram",
+            "rationale": "",
+            "adaptation": "Stories-p\u00e4ivitykset jokaiselta kytkent\u00e4paikkakunnalta reaaliajassa."
+          }
+        ],
+        "amplification": "PR-kampanja: 'Suomen pisin yhteys' -tempaus tarjoaa uutisarvoa medialle. Yhteisty\u00f6 paikallislehtien ja -radioiden kanssa."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "L\u00e4ht\u00f6laskenta seuraavaan kytkent\u00e4\u00e4n",
+          "Ms. Valokuitunen studiossa yhdist\u00e4m\u00e4ss\u00e4 tarinoita",
+          "Live-videopuhelu uusien kuituasiakkaiden v\u00e4lill\u00e4"
+        ],
+        "variable_elements": [
+          "Eri paikkakunnat ja alueet joka vuosi",
+          "Eri asukkaat ja heid\u00e4n tarinansa",
+          "Vuosittain vaihtuva 'Suomen pisin yhteys' -pari (esim. Utsjoki\u2013Hanko)"
+        ],
+        "host_approach": "Ms. Valokuitunen juontaa studion ja kentt\u00e4tiimit raportoivat paikallisilta mailta. Mahdollinen julkkisjuontaja-pari studion toiseksi kasvoiksi."
+      },
+      "brand_integration": {
+        "philosophy": "Valokuitunen on tapahtuman tuottaja ja mahdollistaja \u2013 infrastruktuuri, joka yhdist\u00e4\u00e4 Suomea. Br\u00e4ndi on l\u00e4sn\u00e4 kaikkialla, mutta tarina on ihmisten.",
+        "integration_method": "Studiossa Valokuitunen-br\u00e4nd\u00e4tty ymp\u00e4rist\u00f6, kentt\u00e4tiimeill\u00e4 logoidut autot ja vaatteet. Kytkent\u00e4hetket tapahtuvat Valokuitusen tekniikalla.",
+        "screen_time_balance": "70% tarinat ja ihmiset, 30% br\u00e4ndiymp\u00e4rist\u00f6 ja tekniikka",
+        "cta_approach": "L\u00e4hetyksen aikana interaktiivinen 'Tarkista oma alueesi' -elementti ruudussa. Lopussa kehotus: 'Seuraavana vuonna ehk\u00e4 sinun kotisi?'"
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "L\u00e4ht\u00f6laskenta alkaa",
+          "description": "Avausjakso: esitell\u00e4\u00e4n p\u00e4iv\u00e4n aikataulu, tiimit ja alueet \u2013 j\u00e4nnitys rakentuu."
+        },
+        {
+          "number": 2,
+          "title": "Pohjolan valot",
+          "description": "Seuraamme Lapin tiimi\u00e4, joka kytkee kuitua napapiirin pohjoispuolella pimeydess\u00e4."
+        },
+        {
+          "number": 3,
+          "title": "Saaristomeri",
+          "description": "Miten kuitu vedet\u00e4\u00e4n saareen? Seuraamme kytkent\u00e4\u00e4 Turun saaristossa."
+        },
+        {
+          "number": 4,
+          "title": "Kaupungin syd\u00e4n",
+          "description": "Helsinkil\u00e4inen taloyhti\u00f6 saa kuidun \u2013 miten se muuttaa kerrostalon arkea?"
+        },
+        {
+          "number": 5,
+          "title": "Perheen j\u00e4lleenn\u00e4keminen",
+          "description": "Suomen pohjoisin ja etel\u00e4isin kuituasiakas kohtaavat videopuhelussa \u2013 ensimm\u00e4ist\u00e4 kertaa ilman viivett\u00e4."
+        },
+        {
+          "number": 6,
+          "title": "Suomen pisin yhteys",
+          "description": "Huipentuma: kaikki p\u00e4iv\u00e4n kytkenn\u00e4t yhdistet\u00e4\u00e4n yhteiseen ruudukkoon \u2013 Suomi on nyt yhdistetty."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Luo emotionaalisen tarinan infrastruktuurista ja tekee 'n\u00e4kym\u00e4tt\u00f6m\u00e4st\u00e4' n\u00e4kyv\u00e4\u00e4 valtakunnallisella tasolla. Ratkaisee br\u00e4ndin puuttuneen hero-sis\u00e4ll\u00f6n.",
+        "competitive_differentiation": "Kukaan kilpailija ei ole tehnyt vastaavaa mediatempaa. T\u00e4m\u00e4 positioi Valokuitusen Suomen yhdist\u00e4j\u00e4ksi, ei vain kaapeliyhti\u00f6ksi.",
+        "audience_value_proposition": "Suomalaiset rakastavat suoria l\u00e4hetyksi\u00e4 ja yhteis\u00f6llisi\u00e4 hetki\u00e4. 'Koko Suomi' -kulma vetoaa kansalliseen identiteettiin."
+      },
+      "execution": {
+        "complexity": "high",
+        "budget_tier": "premium",
+        "timeline_to_first_episode": "16-20 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Tekniset ongelmat live-l\u00e4hetyksess\u00e4 heikent\u00e4v\u00e4t viesti\u00e4",
+          "mitigation": "Kattava ennakkotestaus ja varasuunnitelmat. Ironian hy\u00f6dynt\u00e4minen: 'T\u00e4m\u00e4 on syy, miksi tarvitsemme kuitua.'"
+        },
+        {
+          "risk": "Tapahtuma ei saa riitt\u00e4v\u00e4\u00e4 mediahuomiota",
+          "mitigation": "PR-kampanja alkaa kuukausia ennen. Paikalliset tarinat tarjoavat uutisarvoa alueellisille medioille."
+        },
+        {
+          "risk": "Korkea budjetti vaatii vahvaa sitoutumista",
+          "mitigation": "Ensimm\u00e4inen vuosi voidaan toteuttaa pienemm\u00e4ss\u00e4 mittakaavassa (3-5 aluetta) konseptin testaamiseksi."
+        }
+      ]
+    }
+  ],
+  "treatment_files": [
+    "/opt/render/project/src/runs/valokuitunen/TREATMENTS/valokuitunen_TREATMENT_01_20260130_071956.md",
+    "/opt/render/project/src/runs/valokuitunen/TREATMENTS/valokuitunen_TREATMENT_02_20260130_071956.md",
+    "/opt/render/project/src/runs/valokuitunen/TREATMENTS/valokuitunen_TREATMENT_03_20260130_071956.md"
+  ],
   "onepager_specs": [],
   "onepagers_skipped": false,
   "onepagers_error": null,
@@ -295,6 +616,15 @@
     {
       "phase": "strategize",
       "started_at": "2026-01-30T07:14:29.060036",
+      "completed_at": "2026-01-30T07:14:30.878239",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "create",
+      "started_at": "2026-01-30T07:14:30.887199",
       "completed_at": null,
       "success": false,
       "error_message": null,
