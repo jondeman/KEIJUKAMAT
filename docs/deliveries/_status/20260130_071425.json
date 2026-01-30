@@ -2,8 +2,8 @@
   "run_id": "20260130_071425",
   "company_slug": "valokuitunen",
   "created_at": "2026-01-30T07:14:25.661570",
-  "updated_at": "2026-01-30T07:14:25.661584",
-  "current_phase": "input",
+  "updated_at": "2026-01-30T07:14:29.067226",
+  "current_phase": "strategize",
   "user_input": {
     "company_name": "Valokuitunen",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -13,14 +13,294 @@
     "use_cached_research": true,
     "total_tv_only": false
   },
-  "dossier": null,
-  "concept_briefs": [],
+  "dossier": {
+    "company_name": "Valokuitunen",
+    "company_slug": "valokuitunen",
+    "generated_at": "2026-01-29T08:06:10.098105",
+    "brand_identity": {
+      "positioning": "Suomen suurin avoimen kuidun rakentaja. Infrastruktuuriyhti\u00f6, joka tarjoaa digitaalisen moottoritien, jolla asiakas voi vapaasti valita palveluntarjoajansa.",
+      "visual_markers": {
+        "primary_color": "Oranssi",
+        "secondary_colors": [
+          "Valkoinen",
+          "Musta"
+        ],
+        "style_keywords": [
+          "Teollinen",
+          "Huomiota her\u00e4tt\u00e4v\u00e4",
+          "Funktionaalinen",
+          "Ty\u00f6maahenkinen"
+        ],
+        "tone_keywords": [
+          "Asiallinen",
+          "Informatiivinen",
+          "Rationaalinen",
+          "Insin\u00f6\u00f6rim\u00e4inen",
+          "Tekninen"
+        ]
+      },
+      "voice_characteristics": [
+        "Pyrkii olemaan avulias mutta lipsahtaa jargoniin",
+        "Puhuu rakentamisesta, ei lopputuloksen tunteesta"
+      ]
+    },
+    "strategic_priorities": [
+      {
+        "rank": 1,
+        "priority": "Maanhaltaus (Land Grab)",
+        "evidence": [
+          "Aggressiivinen ovelta ovelle -myynti",
+          "Postinumeroaluekohdennus",
+          "Kilpajuoksu GlobalConnectin ja Lounean kanssa"
+        ],
+        "execution_assessment": "strong"
+      },
+      {
+        "rank": 2,
+        "priority": "Tiheysasteen nosto (Penetraatio)",
+        "evidence": [
+          "Strateginen pakko infrastruktuuribisneksess\u00e4 (kallis CAPEX)",
+          "Paikalliset infotilaisuudet",
+          "Naapuruston painostus"
+        ],
+        "execution_assessment": "moderate"
+      },
+      {
+        "rank": 3,
+        "priority": "Avoimen mallin evankeliointi",
+        "evidence": [
+          "Verkkosivujen materiaalit 'vapaudesta valita'",
+          "Tarve perustella monimutkaisempi ostoprosessi (kaksi sopimusta)"
+        ],
+        "execution_assessment": "weak"
+      }
+    ],
+    "marketing_posture": {
+      "current_content_types": [
+        "Taktinen suoramarkkinointi (printti/digi)",
+        "Funktionaaliset animaatiot (asennusohjeet)",
+        "Webinaaritallenteet ja tekniset tietoiskut"
+      ],
+      "channel_presence": {
+        "youtube": {
+          "active": false,
+          "assessment": "Passiivinen/Varasto. Toimii videokirjastona ohjeille, ei viihdytt\u00e4v\u00e4lle sis\u00e4ll\u00f6lle."
+        },
+        "tiktok": {
+          "active": false,
+          "assessment": "Ei merkitt\u00e4v\u00e4\u00e4 l\u00e4sn\u00e4oloa."
+        },
+        "instagram": {
+          "active": true,
+          "assessment": "Osa Meta-mainontaa. P\u00e4\u00e4asiassa taktista liidinluontia ('Tarkista saatavuus'). Laatu geneerist\u00e4."
+        },
+        "linkedin": {
+          "active": false,
+          "assessment": "Ei eritelty analyysissa, mutta webinaaritallenteet viittaavat mahdolliseen l\u00e4sn\u00e4oloon."
+        }
+      },
+      "apparent_gaps": [
+        "Emotionaalinen tarinankerronta puuttuu t\u00e4ysin",
+        "Br\u00e4ndi\u00e4 rakentava 'hero'-sis\u00e4lt\u00f6 puuttuu",
+        "Asiakaskokemuksen inhimillist\u00e4minen rakennusvaiheen aikana"
+      ],
+      "audience_engagement": "Transaktionaalista. Yleis\u00f6 reagoi l\u00e4hinn\u00e4 negatiivisesti rakennushaittoihin tai vikatilanteisiin. Positiivinen fanitus puuttuu."
+    },
+    "competitive_analysis": {
+      "key_competitors": [
+        {
+          "name": "GlobalConnect",
+          "content_strategy": "Aggressiivinen haastaja, kilpailee hinnalla ja helppoudella ('avaimet k\u00e4teen'). Dynaamisempi viestint\u00e4.",
+          "threat_level": "high"
+        },
+        {
+          "name": "Lounea",
+          "content_strategy": "Kotimaisuus, paikallisuus, 'l\u00e4mmin' br\u00e4ndi.",
+          "threat_level": "medium"
+        },
+        {
+          "name": "Mobiilioperaattorit (5G)",
+          "content_strategy": "'Good enough' -ratkaisu ilman kaivamista.",
+          "threat_level": "high"
+        }
+      ],
+      "brand_winning_areas": [
+        "Infrastruktuurin laajuus",
+        "Luotettavuus (Telia-tausta)",
+        "Avoin kuitu -lupaus (teoriassa)"
+      ],
+      "brand_losing_areas": [
+        "Ostamisen helppous (vs. GlobalConnect)",
+        "Br\u00e4ndin l\u00e4mp\u00f6 (vs. Lounea)",
+        "Asiakaskokemus rakennusvaiheessa (vs. 5G:n vaivattomuus)"
+      ]
+    },
+    "strategic_tensions": [
+      {
+        "id": "tension_01",
+        "description": "Digitaalinen unelma vs. Analoginen sotku. Br\u00e4ndi myy futuristista digitaalista el\u00e4m\u00e4\u00e4, mutta toimitus on kuukausia kest\u00e4v\u00e4\u00e4 mutaa ja asfalttipaikkauksia.",
+        "evidence": [
+          "Markkinointimateriaalien onnelliset striimaajat vs. valitukset pihan myll\u00e4\u00e4misest\u00e4",
+          "Aikatauluviiv\u00e4stykset"
+        ],
+        "opportunity_type": "gap",
+        "priority_score": 5
+      },
+      {
+        "id": "tension_02",
+        "description": "Vapauden paradoksi. Valokuitunen lupaa 'vapauden valita', mutta kuluttaja kokee sen vaikeutena ja kaipaa yksinkertaista yhden laskun ratkaisua.",
+        "evidence": [
+          "Kahden sopimuksen malli (infra + palvelu) vs. kilpailijoiden paketit",
+          "Kuluttajien h\u00e4mmennys vikatilanteiden vastuista"
+        ],
+        "opportunity_type": "threat",
+        "priority_score": 4
+      },
+      {
+        "id": "tension_03",
+        "description": "Luottamuspula vs. Asiantuntijapositio. Yritys haluaa olla luotettava kumppani, mutta aggressiivinen myyntitaktiikka sy\u00f6 uskottavuutta.",
+        "evidence": [
+          "'Nyt tai ei koskaan' -myyntiargumentit ovilla",
+          "Puskaradion negatiivinen s\u00e4vy myyjist\u00e4"
+        ],
+        "opportunity_type": "aspiration",
+        "priority_score": 3
+      },
+      {
+        "id": "tension_04",
+        "description": "5G-tyytyv\u00e4isyys vs. Tulevaisuuden tarve. Kohderyhm\u00e4 kokee 5G:n riitt\u00e4v\u00e4ksi eik\u00e4 ymm\u00e4rr\u00e4 kuidun arvoa (latenssi/vakaus) ennen kuin on my\u00f6h\u00e4ist\u00e4.",
+        "evidence": [
+          "'Ep\u00e4r\u00f6iv\u00e4t Modernistit' -segmentin passiivisuus",
+          "Markkinointi keskittyy nopeuteen eik\u00e4 vakauteen"
+        ],
+        "opportunity_type": "underserved_audience",
+        "priority_score": 4
+      }
+    ],
+    "opportunity_zones": [
+      {
+        "id": "opp_01",
+        "description": "Inhimillistetty Infra (The Honest Build)",
+        "rationale": "Ratkaisee kuilun lupauksen ja kokemuksen v\u00e4lill\u00e4 hallitsemalla odotuksia. Rehellisyys rakentaa luottamusta ja erottaa br\u00e4ndin kliinisist\u00e4 kilpailijoista.",
+        "risk_level": "medium"
+      },
+      {
+        "id": "opp_02",
+        "description": "Avoin on ainoa j\u00e4rkev\u00e4 (Education through Entertainment)",
+        "rationale": "K\u00e4\u00e4nt\u00e4\u00e4 monimutkaisuuden (kaksi sopimusta) \u00e4lykk\u00e4\u00e4ksi kuluttajavalinnaksi ja yksinkertaistaa konseptin.",
+        "risk_level": "low"
+      },
+      {
+        "id": "opp_03",
+        "description": "FOMO laadusta, ei kiireest\u00e4 (Quality over Urgency)",
+        "rationale": "Puhuttelee modernisteja kiinteist\u00f6n arvon ja p\u00e4tkim\u00e4tt\u00f6myyden kautta, siirtyen pois paniikin lietsonnasta.",
+        "risk_level": "low"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Valokuitunen.fi",
+        "url": "https://valokuitunen.fi",
+        "type": "company_site",
+        "date_accessed": "2024-05-24",
+        "relevance": "L\u00e4hde br\u00e4ndilupaukselle ja tuotetiedolle."
+      },
+      {
+        "title": "CapMan Infra Press Releases",
+        "url": "https://capman.com",
+        "type": "company_site",
+        "date_accessed": "2024-05-24",
+        "relevance": "L\u00e4hde strategiselle taustalle ja omistajuudelle."
+      },
+      {
+        "title": "Kauppalehti & IS Taloussanomat",
+        "url": "Multiple sources",
+        "type": "news",
+        "date_accessed": "2024-05-24",
+        "relevance": "L\u00e4hde markkinatilanteelle ja kilpailija-analyysille."
+      },
+      {
+        "title": "Facebook-ryhm\u00e4t & Keskustelupalstat",
+        "url": "Social Media Platforms",
+        "type": "social",
+        "date_accessed": "2024-05-24",
+        "relevance": "L\u00e4hde asiakaskokemukselle, j\u00e4nnitteille ja myyntitaktiikoiden kritiikille."
+      },
+      {
+        "title": "GlobalConnect & Lounea Kampanjat",
+        "url": "Competitor Sites",
+        "type": "other",
+        "date_accessed": "2024-05-24",
+        "relevance": "L\u00e4hde kilpailijavertailulle."
+      }
+    ]
+  },
+  "concept_briefs": [
+    {
+      "slot_id": "01",
+      "slot_type": "safe_bet",
+      "assigned_tension_id": "tension_01",
+      "strategic_focus": "Digitaalinen unelma vs. Analoginen sotku. Br\u00e4ndi myy futuristista digitaalista el\u00e4m\u00e4\u00e4, mutta toimitus on kuukausia kest\u00e4v\u00e4\u00e4 mutaa ja asfalttipaikkauksia.",
+      "platform_focus": "youtube",
+      "format_guidance": "Focus on proven YouTube formats: documentary-style, interview series, or educational content. Episodes should be 8-15 minutes. Prioritize professional production quality and clear brand alignment. The series should have obvious rewatch and share value.",
+      "risk_profile": "low",
+      "success_hypothesis": "This concept directly addresses Valokuitunen's top strategic priority (gap) with a proven format that minimizes execution risk while delivering measurable brand value."
+    },
+    {
+      "slot_id": "02",
+      "slot_type": "challenger",
+      "assigned_tension_id": "tension_02",
+      "strategic_focus": "Vapauden paradoksi. Valokuitunen lupaa 'vapauden valita', mutta kuluttaja kokee sen vaikeutena ja kaipaa yksinkertaista yhden laskun ratkaisua.",
+      "platform_focus": "tiktok",
+      "format_guidance": "Design for TikTok/Reels first: vertical format, 30-90 seconds, hook in first 3 seconds. Embrace platform-native aesthetics and trends. Consider creator collaborations. Content should feel bold and contemporary, not like traditional brand advertising.",
+      "risk_profile": "medium",
+      "success_hypothesis": "This concept enables Valokuitunen to aggressively address their threat with bold positioning that differentiates them in the market and captures attention on high-engagement platforms."
+    },
+    {
+      "slot_id": "03",
+      "slot_type": "moonshot",
+      "assigned_tension_id": "tension_04",
+      "strategic_focus": "5G-tyytyv\u00e4isyys vs. Tulevaisuuden tarve. Kohderyhm\u00e4 kokee 5G:n riitt\u00e4v\u00e4ksi eik\u00e4 ymm\u00e4rr\u00e4 kuidun arvoa (latenssi/vakaus) ennen kuin on my\u00f6h\u00e4ist\u00e4.",
+      "platform_focus": "cross_platform",
+      "format_guidance": "Think beyond single-platform content: interactive experiences, live events with digital extensions, user participation mechanics, or innovative cross-platform storytelling. This should feel like something the industry hasn't seen before. High production ambition is acceptable given the differentiation potential.",
+      "risk_profile": "high",
+      "success_hypothesis": "This concept unlocks an untapped opportunity for Valokuitunen by addressing their underserved audience in a way that creates cultural relevance and positions the brand as an innovator in their space."
+    }
+  ],
   "concepts": [],
   "treatment_files": [],
   "onepager_specs": [],
   "onepagers_skipped": false,
   "onepagers_error": null,
   "pitch_email": "",
-  "phase_history": [],
-  "archive_ref": null
+  "phase_history": [
+    {
+      "phase": "validate",
+      "started_at": "2026-01-30T07:14:27.966539",
+      "completed_at": "2026-01-30T07:14:27.971962",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "check_archive",
+      "started_at": "2026-01-30T07:14:27.978235",
+      "completed_at": "2026-01-30T07:14:29.051680",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "strategize",
+      "started_at": "2026-01-30T07:14:29.060036",
+      "completed_at": null,
+      "success": false,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    }
+  ],
+  "archive_ref": "deliveries:valokuitunen/20260129_073742"
 }
