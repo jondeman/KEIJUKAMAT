@@ -2,8 +2,8 @@
   "run_id": "20260201_082635",
   "company_slug": "rum-hytyajoneuvot",
   "created_at": "2026-02-01T08:26:35.407804",
-  "updated_at": "2026-02-01T08:37:51.293115",
-  "current_phase": "compose_pitch",
+  "updated_at": "2026-02-01T08:38:01.332896",
+  "current_phase": "package",
   "user_input": {
     "company_name": "\u00d6rum Hy\u00f6tyajoneuvot",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -731,6 +731,15 @@
     {
       "phase": "compose_pitch",
       "started_at": "2026-02-01T08:37:51.282754",
+      "completed_at": "2026-02-01T08:38:01.325646",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "package",
+      "started_at": "2026-02-01T08:38:01.332875",
       "completed_at": null,
       "success": false,
       "error_message": null,
