@@ -1,0 +1,205 @@
+{
+  "company_name": "Autoasi -autonhuoltoketju",
+  "company_slug": "autoasi-autonhuoltoketju",
+  "generated_at": "2026-02-01T08:43:23.517328",
+  "brand_identity": {
+    "positioning": "Asiantuntevin vaihtoehto merkkikorjaamolle. Turvallinen haastaja.",
+    "visual_markers": {
+      "primary_color": "#005EB8",
+      "secondary_colors": [
+        "Valkoinen"
+      ],
+      "style_keywords": [
+        "Geneerinen",
+        "Stereotyyppinen",
+        "Perinteinen"
+      ],
+      "tone_keywords": [
+        "Asiallinen",
+        "Rauhoitteleva",
+        "Rationaalinen"
+      ]
+    },
+    "voice_characteristics": [
+      "Faktoihin keskittyv\u00e4",
+      "Tekninen",
+      "Tunteeton"
+    ]
+  },
+  "strategic_priorities": [
+    {
+      "rank": 1,
+      "priority": "S\u00e4hk\u00f6istymisen haltuunotto (e-Expert)",
+      "evidence": [
+        "Vahva panostus e-Expert -lisensiointiin",
+        "Korkeaj\u00e4nnitep\u00e4tevyydet",
+        "Tavoite murtaa myytti merkkiliikkeiden monopolista s\u00e4hk\u00f6autoissa"
+      ],
+      "execution_assessment": "moderate"
+    },
+    {
+      "rank": 2,
+      "priority": "Right to Repair -aseman puolustaminen",
+      "evidence": [
+        "Jatkuva viestint\u00e4 Takuu s\u00e4ilyy -lupauksesta",
+        "Ryhm\u00e4poikkeusasetuksen (BER) hy\u00f6dynt\u00e4minen"
+      ],
+      "execution_assessment": "strong"
+    },
+    {
+      "rank": 3,
+      "priority": "Yritt\u00e4j\u00e4verkoston laadun standardointi",
+      "evidence": [
+        "Franchising-malli vaatii tasalaatuisuutta",
+        "Asiakaskokemuksen yhten\u00e4ist\u00e4minen valtakunnallisesti"
+      ],
+      "execution_assessment": "moderate"
+    }
+  ],
+  "marketing_posture": {
+    "current_content_types": [
+      "Taktinen mainonta",
+      "Sesonkiluontoinen mainonta (renkaat, ilmastointi)",
+      "Kuvapankkimainen still-kuvasto"
+    ],
+    "channel_presence": {
+      "youtube": {
+        "active": false,
+        "assessment": "Kriittinen puute. Sis\u00e4lt\u00f6 vanhaa tai satunnaista, ei hallittua br\u00e4ndipresenssi\u00e4."
+      },
+      "tiktok": {
+        "active": false,
+        "assessment": "Ei mainittu analyysissa, oletettavasti ei aktiivinen."
+      },
+      "instagram": {
+        "active": true,
+        "assessment": "Kohtalainen. Hajautunut. Ketjun viestint\u00e4 geneerist\u00e4, paikalliset yritt\u00e4j\u00e4t tekev\u00e4t vaihtelevalla laadulla."
+      },
+      "linkedin": {
+        "active": false,
+        "assessment": "Ei mainittu analyysissa."
+      }
+    },
+    "apparent_gaps": [
+      "Show, don't tell -sis\u00e4ll\u00f6n puute",
+      "Videomuotoinen asiantuntijuuden osoittaminen",
+      "Modernin teknologiaosaamisen (s\u00e4hk\u00f6autot) n\u00e4kyv\u00e4ksi tekeminen"
+    ],
+    "audience_engagement": "Matala. Viestint\u00e4 on transaktionaalista, mik\u00e4 ei rakenna yhteis\u00f6\u00e4 tai tunnesidett\u00e4."
+  },
+  "competitive_analysis": {
+    "key_competitors": [
+      {
+        "name": "Motonet (Motonet Korjaamo)",
+        "content_strategy": "DIY-auttamisen kuningas, paljon How-to -videosis\u00e4lt\u00f6\u00e4.",
+        "threat_level": "high"
+      },
+      {
+        "name": "Merkkiliikkeet (K-Auto, Veho, ym.)",
+        "content_strategy": "Auktoriteetti ja pelko. 'Vain me osaamme koodata uuden autosi'.",
+        "threat_level": "high"
+      },
+      {
+        "name": "Fixus",
+        "content_strategy": "Br\u00e4ndikaksonen, mutta viime aikoina rennompi ja n\u00e4kyv\u00e4mpi.",
+        "threat_level": "medium"
+      }
+    ],
+    "brand_winning_areas": [
+      "Hinta-laatusuhde vanhemmassa autokannassa (5+ vuotta)",
+      "Paikallinen saavutettavuus",
+      "Yritt\u00e4j\u00e4vetoinen palveluasenne"
+    ],
+    "brand_losing_areas": [
+      "Mielikuvallinen modernius (s\u00e4hk\u00f6autot)",
+      "Digitaalinen asiantuntijuuspresenssi (videosis\u00e4ll\u00f6t)",
+      "Br\u00e4ndin sielu ja erottuvuus"
+    ]
+  },
+  "strategic_tensions": [
+    {
+      "id": "tension_01",
+      "description": "V\u00e4itetty asiantuntijuus vs. N\u00e4kym\u00e4t\u00f6n osaaminen: Autoasi sanoo olevansa asiantuntevin, mutta digitaalisessa kanavassa t\u00e4m\u00e4 on n\u00e4kym\u00e4t\u00f6nt\u00e4.",
+      "evidence": [
+        "Lupaus: Asiantuntevin vaihtoehto",
+        "YouTube-presenssin puute (ei opetusvideoita)",
+        "Motonet dominoi hakutuloksia"
+      ],
+      "opportunity_type": "threat",
+      "priority_score": 5
+    },
+    {
+      "id": "tension_02",
+      "description": "Korkean teknologian tavoite vs. Rasvan\u00e4ppi-mielikuva: Strategia t\u00e4ht\u00e4\u00e4 s\u00e4hk\u00f6autoihin, mutta kuluttajan mielikuva on perinteinen nyrkkipaja.",
+      "evidence": [
+        "Investoinnit e-Expert -koulutuksiin",
+        "Kuvasto edelleen perinteist\u00e4 mekaanikkokuvastoa",
+        "S\u00e4hk\u00f6autoilijoiden pelko vied\u00e4 autoa muualle kuin merkkiliikkeeseen"
+      ],
+      "opportunity_type": "aspiration",
+      "priority_score": 5
+    },
+    {
+      "id": "tension_03",
+      "description": "Kansallinen br\u00e4ndi vs. Paikalliset kasvot: Ketju viestii geneerisesti, vaikka luottamus asuu paikallisissa yritt\u00e4jiss\u00e4.",
+      "evidence": [
+        "Kuvapankkimainen mainonta sosiaalisessa mediassa",
+        "Asiakkaiden luottamus kohdistuu paikalliseen yritt\u00e4j\u00e4\u00e4n",
+        "Paikallisten tarinoiden puute kansallisessa markkinoinnissa"
+      ],
+      "opportunity_type": "gap",
+      "priority_score": 3
+    }
+  ],
+  "opportunity_zones": [
+    {
+      "id": "opp_01",
+      "description": "Show, Don't Tell \u2013 Asiantuntijuuden todistaminen videolla",
+      "rationale": "Siirtyminen v\u00e4itt\u00e4misest\u00e4 todistamiseen tuottamalla laadukasta videosis\u00e4lt\u00f6\u00e4, joka avaa konepellin alle. Ratkaisee uskottavuusongelman s\u00e4hk\u00f6autoilijoiden silmiss\u00e4.",
+      "risk_level": "medium"
+    },
+    {
+      "id": "opp_02",
+      "description": "Inhimillinen High-Tech",
+      "rationale": "Br\u00e4ndin kasvojen modernisointi yhdist\u00e4m\u00e4ll\u00e4 perinteinen palvelualttius huipputeknologiaan. Tarinallistetaan mekaanikko 'autojen koodariksi'.",
+      "risk_level": "low"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Fixus.fi Website Analysis",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2_mO3BWZHYrbSnke0KeRoKQHrS981XU3OHZjouf4EQLeD2ljruvQJxKJpeCe0npOSHcbhd8Z0WVepS4Yw5wMmHpvqMVNbs_jn2hgMcPLVHEm-r93r",
+      "type": "company_site",
+      "date_accessed": "2023-10-27",
+      "relevance": "Kilpailija-analyysi"
+    },
+    {
+      "title": "Kuuki.fi Case Study/Reference",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKl1Zlqd0ZSEPa9s6RaS--sw2-QCdA1soV-XRlM80x20ZK5kGfETNVe3fe0tkyNFINvks1yi3vHn2qkvKV0iTsc9-TNd6hxfxnH5rTxeAAoZrBmDNVOVf0Z6wd2IJy_tdGPegM15YGHR55Mr0nB3pmgUBDCC3KLg7Vnj6qcaTJUg1LZ0XgKDBMmWpROCZdecUewZS-ZB6m2R178DfbYvzKaxaePSakno-TEA==",
+      "type": "other",
+      "date_accessed": "2023-10-27",
+      "relevance": "Markkinointianalyysi"
+    },
+    {
+      "title": "YouTube Search: Autoasi",
+      "url": "https://www.youtube.com/results?search_query=autoasi",
+      "type": "video",
+      "date_accessed": "2023-10-27",
+      "relevance": "Br\u00e4ndin videopresenssin analyysi"
+    },
+    {
+      "title": "YouTube Search: Motonet",
+      "url": "https://www.youtube.com/results?search_query=motonet",
+      "type": "video",
+      "date_accessed": "2023-10-27",
+      "relevance": "Kilpailijan videostrategian analyysi"
+    },
+    {
+      "title": "YouTube Search: Fixus",
+      "url": "https://www.youtube.com/results?search_query=fixus",
+      "type": "video",
+      "date_accessed": "2023-10-27",
+      "relevance": "Kilpailijan videostrategian analyysi"
+    }
+  ]
+}
