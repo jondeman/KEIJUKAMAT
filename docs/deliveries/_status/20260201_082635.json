@@ -2,8 +2,8 @@
   "run_id": "20260201_082635",
   "company_slug": "rum-hytyajoneuvot",
   "created_at": "2026-02-01T08:26:35.407804",
-  "updated_at": "2026-02-01T08:28:47.011786",
-  "current_phase": "strategize",
+  "updated_at": "2026-02-01T08:34:39.343068",
+  "current_phase": "create",
   "user_input": {
     "company_name": "\u00d6rum Hy\u00f6tyajoneuvot",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -257,8 +257,342 @@
       "success_hypothesis": "This concept unlocks an untapped opportunity for \u00d6rum Hy\u00f6tyajoneuvot by addressing their aspiration in a way that creates cultural relevance and positions the brand as an innovator in their space."
     }
   ],
-  "concepts": [],
-  "treatment_files": [],
+  "concepts": [
+    {
+      "id": "concept_01",
+      "title": "Diagno: Mestarin K\u00e4det",
+      "hook": "YouTube-sarja, joka tekee \u00d6rumista raskaan kaluston koulutusbr\u00e4ndin \u2013 ja korjaamoista lojaaleita kumppaneita, koska he oppivat meilt\u00e4.",
+      "premise": "Dokumentaarinen koulutussarja, jossa \u00d6rumin tuotep\u00e4\u00e4llik\u00f6t ja tekniset asiantuntijat ratkaisevat oikeita, monimutkaisia vikoja yhdess\u00e4 korjaamoiden mekaanikoiden kanssa. Jokainen jakso on k\u00e4yt\u00e4nn\u00f6n masterclass: diagnostiikasta asennukseen, teoriasta k\u00e4yt\u00e4nt\u00f6\u00f6n. Sarja ei myy osia \u2013 se myy osaamista, joka saa mekaanikot palaamaan \u00d6rumin \u00e4\u00e4relle.",
+      "long_form_extension": "Ruutu+/Katsomo-jakelu: 10-osainen dokumenttisarja 'Mestarin K\u00e4det' (10x25min). Mahdollinen broadcast-cut MTV3 Yle Teemalle ammattikoulutusohjelmistoon.",
+      "format": {
+        "series_type": "ongoing",
+        "episode_length": "12-18 minuuttia",
+        "cadence": "Viikoittain",
+        "season_length": "10 jaksoa per kausi"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "YouTube",
+          "rationale": "Mekaanikot etsiv\u00e4t aktiivisesti how-to-sis\u00e4lt\u00f6\u00e4 YouTubesta. Pitk\u00e4muotoinen opetussis\u00e4lt\u00f6 rakentaa hakukonel\u00f6ydett\u00e4vyytt\u00e4 ja katsojauskollisuutta. \u00d6rum voi dominoida 'raskas kalusto huolto' -hakutuloksia.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "TikTok",
+            "rationale": "",
+            "adaptation": "60 sekunnin 'Vika vai ominaisuus?' -klipit: nopea vianhaku-p\u00e4hkin\u00e4, joka ohjaa YouTube-jaksoihin. Visuaalisesti tyydytt\u00e4vi\u00e4 asennushetki\u00e4."
+          },
+          {
+            "platform": "LinkedIn",
+            "rationale": "",
+            "adaptation": "2-3 minuutin asiantuntijaleikkeet korjaamoyritt\u00e4jille: 'T\u00e4m\u00e4n virheen takia menet\u00e4t rahaa' -kulma."
+          }
+        ],
+        "amplification": "Jakelu \u00d6rumin korjaamoasiakkaiden omissa kanavissa. Koulutustapahtumien yhteydess\u00e4 live-screeningit. Ammattilehtien (Raskas Kalusto, Koneviesti) sis\u00e4lt\u00f6yhteisty\u00f6."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Jakson alussa 'Vika': oikea ongelma oikeasta korjaamosta",
+          "\u00d6rumin asiantuntijan saapuminen \u2013 diagnostiikka alkaa",
+          "Teoria-insertti: mit\u00e4 tapahtuu komponentin sis\u00e4ll\u00e4 (3D-animaatio)",
+          "K\u00e4yt\u00e4nn\u00f6n asennus yhdess\u00e4 mekaanikon kanssa",
+          "Lopussa 'Oppi': tiivistetty checklist"
+        ],
+        "variable_elements": [
+          "Eri korjaamot ja mekaanikot ymp\u00e4ri Suomen",
+          "Vaihtuvat komponentit: jarrut, jousitus, s\u00e4hk\u00f6j\u00e4rjestelm\u00e4t, diagnostiikka",
+          "Vaihteleva vaikeustaso: perushuollosta harvinaisiin ongelmiin"
+        ],
+        "host_approach": "Ei erillist\u00e4 juontajaa. \u00d6rumin omat tuotep\u00e4\u00e4llik\u00f6t ja tekniset asiantuntijat ovat luontevat kasvot \u2013 he ovat uskottavia, koska he oikeasti tiet\u00e4v\u00e4t. Jokainen jakso tuo esiin my\u00f6s korjaamon oman mekaanikon."
+      },
+      "brand_integration": {
+        "philosophy": "\u00d6rum ei ole sponsori \u2013 \u00d6rum on opettaja. Br\u00e4ndi ansaitsee n\u00e4kyvyytens\u00e4 tarjoamalla aitoa arvoa.",
+        "integration_method": "\u00d6rumin asiantuntijat ovat jakson p\u00e4\u00e4henkil\u00f6it\u00e4. Osat ja ty\u00f6kalut ovat luonteva osa tarinaa. Diagno-palvelut esill\u00e4 k\u00e4yt\u00e4nn\u00f6n kontekstissa.",
+        "screen_time_balance": "85% opetussis\u00e4lt\u00f6\u00e4, 15% \u00d6rum-n\u00e4kyvyytt\u00e4 (logot, asiantuntijoiden esittely, loppukortti)",
+        "cta_approach": "Jakson lopussa: 'Lis\u00e4\u00e4 teknist\u00e4 tukea: diagno.orum.fi'. Ei aggressiivista myynti\u00e4 \u2013 arvo puhuu puolestaan."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Kun EBS varoittaa",
+          "description": "S\u00e4hk\u00f6inen jarruj\u00e4rjestelm\u00e4 herjaa \u2013 systemaattinen vianhaku Turun korjaamolla."
+        },
+        {
+          "number": 2,
+          "title": "Ilmajousituksen mysteeri",
+          "description": "Per\u00e4vaunun kallistuma ei korjaannu \u2013 l\u00f6ytyyk\u00f6 vika venttiilist\u00e4 vai ohjausyksik\u00f6st\u00e4?"
+        },
+        {
+          "number": 3,
+          "title": "AdBlue-kierre",
+          "description": "SCR-j\u00e4rjestelm\u00e4n toistuva vikavalo: s\u00e4ili\u00f6, anturi vai ohjelma?"
+        },
+        {
+          "number": 4,
+          "title": "S\u00e4hk\u00f6rekka saapuu",
+          "description": "Ensimm\u00e4inen t\u00e4yss\u00e4hk\u00f6isen kuorma-auton huolto \u2013 mit\u00e4 pit\u00e4\u00e4 tiet\u00e4\u00e4 ennen kuin kosket?"
+        },
+        {
+          "number": 5,
+          "title": "Talviy\u00f6n kutsu",
+          "description": "Polttoaineen l\u00e4mmitys petti -30 asteessa \u2013 kentt\u00e4huolto \u00e4\u00e4riolosuhteissa."
+        },
+        {
+          "number": 6,
+          "title": "Diagnostiikan ABC",
+          "description": "Uusi mekaanikko, ensimm\u00e4inen oma vianhaku \u2013 opetusjakso perusteista."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee suoraan identiteettikuilun: \u00d6rum EI ole katalogi, vaan osaamiskumppani. Jokainen jakso todistaa 'Osaamista ja osia' -lupauksen k\u00e4yt\u00e4nn\u00f6ss\u00e4.",
+        "competitive_differentiation": "Startax ja Koivunen myyv\u00e4t hinnalla. OEM:t myyv\u00e4t alkuper\u00e4isyydell\u00e4. \u00d6rum myy tiedolla \u2013 ja se on ainoa kest\u00e4v\u00e4 kilpailuetu.",
+        "audience_value_proposition": "Mekaanikko saa ilmaisen koulutuksen, joka tekee h\u00e4nen ty\u00f6st\u00e4\u00e4n helpompaa. H\u00e4n palaa \u00d6rumin sis\u00e4lt\u00f6ihin, koska ne auttavat h\u00e4nt\u00e4. Lojaliteetti syntyy arvosta, ei mainoksista."
+      },
+      "execution": {
+        "complexity": "medium",
+        "budget_tier": "mid",
+        "timeline_to_first_episode": "8-10 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "\u00d6rumin asiantuntijat eiv\u00e4t ole luontevia kameran edess\u00e4",
+          "mitigation": "Media training ennen kuvauksia. Dokumentaarinen l\u00e4hestymistapa \u2013 ei tarvitse olla 'esiintyj\u00e4', riitt\u00e4\u00e4 kun on aito."
+        },
+        {
+          "risk": "Liian tekninen sis\u00e4lt\u00f6 karkottaa laajemman yleis\u00f6n",
+          "mitigation": "Tarinankerronta ensin, tekniikka toisena. Jokainen jakso alkaa 'ongelmasta', ei 'komponentista'."
+        },
+        {
+          "risk": "Korjaamot eiv\u00e4t halua n\u00e4ky\u00e4 julkisesti",
+          "mitigation": "Valitaan kumppanikorjaamot, jotka hy\u00f6tyv\u00e4t n\u00e4kyvyydest\u00e4. Heille oma markkinointiarvo."
+        }
+      ]
+    },
+    {
+      "id": "concept_02",
+      "title": "#RekanTakana",
+      "hook": "TikTok-sarja, joka tekee raskaasta kalustosta visuaalisesti tyydytt\u00e4v\u00e4\u00e4 ja rikkoo 'rasva ja rauta' -mielikuvan \u2013 samalla kun se rakentaa \u00d6rumille nuoremman sukupolven tunnettuutta.",
+      "premise": "Pystymuotoinen mikrosis\u00e4lt\u00f6sarja, jossa nuori, karismaattinen mekaanikko-vaikuttaja vie katsojat kulissien taakse: mit\u00e4 oikeasti tapahtuu, kun 40-tonninen rekka tulee huoltoon? Ei opetusta \u2013 vaan visuaalista tyydytyst\u00e4, yll\u00e4tt\u00e4vi\u00e4 faktoja ja 'oddly satisfying' -hetki\u00e4. Sarja tekee mekaanikon ty\u00f6st\u00e4 coolia ja \u00d6rumista sen mahdollistajan.",
+      "long_form_extension": "Pystymuotoinen mikrodraama Ruutu+/TikTokiin: '24h Korjaamolla' \u2013 8-osainen draama-dokkari (8x8min), jossa seurataan yhden korjaamon vuorokautta kriisihetkest\u00e4 ratkaisuun.",
+      "format": {
+        "series_type": "ongoing",
+        "episode_length": "30-90 sekuntia",
+        "cadence": "3-4 kertaa viikossa",
+        "season_length": null
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "TikTok",
+          "rationale": "Raskaan kaluston sis\u00e4lt\u00f6 on TikTokissa alipalveltua \u2013 mutta 'oddly satisfying' -mekaniikkavideot ker\u00e4\u00e4v\u00e4t miljoonia katseluita. \u00d6rum voi dominoida niche-kategorian.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "Instagram Reels",
+            "rationale": "",
+            "adaptation": "Sama sis\u00e4lt\u00f6, mutta editoitu hieman pidemm\u00e4ksi (60-90s). Enemm\u00e4n behind-the-scenes -tunnelmaa."
+          },
+          {
+            "platform": "YouTube Shorts",
+            "rationale": "",
+            "adaptation": "Paras sis\u00e4lt\u00f6 uudelleenpaketoituna. Ohjaa pitk\u00e4muotoiseen YouTube-sis\u00e4lt\u00f6\u00f6n."
+          }
+        ],
+        "amplification": "Vaikuttajan oma seuraajakunta (~50-100k). Maksettu TikTok-mainonta parhaille klipeille. Haastekampanjat: #RekanTakana-haaste muille mekaanikoille."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Hook ensimm\u00e4isess\u00e4 1,5 sekunnissa: 'Tiesitk\u00f6, ett\u00e4 t\u00e4m\u00e4 osa...'",
+          "Visuaalisesti tyydytt\u00e4v\u00e4 hetki: asennus, puhdistus, diagnostiikka",
+          "Yll\u00e4tt\u00e4v\u00e4 fakta tai 'mit\u00e4 tapahtuu jos' -skenaario",
+          "\u00d6rum-osa tai -ty\u00f6kalu luontevasti mukana"
+        ],
+        "variable_elements": [
+          "Eri komponentit ja j\u00e4rjestelm\u00e4t",
+          "Vaihtelevat formaatit: POV-asennus, timelapse, 'arvaa mik\u00e4 meni rikki', Q&A",
+          "Satunnaiset vierailut: kuski kertoo tarinansa, toinen mekaanikko"
+        ],
+        "host_approach": "Yksi p\u00e4\u00e4kasvo: nuori, autenttinen mekaanikko-vaikuttaja (esim. alan somepersoonallisuus tai l\u00f6ydetty talentti). Ei k\u00e4sikirjoitettua \u2013 aito \u00e4\u00e4ni ja tyyli."
+      },
+      "brand_integration": {
+        "philosophy": "\u00d6rum on se br\u00e4ndi, jota coolit mekaanikot k\u00e4ytt\u00e4v\u00e4t. Integraatio on luonnollista \u2013 ei mainosta, vaan oikeaa k\u00e4ytt\u00f6\u00e4.",
+        "integration_method": "\u00d6rumin osat ja ty\u00f6kalut n\u00e4kyv\u00e4t jokaisessa videossa k\u00e4yt\u00f6ss\u00e4. Satunnaiset '\u00d6rum-faktat' inserttein\u00e4. Ei pakotettua tuotepuhetta.",
+        "screen_time_balance": "90% sis\u00e4lt\u00f6\u00e4, 10% br\u00e4ndi (logo videon lopussa, osa n\u00e4kyvill\u00e4 k\u00e4yt\u00f6ss\u00e4)",
+        "cta_approach": "Minimaalinen. Bio-linkki \u00d6rumin some-kanaviin. Satunnaisesti: 'L\u00f6yd\u00e4t t\u00e4m\u00e4n osan orum.fi:st\u00e4'."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "40 tonnia, yksi pultti",
+          "description": "POV: vaihdat py\u00f6r\u00e4n pultit \u2013 ja selit\u00e4t, miksi juuri t\u00e4m\u00e4 momentti on el\u00e4m\u00e4n ja kuoleman kysymys."
+        },
+        {
+          "number": 2,
+          "title": "Maailman likaisin suodatin",
+          "description": "Timelapse ilmansuodattimen vaihdosta \u2013 ennen ja j\u00e4lkeen -shokki."
+        },
+        {
+          "number": 3,
+          "title": "Mit\u00e4 EBS oikeasti tekee?",
+          "description": "60 sekunnissa: s\u00e4hk\u00f6inen jarruj\u00e4rjestelm\u00e4 selitettyn\u00e4 niin, ett\u00e4 kaverikin ymm\u00e4rt\u00e4\u00e4."
+        },
+        {
+          "number": 4,
+          "title": "Kun kuski soittaa y\u00f6ll\u00e4",
+          "description": "Todellinen tarina: p\u00e4ivystyspuhelu ja kentt\u00e4korjaus pime\u00e4ll\u00e4 tiell\u00e4."
+        },
+        {
+          "number": 5,
+          "title": "Arvaa hinta",
+          "description": "N\u00e4yt\u00e4n osan \u2013 arvaa, maksaako 50\u20ac vai 500\u20ac. Yll\u00e4tyt."
+        },
+        {
+          "number": 6,
+          "title": "Ensimm\u00e4inen s\u00e4hk\u00f6rekka",
+          "description": "Mit\u00e4 tapahtuu, kun avaan s\u00e4hk\u00f6rekan konepellin ensimm\u00e4ist\u00e4 kertaa?"
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee 'High-Tech vs. Heavy Metal' -j\u00e4nnitteen: tekee raskaasta kalustosta visuaalisesti kiinnostavaa ja modernia. Rakentaa \u00d6rumille tunnettuutta nuoremmassa kohderyhm\u00e4ss\u00e4 (tulevat mekaanikot ja yritt\u00e4j\u00e4t).",
+        "competitive_differentiation": "Kukaan kilpailija ei tee t\u00e4t\u00e4. Startax on \u00e4\u00e4nek\u00e4s, mutta geneerinen. OEM:t ovat korporatiivisia. \u00d6rum voi olla ensimm\u00e4inen 'cool' varaosabr\u00e4ndi.",
+        "audience_value_proposition": "Visuaalista tyydytyst\u00e4, yll\u00e4tt\u00e4vi\u00e4 faktoja, kulissien taakse -tunnelmaa. Sis\u00e4lt\u00f6, jonka katsoo loppuun, vaikka ei tiet\u00e4isi rekasta mit\u00e4\u00e4n."
+      },
+      "execution": {
+        "complexity": "low",
+        "budget_tier": "budget",
+        "timeline_to_first_episode": "4-6 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Vaikuttajavalinta ep\u00e4onnistuu \u2013 v\u00e4\u00e4r\u00e4 persoona",
+          "mitigation": "Casting-prosessi: etsit\u00e4\u00e4n aito mekaanikko, ei pelkk\u00e4 somekasvo. Testivideoita ennen sitoutumista."
+        },
+        {
+          "risk": "Sis\u00e4lt\u00f6 j\u00e4\u00e4 liian nicheksi \u2013 ei levi\u00e4 laajemmalle",
+          "mitigation": "Universaalit hookit: 'oddly satisfying', yll\u00e4tt\u00e4v\u00e4t faktat, visuaalinen draama. Ei pelkk\u00e4\u00e4 ammattisanastoa."
+        },
+        {
+          "risk": "TikTokin algoritmi ei suosi br\u00e4ndi-sis\u00e4lt\u00f6\u00e4",
+          "mitigation": "Sis\u00e4lt\u00f6 tehd\u00e4\u00e4n creator-first \u2013 \u00d6rum on taustalla, ei edess\u00e4. Maksettu boost parhaimmille."
+        }
+      ]
+    },
+    {
+      "id": "concept_03",
+      "title": "Suomen Selk\u00e4ranka",
+      "hook": "Dokumenttisarja, joka kertoo Suomen logistiikan n\u00e4kym\u00e4tt\u00f6m\u00e4t sankaritarinat \u2013 ja tekee \u00d6rumista sen mahdollistajan ilman yht\u00e4k\u00e4\u00e4n tuotemainosta.",
+      "premise": "Elokuvallinen dokumenttisarja, joka seuraa kriittisi\u00e4 kuljetuksia \u00e4\u00e4riolosuhteissa: kun maito pit\u00e4\u00e4 saada meijeriin -35 asteessa, kun sairaalan happi loppuu, kun tuulivoimalan siipi kulkee Suomen halki. Jokainen jakso on j\u00e4nnitysn\u00e4ytelm\u00e4, jossa sankareina ovat kuskit, mekaanikot ja logistiikkaketju \u2013 ja \u00d6rum on n\u00e4kym\u00e4t\u00f6n voimank\u00e4ytt\u00e4j\u00e4, joka pit\u00e4\u00e4 py\u00f6r\u00e4t py\u00f6rim\u00e4ss\u00e4.",
+      "long_form_extension": "TV-dokumenttisarja Neloselle/MTV3:lle: 'Suomen Selk\u00e4ranka' (6x45min). Kansainv\u00e4linen myyntipotentiaali Warner Bros. -jakeluverkoston kautta (Nordics, Saksa).",
+      "format": {
+        "series_type": "limited",
+        "episode_length": "25-35 minuuttia",
+        "cadence": "Viikoittain",
+        "season_length": "6 jaksoa"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "Broadcast + SVOD",
+          "rationale": "Laadukkaalla dokumentilla on broadcast-arvo (Nelonen/MTV3) ja SVOD-potentiaali (Ruutu+/Katsomo). Rakentaa \u00d6rumille massamedian n\u00e4kyvyytt\u00e4 ja br\u00e4ndi-imagoa.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "YouTube",
+            "rationale": "",
+            "adaptation": "Lyhennetyt 15-minuuttiset versiot. Behind-the-scenes -materiaali. Kuljettajien haastattelut."
+          },
+          {
+            "platform": "TikTok/Reels",
+            "rationale": "",
+            "adaptation": "60 sekunnin dramaattiset klipit: 'T\u00e4m\u00e4 kuljetus ei saanut my\u00f6h\u00e4sty\u00e4'. Kuljetuksen kohokohdat, \u00e4\u00e4riolosuhteet."
+          }
+        ],
+        "amplification": "PR-kampanja: 'Suomen n\u00e4kym\u00e4tt\u00f6m\u00e4t sankarit'. Kuljetusalan j\u00e4rjest\u00f6jen yhteisty\u00f6. Ensi-iltatapahtuma kuljetusyritt\u00e4jille."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Jakson alussa: kriittinen kuljetus, aikaraja, panokset",
+          "Kuljetuksen seuraaminen alusta loppuun \u2013 draaman kaari",
+          "V\u00e4liinsertit: mit\u00e4 tapahtuu, jos t\u00e4m\u00e4 ep\u00e4onnistuu?",
+          "Mekaanikon/korjaamon rooli tarinan k\u00e4\u00e4nnekohdassa",
+          "Lopussa: onnistunut toimitus, vaikutus yhteiskuntaan"
+        ],
+        "variable_elements": [
+          "Eri kuljetustyypit: elintarvikkeet, l\u00e4\u00e4kkeet, erikoiskuljetukset, vaaralliset aineet",
+          "Eri vuodenajat ja olosuhteet",
+          "Eri puolilta Suomea \u2013 Lapista Etel\u00e4-Suomeen"
+        ],
+        "host_approach": "Ei juontajaa. Puhdas dokumentaarinen kerronta. Kuskit ja mekaanikot kertovat oman tarinansa. Voice-over vain taustoittamassa."
+      },
+      "brand_integration": {
+        "philosophy": "\u00d6rum ei n\u00e4y \u2013 \u00d6rum mahdollistaa. Br\u00e4ndi on tarinan kulisseissa: osa, joka ei pett\u00e4nyt. Korjaamo, joka vastasi y\u00f6ll\u00e4. T\u00e4m\u00e4 on '\u00d6rum Inside' -ajattelua.",
+        "integration_method": "Luonnolliset maininnat tarinan osana: 'Korjaamo sai osan \u00d6rumilta tunnissa'. Ei tuote-esittely\u00e4 \u2013 vain toimiva osa tarinan k\u00e4\u00e4nnekohdassa.",
+        "screen_time_balance": "95% tarinaa, 5% \u00d6rum-n\u00e4kyvyytt\u00e4 (lopputekstit: '\u00d6rumin tuella', satunnaiset luonnolliset maininnat)",
+        "cta_approach": "Ei suoraa CTA:ta. Br\u00e4ndi-imago rakentuu assosiaatiosta: \u00d6rum = Suomen logistiikan mahdollistaja."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Maitoauto ei my\u00f6h\u00e4sty",
+          "description": "-35 astetta, 400 km matkaa, 12 tunnin aikaikkuna: Lapin maidontuottajien kohtalo yhden kuskin k\u00e4siss\u00e4."
+        },
+        {
+          "number": 2,
+          "title": "Happi loppuu",
+          "description": "Sairaalan happivarasto tyhjenee \u2013 erikoiskuljetus Oulusta Helsinkiin y\u00f6n yli."
+        },
+        {
+          "number": 3,
+          "title": "73 metri\u00e4 tuulta",
+          "description": "Tuulivoimalan siipi kulkee Suomen halki \u2013 miten mahdoton kuljetus onnistuu?"
+        },
+        {
+          "number": 4,
+          "title": "Joulukinkkutalkoot",
+          "description": "Miljoona kiloa kinkkua viikossa \u2013 logistiikkaoperaatio joulun takana."
+        },
+        {
+          "number": 5,
+          "title": "Kun kaikki pys\u00e4htyi",
+          "description": "Koronan ensimm\u00e4iset viikot: miten kuljetusala piti Suomen hengiss\u00e4."
+        },
+        {
+          "number": 6,
+          "title": "Viimeinen kilometri",
+          "description": "Syrj\u00e4kyl\u00e4n kauppa saa tavaransa \u2013 pienen paikkakunnan el\u00e4m\u00e4nlanka."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee 'N\u00e4kym\u00e4t\u00f6n sankari' -j\u00e4nnitteen t\u00e4ydellisesti. \u00d6rum ei en\u00e4\u00e4 ole tuntematon tukkuri \u2013 se on Suomen logistiikan mahdollistaja. Rakentaa tunnetason yhteyden my\u00f6s fleet ownereihin.",
+        "competitive_differentiation": "Kukaan kilpailija ei tee t\u00e4t\u00e4 tasoa. T\u00e4m\u00e4 on Warner Bros. -laatuista dokumenttia, ei yritysvideota. Erottuu t\u00e4ysin markkinasta.",
+        "audience_value_proposition": "Aito, koskettava, j\u00e4nnitt\u00e4v\u00e4. Tarinat, joita ei ole kerrottu. Suomalaiset rakastavat 'taviksen sankaritarinoita' \u2013 t\u00e4m\u00e4 on sit\u00e4 parhaimmillaan."
+      },
+      "execution": {
+        "complexity": "high",
+        "budget_tier": "premium",
+        "timeline_to_first_episode": "16-20 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Korkea budjetti ja pitk\u00e4 aikataulu",
+          "mitigation": "Broadcast-myynti kattaa osan kuluista. Warner Bros. -jakeluverkosto mahdollistaa kansainv\u00e4lisen myynnin."
+        },
+        {
+          "risk": "Br\u00e4ndi j\u00e4\u00e4 liian n\u00e4kym\u00e4tt\u00f6m\u00e4ksi",
+          "mitigation": "Selke\u00e4 '\u00d6rumin tuella' -br\u00e4nd\u00e4ys. PR-kampanja, joka yhdist\u00e4\u00e4 sarjan \u00d6rumiin. Some-sis\u00e4lt\u00f6 tuo br\u00e4ndin esiin eksplisiittisemmin."
+        },
+        {
+          "risk": "Logistiikkayritysten yhteisty\u00f6haluttomuus",
+          "mitigation": "\u00d6rumin asiakassuhteet avaavat ovia. Kuljetusyrityksille oma markkinointiarvo n\u00e4kyvyydest\u00e4."
+        }
+      ]
+    }
+  ],
+  "treatment_files": [
+    "/opt/render/project/src/runs/rum_hytyajoneuvot/TREATMENTS/rum_hytyajoneuvot_TREATMENT_01_20260201_083439.md",
+    "/opt/render/project/src/runs/rum_hytyajoneuvot/TREATMENTS/rum_hytyajoneuvot_TREATMENT_02_20260201_083439.md",
+    "/opt/render/project/src/runs/rum_hytyajoneuvot/TREATMENTS/rum_hytyajoneuvot_TREATMENT_03_20260201_083439.md"
+  ],
   "onepager_specs": [],
   "onepagers_skipped": false,
   "onepagers_error": null,
@@ -294,6 +628,15 @@
     {
       "phase": "strategize",
       "started_at": "2026-02-01T08:28:47.006082",
+      "completed_at": "2026-02-01T08:28:48.686563",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "create",
+      "started_at": "2026-02-01T08:28:48.692540",
       "completed_at": null,
       "success": false,
       "error_message": null,
