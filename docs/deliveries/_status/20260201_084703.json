@@ -2,8 +2,8 @@
   "run_id": "20260201_084703",
   "company_slug": "mekomen-huolto-ja-autokorjaamo",
   "created_at": "2026-02-01T08:47:03.808542",
-  "updated_at": "2026-02-01T08:47:03.808559",
-  "current_phase": "input",
+  "updated_at": "2026-02-01T08:49:32.253261",
+  "current_phase": "research",
   "user_input": {
     "company_name": "Mekomen -huolto ja autokorjaamo",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -13,7 +13,217 @@
     "use_cached_research": true,
     "total_tv_only": false
   },
-  "dossier": null,
+  "dossier": {
+    "company_name": "Mekomen -huolto ja autokorjaamo",
+    "company_slug": "mekomen-huolto-ja-autokorjaamo",
+    "generated_at": "2026-02-01T08:49:32.242653",
+    "brand_identity": {
+      "positioning": "Helpompaa AutoEl\u00e4m\u00e4\u00e4 (Enklare Billiv) - Ammattimainen, laadukas ja edullisempi vaihtoehto merkkihuollolle.",
+      "visual_markers": {
+        "primary_color": "Keltainen ja musta",
+        "secondary_colors": [
+          "Valkoinen",
+          "Harmaa"
+        ],
+        "style_keywords": [
+          "Teollinen",
+          "Kliininen",
+          "Selke\u00e4",
+          "J\u00e4rjestelm\u00e4llinen"
+        ],
+        "tone_keywords": [
+          "Rationaalinen",
+          "Asiallinen",
+          "Asiantunteva",
+          "Et\u00e4inen"
+        ]
+      },
+      "voice_characteristics": [
+        "The Ruler (Hallitsija)",
+        "The Sage (Viisas)",
+        "Faktoihin keskittyv\u00e4",
+        "Huumoriton"
+      ]
+    },
+    "strategic_priorities": [
+      {
+        "rank": 1,
+        "priority": "S\u00e4hk\u00f6istymisen omistajuus (E-Mekonomen)",
+        "evidence": [
+          "MEKO AB:n vuosikertomukset",
+          "Strategia 2023\u20132025"
+        ],
+        "execution_assessment": "moderate"
+      },
+      {
+        "rank": 2,
+        "priority": "Merkkihuolto-monopolin murtaminen ('Takuu s\u00e4ilyy')",
+        "evidence": [
+          "Keskeinen taktinen viesti markkinoinnissa",
+          "Vetoaminen EU-s\u00e4\u00e4d\u00f6ksiin ja varaosien laatuun"
+        ],
+        "execution_assessment": "moderate"
+      },
+      {
+        "rank": 3,
+        "priority": "Verkoston kannattavuus ja B2B-kasvu",
+        "evidence": [
+          "Building a stronger MEKO -ohjelma",
+          "Panostus yritysautoilijoihin (Fleet)"
+        ],
+        "execution_assessment": "moderate"
+      }
+    ],
+    "marketing_posture": {
+      "current_content_types": [
+        "Taktinen mainonta (hinta/rahoitus)",
+        "Sesonkivetoiset kampanjat",
+        "Suoramarkkinointi"
+      ],
+      "channel_presence": {
+        "youtube": {
+          "active": false,
+          "assessment": "Passiivinen. Sis\u00e4lt\u00f6 vanhaa tai hajanaista (rallisponsorointi). Ei johdonmukaista strategiaa."
+        },
+        "tiktok": {
+          "active": false,
+          "assessment": "Ei mainittu strategiassa, oletettavasti olematon."
+        },
+        "instagram": {
+          "active": false,
+          "assessment": "Heikko. L\u00e4hinn\u00e4 taktista jakoa, ei yhteis\u00f6n rakentamista."
+        },
+        "linkedin": {
+          "active": false,
+          "assessment": "Ei mainittu kuluttajamarkkinoinnin yhteydess\u00e4, fokus B2B-suhteissa."
+        }
+      },
+      "apparent_gaps": [
+        "Videostrategian puute (ei how-to -sis\u00e4lt\u00f6\u00e4)",
+        "Kasvottomuus (ei tunnistettavia asiantuntijoita)",
+        "Opetuksellinen tyhji\u00f6"
+      ],
+      "audience_engagement": "Transaktionaalista. Asiakkaat ostavat palvelun, mutta eiv\u00e4t sitoudu br\u00e4ndiin emotionaalisesti."
+    },
+    "competitive_analysis": {
+      "key_competitors": [
+        {
+          "name": "Motonet",
+          "content_strategy": "Tekemisen meininki, vahva DIY-kulttuuri, opetusvideot, huumori.",
+          "threat_level": "high"
+        },
+        {
+          "name": "Fixus",
+          "content_strategy": "Inhimillinen, humoristinen, helposti l\u00e4hestytt\u00e4v\u00e4 paikallinen yritt\u00e4j\u00e4.",
+          "threat_level": "medium"
+        },
+        {
+          "name": "Merkkiliikkeet",
+          "content_strategy": "Auktoriteetti, virallisuus, implisiittinen pelottelu.",
+          "threat_level": "high"
+        }
+      ],
+      "brand_winning_areas": [
+        "Hinta (vs. merkkiliikkeet)",
+        "Verkoston laajuus",
+        "P\u00f6rssiyhti\u00f6n luotettavuus"
+      ],
+      "brand_losing_areas": [
+        "Emotionaalinen side ja samaistuttavuus",
+        "Sis\u00e4ll\u00f6n viihdytt\u00e4vyys",
+        "Inhimillisyys"
+      ]
+    },
+    "strategic_tensions": [
+      {
+        "id": "tension_01",
+        "description": "Rationaalinen lupaus vs. Emotionaalinen ep\u00e4varmuus. Mekonomen viestii teknisist\u00e4 suoritteista, kun asiakas kokee luottamuspulaa.",
+        "evidence": [
+          "Markkinointi hinta/takuu-vetoista",
+          "Asiakkaiden pelko takuun menetyksest\u00e4"
+        ],
+        "opportunity_type": "gap",
+        "priority_score": 5
+      },
+      {
+        "id": "tension_02",
+        "description": "'Pohjoismaiden suurin' vs. 'Kasvoton j\u00e4ttil\u00e4inen'. Koko luo turvaa mutta my\u00f6s et\u00e4isyytt\u00e4.",
+        "evidence": [
+          "Teollinen visuaalinen ilme",
+          "Ei nimettyj\u00e4 asiantuntijoita"
+        ],
+        "opportunity_type": "threat",
+        "priority_score": 4
+      },
+      {
+        "id": "tension_03",
+        "description": "Tulevaisuuden s\u00e4hk\u00f6osaaja vs. Nykyhetken huoltoarkip\u00e4iv\u00e4. Strategia on s\u00e4hk\u00f6ss\u00e4, asiakkaat polttomoottoreissa.",
+        "evidence": [
+          "MEKO AB:n strategia painottaa s\u00e4hk\u00f6istymist\u00e4",
+          "Asiakkaat etsiv\u00e4t halpaa perushuoltoa"
+        ],
+        "opportunity_type": "aspiration",
+        "priority_score": 3
+      }
+    ],
+    "opportunity_zones": [
+      {
+        "id": "opp_01",
+        "description": "Radikaali l\u00e4pin\u00e4kyvyys (Murtakaa myytti todisteilla)",
+        "rationale": "Ratkaisee tension_01:n. Asiakas uskoo omia silmi\u00e4\u00e4n enemm\u00e4n kuin mainoslausetta. Erottaa br\u00e4ndin asiantuntijuudella.",
+        "risk_level": "low"
+      },
+      {
+        "id": "opp_02",
+        "description": "Br\u00e4ndin inhimillist\u00e4minen ('Mekonomen-mekaanikko')",
+        "rationale": "Ratkaisee tension_02:n. Ihmiset ostavat ihmisilt\u00e4. Mahdollisuus omistaa 'moderni ammattilaisuus' vs. kilpailijoiden 'rasvan\u00e4ppi'-tyyli.",
+        "risk_level": "medium"
+      },
+      {
+        "id": "opp_03",
+        "description": "S\u00e4hk\u00f6autoilun 'Musta laatikko' auki",
+        "rationale": "Ratkaisee tension_03:n. T\u00e4ytt\u00e4\u00e4 markkinan tietotyhji\u00f6n ja rakentaa tulevaisuuden positiota asiantuntijuuden kautta.",
+        "risk_level": "medium"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Strateginen Dossier: Mekonomen Suomi",
+        "url": "N/A (Provided in prompt)",
+        "type": "report",
+        "date_accessed": "2026-02-01",
+        "relevance": "Primary source for synthesis"
+      },
+      {
+        "title": "MEKO AB Annual Reports & Strategy 2023-2025",
+        "url": "https://meko.com/investors",
+        "type": "company_site",
+        "date_accessed": "2026-02-01",
+        "relevance": "High - Corporate strategy evidence"
+      },
+      {
+        "title": "Mekonomen.fi",
+        "url": "https://www.mekonomen.fi",
+        "type": "company_site",
+        "date_accessed": "2026-02-01",
+        "relevance": "High - Brand identity and service offering"
+      },
+      {
+        "title": "Youtube.com (Mekonomen Suomi & Competitors)",
+        "url": "https://www.youtube.com",
+        "type": "social",
+        "date_accessed": "2026-02-01",
+        "relevance": "Medium - Content strategy analysis"
+      },
+      {
+        "title": "Trustpilot.com Reviews",
+        "url": "https://fi.trustpilot.com",
+        "type": "other",
+        "date_accessed": "2026-02-01",
+        "relevance": "Medium - Customer sentiment analysis"
+      }
+    ]
+  },
   "concept_briefs": [],
   "concepts": [],
   "treatment_files": [],
@@ -21,6 +231,34 @@
   "onepagers_skipped": false,
   "onepagers_error": null,
   "pitch_email": "",
-  "phase_history": [],
+  "phase_history": [
+    {
+      "phase": "validate",
+      "started_at": "2026-02-01T08:47:05.585878",
+      "completed_at": "2026-02-01T08:47:05.590257",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "check_archive",
+      "started_at": "2026-02-01T08:47:05.595390",
+      "completed_at": "2026-02-01T08:47:05.916637",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "research",
+      "started_at": "2026-02-01T08:47:05.923211",
+      "completed_at": null,
+      "success": false,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    }
+  ],
   "archive_ref": null
 }
