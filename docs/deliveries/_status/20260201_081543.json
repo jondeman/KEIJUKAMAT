@@ -2,8 +2,8 @@
   "run_id": "20260201_081543",
   "company_slug": "tokmanni",
   "created_at": "2026-02-01T08:15:43.171478",
-  "updated_at": "2026-02-01T08:26:44.315879",
-  "current_phase": "compose_pitch",
+  "updated_at": "2026-02-01T08:26:54.545464",
+  "current_phase": "package",
   "user_input": {
     "company_name": "Tokmanni",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -757,6 +757,15 @@
     {
       "phase": "compose_pitch",
       "started_at": "2026-02-01T08:26:44.307168",
+      "completed_at": "2026-02-01T08:26:54.536314",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "package",
+      "started_at": "2026-02-01T08:26:54.545436",
       "completed_at": null,
       "success": false,
       "error_message": null,
