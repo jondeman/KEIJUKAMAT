@@ -2,8 +2,8 @@
   "run_id": "20260201_082951",
   "company_slug": "fixus-autohuolto-ja-korjaamoketju",
   "created_at": "2026-02-01T08:29:51.597780",
-  "updated_at": "2026-02-01T08:32:29.041866",
-  "current_phase": "research",
+  "updated_at": "2026-02-01T08:32:30.768268",
+  "current_phase": "strategize",
   "user_input": {
     "company_name": "Fixus autohuolto ja -korjaamoketju",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -234,7 +234,38 @@
       }
     ]
   },
-  "concept_briefs": [],
+  "concept_briefs": [
+    {
+      "slot_id": "01",
+      "slot_type": "safe_bet",
+      "assigned_tension_id": "tension_01",
+      "strategic_focus": "Ralli-perint\u00f6 vs. S\u00e4hk\u00f6inen tulevaisuus: Br\u00e4ndi nojaa bensiininhuuruiseen ralliin, vaikka kasvu on s\u00e4hk\u00f6autoilevissa perheiss\u00e4.",
+      "platform_focus": "youtube",
+      "format_guidance": "Focus on proven YouTube formats: documentary-style, interview series, or educational content. Episodes should be 8-15 minutes. Prioritize professional production quality and clear brand alignment. The series should have obvious rewatch and share value.",
+      "risk_profile": "low",
+      "success_hypothesis": "This concept directly addresses Fixus autohuolto ja -korjaamoketju's top strategic priority (aspiration) with a proven format that minimizes execution risk while delivering measurable brand value."
+    },
+    {
+      "slot_id": "02",
+      "slot_type": "challenger",
+      "assigned_tension_id": "tension_03",
+      "strategic_focus": "Mainoskatko vs. Hakutulos: Fixus keskeytt\u00e4\u00e4 mainoksilla, kun kilpailija Motonet palvelee haetuilla sis\u00e4ll\u00f6ill\u00e4.",
+      "platform_focus": "tiktok",
+      "format_guidance": "Design for TikTok/Reels first: vertical format, 30-90 seconds, hook in first 3 seconds. Embrace platform-native aesthetics and trends. Consider creator collaborations. Content should feel bold and contemporary, not like traditional brand advertising.",
+      "risk_profile": "medium",
+      "success_hypothesis": "This concept enables Fixus autohuolto ja -korjaamoketju to aggressively address their threat with bold positioning that differentiates them in the market and captures attention on high-engagement platforms."
+    },
+    {
+      "slot_id": "03",
+      "slot_type": "moonshot",
+      "assigned_tension_id": "tension_02",
+      "strategic_focus": "'Helppo' lupaus vs. Asiakkaan ahdistus: Markkinointi lupaa helppoutta sloganilla, mutta ei k\u00e4sittele asiakkaan todellista ep\u00e4varmuutta l\u00e4pin\u00e4kyvyyden kautta.",
+      "platform_focus": "cross_platform",
+      "format_guidance": "Think beyond single-platform content: interactive experiences, live events with digital extensions, user participation mechanics, or innovative cross-platform storytelling. This should feel like something the industry hasn't seen before. High production ambition is acceptable given the differentiation potential.",
+      "risk_profile": "high",
+      "success_hypothesis": "This concept unlocks an untapped opportunity for Fixus autohuolto ja -korjaamoketju by addressing their gap in a way that creates cultural relevance and positions the brand as an innovator in their space."
+    }
+  ],
   "concepts": [],
   "treatment_files": [],
   "onepager_specs": [],
@@ -263,6 +294,15 @@
     {
       "phase": "research",
       "started_at": "2026-02-01T08:29:53.710163",
+      "completed_at": "2026-02-01T08:32:30.757189",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "strategize",
+      "started_at": "2026-02-01T08:32:30.762922",
       "completed_at": null,
       "success": false,
       "error_message": null,
