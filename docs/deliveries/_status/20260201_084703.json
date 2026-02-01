@@ -2,8 +2,8 @@
   "run_id": "20260201_084703",
   "company_slug": "mekomen-huolto-ja-autokorjaamo",
   "created_at": "2026-02-01T08:47:03.808542",
-  "updated_at": "2026-02-01T08:49:33.951501",
-  "current_phase": "strategize",
+  "updated_at": "2026-02-01T08:55:20.247404",
+  "current_phase": "create",
   "user_input": {
     "company_name": "Mekomen -huolto ja autokorjaamo",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -256,8 +256,336 @@
       "success_hypothesis": "This concept unlocks an untapped opportunity for Mekomen -huolto ja autokorjaamo by addressing their aspiration in a way that creates cultural relevance and positions the brand as an innovator in their space."
     }
   ],
-  "concepts": [],
-  "treatment_files": [],
+  "concepts": [
+    {
+      "id": "concept_01",
+      "title": "Konepellin Alla: Totuus Huollosta",
+      "hook": "Dokumenttisarja, joka murtaa merkkihuoltomyytin n\u00e4ytt\u00e4m\u00e4ll\u00e4 katsojalle t\u00e4sm\u00e4lleen mit\u00e4 autollesi tapahtuu \u2013 euro eurolta, ruuvi ruuvilta.",
+      "premise": "Jokaisessa jaksossa seurataan yhden auton huoltomatkaa alusta loppuun t\u00e4ydellisell\u00e4 l\u00e4pin\u00e4kyvyydell\u00e4: mit\u00e4 tehd\u00e4\u00e4n, miksi, ja paljonko se oikeasti maksaa verrattuna merkkiliikkeeseen. Mekonomen-mekaanikot selitt\u00e4v\u00e4t jokaisen ty\u00f6vaiheen kameralle kuin opettaisivat yst\u00e4v\u00e4\u00e4. Sarja tekee n\u00e4kyv\u00e4ksi sen, mit\u00e4 asiakas ei koskaan n\u00e4e \u2013 ja todistaa, ett\u00e4 laatu ei vaadi merkkiliikkeen hintaa.",
+      "long_form_extension": "8-osainen dokumenttisarja Ruutu+:ssa (jakso 25 min), josta leikataan my\u00f6s 4x45 min Total-TV -versio broadcast-jakeluun Nelosella.",
+      "format": {
+        "series_type": "seasonal",
+        "episode_length": "20-25 minuuttia",
+        "cadence": "Viikoittain",
+        "season_length": "8 jaksoa"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "YouTube",
+          "rationale": "YouTube on luonnollinen koti pitk\u00e4lle, opetukselliselle autosis\u00e4ll\u00f6lle. Hakukoneoptimointi tuo orgaanista liikennett\u00e4 vuosiksi eteenp\u00e4in, ja formaatti skaalautuu kansainv\u00e4lisesti.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "TikTok",
+            "rationale": "",
+            "adaptation": "60 sekunnin 'Arvaa paljonko t\u00e4m\u00e4 maksaa' -klipit, joissa paljastetaan yll\u00e4tt\u00e4v\u00e4 hintaero merkkiliikkeeseen."
+          },
+          {
+            "platform": "Instagram Reels",
+            "rationale": "",
+            "adaptation": "'Ennen ja j\u00e4lkeen' -transformaatiot ja mekaanikon nopeat vinkit."
+          }
+        ],
+        "amplification": "Yhteisty\u00f6 autobloggaajien kanssa (Tekniikan Maailma, Autotalli.com), PR-nosto ensimm\u00e4isen jakson julkaisun yhteydess\u00e4."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Auton vastaanotto ja asiakkaan huoli",
+          "Diagnostiikka kameralle selitettyn\u00e4",
+          "Hintavertailu: Mekonomen vs. merkkiliike (grafiikka)",
+          "Mekaanikon 'T\u00e4m\u00e4n sinun pit\u00e4\u00e4 tiet\u00e4\u00e4' -opetushetki",
+          "Lopputulos ja asiakkaan reaktio"
+        ],
+        "variable_elements": [
+          "Eri automerkit ja vuosimallit",
+          "Erilaiset huoltotyypit (m\u00e4\u00e4r\u00e4aikaishuolto, korjaus, s\u00e4hk\u00f6autohuolto)",
+          "Eri Mekonomen-toimipisteet ja mekaanikot ymp\u00e4ri Suomea",
+          "Asiakkaan tarina ja suhde autoonsa"
+        ],
+        "host_approach": "Ei erillist\u00e4 juontajaa \u2013 mekaanikot itse ovat sarjan kasvot. Valitaan 3-4 karismaattista ammattilaista eri toimipisteist\u00e4, jotka vuorottelevat jaksoissa."
+      },
+      "brand_integration": {
+        "philosophy": "Br\u00e4ndi on tarinan mahdollistaja, ei p\u00e4\u00e4henkil\u00f6. Mekonomen n\u00e4kyy luonnollisena ymp\u00e4rist\u00f6n\u00e4, jossa asiantuntijuus tapahtuu.",
+        "integration_method": "Logot n\u00e4kyv\u00e4t orgaanisesti tiloissa ja ty\u00f6asuissa. Hintavertailugrafiikka nostaa Mekonomen-hinnan esiin neutraalisti mutta edullisesti.",
+        "screen_time_balance": "85% sis\u00e4lt\u00f6\u00e4 ja opetusta, 15% br\u00e4ndin\u00e4kyvyytt\u00e4",
+        "cta_approach": "Jakson lopussa 'Varaa oma huoltosi mekonomen.fi' -teksti, ei aggressiivista myynti\u00e4."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "60 000 km:n Totuus",
+          "description": "Uudehkon Volkswagenin ensimm\u00e4inen iso m\u00e4\u00e4r\u00e4aikaishuolto \u2013 mit\u00e4 oikeasti tarkistetaan ja miksi merkkiliike laskuttaa 400\u20ac enemm\u00e4n?"
+        },
+        {
+          "number": 2,
+          "title": "Varoitusvalo Ei Valehtele",
+          "description": "Asiakkaan moottorivalo syttyi \u2013 seuraamme diagnostiikkaa ja korjausta, kun ongelma paljastuu yll\u00e4tt\u00e4v\u00e4n pieneksi."
+        },
+        {
+          "number": 3,
+          "title": "S\u00e4hk\u00f6auton Mysteeri",
+          "description": "Tesla Model 3:n akkudiagnostiikka ja jarruhuolto \u2013 mit\u00e4 s\u00e4hk\u00f6auton huollossa oikeasti tapahtuu?"
+        },
+        {
+          "number": 4,
+          "title": "Perheauton Pelastus",
+          "description": "Lapsiperheen ainoa auto tarvitsee kiireellisen korjauksen \u2013 miten Mekonomen reagoi aikapaineessa?"
+        },
+        {
+          "number": 5,
+          "title": "Takuupelko",
+          "description": "Asiakas pelk\u00e4\u00e4 takuun menetyst\u00e4 \u2013 seuraamme prosessia, jossa todistetaan dokumentein, ett\u00e4 takuu s\u00e4ilyy."
+        },
+        {
+          "number": 6,
+          "title": "Talvikunnostus",
+          "description": "Vanhemman Toyotan kokonaisvaltainen talvikuntoon laitto \u2013 renkaat, nesteet, akku ja yll\u00e4tykset."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee suoraan #1-j\u00e4nnitteen: rationaalinen lupaus vs. emotionaalinen ep\u00e4varmuus. L\u00e4pin\u00e4kyvyys rakentaa luottamusta, jota pelkk\u00e4 mainoslause ei voi saavuttaa.",
+        "competitive_differentiation": "Motonet tekee DIY-sis\u00e4lt\u00f6\u00e4, Fixus huumoria \u2013 kukaan ei n\u00e4yt\u00e4 itse huoltoprosessia sis\u00e4lt\u00e4p\u00e4in. Mekonomen omistaa 'totuuden' position.",
+        "audience_value_proposition": "Katsoja oppii jokaisesta jaksosta jotain konkreettista omasta autostaan ja s\u00e4\u00e4st\u00e4\u00e4 rahaa ymm\u00e4rt\u00e4m\u00e4ll\u00e4, mit\u00e4 huollossa oikeasti tapahtuu."
+      },
+      "execution": {
+        "complexity": "medium",
+        "budget_tier": "mid",
+        "timeline_to_first_episode": "10-12 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Mekaanikot eiv\u00e4t ole luontevia kameran edess\u00e4",
+          "mitigation": "Casting-prosessi, jossa testataan esiintymistaitoa. Valitaan 3-4 parasta koko verkostosta ja tarjotaan mediavalmennus."
+        },
+        {
+          "risk": "Hintavertailu voi \u00e4rsytt\u00e4\u00e4 merkkiliikkeit\u00e4 tai autojen maahantuojia",
+          "mitigation": "K\u00e4ytet\u00e4\u00e4n neutraalia, faktapohjaista grafiikkaa ilman negatiivista s\u00e4vy\u00e4. Fokus on Mekonomen-hinnan kohtuullisuudessa, ei kilpailijan mollaamisessa."
+        }
+      ]
+    },
+    {
+      "id": "concept_02",
+      "title": "Diagnoosi: 30 Sekuntia",
+      "hook": "TikTok-sarja, jossa Mekonomen-mekaanikko diagnosoi katsojien autojen oireet 30 sekunnissa \u2013 ja paljastaa, huijataanko heit\u00e4 muualla.",
+      "premise": "Katsojat l\u00e4hett\u00e4v\u00e4t videoita tai kuvauksia autojensa ongelmista: 'Auto t\u00e4risee 80 km/h:ssa', 'T\u00e4st\u00e4 kuuluu outo \u00e4\u00e4ni'. Karismaattinen Mekonomen-mekaanikko analysoi ongelman salamannopeasti, kertoo todenn\u00e4k\u00f6isen syyn ja arvioi realistisen hinnan. Formaatti on nopea, viihdytt\u00e4v\u00e4 ja opettava \u2013 ja paljastaa usein, ett\u00e4 ongelma on paljon pienempi (ja halvempi) kuin asiakas pelk\u00e4si.",
+      "long_form_extension": "TikTok-sarjasta kootaan 6x22 min 'Diagnoosi: Suomen Autot' -ohjelma Ruutu+:aan, jossa syvennyt\u00e4\u00e4n mielenkiintoisimpiin tapauksiin ja seurataan korjaukset loppuun.",
+      "format": {
+        "series_type": "ongoing",
+        "episode_length": "30-60 sekuntia",
+        "cadence": "3-4 kertaa viikossa",
+        "season_length": null
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "TikTok",
+          "rationale": "TikTokin algoritmi suosii opetuksellista, nopeaa sis\u00e4lt\u00f6\u00e4. Autosis\u00e4lt\u00f6 on alustalla alipalveltu, ja 'asiantuntija vastaa' -formaatti on todistettu viraalihitti.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "YouTube Shorts",
+            "rationale": "",
+            "adaptation": "Sama sis\u00e4lt\u00f6 suoraan cross-postattuna, optimoituna YouTube-hakuja varten."
+          },
+          {
+            "platform": "Instagram Reels",
+            "rationale": "",
+            "adaptation": "Valitut highlight-klipit, joissa korostetaan yll\u00e4tt\u00e4vimpi\u00e4 diagnooseja."
+          }
+        ],
+        "amplification": "Yhteisty\u00f6 auto-TikTokaajien kanssa (esim. Jukka Hild\u00e9n, autovaikuttajat), jotka 'haastavat' mekaanikon omilla autoillaan."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Katsojan kysymys/video n\u00e4yt\u00f6ll\u00e4",
+          "Mekaanikon nopea reaktio ja analyysi",
+          "'T\u00e4m\u00e4 maksaa sinulle...' -hinta-arvio",
+          "'Mutta jos sinulle sanottiin...' -huijausvaroitus (tarvittaessa)",
+          "Lopputeksti: 'L\u00e4het\u00e4 oma autosi @mekonomen_suomi'"
+        ],
+        "variable_elements": [
+          "Erilaiset automerkit ja ongelmat",
+          "Vaihteleva vakavuusaste (pieni niksi vs. iso korjaus)",
+          "Erikoisjaksot: s\u00e4hk\u00f6autot, klassikot, erikoiset tapaukset"
+        ],
+        "host_approach": "Yksi p\u00e4\u00e4kasvot: valitaan yksi erityisen karismaattinen, nopeasanainen mekaanikko, josta rakennetaan 'Mekonomen-kaveri' -hahmo. Tukena vierailevia asiantuntijoita."
+      },
+      "brand_integration": {
+        "philosophy": "Mekaanikko ON br\u00e4ndi. H\u00e4nen asiantuntijuutensa ja reiluutensa edustavat Mekonomen-arvoja ilman erillist\u00e4 mainontaa.",
+        "integration_method": "Mekonomen-ty\u00f6asu ja -tila n\u00e4kyv\u00e4t jokaisessa videossa luonnollisesti. Hinta-arviot viittaavat implisiittisesti Mekonomen-hintatasoon.",
+        "screen_time_balance": "90% sis\u00e4lt\u00f6\u00e4, 10% br\u00e4ndin\u00e4kyvyytt\u00e4",
+        "cta_approach": "Bio-linkki ja jakson lopun teksti ohjaavat varaussivulle. Ei \u00e4\u00e4neen sanottua mainosta."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "T\u00e4rin\u00e4 Moottoritiell\u00e4",
+          "description": "Katsojan auto t\u00e4risee vain tietyll\u00e4 nopeudella \u2013 mekaanikko paljastaa, ett\u00e4 kyse on todenn\u00e4k\u00f6isesti 50\u20ac tasapainotuksesta, ei 800\u20ac iskunvaimentimista."
+        },
+        {
+          "number": 2,
+          "title": "Mystinen \u00c4\u00e4ni",
+          "description": "Video oudosta \u00e4\u00e4nest\u00e4 konepellin alta \u2013 diagnoosi: l\u00f6ys\u00e4 suojapelti, korjaus 15 minuuttia."
+        },
+        {
+          "number": 3,
+          "title": "S\u00e4hk\u00f6auton Varoitusvalo",
+          "description": "Teslan omistaja paniikissa \u2013 mekaanikko rauhoittelee ja selitt\u00e4\u00e4, mit\u00e4 varoitusvalo oikeasti tarkoittaa."
+        },
+        {
+          "number": 4,
+          "title": "Valekorjaamo-varoitus",
+          "description": "Katsojalle tarjottiin 1500\u20ac korjausta \u2013 mekaanikko paljastaa, ett\u00e4 oikea hinta on kolmasosa."
+        },
+        {
+          "number": 5,
+          "title": "Klassikkohaaste",
+          "description": "Vanha Volvo 240 ja erikoinen ongelma \u2013 mekaanikko n\u00e4ytt\u00e4\u00e4, ett\u00e4 kokemus voittaa diagnostiikkalaitteen."
+        },
+        {
+          "number": 6,
+          "title": "Julkkishaaste",
+          "description": "Tunnettu suomalainen vaikuttaja tuo oman autonsa diagnosoitavaksi \u2013 yll\u00e4tysk\u00e4\u00e4nne lopussa."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Murtaa 'kasvoton j\u00e4ttil\u00e4inen' -ongelman antamalla br\u00e4ndille inhimillisen, asiantuntevan ja reilun hahmon, johon yleis\u00f6 voi samaistua.",
+        "competitive_differentiation": "Fixus tekee huumoria, Motonet DIY:t\u00e4 \u2013 kukaan ei tee nopeaa, interaktiivista asiantuntijasis\u00e4lt\u00f6\u00e4. Mekonomen omistaa 'luotettavan kaverin' position.",
+        "audience_value_proposition": "Katsoja saa ilmaisen asiantuntija-arvion omaan autoongelmaansa ja oppii tunnistamaan, milloin h\u00e4nt\u00e4 yritet\u00e4\u00e4n huijata."
+      },
+      "execution": {
+        "complexity": "low",
+        "budget_tier": "budget",
+        "timeline_to_first_episode": "4-6 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Diagnoosi et\u00e4n\u00e4 voi olla ep\u00e4tarkka ja aiheuttaa kritiikki\u00e4",
+          "mitigation": "Jokainen diagnoosi kehystet\u00e4\u00e4n 'todenn\u00e4k\u00f6isesti' -kielell\u00e4 ja kehotetaan aina varmistamaan paikan p\u00e4\u00e4ll\u00e4. Disclaimer jokaisessa videossa."
+        },
+        {
+          "risk": "Yleis\u00f6n osallistuminen ei l\u00e4hde k\u00e4yntiin",
+          "mitigation": "Ensimm\u00e4iset 20 jaksoa tehd\u00e4\u00e4n 'lavastettuna' \u2013 k\u00e4ytet\u00e4\u00e4n oikeita Mekonomen-asiakkaiden tapauksia heid\u00e4n luvallaan. Osallistuminen avataan vasta kun formaatti on tuttu."
+        }
+      ]
+    },
+    {
+      "id": "concept_03",
+      "title": "Suomen Pisin Matka",
+      "hook": "Live-seurattu roadtrip Suomen halki yhdell\u00e4 tankillisella/latauksella \u2013 polttomoottori vs. s\u00e4hk\u00f6auto, yleis\u00f6 p\u00e4\u00e4tt\u00e4\u00e4 reitin reaaliajassa.",
+      "premise": "Kaksi tiimi\u00e4, kaksi autoa: perinteinen polttomoottori ja s\u00e4hk\u00f6auto. Molemmat l\u00e4htev\u00e4t Helsingist\u00e4 ja yritt\u00e4v\u00e4t p\u00e4\u00e4st\u00e4 mahdollisimman kauas yhdell\u00e4 tankillisella/latauksella. Yleis\u00f6 \u00e4\u00e4nest\u00e4\u00e4 reaaliajassa reitti\u00e4, pys\u00e4hdyspaikkoja ja haasteita. Matkan varrella autot huolletaan Mekonomen-pisteill\u00e4, ja mekaanikot antavat vinkkej\u00e4 taloudelliseen ajoon. Kuka p\u00e4\u00e4see kauemmaksi? Kumpi teknologia voittaa Suomen olosuhteet?",
+      "long_form_extension": "Tapahtumasta leikataan 3x45 min dokumenttisarja 'Suomen Pisin Matka' MTV:lle/Katsomoon, jossa syvennyt\u00e4\u00e4n tiimien tarinoihin, teknologiavertailuun ja Suomen maisemiin.",
+      "format": {
+        "series_type": "event",
+        "episode_length": "48h live + p\u00e4ivitt\u00e4iset 15 min yhteenvedot",
+        "cadence": "Kerran vuodessa, viikonloppuna",
+        "season_length": "1 tapahtuma + 3 j\u00e4lkijaksoa"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "YouTube Live + TikTok Live",
+          "rationale": "Hybridilive maksimoi tavoittavuuden: YouTube pitk\u00e4kestoiselle seuraamiselle, TikTok hetken koukuille ja nuoremmalle yleis\u00f6lle.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "Instagram Stories",
+            "rationale": "",
+            "adaptation": "Reaaliaikaiset p\u00e4ivitykset, \u00e4\u00e4nestykset ja behind-the-scenes -materiaali."
+          },
+          {
+            "platform": "X/Twitter",
+            "rationale": "",
+            "adaptation": "Live-tilannep\u00e4ivitykset ja interaktio yleis\u00f6n kanssa, hashtag-kampanja #PisinMatka."
+          }
+        ],
+        "amplification": "PR-kampanja ennen tapahtumaa, yhteisty\u00f6 automediaoiden kanssa (Tekniikan Maailma, Iltalehti Autot), paikalliset Mekonomen-pisteet mukana matkan varrella."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Reaaliaikainen karttan\u00e4kym\u00e4 molemmista autoista",
+          "Yleis\u00f6\u00e4\u00e4nestykset (reitti, haasteet, pys\u00e4hdykset)",
+          "Mekonomen-pisteell\u00e4 pys\u00e4hdys: mekaanikon vinkit ja auton tarkistus",
+          "Tunnelma- ja maisemakuvat Suomesta",
+          "Loppuhuipennus: kumpi p\u00e4\u00e4si kauemmaksi?"
+        ],
+        "variable_elements": [
+          "Yleis\u00f6n p\u00e4\u00e4tt\u00e4m\u00e4t reitit ja haasteet",
+          "S\u00e4\u00e4olosuhteet ja yll\u00e4tykset matkan varrella",
+          "Vuosittain vaihtuva teema (kes\u00e4 vs. talvi, etel\u00e4-pohjoinen vs. it\u00e4-l\u00e4nsi)"
+        ],
+        "host_approach": "Kaksi juontaja-kuljettajaparia (tunnetut kasvot + mekaanikkokaveri), jotka edustavat eri sukupolvia ja autokulttuureita. Esim. tunnettu tubettaja + kokenut rallikuski."
+      },
+      "brand_integration": {
+        "philosophy": "Mekonomen on matkan mahdollistaja ja turvaverkko \u2013 br\u00e4ndi n\u00e4kyy luonnollisesti huoltopisteill\u00e4 ja asiantuntijuuden kautta.",
+        "integration_method": "Mekonomen-pisteet ovat virallisia 'tukikohtia' reitin varrella. Mekaanikot antavat kameralle vinkkej\u00e4 ja tarkistavat autot. E-Mekonomen-osaaminen korostuu s\u00e4hk\u00f6auton latauspisteill\u00e4.",
+        "screen_time_balance": "75% tapahtumaa ja matkaa, 25% Mekonomen-kontaktipisteit\u00e4",
+        "cta_approach": "Tapahtuman aikana 'Varaa oma huoltosi ja osallistu arvontaan' -kampanja, ei aggressiivista myynti\u00e4 live-l\u00e4hetyksen aikana."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "L\u00e4ht\u00f6laukaus Helsingist\u00e4",
+          "description": "Molemmat autot huolletaan Mekonomenilla, tiimit esitell\u00e4\u00e4n ja yleis\u00f6 \u00e4\u00e4nest\u00e4\u00e4 ensimm\u00e4isen suunnan."
+        },
+        {
+          "number": 2,
+          "title": "Ensimm\u00e4inen Haaste",
+          "description": "Yleis\u00f6 p\u00e4\u00e4tt\u00e4\u00e4 yll\u00e4tyshaasteen: kiertotie vai suora reitti? S\u00e4hk\u00f6auton latausstrategia paljastuu."
+        },
+        {
+          "number": 3,
+          "title": "Y\u00f6ajo",
+          "description": "Pimeys laskeutuu, kamerat siirtyv\u00e4t y\u00f6tilaan. Tunnelmallinen jakso Suomen kes\u00e4y\u00f6st\u00e4."
+        },
+        {
+          "number": 4,
+          "title": "Kriittinen Piste",
+          "description": "Molemmilla autoilla alkaa loppua polttoaine/lataus \u2013 j\u00e4nnitt\u00e4v\u00e4 vaihe, jossa strategia ratkaisee."
+        },
+        {
+          "number": 5,
+          "title": "Loppukirisarja",
+          "description": "Viimeiset kilometrit, yleis\u00f6n kannustus, kumpi auto sammuu ensin?"
+        },
+        {
+          "number": 6,
+          "title": "Voittajan Julistus",
+          "description": "Tulokset paljastetaan, tiimit haastatellaan, opitut vinkit k\u00e4yd\u00e4\u00e4n l\u00e4pi Mekonomen-mekaanikon kanssa."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Yhdist\u00e4\u00e4 molemmat strategiset prioriteetit: s\u00e4hk\u00f6autojen osaaminen (E-Mekonomen) JA perinteinen huolto-osaaminen samassa formaatissa. Ratkaisee 'tulevaisuus vs. nykyhetki' -j\u00e4nnitteen.",
+        "competitive_differentiation": "Kukaan kilpailija ei tee live-tapahtumasis\u00e4lt\u00f6\u00e4 autoalalla Suomessa. T\u00e4m\u00e4 on t\u00e4ysin uusi kategoria, jossa Mekonomen voi olla ensimm\u00e4inen.",
+        "audience_value_proposition": "Interaktiivinen seikkailu, jossa yleis\u00f6 vaikuttaa tapahtumiin reaaliajassa. Yhdist\u00e4\u00e4 kotimaanmatkailun, autoteknologian ja kilpailun j\u00e4nnityksen."
+      },
+      "execution": {
+        "complexity": "high",
+        "budget_tier": "premium",
+        "timeline_to_first_episode": "16-20 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Tekniset ongelmat live-l\u00e4hetyksess\u00e4 kesken matkan",
+          "mitigation": "Redundantti livestream-setup molemmissa autoissa (5G + Starlink), ennakkotestatut reitit, varasuunnitelma offline-p\u00e4ivityksille."
+        },
+        {
+          "risk": "S\u00e4hk\u00f6auto 'h\u00e4vi\u00e4\u00e4' ja viesti k\u00e4\u00e4ntyy negatiiviseksi",
+          "mitigation": "Kehystet\u00e4\u00e4n kilpailu 'erilaisuuden' kautta, ei paremmuuden. Molemmat teknologiat esitell\u00e4\u00e4n vahvuuksiensa kautta \u2013 s\u00e4hk\u00f6auto voi voittaa toisella mittarilla (esim. kustannus/km)."
+        },
+        {
+          "risk": "Yleis\u00f6n osallistuminen j\u00e4\u00e4 v\u00e4h\u00e4iseksi",
+          "mitigation": "Ennakkomarkkinointi 4 viikkoa ennen, vaikuttajayhteisty\u00f6t, palkinnot aktiivisimmille osallistujille."
+        }
+      ]
+    }
+  ],
+  "treatment_files": [
+    "/opt/render/project/src/runs/mekomen_-huolto_ja_autokorjaamo/TREATMENTS/mekomen_-huolto_ja_autokorjaamo_TREATMENT_01_20260201_085520.md",
+    "/opt/render/project/src/runs/mekomen_-huolto_ja_autokorjaamo/TREATMENTS/mekomen_-huolto_ja_autokorjaamo_TREATMENT_02_20260201_085520.md",
+    "/opt/render/project/src/runs/mekomen_-huolto_ja_autokorjaamo/TREATMENTS/mekomen_-huolto_ja_autokorjaamo_TREATMENT_03_20260201_085520.md"
+  ],
   "onepager_specs": [],
   "onepagers_skipped": false,
   "onepagers_error": null,
@@ -293,6 +621,15 @@
     {
       "phase": "strategize",
       "started_at": "2026-02-01T08:49:33.943650",
+      "completed_at": "2026-02-01T08:49:35.671497",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "create",
+      "started_at": "2026-02-01T08:49:35.681882",
       "completed_at": null,
       "success": false,
       "error_message": null,
