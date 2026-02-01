@@ -2,8 +2,8 @@
   "run_id": "20260201_082951",
   "company_slug": "fixus-autohuolto-ja-korjaamoketju",
   "created_at": "2026-02-01T08:29:51.597780",
-  "updated_at": "2026-02-01T08:42:30.377986",
-  "current_phase": "compose_pitch",
+  "updated_at": "2026-02-01T08:42:40.224749",
+  "current_phase": "package",
   "user_input": {
     "company_name": "Fixus autohuolto ja -korjaamoketju",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -735,6 +735,15 @@
     {
       "phase": "compose_pitch",
       "started_at": "2026-02-01T08:42:30.369361",
+      "completed_at": "2026-02-01T08:42:40.215467",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "package",
+      "started_at": "2026-02-01T08:42:40.224726",
       "completed_at": null,
       "success": false,
       "error_message": null,
