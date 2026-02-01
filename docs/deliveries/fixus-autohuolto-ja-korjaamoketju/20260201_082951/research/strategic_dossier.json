@@ -1,0 +1,221 @@
+{
+  "company_name": "Fixus autohuolto ja -korjaamoketju",
+  "company_slug": "fixus-autohuolto-ja-korjaamoketju",
+  "generated_at": "2026-02-01T08:32:29.030474",
+  "brand_identity": {
+    "positioning": "Helposti l\u00e4hestytt\u00e4v\u00e4 ja inhimillinen vaihtoehto merkkihuolloille. Br\u00e4ndilupaus 'Helppo kyll\u00e4' siirt\u00e4\u00e4 fokuksen teknisest\u00e4 suorittamisesta asiakkaan huolen poistamiseen.",
+    "visual_markers": {
+      "primary_color": "#FFD700 (Arvioitu keltainen)",
+      "secondary_colors": [
+        "Musta"
+      ],
+      "style_keywords": [
+        "Piirretty",
+        "Teko\u00e4lyhenkinen",
+        "Teollinen",
+        "Huomiov\u00e4rit"
+      ],
+      "tone_keywords": [
+        "Rento",
+        "Kansanomainen",
+        "Perinteinen"
+      ]
+    },
+    "voice_characteristics": [
+      "Naapurin luotettava korjaaja",
+      "Ongelmanratkaisukeskeinen",
+      "Perinteinen autokorjaamo"
+    ]
+  },
+  "strategic_priorities": [
+    {
+      "rank": 1,
+      "priority": "Digitaalinen transformaatio ja asioinnin helppous",
+      "evidence": [
+        "Uusi 'Helppo kyll\u00e4' -lupaus",
+        "Panostus verkkovarausj\u00e4rjestelm\u00e4\u00e4n ja verkkokauppaan",
+        "Tavoite siirt\u00e4\u00e4 asiakas puhelimesta digiin"
+      ],
+      "execution_assessment": "moderate"
+    },
+    {
+      "rank": 2,
+      "priority": "S\u00e4hk\u00f6istyminen (EV-valmius)",
+      "evidence": [
+        "Emo-yhti\u00f6 MEKO AB:n strateginen painopiste",
+        "E-autohuolto -konseptit",
+        "Tarve vastata autokannan muutokseen"
+      ],
+      "execution_assessment": "weak"
+    },
+    {
+      "rank": 3,
+      "priority": "Ketjuohjauksen konsolidaatio",
+      "evidence": [
+        "MEKO-omistus ohjaa kohti yhten\u00e4isemp\u00e4\u00e4 ketjua",
+        "Tarve yhten\u00e4ist\u00e4\u00e4 satojen itsen\u00e4isten yritt\u00e4jien toimintaa"
+      ],
+      "execution_assessment": "moderate"
+    }
+  ],
+  "marketing_posture": {
+    "current_content_types": [
+      "TVC (televisiomainonta)",
+      "Pre-roll mainokset",
+      "Ongelma-ratkaisu -formaatti",
+      "Ralli-sponsorointisis\u00e4lt\u00f6"
+    ],
+    "channel_presence": {
+      "youtube": {
+        "active": false,
+        "assessment": "Passiivinen/Mainosarkisto. Vain lyhyit\u00e4 mainosspotteja, ei orgaanista sis\u00e4lt\u00f6\u00e4."
+      },
+      "tiktok": {
+        "active": false,
+        "assessment": "Olematon. Ei merkitt\u00e4v\u00e4\u00e4 strategista l\u00e4sn\u00e4oloa."
+      },
+      "instagram": {
+        "active": true,
+        "assessment": "Hajanainen. Keskusjohdettu viestint\u00e4 mainosmaista, kent\u00e4ll\u00e4 kirjavaa yritt\u00e4j\u00e4vetoista sis\u00e4lt\u00f6\u00e4."
+      },
+      "linkedin": {
+        "active": false,
+        "assessment": "Ei mainittu analyysiss\u00e4 / Ei strategisessa fokuksessa."
+      }
+    },
+    "apparent_gaps": [
+      "Help-sis\u00e4lt\u00f6 puuttuu t\u00e4ysin",
+      "How-to -videot puuttuvat",
+      "Asiantuntijakasvot puuttuvat",
+      "Syv\u00e4llinen tieto huolloista puuttuu"
+    ],
+    "audience_engagement": "Matala. Katselukerrat perustuvat ostettuun mediaan. Yleis\u00f6 ei kommentoi tai sitoudu, koska sis\u00e4lt\u00f6 on keskeytt\u00e4v\u00e4\u00e4 mainontaa."
+  },
+  "competitive_analysis": {
+    "key_competitors": [
+      {
+        "name": "Motonet",
+        "content_strategy": "Tee-se-itse -sis\u00e4ll\u00f6n kuningas, opettaa asiakkaita ja hallitsee hakukoneita.",
+        "threat_level": "high"
+      },
+      {
+        "name": "Merkkiliikkeet",
+        "content_strategy": "Turvallisuus, takuu ja virallisuus.",
+        "threat_level": "high"
+      },
+      {
+        "name": "Mekonomen",
+        "content_strategy": "Modernimpi, pohjoismainen, premiumimpi sisarbr\u00e4ndi.",
+        "threat_level": "medium"
+      }
+    ],
+    "brand_winning_areas": [
+      "Paikallisuus ja yritt\u00e4j\u00e4vetoisuus",
+      "Hintamielikuva vs. merkkiliikkeet"
+    ],
+    "brand_losing_areas": [
+      "Modernius",
+      "S\u00e4hk\u00f6autouskottavuus",
+      "Digitaalinen sis\u00e4lt\u00f6preesens (hy\u00f6dyllisyys)"
+    ]
+  },
+  "strategic_tensions": [
+    {
+      "id": "tension_01",
+      "description": "Ralli-perint\u00f6 vs. S\u00e4hk\u00f6inen tulevaisuus: Br\u00e4ndi nojaa bensiininhuuruiseen ralliin, vaikka kasvu on s\u00e4hk\u00f6autoilevissa perheiss\u00e4.",
+      "evidence": [
+        "Vahva Fixus SM-ralli -sponsorointi",
+        "MEKO:n EV-strategia"
+      ],
+      "opportunity_type": "aspiration",
+      "priority_score": 5
+    },
+    {
+      "id": "tension_02",
+      "description": "'Helppo' lupaus vs. Asiakkaan ahdistus: Markkinointi lupaa helppoutta sloganilla, mutta ei k\u00e4sittele asiakkaan todellista ep\u00e4varmuutta l\u00e4pin\u00e4kyvyyden kautta.",
+      "evidence": [
+        "Mainonta on huumoria",
+        "Prosessin avaaminen puuttuu"
+      ],
+      "opportunity_type": "gap",
+      "priority_score": 4
+    },
+    {
+      "id": "tension_03",
+      "description": "Mainoskatko vs. Hakutulos: Fixus keskeytt\u00e4\u00e4 mainoksilla, kun kilpailija Motonet palvelee haetuilla sis\u00e4ll\u00f6ill\u00e4.",
+      "evidence": [
+        "YouTube-kanava on mainosarkisto",
+        "Motonet dominoi how-to -hakuja"
+      ],
+      "opportunity_type": "threat",
+      "priority_score": 5
+    },
+    {
+      "id": "tension_04",
+      "description": "Teko\u00e4lyhahmot vs. Oikeat asiantuntijat: Br\u00e4ndi k\u00e4ytt\u00e4\u00e4 piirrettyj\u00e4 hahmoja, menett\u00e4en aitojen yritt\u00e4jien tuoman luottamuksen.",
+      "evidence": [
+        "Uusi visuaalinen ilme",
+        "Tutkimushavainto: Aito ihminen voittaa teko\u00e4lyhahmon luottamuksessa"
+      ],
+      "opportunity_type": "gap",
+      "priority_score": 3
+    }
+  ],
+  "opportunity_zones": [
+    {
+      "id": "opp_01",
+      "description": "Konepellin alle - L\u00e4pin\u00e4kyvyyden radikaali lis\u00e4\u00e4minen",
+      "rationale": "Ratkaisee j\u00e4nnitteen Lupaus vs. Ahdistus. Poistaa mystiikan ja pelon korjaamok\u00e4ynnist\u00e4 n\u00e4ytt\u00e4m\u00e4ll\u00e4 mit\u00e4 huollossa oikeasti tehd\u00e4\u00e4n.",
+      "risk_level": "low"
+    },
+    {
+      "id": "opp_02",
+      "description": "EV-myyttien murtajat",
+      "rationale": "Ratkaisee j\u00e4nnitteen Ralli vs. S\u00e4hk\u00f6. Rakentaa uskottavuutta uudessa segmentiss\u00e4 todistamalla osaamisen.",
+      "risk_level": "medium"
+    },
+    {
+      "id": "opp_03",
+      "description": "'Kysy mekaanikolta' -kasvot",
+      "rationale": "Ratkaisee j\u00e4nnitteen Mainoskatko vs. Hakutulos. Inhimillist\u00e4\u00e4 br\u00e4ndin ja luo 'naapurin korjaaja' -fiiliksen digitaalisesti.",
+      "risk_level": "low"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Fixus YouTube Channel",
+      "url": "youtube.com",
+      "type": "social",
+      "date_accessed": "2024-05-20",
+      "relevance": "Sis\u00e4lt\u00f6auditoinnin l\u00e4hde"
+    },
+    {
+      "title": "Mekonomen Group (MEKO) Strategy",
+      "url": "mekonomen.fi",
+      "type": "company_site",
+      "date_accessed": "2024-05-20",
+      "relevance": "Strategisten prioriteettien l\u00e4hde"
+    },
+    {
+      "title": "Ralli SM",
+      "url": "rallism.fi",
+      "type": "other",
+      "date_accessed": "2024-05-20",
+      "relevance": "Sponsorointistrategian l\u00e4hde"
+    },
+    {
+      "title": "Theseus / Opinn\u00e4ytety\u00f6t alalta",
+      "url": "theseus.fi",
+      "type": "report",
+      "date_accessed": "2024-05-20",
+      "relevance": "Markkinaymm\u00e4rrys"
+    },
+    {
+      "title": "Autoliitto",
+      "url": "autoliitto.fi",
+      "type": "other",
+      "date_accessed": "2024-05-20",
+      "relevance": "Autoilijoiden k\u00e4ytt\u00e4ytyminen"
+    }
+  ]
+}
