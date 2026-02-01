@@ -2,8 +2,8 @@
   "run_id": "20260201_081543",
   "company_slug": "tokmanni",
   "created_at": "2026-02-01T08:15:43.171478",
-  "updated_at": "2026-02-01T08:17:58.592753",
-  "current_phase": "strategize",
+  "updated_at": "2026-02-01T08:23:28.152636",
+  "current_phase": "create",
   "user_input": {
     "company_name": "Tokmanni",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -287,8 +287,338 @@
       "success_hypothesis": "This concept unlocks an untapped opportunity for Tokmanni by addressing their aspiration in a way that creates cultural relevance and positions the brand as an innovator in their space."
     }
   ],
-  "concepts": [],
-  "treatment_files": [],
+  "concepts": [
+    {
+      "id": "concept_01",
+      "title": "L\u00f6yt\u00f6retki",
+      "hook": "Dokumentaarinen sarja, jossa tunnetut suomalaiset l\u00f6yt\u00e4v\u00e4t Tokmannin hyllyilt\u00e4 yll\u00e4tt\u00e4vi\u00e4 aarteita ja todistavat, ett\u00e4 fiksu ostaminen ei tarkoita tinkimist\u00e4.",
+      "premise": "Jokaisessa jaksossa julkisuuden henkil\u00f6 saa teht\u00e4v\u00e4ksi ratkaista arjen haasteen \u2013 juhlap\u00f6yd\u00e4n kattamisen, m\u00f6kin remontin tai lastenjuhlien j\u00e4rjest\u00e4misen \u2013 pelk\u00e4st\u00e4\u00e4n Tokmannin valikoimasta. Kamera seuraa aitoa l\u00f6yt\u00f6retke\u00e4 myym\u00e4l\u00e4ss\u00e4 ja paljastaa valikoiman laajuuden tavalla, jota kukaan ei odottanut. Sarja murtaa mielikuvan halpakaupasta ja rakentaa uuden tarinan fiksusta ostamisesta.",
+      "long_form_extension": "8-osainen dokumenttisarja Ruutu+:aan (jakso 25 min), josta koostetaan my\u00f6s 4x45 min broadcast-versio Neloselle.",
+      "format": {
+        "series_type": "seasonal",
+        "episode_length": "20-25 minuuttia",
+        "cadence": "Viikoittain",
+        "season_length": "8 jaksoa"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "YouTube",
+          "rationale": "Pitk\u00e4muotoinen dokumentaarinen sis\u00e4lt\u00f6 toimii parhaiten YouTubessa, jossa katsojat sitoutuvat pidempiin tarinoihin ja hakutulokset tuovat jatkuvaa orgaanista liikennett\u00e4.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "Instagram",
+            "rationale": "",
+            "adaptation": "60 sekunnin 'paras l\u00f6yt\u00f6' -klipit ja behind-the-scenes -materiaali t\u00e4hden myym\u00e4l\u00e4seikkailusta."
+          },
+          {
+            "platform": "TikTok",
+            "rationale": "",
+            "adaptation": "Vertikaaliset 'arvaa mit\u00e4 t\u00e4m\u00e4 maksoi' -teasersit ja reaktiovideot yll\u00e4tt\u00e4viin l\u00f6yt\u00f6ihin."
+          }
+        ],
+        "amplification": "Vieraiden omat somekanavat jakavat sis\u00e4lt\u00f6\u00e4, Tokmanni Klubin uutiskirje ja myym\u00e4l\u00e4markkinointi."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Teht\u00e4v\u00e4nanto ja budjettiraja jakson alussa",
+          "Myym\u00e4l\u00e4kierros kameran kanssa (l\u00f6yt\u00f6retki-sekvenssi)",
+          "Lopputulos ja 'olisiko uskonut?' -paljastus",
+          "Hintavertailu kilpailijoihin"
+        ],
+        "variable_elements": [
+          "Eri julkisuuden henkil\u00f6t ja heid\u00e4n persoonalliset reaktionsa",
+          "Vaihtelevat teht\u00e4v\u00e4t (juhlat, remontti, matka, harrastus)",
+          "Eri myym\u00e4l\u00e4t ymp\u00e4ri Suomea"
+        ],
+        "host_approach": "Jokaisessa jaksossa eri julkisuuden henkil\u00f6 p\u00e4\u00e4osassa \u2013 ei vakiojuontajaa. Mahdollisia vieraita: Arman Alizad, Krista Siegfrids, Jukka Hild\u00e9n."
+      },
+      "brand_integration": {
+        "philosophy": "Tokmanni ei ole sponsori vaan areena. Br\u00e4ndi n\u00e4kyy luontevasti osana l\u00f6yt\u00f6retke\u00e4, ei mainospuheena.",
+        "integration_method": "Tuotteet ja hinnat n\u00e4kyv\u00e4t orgaanisesti ostoskorin t\u00e4yttyess\u00e4. Omien merkkien laatu todennetaan k\u00e4yt\u00f6ss\u00e4.",
+        "screen_time_balance": "85% sis\u00e4lt\u00f6\u00e4, 15% br\u00e4ndi",
+        "cta_approach": "Jakson lopussa linkki kyseisen teeman tuotteisiin verkkokaupassa. Tokmanni Klubi -maininta."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "H\u00e4\u00e4t 500 eurolla",
+          "description": "Julkkis j\u00e4rjest\u00e4\u00e4 t\u00e4ydelliset h\u00e4\u00e4t pelk\u00e4st\u00e4\u00e4n Tokmannin valikoimasta \u2013 koriste- ja kattaustarvikkeista juhla-asusteisiin."
+        },
+        {
+          "number": 2,
+          "title": "M\u00f6kkitalkoot",
+          "description": "Kes\u00e4m\u00f6kin kunnostus viikonlopussa: ty\u00f6kalut, maalit, tekstiilit ja grillivarusteet yhdest\u00e4 paikasta."
+        },
+        {
+          "number": 3,
+          "title": "Lastenjuhlien taikuri",
+          "description": "Syntt\u00e4rijuhlat 20 lapselle: koristelut, leikit, tarjoilut ja lahjapussit budjetissa."
+        },
+        {
+          "number": 4,
+          "title": "Treenihuoneen muutos",
+          "description": "Kotikuntosali autotalliin: treenivekotiimet, lattiamatot ja motivaatiosein\u00e4 Tokmannilta."
+        },
+        {
+          "number": 5,
+          "title": "Lemmikkiparatiisin rakentajat",
+          "description": "Koiran tai kissan unelmaymp\u00e4rist\u00f6 \u2013 h\u00e4kit, lelut, hoitotarvikkeet ja ruoat."
+        },
+        {
+          "number": 6,
+          "title": "Festivaalipakkaus",
+          "description": "T\u00e4ydellinen festivaalivarustus nollasta: teltta, makuupussi, sadevarusteet ja retkikeitti\u00f6."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee suoraan j\u00e4nnitteen 'laaja valikoima = sekasotku' \u2013 sarja todistaa konkreettisesti mit\u00e4 kaikkea l\u00f6ytyy ja miksi se on arvokasta.",
+        "competitive_differentiation": "Normal tekee TikTok-l\u00f6yt\u00f6j\u00e4, mutta kukaan ei tee syv\u00e4llist\u00e4 dokumentaarista sis\u00e4lt\u00f6\u00e4 discount-kaupasta. T\u00e4m\u00e4 nostaa Tokmannin eri sarjaan.",
+        "audience_value_proposition": "Viihteellinen 'selviytymisohjelma' jossa on aitoa j\u00e4nnitett\u00e4 (onnistuuko?) ja konkreettista inspiraatiota omaan el\u00e4m\u00e4\u00e4n."
+      },
+      "execution": {
+        "complexity": "medium",
+        "budget_tier": "mid",
+        "timeline_to_first_episode": "10-12 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Julkkisten aikataulujen sovittaminen tuotantoaikatauluun",
+          "mitigation": "Kuvausjakso suunnitellaan joustavaksi, varahenkil\u00f6t valmiina."
+        },
+        {
+          "risk": "Sis\u00e4lt\u00f6 voi vaikuttaa liian mainosmaiselta jos hinnat korostuvat liikaa",
+          "mitigation": "Fokus tarinassa ja henkil\u00f6ss\u00e4, hinnat tulevat luonnollisesti esiin vasta lopputuloksessa."
+        }
+      ]
+    },
+    {
+      "id": "concept_02",
+      "title": "Tokmannin Kest\u00e4vyystesti",
+      "hook": "TikTok-sarja jossa testataan Tokmannin omia merkkej\u00e4 \u00e4\u00e4riolosuhteissa ja todistetaan Gen Z:lle, ett\u00e4 halpa voi olla hyv\u00e4\u00e4.",
+      "premise": "Nuoret sis\u00e4ll\u00f6ntuottajat viev\u00e4t Tokmannin Private Label -tuotteet \u00e4\u00e4rirajoille: Pisara-siivousaineet likaisimpaan asuntoon, Br\u00fccke-ty\u00f6kalut kovimpiin remonttihaasteisiin, Kotikulta-tekstiilit rajuimpiin kest\u00e4vyystesteihin. Videot ovat lyhyit\u00e4, raakoja ja rehellisi\u00e4 \u2013 jos tuote pett\u00e4\u00e4, se n\u00e4ytet\u00e4\u00e4n. Autenttisuus rakentaa luottamusta.",
+      "long_form_extension": "Kuukausittain julkaistava 15 minuutin 'Best of Kest\u00e4vyystesti' -kooste YouTubeen + 6x22 min kausi Ruutu+:aan.",
+      "format": {
+        "series_type": "ongoing",
+        "episode_length": "30-90 sekuntia",
+        "cadence": "3 kertaa viikossa",
+        "season_length": null
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "TikTok",
+          "rationale": "Gen Z tavoitetaan TikTokissa, ja 'stress test' -formaatti on alustalla eritt\u00e4in suosittu. Orgaaninen levi\u00e4minen on mahdollista.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "Instagram Reels",
+            "rationale": "",
+            "adaptation": "Samat videot editoituna hieman siistimp\u00e4\u00e4n muotoon, enemm\u00e4n tekstioverlayta."
+          },
+          {
+            "platform": "YouTube Shorts",
+            "rationale": "",
+            "adaptation": "Lyhyet klipit ohjaavat pitkiin koostevideoihin."
+          }
+        ],
+        "amplification": "Yhteisty\u00f6 lifestyle- ja DIY-vaikuttajien kanssa, haastekampanjat joissa seuraajat ehdottavat testej\u00e4."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Tuotteen esittely ja hinta heti alussa (3 sekunnin hook)",
+          "Testin kuvaus ja mittarit",
+          "Rehellinen lopputulos: kestik\u00f6 vai ei?",
+          "Vertailu kalliimpaan vaihtoehtoon"
+        ],
+        "variable_elements": [
+          "Eri tuotekategoriat (siivous, ty\u00f6kalut, tekstiilit, kosmetiikka)",
+          "Eri testaajat ja heid\u00e4n persoonansa",
+          "Vaihtelevat testiymp\u00e4rist\u00f6t (koti, ulkona, ty\u00f6maa)"
+        ],
+        "host_approach": "Rotaatio nuorista sis\u00e4ll\u00f6ntuottajista (esim. Roni Back, Mmiisas, Tuure Boelius). Ei yht\u00e4 vakiokasvoa vaan vaikuttajaverkosto."
+      },
+      "brand_integration": {
+        "philosophy": "Radikaali rehellisyys rakentaa luottamusta. Br\u00e4ndi uskaltaa n\u00e4ytt\u00e4\u00e4 testit, koska luottaa tuotteisiinsa.",
+        "integration_method": "Tuote on p\u00e4\u00e4osassa, mutta Tokmanni-br\u00e4ndi tulee mukaan vasta lopussa. 'Testasimme, toimii \u2013 Tokmannilta X eurolla.'",
+        "screen_time_balance": "90% testi ja reaktio, 10% br\u00e4ndi",
+        "cta_approach": "Linkit biossa tuotesivuille. Kommenteissa vastaukset tuotekysymyksiin."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Pisara vs. maailman likaisin keitti\u00f6",
+          "description": "Sis\u00e4ll\u00f6ntuottaja siivoaa kavereiden k\u00e4mp\u00e4n pelk\u00e4st\u00e4\u00e4n Pisara-tuotteilla \u2013 onnistuuko muutos?"
+        },
+        {
+          "number": 2,
+          "title": "Br\u00fccke-porakone 1000 ruuvia",
+          "description": "Kest\u00e4\u00e4k\u00f6 halpakaupan porakone ammattilaisteht\u00e4v\u00e4n? Ruuvi ruuvilta selvi\u00e4\u00e4."
+        },
+        {
+          "number": 3,
+          "title": "Kotikulta-lakana pesukoneessa 50 kertaa",
+          "description": "Stressitesti tekstiilien kest\u00e4vyydelle: milt\u00e4 n\u00e4ytt\u00e4\u00e4 50 pesun j\u00e4lkeen?"
+        },
+        {
+          "number": 4,
+          "title": "Perfekt+-meikki 12 tunnin bileiss\u00e4",
+          "description": "Kest\u00e4\u00e4k\u00f6 halpakaupan meikki festivaalip\u00e4iv\u00e4n hikoilun ja tanssin?"
+        },
+        {
+          "number": 5,
+          "title": "Tokmannin retkivarusteet myrskyss\u00e4",
+          "description": "Teltta, makuupussi ja retkilyhty Lapin syysmyrskyss\u00e4 \u2013 todellinen kest\u00e4vyystesti."
+        },
+        {
+          "number": 6,
+          "title": "Keitti\u00f6v\u00e4lineet ammattikokin k\u00e4siss\u00e4",
+          "description": "Ravintolakokki valmistaa fine dining -annoksen pelk\u00e4st\u00e4\u00e4n Tokmannin keitti\u00f6v\u00e4lineill\u00e4."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee suoraan j\u00e4nnitteen 'halpa = huono laatu' todistamalla Private Label -tuotteiden toimivuuden konkreettisesti.",
+        "competitive_differentiation": "Normal ja muut eiv\u00e4t uskalla tehd\u00e4 rehellist\u00e4 testausta. Tokmanni voi omistaa 'stress test' -formaatin Suomessa.",
+        "audience_value_proposition": "Viihdytt\u00e4v\u00e4, informatiivinen ja yll\u00e4tt\u00e4v\u00e4. Katsoja oppii jotain ja viihtyy samalla \u2013 ja jakaa kavereilleen."
+      },
+      "execution": {
+        "complexity": "low",
+        "budget_tier": "budget",
+        "timeline_to_first_episode": "4-6 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Tuote ep\u00e4onnistuu testiss\u00e4 julkisesti",
+          "mitigation": "K\u00e4\u00e4nnet\u00e4\u00e4n vahvuudeksi: 'T\u00e4m\u00e4 ei kest\u00e4nyt, mutta t\u00e4m\u00e4 toinen kesti' \u2013 rehellisyys rakentaa luottamusta."
+        },
+        {
+          "risk": "Sis\u00e4lt\u00f6 voi tuntua liian mainosmaiselta",
+          "mitigation": "Vaikuttajien oma \u00e4\u00e4ni ja tyyli s\u00e4ilytet\u00e4\u00e4n, Tokmanni ei sanele sis\u00e4lt\u00f6\u00e4."
+        }
+      ]
+    },
+    {
+      "id": "concept_03",
+      "title": "\u00c4mp\u00e4ri-ilmi\u00f6",
+      "hook": "Interaktiivinen live-tapahtuma ja reality-sarja, jossa suomalaiset kilpailevat siit\u00e4, kuka osaa tehd\u00e4 eniten yhdell\u00e4 Tokmanni-ostoskorilla \u2013 ja yleis\u00f6 \u00e4\u00e4nest\u00e4\u00e4 voittajan.",
+      "premise": "Viikoittainen live-l\u00e4hetys Akun Tehtaalta, jossa kolme kilpailijaa saa saman 100 euron Tokmanni-ostoskorin ja 24 tuntia aikaa luoda jotain uskomattoman. Yksi tekee taidetta, toinen ratkaisee arjen ongelman, kolmas rakentaa jotain k\u00e4yt\u00e4nn\u00f6llist\u00e4. Yleis\u00f6 seuraa prosessia live-kameroista ja \u00e4\u00e4nest\u00e4\u00e4 voittajan somessa. Viraaliformaatti, joka tekee Tokmannin valikoimasta kansallisen keskustelunaiheen.",
+      "long_form_extension": "8-osainen reality-kilpailusarja Ruutu+:aan (jakso 45 min) + broadcast-versio MTV3:lle. Live-elementit striimattaan Twitchiin ja YouTubeen.",
+      "format": {
+        "series_type": "seasonal",
+        "episode_length": "45 minuuttia (editoitu) + 2-4h live-striimit",
+        "cadence": "Viikoittain",
+        "season_length": "8 jaksoa + finaali"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "cross_platform",
+          "rationale": "Live-elementti vaatii Twitchin/YouTuben, mutta kilpailun j\u00e4nnite ja lopputulokset levi\u00e4v\u00e4t TikTokissa. Kokonaisuus on suurempi kuin osiensa summa.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "TikTok",
+            "rationale": "",
+            "adaptation": "60 sekunnin 'mit\u00e4 t\u00e4st\u00e4 tuli' -reveal-videot ja behind-the-scenes -klipit kilpailijoiden prosessista."
+          },
+          {
+            "platform": "Twitch",
+            "rationale": "",
+            "adaptation": "24h live-striimi kilpailijoiden ty\u00f6skentelyst\u00e4, chat-interaktio ja \u00e4\u00e4nestykset."
+          },
+          {
+            "platform": "Instagram",
+            "rationale": "",
+            "adaptation": "Ennen ja j\u00e4lkeen -kuvat, kilpailijaesittelyt, \u00e4\u00e4nestyslinkit."
+          }
+        ],
+        "amplification": "Tokmanni Klubi -j\u00e4senten \u00e4\u00e4nestysoikeus, myym\u00e4l\u00e4tapahtumat finaaliin, PR-kampanja 'Suomen luovin ostoskori'."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Ostoskorin paljastus jakson alussa",
+          "24 tunnin aikaikkunan k\u00e4ynnistys",
+          "Live-seuranta ja yleis\u00f6n kommentit",
+          "Lopputulosten esittely ja \u00e4\u00e4nestys",
+          "Voittajan kruunaus ja palkinto"
+        ],
+        "variable_elements": [
+          "Eri teema joka viikko (koti, puutarha, juhlat, lapset, lemmikit)",
+          "Eri kilpailijatyypit (taiteilija, DIY-harrastaja, perheen\u00e4iti, opiskelija)",
+          "Yll\u00e4tyshaasteet kesken kilpailun"
+        ],
+        "host_approach": "Vakiojuontaja live-l\u00e4hetyksiss\u00e4 (esim. Ile Uusivuori tai Jenni P\u00e4\u00e4skysaari) + kilpailijoiden omat some-kanavat osana kokonaisuutta."
+      },
+      "brand_integration": {
+        "philosophy": "Tokmanni on mahdollistaja ja areena, ei rajoite. Ostoskorin sis\u00e4lt\u00f6 on yll\u00e4tys, joka tekee valikoimasta sankarin.",
+        "integration_method": "Tuotteet ovat kilpailun polttoainetta \u2013 ne n\u00e4kyv\u00e4t k\u00e4yt\u00f6ss\u00e4, ei mainoksena. Omien merkkien laatu todentuu luovassa k\u00e4yt\u00f6ss\u00e4.",
+        "screen_time_balance": "75% kilpailu ja tarina, 25% tuotteet ja br\u00e4ndi",
+        "cta_approach": "\u00c4\u00e4nestys Tokmanni Klubi -sovelluksessa, ostoskorin tuotteet ostettavissa verkkokaupasta."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Kodin muutos 100 eurolla",
+          "description": "Kolme kilpailijaa muuttaa tyls\u00e4n huoneen unelmatilaksi \u2013 sama budjetti, eri visiot."
+        },
+        {
+          "number": 2,
+          "title": "Lasten syntym\u00e4p\u00e4iv\u00e4juhlat",
+          "description": "Kuka luo ikimuistoisimmat lastenjuhlat yhdell\u00e4 ostoskorilla?"
+        },
+        {
+          "number": 3,
+          "title": "Puutarhan pelastus",
+          "description": "Kes\u00e4m\u00f6kin piha kuntoon \u2013 ty\u00f6kalut, kasvit ja koristeet samasta korista."
+        },
+        {
+          "number": 4,
+          "title": "Taidetta \u00e4mp\u00e4reist\u00e4",
+          "description": "Erikoisjakso: taiteilijat luovat installaatioita Tokmannin arkituotteista."
+        },
+        {
+          "number": 5,
+          "title": "Selviytymisvarusteet",
+          "description": "Retkeilyhaaste: kuka rakentaa parhaan leirikokemuksen Tokmannin valikoimasta?"
+        },
+        {
+          "number": 6,
+          "title": "Finaali: Unelmakoti",
+          "description": "Kauden parhaat kilpailijat kohtaavat: kuka luo t\u00e4ydellisen kodin eri huoneet yhdell\u00e4 megaostoskorilla?"
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee kaikki nelj\u00e4 j\u00e4nnitett\u00e4 yhdell\u00e4 kertaa: tekee valikoimasta inspiraation l\u00e4hteen, tavoittaa uudet kohderyhm\u00e4t, todistaa laadun k\u00e4yt\u00f6ss\u00e4 ja luo l\u00f6yt\u00e4misen ilon digitaalisesti.",
+        "competitive_differentiation": "Kukaan kilpailija ei tee live-reality-kilpailua kaupan valikoimasta. T\u00e4m\u00e4 on t\u00e4ysin uusi formaatti Suomessa.",
+        "audience_value_proposition": "Kilpailun j\u00e4nnite, luovuuden inspiraatio ja osallistumisen mahdollisuus. Katsoja voi \u00e4\u00e4nest\u00e4\u00e4 ja n\u00e4hd\u00e4 miten muut k\u00e4ytt\u00e4v\u00e4t samoja tuotteita kuin h\u00e4nkin."
+      },
+      "execution": {
+        "complexity": "high",
+        "budget_tier": "premium",
+        "timeline_to_first_episode": "14-16 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Live-tuotannon tekniset haasteet ja kustannukset",
+          "mitigation": "Akun Tehtaan infrastruktuuri ja Twitch-osaaminen pienent\u00e4v\u00e4t riski\u00e4. Pilottijakso testaa konseptin."
+        },
+        {
+          "risk": "Yleis\u00f6n osallistuminen j\u00e4\u00e4 v\u00e4h\u00e4iseksi",
+          "mitigation": "Tokmanni Klubi -integraatio tuo valmiiksi 3 miljoonan j\u00e4senen pohja. Vaikuttajamarkkinointi tuo uutta yleis\u00f6\u00e4."
+        },
+        {
+          "risk": "Konsepti voi tuntua liian monimutkaiselta",
+          "mitigation": "Selke\u00e4 'kolme kilpailijaa, yksi ostoskori, sin\u00e4 p\u00e4\u00e4t\u00e4t' -viesti kaikessa markkinoinnissa."
+        }
+      ]
+    }
+  ],
+  "treatment_files": [
+    "/opt/render/project/src/runs/tokmanni/TREATMENTS/tokmanni_TREATMENT_01_20260201_082328.md",
+    "/opt/render/project/src/runs/tokmanni/TREATMENTS/tokmanni_TREATMENT_02_20260201_082328.md",
+    "/opt/render/project/src/runs/tokmanni/TREATMENTS/tokmanni_TREATMENT_03_20260201_082328.md"
+  ],
   "onepager_specs": [],
   "onepagers_skipped": false,
   "onepagers_error": null,
@@ -324,6 +654,15 @@
     {
       "phase": "strategize",
       "started_at": "2026-02-01T08:17:58.586801",
+      "completed_at": "2026-02-01T08:18:00.310326",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "create",
+      "started_at": "2026-02-01T08:18:00.317666",
       "completed_at": null,
       "success": false,
       "error_message": null,
