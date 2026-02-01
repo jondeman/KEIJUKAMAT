@@ -2,8 +2,8 @@
   "run_id": "20260201_084703",
   "company_slug": "mekomen-huolto-ja-autokorjaamo",
   "created_at": "2026-02-01T08:47:03.808542",
-  "updated_at": "2026-02-01T08:49:32.253261",
-  "current_phase": "research",
+  "updated_at": "2026-02-01T08:49:33.951501",
+  "current_phase": "strategize",
   "user_input": {
     "company_name": "Mekomen -huolto ja autokorjaamo",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -224,7 +224,38 @@
       }
     ]
   },
-  "concept_briefs": [],
+  "concept_briefs": [
+    {
+      "slot_id": "01",
+      "slot_type": "safe_bet",
+      "assigned_tension_id": "tension_01",
+      "strategic_focus": "Rationaalinen lupaus vs. Emotionaalinen ep\u00e4varmuus. Mekonomen viestii teknisist\u00e4 suoritteista, kun asiakas kokee luottamuspulaa.",
+      "platform_focus": "youtube",
+      "format_guidance": "Focus on proven YouTube formats: documentary-style, interview series, or educational content. Episodes should be 8-15 minutes. Prioritize professional production quality and clear brand alignment. The series should have obvious rewatch and share value.",
+      "risk_profile": "low",
+      "success_hypothesis": "This concept directly addresses Mekomen -huolto ja autokorjaamo's top strategic priority (gap) with a proven format that minimizes execution risk while delivering measurable brand value."
+    },
+    {
+      "slot_id": "02",
+      "slot_type": "challenger",
+      "assigned_tension_id": "tension_02",
+      "strategic_focus": "'Pohjoismaiden suurin' vs. 'Kasvoton j\u00e4ttil\u00e4inen'. Koko luo turvaa mutta my\u00f6s et\u00e4isyytt\u00e4.",
+      "platform_focus": "tiktok",
+      "format_guidance": "Design for TikTok/Reels first: vertical format, 30-90 seconds, hook in first 3 seconds. Embrace platform-native aesthetics and trends. Consider creator collaborations. Content should feel bold and contemporary, not like traditional brand advertising.",
+      "risk_profile": "medium",
+      "success_hypothesis": "This concept enables Mekomen -huolto ja autokorjaamo to aggressively address their threat with bold positioning that differentiates them in the market and captures attention on high-engagement platforms."
+    },
+    {
+      "slot_id": "03",
+      "slot_type": "moonshot",
+      "assigned_tension_id": "tension_03",
+      "strategic_focus": "Tulevaisuuden s\u00e4hk\u00f6osaaja vs. Nykyhetken huoltoarkip\u00e4iv\u00e4. Strategia on s\u00e4hk\u00f6ss\u00e4, asiakkaat polttomoottoreissa.",
+      "platform_focus": "cross_platform",
+      "format_guidance": "Think beyond single-platform content: interactive experiences, live events with digital extensions, user participation mechanics, or innovative cross-platform storytelling. This should feel like something the industry hasn't seen before. High production ambition is acceptable given the differentiation potential.",
+      "risk_profile": "high",
+      "success_hypothesis": "This concept unlocks an untapped opportunity for Mekomen -huolto ja autokorjaamo by addressing their aspiration in a way that creates cultural relevance and positions the brand as an innovator in their space."
+    }
+  ],
   "concepts": [],
   "treatment_files": [],
   "onepager_specs": [],
@@ -253,6 +284,15 @@
     {
       "phase": "research",
       "started_at": "2026-02-01T08:47:05.923211",
+      "completed_at": "2026-02-01T08:49:33.934787",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "strategize",
+      "started_at": "2026-02-01T08:49:33.943650",
       "completed_at": null,
       "success": false,
       "error_message": null,
