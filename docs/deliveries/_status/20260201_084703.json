@@ -2,8 +2,8 @@
   "run_id": "20260201_084703",
   "company_slug": "mekomen-huolto-ja-autokorjaamo",
   "created_at": "2026-02-01T08:47:03.808542",
-  "updated_at": "2026-02-01T08:55:20.247404",
-  "current_phase": "create",
+  "updated_at": "2026-02-01T08:58:45.079546",
+  "current_phase": "visualize",
   "user_input": {
     "company_name": "Mekomen -huolto ja autokorjaamo",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -586,7 +586,83 @@
     "/opt/render/project/src/runs/mekomen_-huolto_ja_autokorjaamo/TREATMENTS/mekomen_-huolto_ja_autokorjaamo_TREATMENT_02_20260201_085520.md",
     "/opt/render/project/src/runs/mekomen_-huolto_ja_autokorjaamo/TREATMENTS/mekomen_-huolto_ja_autokorjaamo_TREATMENT_03_20260201_085520.md"
   ],
-  "onepager_specs": [],
+  "onepager_specs": [
+    {
+      "concept_id": "concept_01",
+      "brand_styling": {
+        "primary_color": "#FFD500",
+        "secondary_color": "#003865",
+        "accent_color": "#FFFFFF",
+        "style_keywords": [],
+        "logo_available": false,
+        "logo_path": null
+      },
+      "content": {
+        "headline": "Konepellin Alla",
+        "subheadline": "**Konepellin Alla** on dokumentaarinen YouTube-sarja, jossa Mekonomen-mekaanikko avaa konkreettisest",
+        "bullets": [],
+        "call_to_action": "Let's bring this to life \u2192"
+      },
+      "visual_direction": {
+        "mood": "professional, inspiring, clean",
+        "imagery_style": "photorealistic",
+        "composition_notes": "A4 portrait infographic layout with multiple sections."
+      },
+      "generation_prompt": "High-quality horizontal infographic one-pager in 16:9 landscape ratio. Final output should be 3840x2160 (4K UHD) for screen presentation.\n\n## OVERALL VISUAL STYLE\nProfessional, warm, trustworthy Finnish aesthetic. Clean lines, bright natural lighting, approachable imagery. Documentary/editorial feel inspired by premium Nordic design. Soft gradients, clean whitespace, corporate elegance with warmth.\nThe design must feel premium, professional, and pitch-ready \u2013 like it could be presented at a top creative agency.\nMood: trustworthy, professional, inspiring\n\n## LOGO PLACEMENT (CRITICAL)\n- TOP LEFT CORNER: Small, elegant Warner Bros. International Television Production Finland logo (use light/white version if dark background)\n- TOP RIGHT CORNER: Small, elegant Mekomen -huolto ja autokorjaamo company logo\n- Both logos are placed discretely at the very top edge (approximately 3-4% of image height), maintaining balance and symmetry\n- Logos must NOT dominate \u2013 they are subtle professional identifiers only\nJos et l\u00f6yd\u00e4 tarkkaa logoa tai br\u00e4ndiv\u00e4rej\u00e4, k\u00e4yt\u00e4 Mekomen -huolto ja autokorjaamon virallista logoa sek\u00e4 logoon ja br\u00e4ndi-ilmeeseen sopivia v\u00e4ris\u00e4vyj\u00e4.\n\n## HEADER SECTION (top 18%)\nBelow the logos:\n- LARGE BOLD TITLE: \"Konepellin Alla\"\n- Subtitle: \"**Konepellin Alla** on dokumentaarinen YouTube-sarja, jossa Mekonomen-mekaanikko avaa konkreettis...\"\nTypography: Bold, modern Finnish advertising style, highly legible, strong visual impact\n\n## TIIVISTYS (TOP)\nImmediately after the title, include a compact 3-line summary block:\n- **MIT\u00c4?** **Konepellin Alla** on dokumentaarinen YouTube-sarja, jossa Mekonomen-mekaanikko avaa konkreettisesti jokaisen huoltotoimenpiteen \u2013 mit\u00e4 tapahtuu, miksi se t...\n- **MITEN?** **P\u00e4\u00e4formaatti:** - 8-osainen YouTube-sarja (kausi 1) - Jakson pituus: 10\u201312 minuuttia - Rakenne: Intro (asiakkaan huoli) \u2192 Diagnoosi (mekaanikko selitt\u00e4\u00e4) \u2192...\n- **MIKSI?** Tekee Mekomen -huolto ja autokorjaamosta puheenaiheen ja muuttaa kiinnostuksen toiminnaksi.\nThese lines must be punchy and attention-grabbing, capturing the core idea fast.\n\n\n\n\n## MAIN VISUAL SECTION (middle 52%)\nSection title: \"KONSEPTIN YDIN\"\n\n**Konepellin Alla** on dokumentaarinen YouTube-sarja, jossa Mekonomen-mekaanikko avaa konkreettisesti jokaisen huoltotoimenpiteen \u2013 mit\u00e4 tapahtuu, miksi se tehd\u00e4\u00e4n ja mit\u00e4 se maksaa. Jokainen 10\u201312-minuuttinen jakso k\u00e4sittelee yhden autoilijan aidon huoltotilanteen alusta loppuun: diagnoosista korjaukseen, hinnan muodostumisesta asiakkaan reaktioon. Sarja murtaa autohuollon \"mustan laatikon\" ja rakentaa luottamusta n\u00e4ytt\u00e4m\u00e4ll\u00e4 kaiken sen, mink\u00e4 merkkiliikkeet pit\u00e4v\u00e4t piilossa.\n\n--- \n\nThis section should visually communicate the core concept in a rich, infographic style.\nUse stylized illustrations, photo compositions, and graphic elements that match the brand aesthetic.\nInclude key characters, settings, or scenarios that bring the concept to life.\nThis must feel like a fully art-directed pitch visual, not a minimal poster.\n\n## PROCESS/FORMAT SECTION (20%)\nTitle: \"N\u00c4IN SE TOIMII\"\n\n**P\u00e4\u00e4formaatti:**\n- 8-osainen YouTube-sarja (kausi 1)\n- Jakson pituus: 10\u201312 minuuttia\n- Rakenne: Intro (asiakkaan huoli) \u2192 Diagnoosi (mekaanikko selitt\u00e4\u00e4) \u2192 Korjaus (kamera seuraa) \u2192 Hinnan avaus (itemized breakdown) \u2192 Asiakkaan reaktio\n\n**Julkaisurytmi:**\n- Yksi jakso viikossa, 8 viikon ajan\n- Premiere-ilta YouTubessa (live-chat k\u00e4yt\u00f6ss\u00e4)\n- Kausi p\u00e4\u00e4ttyy \"Katsojien kysymykset\" -erikoisjaksoon\n\n**Laajennukset:**\n- **TikTok/Reels/Shorts:** Jokaista jaksoa varten 3\u20134 lyhytt\u00e4 (30\u201360 sek): \"T\u00e4m\u00e4 maksaa 89 \u20ac, t\u00e4ss\u00e4 syy\" / \"Mekaanikko reagoi\" / \"Asiakas luuli vs. totuus\"\n- **PR:** Ensimm\u00e4isen jakson julkaisu tuetaan mediapitchill\u00e4: \"Suomen ensimm\u00e4inen autohuoltosarja, joka n\u00e4ytt\u00e4\u00e4 hinnan muodostumisen\"\n- **Podcast:** Sarjan mekaanikko vierailee autoilu-/talous-podcasteissa puhumassa \"huollon hinnoittelun totuudesta\"\n\n---\n\nPresent as a clear visual flowchart or step-by-step (3-5 stages) with:\n- Each stage in a colored box connected by arrows or visual flow\n- Icon or small visual + short descriptive text per stage\n- Color-coded using brand palette\n\n## BOTTOM SECTION (10%)\nTitle: \"STRATEGINEN MONIALUSTAINEN ILMI\u00d6\"\n\nThree-column layout showing distribution:\n- Primary channel icon + name\n- Secondary channels\n- Impact/reach indicators\n\n## FOOTER\n\"Konsepti joka tekee Mekomen -huolto ja autokorjaamosta puheenaiheen ja tavoittaa uusia yleis\u00f6j\u00e4.\"\nA compelling summary of why this concept is perfect for this brand.\n\n## COLOR PALETTE\n- Primary brand color: #FFD500\n- Secondary color: #003865\n- Accent color: #FFFFFF\n- Background: Light, airy background with subtle brand color accents or soft gradient\n- Text: High contrast for excellent readability\n\n## TECHNICAL REQUIREMENTS\n- 16:9 landscape layout (target 3840x2160)\n- Wide, cinematic composition with clear horizontal flow\n- All Finnish text must be clearly readable and well-spaced\n- Professional marketing document quality matching top creative agencies\n- Avoid generic stock photo aesthetics\n- No AI-looking artifacts or distortions in faces\n- Clean, sharp typography throughout\n- Premium infographic design language\n- The one-pager should immediately communicate value and create desire to learn more\n",
+      "generated_at": "2026-02-01T08:56:56.918455",
+      "output_path": "/opt/render/project/src/runs/2026-02-01_mekomen-huolto-ja-autokorjaamo_20260201_084703/artifacts/onepagers/concept_01.png"
+    },
+    {
+      "concept_id": "concept_02",
+      "brand_styling": {
+        "primary_color": "#FFD500",
+        "secondary_color": "#003865",
+        "accent_color": "#FFFFFF",
+        "style_keywords": [],
+        "logo_available": false,
+        "logo_path": null
+      },
+      "content": {
+        "headline": "Konepelti Auki",
+        "subheadline": "Mekonomen-mekaanikot paljastavat TikTokissa sen, mit\u00e4 autokorjaamoilla oikeasti tapahtuu \u2013 ja mit\u00e4 a",
+        "bullets": [],
+        "call_to_action": "Let's bring this to life \u2192"
+      },
+      "visual_direction": {
+        "mood": "bold, energetic, contemporary",
+        "imagery_style": "graphic",
+        "composition_notes": "A4 portrait infographic layout with multiple sections."
+      },
+      "generation_prompt": "High-quality horizontal infographic one-pager in 16:9 landscape ratio. Final output should be 3840x2160 (4K UHD) for screen presentation.\n\n## OVERALL VISUAL STYLE\nBold, energetic, contemporary Finnish style. Strong graphics, dynamic composition, social-media-native visual language. Urban, fresh, attention-grabbing. High contrast, unexpected color pops, modern edge.\nThe design must feel premium, professional, and pitch-ready \u2013 like it could be presented at a top creative agency.\nMood: bold, energetic, contemporary\n\n## LOGO PLACEMENT (CRITICAL)\n- TOP LEFT CORNER: Small, elegant Warner Bros. International Television Production Finland logo (use light/white version if dark background)\n- TOP RIGHT CORNER: Small, elegant Mekomen -huolto ja autokorjaamo company logo\n- Both logos are placed discretely at the very top edge (approximately 3-4% of image height), maintaining balance and symmetry\n- Logos must NOT dominate \u2013 they are subtle professional identifiers only\nJos et l\u00f6yd\u00e4 tarkkaa logoa tai br\u00e4ndiv\u00e4rej\u00e4, k\u00e4yt\u00e4 Mekomen -huolto ja autokorjaamon virallista logoa sek\u00e4 logoon ja br\u00e4ndi-ilmeeseen sopivia v\u00e4ris\u00e4vyj\u00e4.\n\n## HEADER SECTION (top 18%)\nBelow the logos:\n- LARGE BOLD TITLE: \"Konepelti Auki\"\n- Subtitle: \"Mekonomen-mekaanikot paljastavat TikTokissa sen, mit\u00e4 autokorjaamoilla oikeasti tapahtuu \u2013 ja mit...\"\nTypography: Bold, modern Finnish advertising style, highly legible, strong visual impact\n\n## TIIVISTYS (TOP)\nImmediately after the title, include a compact 3-line summary block:\n- **MIT\u00c4?** Mekonomen-mekaanikot paljastavat TikTokissa sen, mit\u00e4 autokorjaamoilla oikeasti tapahtuu \u2013 ja mit\u00e4 asiakkailta usein piilotetaan. Sarja lyhyit\u00e4, suorapuheisi...\n- **MITEN?** **P\u00e4\u00e4formaatti:** - 45\u201390 sekunnin TikTok-videot, joissa Mekonomen-mekaanikko \"paljastaa\" yhden asian per video - Raaka, autenttinen estetiikka: kuvataan oik...\n- **MIKSI?** Tekee Mekomen -huolto ja autokorjaamosta puheenaiheen ja muuttaa kiinnostuksen toiminnaksi.\nThese lines must be punchy and attention-grabbing, capturing the core idea fast.\n\n\n\n\n## MAIN VISUAL SECTION (middle 52%)\nSection title: \"KONSEPTIN YDIN\"\n\nMekonomen-mekaanikot paljastavat TikTokissa sen, mit\u00e4 autokorjaamoilla oikeasti tapahtuu \u2013 ja mit\u00e4 asiakkailta usein piilotetaan. Sarja lyhyit\u00e4, suorapuheisia videoita, joissa oikeat ammattilaiset n\u00e4ytt\u00e4v\u00e4t yleisimm\u00e4t \"huijaukset\", turhat lis\u00e4ty\u00f6t ja pelottelutaktiikat, joita alalla k\u00e4ytet\u00e4\u00e4n. Samalla he opastavat, miten tunnistaa rehellinen korjaamo ep\u00e4rehellisest\u00e4. Formaatti k\u00e4\u00e4nt\u00e4\u00e4 alan salaisuudet Mekonomenin kilpailueduksi: \"Me uskallamme n\u00e4ytt\u00e4\u00e4, koska meill\u00e4 ei ole piilotettavaa.\"\n\n--- \n\nThis section should visually communicate the core concept in a rich, infographic style.\nUse stylized illustrations, photo compositions, and graphic elements that match the brand aesthetic.\nInclude key characters, settings, or scenarios that bring the concept to life.\nThis must feel like a fully art-directed pitch visual, not a minimal poster.\n\n## PROCESS/FORMAT SECTION (20%)\nTitle: \"N\u00c4IN SE TOIMII\"\n\n**P\u00e4\u00e4formaatti:**\n- 45\u201390 sekunnin TikTok-videot, joissa Mekonomen-mekaanikko \"paljastaa\" yhden asian per video\n- Raaka, autenttinen estetiikka: kuvataan oikeassa korjaamohallissa, k\u00e4siss\u00e4 on oikeita osia, ei studiovaloa\n- Toistuvat elementit: \"Konepelti Auki\" -tunnari, mekaanikko puhuu suoraan kameralle, lopussa aina selke\u00e4 opetus\n\n**Julkaisurytmi:**\n- 2\u20133 videota viikossa ensimm\u00e4iset 8 viikkoa (16\u201324 videota)\n- Jatkuva tuotanto reaktioiden ja kommenttien pohjalta (\"Kysyitte, vastaamme\")\n\n**Laajennukset:**\n- YouTube Shorts & IG Reels: sama sis\u00e4lt\u00f6, alustaoptimoitu\n- Kommenttiosio aktiivisesti: mekaanikot vastaavat kysymyksiin, luovat jatkuvuutta\n- PR: \"Autokorjaamoketju paljastaa alan pime\u00e4n puolen\" \u2013 median kiinnostus taattu\n\n---\n\nPresent as a clear visual flowchart or step-by-step (3-5 stages) with:\n- Each stage in a colored box connected by arrows or visual flow\n- Icon or small visual + short descriptive text per stage\n- Color-coded using brand palette\n\n## BOTTOM SECTION (10%)\nTitle: \"STRATEGINEN MONIALUSTAINEN ILMI\u00d6\"\n\nThree-column layout showing distribution:\n- Primary channel icon + name\n- Secondary channels\n- Impact/reach indicators\n\n## FOOTER\n\"Konsepti joka tekee Mekomen -huolto ja autokorjaamosta puheenaiheen ja tavoittaa uusia yleis\u00f6j\u00e4.\"\nA compelling summary of why this concept is perfect for this brand.\n\n## COLOR PALETTE\n- Primary brand color: #FFD500\n- Secondary color: #003865\n- Accent color: #FFFFFF\n- Background: Dynamic gradient or bold brand color with graphic elements\n- Text: High contrast for excellent readability\n\n## TECHNICAL REQUIREMENTS\n- 16:9 landscape layout (target 3840x2160)\n- Wide, cinematic composition with clear horizontal flow\n- All Finnish text must be clearly readable and well-spaced\n- Professional marketing document quality matching top creative agencies\n- Avoid generic stock photo aesthetics\n- No AI-looking artifacts or distortions in faces\n- Clean, sharp typography throughout\n- Premium infographic design language\n- The one-pager should immediately communicate value and create desire to learn more\n",
+      "generated_at": "2026-02-01T08:57:48.124664",
+      "output_path": "/opt/render/project/src/runs/2026-02-01_mekomen-huolto-ja-autokorjaamo_20260201_084703/artifacts/onepagers/concept_02.png"
+    },
+    {
+      "concept_id": "concept_03",
+      "brand_styling": {
+        "primary_color": "#FFD500",
+        "secondary_color": "#003865",
+        "accent_color": "#FFFFFF",
+        "style_keywords": [],
+        "logo_available": false,
+        "logo_path": null
+      },
+      "content": {
+        "headline": "S\u00e4hk\u00f6shokki \u2013 Suomen Ensimm\u00e4inen S\u00e4hk\u00f6autojen Huol",
+        "subheadline": "**S\u00e4hk\u00f6shokki** on dokumentaarinen reality-sarja, jossa Mekonomen-mekaanikot kohtaavat Suomen erikoi",
+        "bullets": [],
+        "call_to_action": "Let's bring this to life \u2192"
+      },
+      "visual_direction": {
+        "mood": "visionary, impactful, premium",
+        "imagery_style": "mixed",
+        "composition_notes": "A4 portrait infographic layout with multiple sections."
+      },
+      "generation_prompt": "High-quality horizontal infographic one-pager in 16:9 landscape ratio. Final output should be 3840x2160 (4K UHD) for screen presentation.\n\n## OVERALL VISUAL STYLE\nVisionary, cinematic, premium Finnish aesthetic. Award-worthy design quality, sophisticated layering, dramatic lighting. Editorial boldness, statement-making, the kind of design that wins at Cannes Lions.\nThe design must feel premium, professional, and pitch-ready \u2013 like it could be presented at a top creative agency.\nMood: visionary, impactful, premium\n\n## LOGO PLACEMENT (CRITICAL)\n- TOP LEFT CORNER: Small, elegant Warner Bros. International Television Production Finland logo (use light/white version if dark background)\n- TOP RIGHT CORNER: Small, elegant Mekomen -huolto ja autokorjaamo company logo\n- Both logos are placed discretely at the very top edge (approximately 3-4% of image height), maintaining balance and symmetry\n- Logos must NOT dominate \u2013 they are subtle professional identifiers only\nJos et l\u00f6yd\u00e4 tarkkaa logoa tai br\u00e4ndiv\u00e4rej\u00e4, k\u00e4yt\u00e4 Mekomen -huolto ja autokorjaamon virallista logoa sek\u00e4 logoon ja br\u00e4ndi-ilmeeseen sopivia v\u00e4ris\u00e4vyj\u00e4.\n\n## HEADER SECTION (top 18%)\nBelow the logos:\n- LARGE BOLD TITLE: \"S\u00e4hk\u00f6shokki \u2013 Suomen Ensimm\u00e4inen S\u00e4hk\u00f6autojen Huolto-Reality\"\n- Subtitle: \"**S\u00e4hk\u00f6shokki** on dokumentaarinen reality-sarja, jossa Mekonomen-mekaanikot kohtaavat Suomen eri...\"\nTypography: Bold, modern Finnish advertising style, highly legible, strong visual impact\n\n## TIIVISTYS (TOP)\nImmediately after the title, include a compact 3-line summary block:\n- **MIT\u00c4?** **S\u00e4hk\u00f6shokki** on dokumentaarinen reality-sarja, jossa Mekonomen-mekaanikot kohtaavat Suomen erikoisimmat, oudoimmat ja haastavimmat s\u00e4hk\u00f6autotapaukset \u2013 ja...\n- **MITEN?** **P\u00e4\u00e4formaatti:** - 8-osainen YouTube-sarja, jakson pituus 20\u201325 min - Julkaisu viikoittain, kausi kest\u00e4\u00e4 2 kuukautta - Jokainen jakso: yksi \"case\", yksi aut...\n- **MIKSI?** Tekee Mekomen -huolto ja autokorjaamosta puheenaiheen ja muuttaa kiinnostuksen toiminnaksi.\nThese lines must be punchy and attention-grabbing, capturing the core idea fast.\n\n\n\n\n## MAIN VISUAL SECTION (middle 52%)\nSection title: \"KONSEPTIN YDIN\"\n\n**S\u00e4hk\u00f6shokki** on dokumentaarinen reality-sarja, jossa Mekonomen-mekaanikot kohtaavat Suomen erikoisimmat, oudoimmat ja haastavimmat s\u00e4hk\u00f6autotapaukset \u2013 ja ratkaisevat ne kameran edess\u00e4. Joka jakso tuo p\u00f6yd\u00e4lle uuden \"mahdottoman\" ongelman: Lapin pakkasissa kuolleen Teslan, omatekoisen s\u00e4hk\u00f6konversion, s\u00e4hk\u00f6auton joka \"ei suostu latautumaan\" tai ensimm\u00e4isen sukupolven Leafin, jonka akku on mysteeri. \n\nSarja on **CSI korjaamolle**: j\u00e4nnitt\u00e4v\u00e4 ongelmanratkaisu, jossa katsoja oppii samalla kaiken...\n\nThis section should visually communicate the core concept in a rich, infographic style.\nUse stylized illustrations, photo compositions, and graphic elements that match the brand aesthetic.\nInclude key characters, settings, or scenarios that bring the concept to life.\nThis must feel like a fully art-directed pitch visual, not a minimal poster.\n\n## PROCESS/FORMAT SECTION (20%)\nTitle: \"N\u00c4IN SE TOIMII\"\n\n**P\u00e4\u00e4formaatti:**\n- 8-osainen YouTube-sarja, jakson pituus 20\u201325 min\n- Julkaisu viikoittain, kausi kest\u00e4\u00e4 2 kuukautta\n- Jokainen jakso: yksi \"case\", yksi auto, yksi ongelma \u2192 ratkaisu\n\n**Rakenne per jakso:**\n1. **Teaser** (0\u20132 min): Asiakas kertoo ongelmansa, auto saapuu korjaamolle\n2. **Diagnoosi** (2\u20138 min): Mekaanikot tutkivat, spekuloivat, testaavat\n3. **Plot twist** (8\u201312 min): Yll\u00e4tt\u00e4v\u00e4 l\u00f6yd\u00f6s tai komplikaatio\n4. **Ratkaisu** (12\u201320 min): Korjaus, selitys, opetus\n5. **Outro** (20\u201325 min): Auto l\u00e4htee, asiakas reagoi, teaser seuraavaan jaksoon\n\n**Julkaisurytmi:**\n- Keskiviikkoisin pitk\u00e4 jakso YouTubeen\n- P\u00e4ivitt\u00e4in 2\u20133 TikTok/Reels-leikett\u00e4 jakson ymp\u00e4rilt\u00e4\n- Maanantaisin \"Viikon mysteeritapaus\" -\u00e4\u00e4nestys somessa (yleis\u00f6 valitsee seuraavan jakson casen kolmesta vaihtoehdosta)\n\n**Laajennukset:**\n- **Live-diagnoosip\u00e4iv\u00e4t:** Nelj\u00e4 kertaa kauden aikana Mekonomen-korjaamoilla ymp\u00e4ri Suomen, jonne s\u00e4hk\u00f6autoilijat voivat tuoda autonsa \"S\u00e4hk\u00f6shokki-tiimin\" diagnosoitavaksi. Striimi YouTubeen, leikkeet someen, PR paikallismedioille.\n- **Podcast-spin-off:** \"S\u00e4hk\u00f6shokki Aftershow\" \u2013 mekaanikot ja vieraat keskustelevat syvemmin jakson teemoista, vastaavat yleis\u00f6n kysymyksiin.\n- **OOH-kampanja:** \"Suomen mysteerisimm\u00e4t s\u00e4hk\u00f6autotapaukset \u2013 katso miten ne ratkaistiin\" + QR-koodi YouTube-kanavalle.\n\n---\n\nPresent as a clear visual flowchart or step-by-step (3-5 stages) with:\n- Each stage in a colored box connected by arrows or visual flow\n- Icon or small visual + short descriptive text per stage\n- Color-coded using brand palette\n\n## BOTTOM SECTION (10%)\nTitle: \"STRATEGINEN MONIALUSTAINEN ILMI\u00d6\"\n\nThree-column layout showing distribution:\n- Primary channel icon + name\n- Secondary channels\n- Impact/reach indicators\n\n## FOOTER\n\"Konsepti joka tekee Mekomen -huolto ja autokorjaamosta puheenaiheen ja tavoittaa uusia yleis\u00f6j\u00e4.\"\nA compelling summary of why this concept is perfect for this brand.\n\n## COLOR PALETTE\n- Primary brand color: #FFD500\n- Secondary color: #003865\n- Accent color: #FFFFFF\n- Background: Rich dark base with premium lighting effects and depth, or striking bold color statement\n- Text: High contrast for excellent readability\n\n## TECHNICAL REQUIREMENTS\n- 16:9 landscape layout (target 3840x2160)\n- Wide, cinematic composition with clear horizontal flow\n- All Finnish text must be clearly readable and well-spaced\n- Professional marketing document quality matching top creative agencies\n- Avoid generic stock photo aesthetics\n- No AI-looking artifacts or distortions in faces\n- Clean, sharp typography throughout\n- Premium infographic design language\n- The one-pager should immediately communicate value and create desire to learn more\n",
+      "generated_at": "2026-02-01T08:58:45.076081",
+      "output_path": "/opt/render/project/src/runs/2026-02-01_mekomen-huolto-ja-autokorjaamo_20260201_084703/artifacts/onepagers/concept_03.png"
+    }
+  ],
   "onepagers_skipped": false,
   "onepagers_error": null,
   "pitch_email": "",
@@ -630,6 +706,15 @@
     {
       "phase": "create",
       "started_at": "2026-02-01T08:49:35.681882",
+      "completed_at": "2026-02-01T08:55:22.018755",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "visualize",
+      "started_at": "2026-02-01T08:55:22.025066",
       "completed_at": null,
       "success": false,
       "error_message": null,
