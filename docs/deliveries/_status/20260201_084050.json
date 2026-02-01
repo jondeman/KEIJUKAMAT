@@ -2,8 +2,8 @@
   "run_id": "20260201_084050",
   "company_slug": "autoasi-autonhuoltoketju",
   "created_at": "2026-02-01T08:40:50.743347",
-  "updated_at": "2026-02-01T08:52:36.689834",
-  "current_phase": "visualize",
+  "updated_at": "2026-02-01T08:52:51.388050",
+  "current_phase": "compose_pitch",
   "user_input": {
     "company_name": "Autoasi -autonhuoltoketju",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -673,7 +673,7 @@
   ],
   "onepagers_skipped": false,
   "onepagers_error": null,
-  "pitch_email": "",
+  "pitch_email": "Subject: Three video concepts for Autoasi -autonhuoltoketju \u2014 addressing V\u00e4itetty asiantuntijuus vs. N\u00e4kym\u00e4t\u00f6n osaaminen...\n\n---\n\nHi [Contact Name],\n\nI've been studying Autoasi -autonhuoltoketju's recent marketing activities and strategic direction, and I noticed an opportunity in show, don't tell -sis\u00e4ll\u00f6n puute.\n\nBased on this analysis, I've developed three branded entertainment concepts that I believe could help Autoasi -autonhuoltoketju achieve stronger positioning in s\u00e4hk\u00f6istymisen haltuunotto (e-expert):\n\n**Concept 1: \"Mestarin K\u00e4det\"**\nAutoasin osaaminen tulee n\u00e4kyv\u00e4ksi, kun todelliset mekaanikkosankarit ratkovat Suomen haastavimmat autohaasteet kameralle \u2013 show, don't tell k\u00e4yt\u00e4nn\u00f6ss\u00e4.\n\n**Concept 2: \"Takuu S\u00e4ilyy \u2013 Myytinmurtajat\"**\nAutoasi ottaa suoraan kiinni merkkiliikkeiden pelotteluun ja todistaa TikTokissa, miksi 'vain merkkikorjaamo' on myytti \u2013 rohkeasti ja viihdytt\u00e4v\u00e4sti.\n\n**Concept 3: \"Suomen Pisin Koeajo\"**\nAutoasi sponsoroi Suomen historian kunnianhimoisimman s\u00e4hk\u00f6autoseikkailun \u2013 ja samalla todistaa, ett\u00e4 heid\u00e4n verkostonsa pit\u00e4\u00e4 s\u00e4hk\u00f6autoilijan liikkeell\u00e4 Hangosta Nuorgamiin.\n\nI've attached visual one-pagers for each concept, along with detailed format specifications.\n\n---\n\n## Strategic Hypothesis\n\nBased on my research into Autoasi -autonhuoltoketju's current positioning and market dynamics, I believe there's a significant opportunity in branded entertainment that addresses three distinct strategic needs:\n\n**1. Mestarin K\u00e4det** addresses ratkaisee suoraan j\u00e4nnitteen 'v\u00e4itetty asiantuntijuus vs. n\u00e4kym\u00e4t\u00f6n osaaminen'. jokainen jakso on konkreettinen todiste osaamisesta. e-expert-jaksot modernisoivat mielikuvaa s\u00e4hk\u00f6autojen huoltajana.\n\n**2. Takuu S\u00e4ilyy \u2013 Myytinmurtajat** addresses puolustaa suoraan 'right to repair' -asemaa ja taistelee merkkiliikkeiden pelottelua vastaan. tekee lakis\u00e4\u00e4teisest\u00e4 oikeudesta ymm\u00e4rrett\u00e4v\u00e4\u00e4 ja jaettavaa.\n\n**3. Suomen Pisin Koeajo** addresses todistaa konkreettisesti e-expert-strategian toimivuuden: autoasin verkosto kattaa suomen ja osaa s\u00e4hk\u00f6autot. ratkaisee j\u00e4nnitteen 'korkean teknologian tavoite vs. rasvan\u00e4ppi-mielikuva' n\u00e4ytt\u00e4m\u00e4ll\u00e4, ei kertomalla.\n\nTogether, these concepts represent a portfolio approach\u2014from low-risk proven formats to bold differentiators\u2014giving Autoasi -autonhuoltoketju options across the risk spectrum while maintaining strategic coherence.\n\n---\n\nI'd welcome 15 minutes to walk through these ideas and get your initial reactions.\n\nBest,\n[Your Name]\n\n---\n\n\ud83d\udcce Attachments:\n- Concept 1 One-Pager (Mestarin K\u00e4det.png)\n- Concept 2 One-Pager (Takuu S\u00e4ilyy \u2013 Myytinmurtajat.png)\n- Concept 3 One-Pager (Suomen Pisin Koeajo.png)\n- Detailed Concept Documents (PDF)\n\n[Link to full materials folder: https://jondeman.github.io/KEIJUKAMAT/deliveries/autoasi-autonhuoltoketju/20260201_084050/index.html]",
   "phase_history": [
     {
       "phase": "validate",
@@ -723,6 +723,15 @@
     {
       "phase": "visualize",
       "started_at": "2026-02-01T08:49:37.470859",
+      "completed_at": "2026-02-01T08:52:51.372596",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "compose_pitch",
+      "started_at": "2026-02-01T08:52:51.379816",
       "completed_at": null,
       "success": false,
       "error_message": null,
