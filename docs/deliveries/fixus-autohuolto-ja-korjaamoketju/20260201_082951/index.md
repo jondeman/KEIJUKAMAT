@@ -16,6 +16,9 @@
 - [Concept 03](concepts/concept_03.md)
 
 ## Treatments
+- [fixus_autohuolto_ja_-korjaamoketju_TREATMENT_01_20260201_083847.md](treatments/fixus_autohuolto_ja_-korjaamoketju_TREATMENT_01_20260201_083847.md)
+- [fixus_autohuolto_ja_-korjaamoketju_TREATMENT_02_20260201_083847.md](treatments/fixus_autohuolto_ja_-korjaamoketju_TREATMENT_02_20260201_083847.md)
+- [fixus_autohuolto_ja_-korjaamoketju_TREATMENT_03_20260201_083847.md](treatments/fixus_autohuolto_ja_-korjaamoketju_TREATMENT_03_20260201_083847.md)
 
 ## One-Pagers
 - [One-Pager 01](onepagers/concept_01.png)

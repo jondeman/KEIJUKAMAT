@@ -2,8 +2,8 @@
   "run_id": "20260201_082951",
   "company_slug": "fixus-autohuolto-ja-korjaamoketju",
   "created_at": "2026-02-01T08:29:51.597780",
-  "updated_at": "2026-02-01T08:32:30.768268",
-  "current_phase": "strategize",
+  "updated_at": "2026-02-01T08:38:47.585410",
+  "current_phase": "create",
   "user_input": {
     "company_name": "Fixus autohuolto ja -korjaamoketju",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -266,8 +266,337 @@
       "success_hypothesis": "This concept unlocks an untapped opportunity for Fixus autohuolto ja -korjaamoketju by addressing their gap in a way that creates cultural relevance and positions the brand as an innovator in their space."
     }
   ],
-  "concepts": [],
-  "treatment_files": [],
+  "concepts": [
+    {
+      "id": "concept_01",
+      "title": "Konepellin Alla: Mit\u00e4 huollossa oikeasti tapahtuu",
+      "hook": "Fixus avaa korjaamon ovet t\u00e4ysin l\u00e4pin\u00e4kyv\u00e4ksi dokumenttisarjaksi, joka muuttaa asiakkaan ahdistuksen luottamukseksi.",
+      "premise": "Dokumentaarinen YouTube-sarja, jossa seurataan oikeita Fixus-mekaanikkoja ty\u00f6ss\u00e4\u00e4n eri puolilla Suomea. Jokainen jakso keskittyy yhteen asiakkaan autoon ja sen huoltoprosessiin alusta loppuun \u2013 mit\u00e4 tutkitaan, mit\u00e4 l\u00f6ydet\u00e4\u00e4n, miksi jotain korjataan tai j\u00e4tet\u00e4\u00e4n korjaamatta. Katsoja n\u00e4kee ensimm\u00e4ist\u00e4 kertaa, mit\u00e4 korjaamolaskun takana oikeasti tapahtuu.",
+      "long_form_extension": "Sarjasta editoidaan 6x22min dokumenttisarja Ruutu+:aan tai MTV Katsomoon otsikolla 'Suomen Korjaamot'. Broadcast-versio laajentaa tarinat kokonaisiin p\u00e4iviin korjaamoilla ja lis\u00e4\u00e4 yritt\u00e4jien henkil\u00f6tarinat.",
+      "format": {
+        "series_type": "ongoing",
+        "episode_length": "10-14 minuuttia",
+        "cadence": "Viikoittain",
+        "season_length": "12 jaksoa per kausi"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "YouTube",
+          "rationale": "YouTube on hakukone, jossa ihmiset etsiv\u00e4t vastauksia autohuoltokysymyksiin. T\u00e4m\u00e4 sarja vastaa suoraan hakuihin kuten 'mit\u00e4 m\u00e4\u00e4r\u00e4aikaishuollossa tehd\u00e4\u00e4n' ja rakentaa orgaanista l\u00f6ydett\u00e4vyytt\u00e4.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "TikTok",
+            "rationale": "",
+            "adaptation": "60 sekunnin 'Ennen ja j\u00e4lkeen' -klipit: ruostuneet jarrulevyt vs. uudet, likainen \u00f6ljynsuodatin vs. puhdas. Visuaalinen shokki, joka her\u00e4tt\u00e4\u00e4 kiinnostuksen."
+          },
+          {
+            "platform": "Instagram",
+            "rationale": "",
+            "adaptation": "Reels-versiot parhaista 'mit\u00e4 l\u00f6ydettiin' -hetkist\u00e4 sek\u00e4 mekaanikkojen esittelyt carousel-muodossa."
+          }
+        ],
+        "amplification": "Jokaisen jakson julkaisun yhteydess\u00e4 maksettu YouTube pre-roll samasta aiheesta. Paikalliset Fixus-yritt\u00e4j\u00e4t jakavat omilla tileill\u00e4\u00e4n."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Jakso alkaa aina asiakkaan saapumisella ja huolen sanoittamisella",
+          "Mekaanikko selitt\u00e4\u00e4 kameralle mit\u00e4 tekee ja miksi \u2013 ei teknist\u00e4 jargonia",
+          "Hintaerittely n\u00e4ytet\u00e4\u00e4n l\u00e4pin\u00e4kyv\u00e4sti: mik\u00e4 maksaa ja miksi",
+          "Jakso p\u00e4\u00e4ttyy asiakkaan reaktioon auton luovutuksessa"
+        ],
+        "variable_elements": [
+          "Eri korjaamot ymp\u00e4ri Suomea \u2013 kaupunki vs. maaseutu, eri yritt\u00e4j\u00e4persoonat",
+          "Eri autotyypit: vanha bensa-auto, hybridi, t\u00e4yss\u00e4hk\u00f6auto",
+          "Eri huoltotyypit: m\u00e4\u00e4r\u00e4aikaishuolto, vianetsint\u00e4, kolarivaurio"
+        ],
+        "host_approach": "Ei erillist\u00e4 juontajaa \u2013 mekaanikot ovat itse tarinan kertojia. T\u00e4m\u00e4 rakentaa autenttisia 'Kysy mekaanikolta' -kasvoja br\u00e4ndille."
+      },
+      "brand_integration": {
+        "philosophy": "Br\u00e4ndi on ymp\u00e4rist\u00f6, ei viesti. Fixus n\u00e4kyy luonnollisesti ty\u00f6asuissa, korjaamotiloissa ja prosesseissa \u2013 ei mainospuheena.",
+        "integration_method": "Korjaamo on kuvauspaikka, mekaanikot ovat p\u00e4\u00e4henkil\u00f6it\u00e4, varausj\u00e4rjestelm\u00e4 n\u00e4kyy luonnollisesti asiakkaan saapuessa. 'Helppo kyll\u00e4' -lupaus todistetaan teoilla, ei sanota \u00e4\u00e4neen.",
+        "screen_time_balance": "85% sis\u00e4lt\u00f6\u00e4 (auton huoltoprosessi), 15% br\u00e4ndin\u00e4kyvyytt\u00e4 (tilat, asut, prosessit)",
+        "cta_approach": "Jakson lopussa yksinkertainen teksti: 'Varaa oma huoltosi fixus.fi' \u2013 ei aggressiivista myynti\u00e4."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "M\u00e4\u00e4r\u00e4aikaishuolto: Mit\u00e4 89 eurolla saa?",
+          "description": "Seurataan perusm\u00e4\u00e4r\u00e4aikaishuoltoa alusta loppuun ja eritell\u00e4\u00e4n jokainen ty\u00f6vaihe ja sen merkitys."
+        },
+        {
+          "number": 2,
+          "title": "Mysteerinen \u00e4\u00e4ni: Vianetsint\u00e4 k\u00e4yt\u00e4nn\u00f6ss\u00e4",
+          "description": "Asiakas kuvailee outoa \u00e4\u00e4nt\u00e4 \u2013 mekaanikko selvitt\u00e4\u00e4 systemaattisesti mist\u00e4 se johtuu."
+        },
+        {
+          "number": 3,
+          "title": "Teslan huolto Fixuksella",
+          "description": "T\u00e4yss\u00e4hk\u00f6auton m\u00e4\u00e4r\u00e4aikaishuolto riippumattomalla korjaamolla \u2013 mit\u00e4 se vaatii ja maksaa."
+        },
+        {
+          "number": 4,
+          "title": "Jarrujen totuus: Milloin oikeasti pit\u00e4\u00e4 vaihtaa?",
+          "description": "Vertaillaan 'melkein loppuneita' ja 'viel\u00e4 riitt\u00e4vi\u00e4' jarruja \u2013 opetetaan asiakasta arvioimaan itse."
+        },
+        {
+          "number": 5,
+          "title": "200 000 km:n auto: Kannattaako korjata?",
+          "description": "Vanha auto tuodaan arvioon \u2013 mekaanikko k\u00e4y l\u00e4pi rehellisesti mik\u00e4 kannattaa ja mik\u00e4 ei."
+        },
+        {
+          "number": 6,
+          "title": "Talvihuolto: N\u00e4in autosi selvi\u00e4\u00e4 pakkasista",
+          "description": "Kausikohtainen jakso, jossa k\u00e4yd\u00e4\u00e4n l\u00e4pi talvihuollon kriittiset kohdat k\u00e4yt\u00e4nn\u00f6ss\u00e4."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee suoraan j\u00e4nnitteen 'Helppo lupaus vs. Asiakkaan ahdistus' muuttamalla korjaamok\u00e4ynnin mustasta laatikosta l\u00e4pin\u00e4kyv\u00e4ksi prosessiksi. Samalla t\u00e4ytt\u00e4\u00e4 'Help-sis\u00e4lt\u00f6 puuttuu' -aukon.",
+        "competitive_differentiation": "Motonet opettaa tee-se-itse-asioita, merkkiliikkeet eiv\u00e4t tee sis\u00e4lt\u00f6\u00e4. Kukaan ei ole avannut korjaamoprosessia n\u00e4in radikaalisti. Fixus omistaa 'luottamus l\u00e4pin\u00e4kyvyyden kautta' -position.",
+        "audience_value_proposition": "Katsoja oppii ymm\u00e4rt\u00e4m\u00e4\u00e4n autoaan ja huoltolaskuaan. Sis\u00e4lt\u00f6 v\u00e4hent\u00e4\u00e4 ahdistusta seuraavaa korjaamok\u00e4ynti\u00e4 kohtaan ja antaa ty\u00f6kaluja arvioida huollon laatua."
+      },
+      "execution": {
+        "complexity": "medium",
+        "budget_tier": "mid",
+        "timeline_to_first_episode": "6-8 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Mekaanikot eiv\u00e4t ole luontevia kameran edess\u00e4",
+          "mitigation": "Valitaan pilottijaksoihin luontevimmat persoonat eri korjaamoilta. Dokumentaarinen tyyli sallii 'ep\u00e4t\u00e4ydellisyytt\u00e4' \u2013 aitous on valtti."
+        },
+        {
+          "risk": "L\u00f6ytyy jotain kiusallista huoltoprosessista",
+          "mitigation": "Editointivaiheessa varmistetaan, ett\u00e4 n\u00e4ytet\u00e4\u00e4n vain edustavia korjaamoja. L\u00e4pin\u00e4kyvyys ei tarkoita kaiken n\u00e4ytt\u00e4mist\u00e4."
+        }
+      ]
+    },
+    {
+      "id": "concept_02",
+      "title": "Fixus vs. Myytit",
+      "hook": "Suomen suosituin autosomevaikuttaja testaa ja tuhoaa autohuollon urbaanilegendoja \u2013 ja todistaa samalla Fixuksen EV-osaamisen.",
+      "premise": "TikTok-first sis\u00e4lt\u00f6sarja, jossa tunnettu autovaikuttaja testaa ja kumoaa (tai vahvistaa) yleisimpi\u00e4 autohuollon myyttej\u00e4 yhdess\u00e4 Fixus-mekaanikon kanssa. Formaatti yhdist\u00e4\u00e4 MythBusters-hengen ja suomalaisen suorapuheisuuden: 'Pit\u00e4\u00e4k\u00f6 s\u00e4hk\u00f6auton akkua oikeasti l\u00e4mmitt\u00e4\u00e4 talvella?' 'Tuhoaako halpa \u00f6ljy moottorin?' Jokaisessa jaksossa on selke\u00e4 v\u00e4ite, testi ja tuomio.",
+      "long_form_extension": "Parhaista jaksoista kootaan 4x25min erikoisjaksot Ruutu+:aan, joissa syvennet\u00e4\u00e4n testej\u00e4 ja lis\u00e4t\u00e4\u00e4n behind-the-scenes -materiaalia vaikuttajan ja mekaanikon yhteisty\u00f6st\u00e4.",
+      "format": {
+        "series_type": "ongoing",
+        "episode_length": "45-90 sekuntia",
+        "cadence": "2-3 kertaa viikossa",
+        "season_length": "24 jaksoa per kausi"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "TikTok",
+          "rationale": "TikTok on myyttien ja v\u00e4\u00e4r\u00e4n tiedon keskus \u2013 ja my\u00f6s paikka, jossa ne kumotaan viraalisesti. Formaatti on rakennettu alustan algoritmille: vahva v\u00e4ite, nopea testi, yll\u00e4tt\u00e4v\u00e4 lopputulos.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "YouTube Shorts",
+            "rationale": "",
+            "adaptation": "Sama sis\u00e4lt\u00f6 ristiinjulkaistaan Shortsiin laajemman tavoittavuuden saavuttamiseksi."
+          },
+          {
+            "platform": "Instagram Reels",
+            "rationale": "",
+            "adaptation": "Visuaalisesti kiinnostavimmat testit (kipin\u00f6it\u00e4, savua, dramaattisia vertailuja) priorisoiden."
+          }
+        ],
+        "amplification": "Vaikuttajan oma kanava toimii ensisijaisena julkaisualustana, Fixuksen kanavat jakavat. Maksettu TikTok Spark Ads parhaiten toimiviin videoihin."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Jokainen video alkaa provosoivalla v\u00e4itteell\u00e4: 'Kaikki sanoo ett\u00e4...'",
+          "Vaikuttaja ja Fixus-mekaanikko testaavat v\u00e4itteen konkreettisesti",
+          "Lopussa selke\u00e4 tuomio: 'MYYTTI' tai 'TOTTA' -grafiikka",
+          "Mekaanikko selitt\u00e4\u00e4 15 sekunnissa miksi"
+        ],
+        "variable_elements": [
+          "Eri myytit eri autotyypeist\u00e4: bensa, diesel, hybridi, t\u00e4yss\u00e4hk\u00f6",
+          "Eri testimenetelm\u00e4t: laboratorio, korjaamo, tie, pakkanen",
+          "Erikoisjaksot: 'Katsojan myytti' -jaksot, joissa testataan kommenteissa ehdotettuja v\u00e4itteit\u00e4"
+        ],
+        "host_approach": "Tunnettu autovaikuttaja (esim. suosittu autoarvostelija tai lifestyle-vaikuttaja, joka on 'tavallinen autoilija') toimii yleis\u00f6n edustajana. Fixus-mekaanikko on asiantuntija, joka tuo uskottavuuden."
+      },
+      "brand_integration": {
+        "philosophy": "Fixus on asiantuntijuuden l\u00e4hde \u2013 mekaanikko on se, joka tiet\u00e4\u00e4 totuuden. Br\u00e4ndi ei v\u00e4it\u00e4 mit\u00e4\u00e4n, se todistaa.",
+        "integration_method": "Fixus-mekaanikko on jokaisessa videossa asiantuntijaroolissa. Korjaamo ja ty\u00f6kalut n\u00e4kyv\u00e4t testeiss\u00e4. 'T\u00e4m\u00e4 testattiin Fixus-korjaamolla' -teksti lopussa.",
+        "screen_time_balance": "70% vaikuttaja ja testi, 30% mekaanikko ja selitys",
+        "cta_approach": "Ei suoraa CTA:ta videoissa \u2013 br\u00e4ndiassosiaatio rakentuu toistosta ja asiantuntijuudesta. Bio-linkit ohjaavat fixus.fi:hin."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Pit\u00e4\u00e4k\u00f6 Teslan akkua l\u00e4mmitt\u00e4\u00e4 pakkasella?",
+          "description": "Testataan s\u00e4hk\u00f6auton toimintamatka -20 asteessa ilman esil\u00e4mmityst\u00e4 vs. esil\u00e4mmityksen kanssa."
+        },
+        {
+          "number": 2,
+          "title": "Tuhoaako halpa \u00f6ljy moottorin?",
+          "description": "Verrataan eri hintaisten \u00f6ljyjen ominaisuuksia ja selvitet\u00e4\u00e4n mit\u00e4 'oikea \u00f6ljy' oikeasti tarkoittaa."
+        },
+        {
+          "number": 3,
+          "title": "Meneek\u00f6 takuu jos huollatan muualla kuin merkkiliikkeess\u00e4?",
+          "description": "Selvitet\u00e4\u00e4n EU-lains\u00e4\u00e4d\u00e4nn\u00f6n totuus ja n\u00e4ytet\u00e4\u00e4n mit\u00e4 dokumentteja tarvitset."
+        },
+        {
+          "number": 4,
+          "title": "Onko ilmastoinnin k\u00e4ytt\u00f6 talvella turhaa?",
+          "description": "Testataan ilmastoinnin vaikutus kosteuden poistoon ja ikkunoiden huurtumiseen."
+        },
+        {
+          "number": 5,
+          "title": "Kest\u00e4\u00e4k\u00f6 s\u00e4hk\u00f6auton akku Suomen talven?",
+          "description": "Data viiden talven ajalta suomalaisista s\u00e4hk\u00f6autoista \u2013 mit\u00e4 akuille oikeasti tapahtuu."
+        },
+        {
+          "number": 6,
+          "title": "Pit\u00e4\u00e4k\u00f6 moottoria l\u00e4mmitt\u00e4\u00e4 ennen ajoa?",
+          "description": "Testataan kylm\u00e4k\u00e4ynnistyksen vaikutus moottorin kulumiseen moderneissa autoissa."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee j\u00e4nnitteen 'Ralli-perint\u00f6 vs. S\u00e4hk\u00f6inen tulevaisuus' tuomalla EV-osaamisen n\u00e4kyv\u00e4ksi nuoremmalle yleis\u00f6lle. Samalla t\u00e4ytt\u00e4\u00e4 'Asiantuntijakasvot puuttuvat' -aukon vaikuttaja-mekaanikko -parivaljakon kautta.",
+        "competitive_differentiation": "Motonet tekee how-to-videoita, mutta kukaan ei tee 'MythBusters meets autohuolto' -sis\u00e4lt\u00f6\u00e4 Suomessa. Formaatti on uusi ja viraalipotentiaali on korkea.",
+        "audience_value_proposition": "Katsoja saa vastauksen kysymyksiin, joita on miettinyt mutta ei kehdannut kysy\u00e4. Viihde ja hy\u00f6ty yhdistyv\u00e4t \u2013 jaettava sis\u00e4lt\u00f6, joka tekee katsojasta fiksumman."
+      },
+      "execution": {
+        "complexity": "medium",
+        "budget_tier": "mid",
+        "timeline_to_first_episode": "4-6 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Vaikuttajavalinta ep\u00e4onnistuu tai vaikuttaja aiheuttaa kohun",
+          "mitigation": "Valitaan vaikuttaja, jonka br\u00e4ndi on linjassa Fixuksen arvojen kanssa. Sopimukseen kriittinen moraalilauseke."
+        },
+        {
+          "risk": "Testit osoittavat jotain, mik\u00e4 on Fixukselle ep\u00e4edullista",
+          "mitigation": "Etuk\u00e4teistestaus ennen kuvausta. Rehellisyys on kuitenkin valtti \u2013 jos myytti osoittautuu todeksi, se rakentaa uskottavuutta."
+        }
+      ]
+    },
+    {
+      "id": "concept_03",
+      "title": "Pelasta Mun Auto",
+      "hook": "Suomalaiset \u00e4\u00e4nest\u00e4v\u00e4t kenen romukuntoinen rakas auto pelastetaan \u2013 ja Fixus tekee sen liven\u00e4 koko maan seuratessa.",
+      "premise": "Monikanavainen viihdeformaatti, jossa suomalaiset hakevat mukaan kertomalla tarinan rakkaasta mutta huonokuntoisesta autostaan. Yleis\u00f6 \u00e4\u00e4nest\u00e4\u00e4 somessa kenen auto ansaitsee pelastuksen. Voittajan auto kunnostetaan Fixus-korjaamolla, ja prosessi dokumentoidaan sarjamuotoisesti. Huipennus on live-luovutus, jossa omistaja n\u00e4kee autonsa ensimm\u00e4ist\u00e4 kertaa kunnostettuna.",
+      "long_form_extension": "Formaatista tuotetaan 6x45min TV-sarja Neloselle tai MTV3:lle. Jokainen jakso seuraa yhden auton tarinaa hakemuksesta luovutukseen. Broadcast-versio syvent\u00e4\u00e4 omistajan el\u00e4m\u00e4ntarinaa ja auton merkityst\u00e4.",
+      "format": {
+        "series_type": "seasonal",
+        "episode_length": "3-8 minuuttia (some), 45 minuuttia (TV)",
+        "cadence": "P\u00e4ivitt\u00e4iset somep\u00e4ivitykset, viikoittaiset YouTube-jaksot, live-luovutus kauden lopussa",
+        "season_length": "6 pelastettavaa autoa per kausi"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "Cross-platform",
+          "rationale": "Formaatti vaatii monikanavaisuutta toimiakseen: TikTok hakemuksille ja \u00e4\u00e4nest\u00e4miselle, YouTube dokumentoinnille, Instagram behind-the-scenes, live-luovutus streamattuna. Jokainen alusta palvelee eri funktiota.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "TikTok",
+            "rationale": "",
+            "adaptation": "Hakemukset tulevat TikTok-videoina ('T\u00e4ss\u00e4 on mun -98 Corolla ja t\u00e4m\u00e4 on sen tarina'). \u00c4\u00e4nestys TikTok-kommenteissa ja dueteissa."
+          },
+          {
+            "platform": "YouTube",
+            "rationale": "",
+            "adaptation": "8-minuuttiset dokumenttijaksot kunnostusprosessista: mit\u00e4 autosta l\u00f6ytyi, mit\u00e4 korjattiin, miten."
+          },
+          {
+            "platform": "Instagram",
+            "rationale": "",
+            "adaptation": "Stories-p\u00e4ivitykset korjaamolta, ennen/j\u00e4lkeen -carousellit, mekaanikkojen esittelyt."
+          }
+        ],
+        "amplification": "Hakukampanja maksetulla somemainonnalla. Paikalliset Fixus-yritt\u00e4j\u00e4t aktivoivat omia asiakkaitaan hakemaan. Lehdist\u00f6tiedotteet aluemedioihin voittajista."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Hakemusvaihe: omistajat kertovat tarinansa somessa",
+          "\u00c4\u00e4nestys: yleis\u00f6 valitsee voittajan",
+          "Kunnostus: dokumentoidaan vaihe vaiheelta",
+          "Luovutus: emotionaalinen hetki, kun omistaja n\u00e4kee auton"
+        ],
+        "variable_elements": [
+          "Eri autotyypit ja aikakaudet: klassikot, perheautot, ensimm\u00e4iset autot",
+          "Eri tarinat: peritty auto, nuoruuden unelma, el\u00e4m\u00e4n k\u00e4\u00e4nnekohdan auto",
+          "Eri kunnostustasot: pintaremontti vs. t\u00e4yskunnostus"
+        ],
+        "host_approach": "Ei perinteist\u00e4 juontajaa. Omistajat ja mekaanikot ovat tarinan kertojia. Mahdollinen tunnettu kasvo (esim. autoharrastaja-julkkis) voi toimia 'pelastustiimin' keulakuvana."
+      },
+      "brand_integration": {
+        "philosophy": "Fixus on mahdollistaja ja sankari \u2013 korjaamo, joka tekee mahdottomasta mahdollisen. Br\u00e4ndi n\u00e4kyy teoissa, ei sanoissa.",
+        "integration_method": "Kaikki kunnostusty\u00f6 tehd\u00e4\u00e4n Fixus-korjaamoilla ymp\u00e4ri Suomea. Mekaanikot ovat n\u00e4kyv\u00e4sti esill\u00e4. Prosessi n\u00e4ytt\u00e4\u00e4 Fixuksen osaamisen skaalan: perushuollosta erikoiskunnostukseen.",
+        "screen_time_balance": "60% tarina ja tunne, 30% kunnostusprosessi korjaamolla, 10% br\u00e4ndi-integraatio",
+        "cta_approach": "Luovutushetkess\u00e4 luonteva maininta: 'Kunnostettu Fixus [paikkakunta] -korjaamolla'. Lopputeksteiss\u00e4 kehotus hakea seuraavalle kaudelle."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Isois\u00e4n Volvo Amazon",
+          "description": "30-vuotias peri isois\u00e4lt\u00e4\u00e4n 60-luvun Amazonin, joka on seisonut tallissa 15 vuotta \u2013 unelmana saada se taas tielle."
+        },
+        {
+          "number": 2,
+          "title": "Ensimm\u00e4inen auto takaisin eloon",
+          "description": "Pariskunta l\u00f6ysi netist\u00e4 saman mallisen auton kuin heid\u00e4n ensimm\u00e4inen yhteinen autonsa \u2013 nyt se odottaa kunnostusta."
+        },
+        {
+          "number": 3,
+          "title": "Yksinhuoltajan arki-auto",
+          "description": "Kolmen lapsen \u00e4idin ainoa auto hajosi \u2013 ilman sit\u00e4 arki ei py\u00f6ri. Tarvitaan nopea ja perusteellinen pelastus."
+        },
+        {
+          "number": 4,
+          "title": "Nuoren yritt\u00e4j\u00e4n unelma-Golf",
+          "description": "22-vuotias osti s\u00e4\u00e4st\u00f6ill\u00e4\u00e4n unelma-autonsa, mutta se osoittautui pommiautoksi. Ansaitseeko h\u00e4n toisen mahdollisuuden?"
+        },
+        {
+          "number": 5,
+          "title": "Veteraanin matka-auto",
+          "description": "El\u00e4k\u00f6itynyt rekkakuski haluaa kunnostaa vanhan pakettiautonsa Euroopan-kiertueelle vaimon kanssa."
+        },
+        {
+          "number": 6,
+          "title": "Kauden finaali: Suurin pelastus",
+          "description": "Kauden haastavin projekti \u2013 auto, jonka kaikki sanoivat olevan korjauskelvoton."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee j\u00e4nnitteen 'Teko\u00e4lyhahmot vs. Oikeat asiantuntijat' tuomalla esiin aitojen mekaanikon osaamisen ja intohimon. Samalla rakentaa emotionaalisen yhteyden br\u00e4ndiin tavalla, jota mainonta ei voi saavuttaa.",
+        "competitive_differentiation": "Kukaan autohuoltoketju ei tee osallistavaa viihdeformaattia Suomessa. Formaatti yhdist\u00e4\u00e4 Pimp My Ride -nostalgian suomalaiseen tarinaperinteeseen ja moderniin someosallistamiseen.",
+        "audience_value_proposition": "Aito tunne, yll\u00e4tys ja yhteis\u00f6llisyys. Katsoja p\u00e4\u00e4see vaikuttamaan ja seuraamaan muutosta. Tarinat koskettavat \u2013 auto ei ole vain auto, se on muistoja ja merkityksi\u00e4."
+      },
+      "execution": {
+        "complexity": "high",
+        "budget_tier": "premium",
+        "timeline_to_first_episode": "12-16 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Kunnostuskustannukset ylitt\u00e4v\u00e4t budjetin",
+          "mitigation": "Selke\u00e4t kriteerit hakuvaiheessa: autot, joiden kunnostus on realistinen. Varaosasponsorit ja -yhteisty\u00f6kumppanit jakamaan kustannuksia."
+        },
+        {
+          "risk": "Liian v\u00e4h\u00e4n laadukkaita hakemuksia",
+          "mitigation": "Aktiivinen hakukampanja useissa kanavissa. Paikalliset Fixus-yritt\u00e4j\u00e4t aktivoivat omia verkostojaan. Hakuaika riitt\u00e4v\u00e4n pitk\u00e4."
+        },
+        {
+          "risk": "Formaatti vertautuu liikaa vanhoihin TV-formaatteihin (Pimp My Ride)",
+          "mitigation": "Suomalainen toteutus korostaa aitoutta ja tarinaa bling-kulttuurin sijaan. Fokus on ihmisess\u00e4 ja auton merkityksess\u00e4, ei krumeluureissa."
+        }
+      ]
+    }
+  ],
+  "treatment_files": [
+    "/opt/render/project/src/runs/fixus_autohuolto_ja_-korjaamoketju/TREATMENTS/fixus_autohuolto_ja_-korjaamoketju_TREATMENT_01_20260201_083847.md",
+    "/opt/render/project/src/runs/fixus_autohuolto_ja_-korjaamoketju/TREATMENTS/fixus_autohuolto_ja_-korjaamoketju_TREATMENT_02_20260201_083847.md",
+    "/opt/render/project/src/runs/fixus_autohuolto_ja_-korjaamoketju/TREATMENTS/fixus_autohuolto_ja_-korjaamoketju_TREATMENT_03_20260201_083847.md"
+  ],
   "onepager_specs": [],
   "onepagers_skipped": false,
   "onepagers_error": null,
@@ -303,6 +632,15 @@
     {
       "phase": "strategize",
       "started_at": "2026-02-01T08:32:30.762922",
+      "completed_at": "2026-02-01T08:32:32.489127",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "create",
+      "started_at": "2026-02-01T08:32:32.495466",
       "completed_at": null,
       "success": false,
       "error_message": null,
