@@ -2,8 +2,8 @@
   "run_id": "20260201_084050",
   "company_slug": "autoasi-autonhuoltoketju",
   "created_at": "2026-02-01T08:40:50.743347",
-  "updated_at": "2026-02-01T08:43:25.306592",
-  "current_phase": "strategize",
+  "updated_at": "2026-02-01T08:49:35.004559",
+  "current_phase": "create",
   "user_input": {
     "company_name": "Autoasi -autonhuoltoketju",
     "user_email": "erkka.rantanen@wbitvp.fi",
@@ -250,8 +250,350 @@
       "success_hypothesis": "This concept unlocks an untapped opportunity for Autoasi -autonhuoltoketju by addressing their aspiration in a way that creates cultural relevance and positions the brand as an innovator in their space."
     }
   ],
-  "concepts": [],
-  "treatment_files": [],
+  "concepts": [
+    {
+      "id": "concept_01",
+      "title": "Mestarin K\u00e4det",
+      "hook": "Autoasin osaaminen tulee n\u00e4kyv\u00e4ksi, kun todelliset mekaanikkosankarit ratkovat Suomen haastavimmat autohaasteet kameralle \u2013 show, don't tell k\u00e4yt\u00e4nn\u00f6ss\u00e4.",
+      "premise": "Dokumentaarinen sarjaformaatti, jossa joka jakso seuraa yht\u00e4 Autoasi-mekaanikkoa h\u00e4nen ratkoessaan erityisen haastavan teknisen tapauksen. Kyseess\u00e4 voi olla s\u00e4hk\u00f6auton outo vikakoodiviidakko, klassikkoauton pelastusoperaatio tai moderni diagnostiikka-arvoitus. Sarja yhdist\u00e4\u00e4 huipputeknologian ja inhimillisen osaamisen tavalla, joka tekee n\u00e4kym\u00e4tt\u00f6m\u00e4st\u00e4 asiantuntijuudesta konkreettista.",
+      "long_form_extension": "Sarjasta tuotetaan 8x25min versio Ruutu+/Katsomo-jakeluun, jossa syvennyt\u00e4\u00e4n tarkemmin teknisiin yksityiskohtiin ja mekaanikon taustaan. Lis\u00e4ksi broadcast-jakelu Neloselle 'Auto-ilta'-ohjelmapaikalle.",
+      "format": {
+        "series_type": "ongoing",
+        "episode_length": "10-15 minuuttia",
+        "cadence": "Viikoittain",
+        "season_length": "10 jaksoa per kausi"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "YouTube",
+          "rationale": "YouTube on auto-asiantuntijuuden kotipes\u00e4 Suomessa. Motonet dominoi DIY-segmentti\u00e4, mutta ammattimaiselle 'n\u00e4in ammattilainen tekee' -sis\u00e4ll\u00f6lle on selke\u00e4 aukko. Pitk\u00e4kestoinen sis\u00e4lt\u00f6 rakentaa auktoriteettia ja l\u00f6ydett\u00e4vyytt\u00e4 hakukoneissa.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "TikTok",
+            "rationale": "",
+            "adaptation": "60-90 sekunnin 'Arvaa mik\u00e4 vika?' -teaseriklippej\u00e4, joissa n\u00e4ytet\u00e4\u00e4n oire ja pyydet\u00e4\u00e4n yleis\u00f6\u00e4 arvaamaan. Vastaus linkitet\u00e4\u00e4n t\u00e4yspitk\u00e4\u00e4n jaksoon."
+          },
+          {
+            "platform": "Instagram Reels",
+            "rationale": "",
+            "adaptation": "Visuaalisesti n\u00e4ytt\u00e4v\u00e4t 'before/after' -montaasit ja mekaanikon 'p\u00e4iv\u00e4 minuutissa' -tiivistelm\u00e4t."
+          }
+        ],
+        "amplification": "Yhteisty\u00f6 suomalaisten autovloggaajien kanssa (Autoholistin autofantasiat, JPPerformance Suomi) \u2013 he tuovat omat ongelmatapauksensa Autoasille ratkaistavaksi."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Jakson alussa 'haaste' esitell\u00e4\u00e4n mysteerin\u00e4 \u2013 auto, oire, ep\u00e4varmuus",
+          "Mekaanikon esittely ja h\u00e4nen erityisosaamisensa",
+          "Diagnostiikkavaihe modernilla tekniikalla (ohjelmistot, laitteet)",
+          "Ratkaisun 'ahaa-hetki' selitettyn\u00e4 selkokielell\u00e4",
+          "Auton luovutus asiakkaalle ja h\u00e4nen reaktionsa"
+        ],
+        "variable_elements": [
+          "Auton tyyppi ja haaste (s\u00e4hk\u00f6, hybridi, klassikko, moderni)",
+          "Mekaanikko ja h\u00e4nen taustatarinansa (eri paikkakunnilta)",
+          "Teknisen haasteen monimutkaisuus ja ratkaisupolku"
+        ],
+        "host_approach": "Ei perinteist\u00e4 juontajaa. Mekaanikko toimii oman jaksonsa kertojana ja p\u00e4\u00e4t\u00e4hten\u00e4. Voice-over selitt\u00e4\u00e4 teknisi\u00e4 yksityiskohtia katsojalle ymm\u00e4rrett\u00e4v\u00e4sti."
+      },
+      "brand_integration": {
+        "philosophy": "Autoasi on n\u00e4ytt\u00e4m\u00f6, ei mainoskyltti. Br\u00e4ndi n\u00e4kyy luontevasti korjaamon ymp\u00e4rist\u00f6ss\u00e4, ty\u00f6asuissa ja laitteissa. Asiantuntijuus on br\u00e4ndin sanoma \u2013 sit\u00e4 ei tarvitse erikseen sanoa.",
+        "integration_method": "Korjaamot ovat aitoja Autoasi-toimipisteit\u00e4. e-Expert-p\u00e4tevyys tuodaan esiin s\u00e4hk\u00f6autojaksossa luontevasti ('T\u00e4m\u00e4 vaatii korkeaj\u00e4nnitekoulutuksen \u2013 siksi meill\u00e4 on t\u00e4m\u00e4'). Diagnostiikkalaitteet ja Atoy-varaosat n\u00e4kyv\u00e4t k\u00e4yt\u00f6ss\u00e4.",
+        "screen_time_balance": "85% sis\u00e4lt\u00f6\u00e4, 15% br\u00e4ndi",
+        "cta_approach": "Jakson lopussa pehme\u00e4 ohjaus: 'L\u00f6yd\u00e4 l\u00e4hin Autoasi osoitteesta autoasi.fi'. Ei aggressiivista myynti\u00e4."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "Teslan mysteerikoodi",
+          "description": "Porilaisyritt\u00e4j\u00e4 selvitt\u00e4\u00e4 Tesla Model 3:n oudon vikavaloyhdistelm\u00e4n, jota merkkiliike ei osannut diagnosoida."
+        },
+        {
+          "number": 2,
+          "title": "Volvo Amazonin toinen el\u00e4m\u00e4",
+          "description": "Kuopiolainen klassikko-osaaja her\u00e4tt\u00e4\u00e4 henkiin 1967 Amazonin, joka seisoi ladossa 20 vuotta."
+        },
+        {
+          "number": 3,
+          "title": "Hybridin akkuarvoitus",
+          "description": "Toyota Priuksen akusto k\u00e4ytt\u00e4ytyy oudosti \u2013 onko edess\u00e4 kallis vaihto vai l\u00f6ytyyk\u00f6 vaihtoehto?"
+        },
+        {
+          "number": 4,
+          "title": "Rekkakuskin h\u00e4t\u00e4huuto",
+          "description": "Ammattikuskin Mercedes-Benz Actros j\u00e4\u00e4 tien p\u00e4\u00e4lle Lapissa \u2013 Rovaniemen Autoasi l\u00e4htee pelastusoperaatioon."
+        },
+        {
+          "number": 5,
+          "title": "Golf-sukupolven loppu?",
+          "description": "Opiskelijan ainoa kulkupeli, 2008 Golf, saa kuolemantuomion toisaalta \u2013 Autoasi etsii toisen mielipiteen."
+        },
+        {
+          "number": 6,
+          "title": "S\u00e4hk\u00f6py\u00f6r\u00e4n yll\u00e4tys",
+          "description": "Erikoisjakso: Autoasin e-Expert-osaaminen laajenee s\u00e4hk\u00f6py\u00f6r\u00e4n akku- ja moottorihuoltoon."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Ratkaisee suoraan j\u00e4nnitteen 'V\u00e4itetty asiantuntijuus vs. N\u00e4kym\u00e4t\u00f6n osaaminen'. Jokainen jakso on konkreettinen todiste osaamisesta. e-Expert-jaksot modernisoivat mielikuvaa s\u00e4hk\u00f6autojen huoltajana.",
+        "competitive_differentiation": "Motonet opettaa DIY:t\u00e4, Autoasi n\u00e4ytt\u00e4\u00e4 ammattitason. Merkkiliikkeet eiv\u00e4t avaa prosessejaan \u2013 Autoasi tekee l\u00e4pin\u00e4kyvyydest\u00e4 kilpailuedun.",
+        "audience_value_proposition": "Autoilija saa 'behind the scenes' -p\u00e4\u00e4syn korjaamoon, oppii ymm\u00e4rt\u00e4m\u00e4\u00e4n autoaan paremmin ja l\u00f6yt\u00e4\u00e4 luotettavan kumppanin. Viihdearvoa tuo mysteerien ratkaisu ja inhimilliset tarinat."
+      },
+      "execution": {
+        "complexity": "medium",
+        "budget_tier": "mid",
+        "timeline_to_first_episode": "8-10 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Mekaanikot eiv\u00e4t ole luontevia kameran edess\u00e4",
+          "mitigation": "Kattava ennakkotuotanto ja casting. Valitaan persoonat, jotka kommunikoivat luontevasti. Dokumentaarinen tyyli sallii ep\u00e4t\u00e4ydellisyyden."
+        },
+        {
+          "risk": "Tekniset yksityiskohdat tylsistytt\u00e4v\u00e4t yleis\u00f6n",
+          "mitigation": "Tarinavetoinen rakenne: ensin mysteeri ja j\u00e4nnite, sitten ratkaisu. Tekniikka on v\u00e4line, ei p\u00e4\u00e4asia. Voice-over selitt\u00e4\u00e4 selkokielell\u00e4."
+        },
+        {
+          "risk": "Kilpailijat kopioivat formaatin",
+          "mitigation": "First mover -etu ja jatkuva tuotanto rakentavat auktoriteettiasemaa. Mekaanikkopersoonat ovat uniikkeja."
+        }
+      ]
+    },
+    {
+      "id": "concept_02",
+      "title": "Takuu S\u00e4ilyy \u2013 Myytinmurtajat",
+      "hook": "Autoasi ottaa suoraan kiinni merkkiliikkeiden pelotteluun ja todistaa TikTokissa, miksi 'vain merkkikorjaamo' on myytti \u2013 rohkeasti ja viihdytt\u00e4v\u00e4sti.",
+      "premise": "Lyhytvideosarja, jossa Autoasin mekaanikkot\u00e4hdet ja vierailevat vaikuttajat murskaavat yleisimpi\u00e4 autohuoltomyyttej\u00e4. Jokaisessa videossa otetaan yksi v\u00e4ite ('S\u00e4hk\u00f6auton takuu raukeaa, jos viet muualle'), tutkitaan se faktoilla ja n\u00e4ytet\u00e4\u00e4n totuus. Formaatti on nopea, hauska ja tahallisen provosoiva \u2013 t\u00e4ht\u00e4imess\u00e4 viraalius ja keskustelu.",
+      "long_form_extension": "Suosituimmista myytinmurtajista kootaan 6x12min 'Takuu S\u00e4ilyy Special' -dokumenttisarja Ruutuun, jossa syvennyt\u00e4\u00e4n lains\u00e4\u00e4d\u00e4nt\u00f6\u00f6n, haastatellaan asiantuntijoita ja n\u00e4ytet\u00e4\u00e4n laajempi konteksti.",
+      "format": {
+        "series_type": "ongoing",
+        "episode_length": "45-90 sekuntia",
+        "cadence": "3 kertaa viikossa",
+        "season_length": null
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "TikTok",
+          "rationale": "TikTok on myyttien ja v\u00e4\u00e4r\u00e4n tiedon taistelukentt\u00e4. 'Stitch'-kulttuuri ja duetit mahdollistavat orgaanisen levi\u00e4misen. Nuoremmat autoilijat (ensimm\u00e4isen s\u00e4hk\u00f6auton ostajat) ovat t\u00e4\u00e4ll\u00e4.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "YouTube Shorts",
+            "rationale": "",
+            "adaptation": "Sama sis\u00e4lt\u00f6, optimoitu YouTube-hakuun (#s\u00e4hk\u00f6auto #takuu #autohuolto)."
+          },
+          {
+            "platform": "Instagram Reels",
+            "rationale": "",
+            "adaptation": "Visuaalisesti siistimm\u00e4t versiot, joissa korostetaan 'myth vs fact' -grafiikkaa."
+          }
+        ],
+        "amplification": "Haastetaan aktiivisesti muita tekij\u00f6it\u00e4 ja merkkiliikkeit\u00e4 duettiin. PR-kampanja: 'Autoasi haastaa Vehon debattiin'. Vaikuttajayhteisty\u00f6t autovloggaajien kanssa, jotka tuovat omia myyttej\u00e4\u00e4n murskattavaksi."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Avaus: 'Oletko kuullut, ett\u00e4...' + myytti tekstin\u00e4 ruudulla",
+          "Reaktio: Mekaanikon 'Ai ett\u00e4?' -ilme",
+          "Todistus: Nopea fakta + visuaalinen n\u00e4ytt\u00f6 (lakiteksti, korjaamokuva, diagnostiikka)",
+          "Lopetus: 'Takuu s\u00e4ilyy. Piste.' + Autoasi-logo"
+        ],
+        "variable_elements": [
+          "Myytti vaihtuu (takuu, s\u00e4hk\u00f6autot, varaosat, hinnat)",
+          "Vieraileva vaikuttaja tai asiakas kertoo oman kokemuksensa",
+          "Tyylin vaihtelu: vakava fakta vs. humoristinen sketsi"
+        ],
+        "host_approach": "Kiert\u00e4v\u00e4 'mekaanikko-roster' eri Autoasi-korjaamoilta. 2-3 persoonaa, jotka toistuvat ja rakentavat omaa seuraajakuntaa. Vaikuttajat vieraina."
+      },
+      "brand_integration": {
+        "philosophy": "Autoasi on totuuden puolustaja. Br\u00e4ndi ei myy \u2013 se opettaa ja vapauttaa kuluttajan pelosta.",
+        "integration_method": "Logo n\u00e4kyy lopputunnisteessa. Mekaanikot ovat Autoasi-asuissa. 'Right to Repair' -sanoma on sis\u00e4\u00e4nrakennettu jokaiseen videoon.",
+        "screen_time_balance": "90% sis\u00e4lt\u00f6\u00e4, 10% br\u00e4ndi",
+        "cta_approach": "Bio-linkki: 'Tarkista takuuoikeutesi autoasi.fi/takuu'. Ei videoiden sis\u00e4ll\u00e4 kovaa myynti\u00e4."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "S\u00e4hk\u00f6auton takuu raukeaa?",
+          "description": "Murskaamme yleisimm\u00e4n pelon: EU-lains\u00e4\u00e4d\u00e4nt\u00f6 takaa huoltovapauden \u2013 n\u00e4yt\u00e4mme lakipyk\u00e4l\u00e4n."
+        },
+        {
+          "number": 2,
+          "title": "Vain alkuper\u00e4isosat kelpaavat",
+          "description": "Vertaamme alkuper\u00e4isosaa ja laadukasta vaihtoehto-osaa \u2013 sama speksi, eri hinta."
+        },
+        {
+          "number": 3,
+          "title": "Merkkiliike tiet\u00e4\u00e4 parhaiten",
+          "description": "Autoasin e-Expert n\u00e4ytt\u00e4\u00e4, miten sama diagnostiikkaohjelmisto toimii molemmissa."
+        },
+        {
+          "number": 4,
+          "title": "Halpa on aina huonoa",
+          "description": "Asiakas kertoo, miten maksoi merkkiliikkeess\u00e4 3x hinnan \u2013 sama ty\u00f6, sama tulos."
+        },
+        {
+          "number": 5,
+          "title": "Nyrkkipajalla ei osata koodata",
+          "description": "N\u00e4ytet\u00e4\u00e4n live, miten Autoasilla p\u00e4ivitet\u00e4\u00e4n auton ohjelmisto."
+        },
+        {
+          "number": 6,
+          "title": "Vaikuttaja testaa",
+          "description": "Autovaikuttaja vie autonsa sek\u00e4 Autoasille ett\u00e4 merkkiliikkeeseen \u2013 vertailu kameralle."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Puolustaa suoraan 'Right to Repair' -asemaa ja taistelee merkkiliikkeiden pelottelua vastaan. Tekee lakis\u00e4\u00e4teisest\u00e4 oikeudesta ymm\u00e4rrett\u00e4v\u00e4\u00e4 ja jaettavaa.",
+        "competitive_differentiation": "Kukaan kilpailija ei ota n\u00e4in suoraa kantaa. Fixus ja Motonet pysyv\u00e4t neutraaleina \u2013 Autoasi ottaa position ja omistaa keskustelun.",
+        "audience_value_proposition": "Kuluttaja saa aseita taisteluun kalliita hintoja ja pelottelua vastaan. Sis\u00e4lt\u00f6 on voimaannuttavaa ja jaettavaa: 'Katso t\u00e4m\u00e4 ennen kuin menet merkkiliikkeeseen'."
+      },
+      "execution": {
+        "complexity": "low",
+        "budget_tier": "budget",
+        "timeline_to_first_episode": "3-4 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Merkkiliikkeet tai autovalmistajat reagoivat negatiivisesti",
+          "mitigation": "Kaikki v\u00e4itteet perustuvat todennettaviin faktoihin (EU-lains\u00e4\u00e4d\u00e4nt\u00f6, BER-asetus). Juridiikkatiimi tarkistaa sis\u00e4ll\u00f6t. Totuus on paras puolustus."
+        },
+        {
+          "risk": "Sis\u00e4lt\u00f6 n\u00e4hd\u00e4\u00e4n liian aggressiivisena",
+          "mitigation": "S\u00e4vy on opettava ja humoristinen, ei hy\u00f6kk\u00e4\u00e4v\u00e4. Kohdistetaan myytteihin, ei kilpailijoihin nimelt\u00e4."
+        },
+        {
+          "risk": "Orgaaninen levi\u00e4minen ei toteudu",
+          "mitigation": "Ensimm\u00e4iset 10 videota tuetaan pienell\u00e4 maksetulla medialla. Vaikuttajayhteisty\u00f6t tuovat alkubuustin."
+        }
+      ]
+    },
+    {
+      "id": "concept_03",
+      "title": "Suomen Pisin Koeajo",
+      "hook": "Autoasi sponsoroi Suomen historian kunnianhimoisimman s\u00e4hk\u00f6autoseikkailun \u2013 ja samalla todistaa, ett\u00e4 heid\u00e4n verkostonsa pit\u00e4\u00e4 s\u00e4hk\u00f6autoilijan liikkeell\u00e4 Hangosta Nuorgamiin.",
+      "premise": "Cross-platform tapahtuma ja dokumenttisarja, jossa tunnettu suomalainen vaikuttaja ajaa s\u00e4hk\u00f6autolla Suomen halki \u00e4\u00e4rimm\u00e4isiss\u00e4 olosuhteissa (talvi, et\u00e4isyydet, latausinfran haasteet) \u2013 ja Autoasin e-Expert-verkosto on h\u00e4nen tukenaan. Matka on aito seikkailu, jossa kohdataan todellisia haasteita ja ratkaistaan niit\u00e4 yhdess\u00e4 paikallisten Autoasi-yritt\u00e4jien kanssa. Sis\u00e4lt\u00f6 on reaaliaikainen some-seuranta + dokumenttisarja j\u00e4lkituotannossa.",
+      "long_form_extension": "4x45min dokumenttisarja 'Suomen Pisin Koeajo' Neloselle/Ruutu+. Lis\u00e4ksi 60min 'Making of' -erikoisjakso, joka n\u00e4ytt\u00e4\u00e4 tuotannon kulissien takaa.",
+      "format": {
+        "series_type": "event",
+        "episode_length": "Reaaliaikainen some 30-120s, dokumentti 45 min",
+        "cadence": "Reaaliaikainen 7 p\u00e4iv\u00e4n ajan, dokumentti viikoittain sen j\u00e4lkeen",
+        "season_length": "1 tapahtuma + 4 dokumenttijaksoa"
+      },
+      "platform_strategy": {
+        "primary": {
+          "platform": "Cross-platform reaaliaikainen",
+          "rationale": "Tapahtuma on live-ilmi\u00f6, joka vaatii monikanavaista l\u00e4hestymist\u00e4. TikTok/IG reaaliaikaiseen seurantaan, YouTube/Ruutu+ dokumentaariseen syvent\u00e4miseen, X/Twitter keskusteluun ja uutisointiin.",
+          "adaptation": ""
+        },
+        "secondary": [
+          {
+            "platform": "TikTok Live + Stories",
+            "rationale": "",
+            "adaptation": "P\u00e4ivitt\u00e4iset 'miss\u00e4 menn\u00e4\u00e4n' -p\u00e4ivitykset, haasteiden live-striimaus, yleis\u00f6n \u00e4\u00e4nestykset reitist\u00e4."
+          },
+          {
+            "platform": "YouTube",
+            "rationale": "",
+            "adaptation": "P\u00e4ivitt\u00e4iset 10-15 min 'p\u00e4iv\u00e4kirja'-jaksot matkan aikana, my\u00f6hemmin t\u00e4yspitk\u00e4 dokumentti."
+          },
+          {
+            "platform": "Instagram",
+            "rationale": "",
+            "adaptation": "Visuaaliset highlight-reelsit, behind-the-scenes, karttap\u00e4ivitykset."
+          }
+        ],
+        "amplification": "PR-kampanja ennen l\u00e4ht\u00f6\u00e4: 'Onnistuuko s\u00e4hk\u00f6autolla Suomen halki talvella?'. Median edustajat kutsutaan mukaan osalle matkaa. Yhteisty\u00f6 Iltalehden/Ilta-Sanomien kanssa live-seurannassa."
+      },
+      "series_structure": {
+        "recurring_elements": [
+          "Aamubrief: P\u00e4iv\u00e4n reitti ja haasteet kartalla",
+          "Ajop\u00e4iv\u00e4kirja: Vaikuttajan tunnelmat ja havainnot",
+          "Autoasi-pys\u00e4hdys: Kohtaaminen paikallisen yritt\u00e4j\u00e4n kanssa (huolto, lataus, neuvot)",
+          "Iltayhteenveto: Mit\u00e4 opittiin, mit\u00e4 huomenna"
+        ],
+        "variable_elements": [
+          "Odottamattomat haasteet (s\u00e4\u00e4, latausongelmat, tekniset viat)",
+          "Paikalliset tarinat ja ihmiset matkan varrelta",
+          "Yleis\u00f6n interaktio: \u00e4\u00e4nestykset, kysymykset, haasteet"
+        ],
+        "host_approach": "P\u00e4\u00e4kasvo on tunnettu suomalainen vaikuttaja (esim. Jaajo Linnonmaa, Arman Alizad, Riku Nieminen), joka ei ole 'autotiimi' mutta on kiinnostunut ja utelias. Autoasin mekaanikoista tulee matkan sivuhenkil\u00f6it\u00e4."
+      },
+      "brand_integration": {
+        "philosophy": "Autoasi on matkan mahdollistaja ja turvaverkko. Ilman heid\u00e4n verkostoaan t\u00e4m\u00e4 seikkailu ei olisi mahdollinen. Br\u00e4ndi on sankarin auttaja, ei sankari itse.",
+        "integration_method": "Jokainen Autoasi-pys\u00e4hdys on luonteva osa tarinaa. e-Expert-osaaminen n\u00e4kyy s\u00e4hk\u00f6auton huoltotilanteissa. Paikalliset yritt\u00e4j\u00e4t saavat kasvot ja tarinat.",
+        "screen_time_balance": "75% seikkailu ja matka, 25% Autoasi-kohtaamiset",
+        "cta_approach": "Matkan aikana: 'L\u00f6yd\u00e4 l\u00e4hin e-Expert osoitteesta autoasi.fi'. Dokumentissa: 'Suomen laajin s\u00e4hk\u00f6autojen huoltoverkosto'."
+      },
+      "episode_concepts": [
+        {
+          "number": 1,
+          "title": "L\u00e4ht\u00f6 Hangosta",
+          "description": "Matka alkaa Suomen etel\u00e4k\u00e4rjest\u00e4 \u2013 ensimm\u00e4inen haaste on l\u00f6yt\u00e4\u00e4 lataus ennen Helsinki\u00e4."
+        },
+        {
+          "number": 2,
+          "title": "Talven ydin",
+          "description": "Keski-Suomessa -25 astetta, akun kantama romahtaa \u2013 Jyv\u00e4skyl\u00e4n Autoasi pelastaa tilanteen."
+        },
+        {
+          "number": 3,
+          "title": "Pohjoiseen",
+          "description": "Oulusta Rovaniemelle \u2013 matkalla kohdataan latausinfran todellisuus Suomen harvaan asutuilla alueilla."
+        },
+        {
+          "number": 4,
+          "title": "Lapin haaste",
+          "description": "Viimeinen etappi Nuorgamiin \u2013 onnistuuko matka, kun edess\u00e4 on Suomen pisin latausv\u00e4li?"
+        },
+        {
+          "number": 5,
+          "title": "Perill\u00e4",
+          "description": "Saavutaan Nuorgamiin \u2013 yhteenveto matkasta, opit ja kiitokset Autoasi-verkostolle."
+        },
+        {
+          "number": 6,
+          "title": "Epilogi: Mit\u00e4 opimme",
+          "description": "Dokumenttijakso, jossa analysoidaan s\u00e4hk\u00f6autoilun tulevaisuus Suomessa Autoasin n\u00e4k\u00f6kulmasta."
+        }
+      ],
+      "why_this_wins": {
+        "strategic_alignment": "Todistaa konkreettisesti e-Expert-strategian toimivuuden: Autoasin verkosto kattaa Suomen ja osaa s\u00e4hk\u00f6autot. Ratkaisee j\u00e4nnitteen 'Korkean teknologian tavoite vs. Rasvan\u00e4ppi-mielikuva' n\u00e4ytt\u00e4m\u00e4ll\u00e4, ei kertomalla.",
+        "competitive_differentiation": "Kukaan kilpailija ei ole tehnyt vastaavaa. T\u00e4m\u00e4 on kulttuuritapahtuma, ei mainos. Fixus tai Motonet eiv\u00e4t voi kopioida, koska heill\u00e4 ei ole vastaavaa valtakunnallista verkostoa.",
+        "audience_value_proposition": "S\u00e4hk\u00f6autoilija saa todellista tietoa kantamasta, latauksesta ja huollosta \u00e4\u00e4riolosuhteissa. Yleis\u00f6 saa seikkailuviihdett\u00e4 ja inhimillisi\u00e4 tarinoita. Media saa uutisaiheen."
+      },
+      "execution": {
+        "complexity": "high",
+        "budget_tier": "premium",
+        "timeline_to_first_episode": "12-16 viikkoa"
+      },
+      "risks": [
+        {
+          "risk": "Matka ep\u00e4onnistuu teknisesti (auto hajoaa, lataus ei toimi)",
+          "mitigation": "Ep\u00e4onnistuminen ON tarina. Dokumentoidaan rehellisesti. Autoasin rooli on ratkaista ongelmat, ei est\u00e4\u00e4 niit\u00e4. Tukitiimi ja vara-auto taustalla."
+        },
+        {
+          "risk": "S\u00e4\u00e4olosuhteet est\u00e4v\u00e4t matkan",
+          "mitigation": "Joustava aikataulu ja useita varap\u00e4ivi\u00e4. \u00c4\u00e4rimm\u00e4inen s\u00e4\u00e4 on osa tarinaa, ei este."
+        },
+        {
+          "risk": "Vaikuttajan sitoutuminen ja aikataulu",
+          "mitigation": "Sopimus tehd\u00e4\u00e4n ajoissa, matka suunnitellaan vaikuttajan kalenterin ymp\u00e4rille. Varasuunnitelma B-tason vaikuttajalla."
+        },
+        {
+          "risk": "Kustannukset ylittyv\u00e4t",
+          "mitigation": "Kiinte\u00e4 budjetti ja tuotantosuunnitelma. Osa kustannuksista katetaan mediayhteisty\u00f6ll\u00e4 (Iltalehti, MTV) ja mahdollisilla lis\u00e4sponsoreilla (latausverkosto, majoitus)."
+        }
+      ]
+    }
+  ],
+  "treatment_files": [
+    "/opt/render/project/src/runs/autoasi_-autonhuoltoketju/TREATMENTS/autoasi_-autonhuoltoketju_TREATMENT_01_20260201_084935.md",
+    "/opt/render/project/src/runs/autoasi_-autonhuoltoketju/TREATMENTS/autoasi_-autonhuoltoketju_TREATMENT_02_20260201_084935.md",
+    "/opt/render/project/src/runs/autoasi_-autonhuoltoketju/TREATMENTS/autoasi_-autonhuoltoketju_TREATMENT_03_20260201_084935.md"
+  ],
   "onepager_specs": [],
   "onepagers_skipped": false,
   "onepagers_error": null,
@@ -287,6 +629,15 @@
     {
       "phase": "strategize",
       "started_at": "2026-02-01T08:43:25.300989",
+      "completed_at": "2026-02-01T08:43:26.978403",
+      "success": true,
+      "error_message": null,
+      "retry_count": 0,
+      "artifacts": []
+    },
+    {
+      "phase": "create",
+      "started_at": "2026-02-01T08:43:26.985448",
       "completed_at": null,
       "success": false,
       "error_message": null,
