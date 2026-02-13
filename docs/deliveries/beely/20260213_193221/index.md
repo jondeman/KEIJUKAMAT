@@ -16,6 +16,9 @@
 - [Concept 03](concepts/concept_03.md)
 
 ## Treatments
+- [beely_TREATMENT_01_20260213_194808.md](treatments/beely_TREATMENT_01_20260213_194808.md)
+- [beely_TREATMENT_02_20260213_194808.md](treatments/beely_TREATMENT_02_20260213_194808.md)
+- [beely_TREATMENT_03_20260213_194808.md](treatments/beely_TREATMENT_03_20260213_194808.md)
 
 ## One-Pagers
 - [One-Pager 01](onepagers/concept_01.png)
