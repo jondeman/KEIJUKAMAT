@@ -3,13 +3,13 @@
   "company_slug": "beely-autonvuokraus",
   "generated_at": "2026-02-13T19:29:31.583422",
   "brand_identity": {
-    "positioning": "Kolmas vaihtoehto omistamisen ja leasingin väliin. Auto palveluna (Car-as-a-Service) tai Kuukausiauto.",
+    "positioning": "Kolmas vaihtoehto omistamisen ja leasingin v\u00e4liin. Auto palveluna (Car-as-a-Service) tai Kuukausiauto.",
     "visual_markers": {
       "primary_color": "Musta ja keltainen",
       "secondary_colors": [],
       "style_keywords": [
         "Utilitaristinen",
-        "Huomiota herättävä",
+        "Huomiota her\u00e4tt\u00e4v\u00e4",
         "Taksi-assosiaatio"
       ],
       "tone_keywords": [
@@ -28,8 +28,8 @@
       "rank": 1,
       "priority": "Kynnyksen madaltaminen (Risk-free Entry)",
       "evidence": [
-        "Markkinoinnin kärjet: Ei käsirahaa, Palautusoikeus, Ei yllättäviä huoltokuluja",
-        "Lupaus riskin siirtämisestä kuluttajalta yritykselle"
+        "Markkinoinnin k\u00e4rjet: Ei k\u00e4sirahaa, Palautusoikeus, Ei yll\u00e4tt\u00e4vi\u00e4 huoltokuluja",
+        "Lupaus riskin siirt\u00e4misest\u00e4 kuluttajalta yritykselle"
       ],
       "execution_assessment": "strong"
     },
@@ -47,7 +47,7 @@
       "priority": "Digitaalinen ostopolku (Digital-First)",
       "evidence": [
         "Kotiinkuljetuspalvelun korostaminen",
-        "Täysin sähköinen sopimusprosessi"
+        "T\u00e4ysin s\u00e4hk\u00f6inen sopimusprosessi"
       ],
       "execution_assessment": "moderate"
     }
@@ -55,13 +55,13 @@
   "marketing_posture": {
     "current_content_types": [
       "Taktinen mainonta (Auton kuva + hinta)",
-      "Valistava sisältö (Blogit sähköautoilusta ym.)",
+      "Valistava sis\u00e4lt\u00f6 (Blogit s\u00e4hk\u00f6autoilusta ym.)",
       "Vaikuttajamarkkinointi (Turvalliset kasvot)"
     ],
     "channel_presence": {
       "youtube": {
         "active": false,
-        "assessment": "Passiivinen/Heikko. Sisältö on staattista tai vanhentunutta, videotarinankerronta puuttuu."
+        "assessment": "Passiivinen/Heikko. Sis\u00e4lt\u00f6 on staattista tai vanhentunutta, videotarinankerronta puuttuu."
       },
       "tiktok": {
         "active": false,
@@ -69,7 +69,7 @@
       },
       "instagram": {
         "active": true,
-        "assessment": "Aktiivinen (Meta). Pääkanava taktiselle retargeting-mainonnalle."
+        "assessment": "Aktiivinen (Meta). P\u00e4\u00e4kanava taktiselle retargeting-mainonnalle."
       },
       "linkedin": {
         "active": false,
@@ -77,41 +77,41 @@
       }
     },
     "apparent_gaps": [
-      "Emotionaalinen tyhjiö: Markkinointi on erittäin järkiperäistä.",
-      "Videotarinankerronta: Puute sisällöstä, joka näyttäisi palvelun toiminnan käytännössä."
+      "Emotionaalinen tyhji\u00f6: Markkinointi on eritt\u00e4in j\u00e4rkiper\u00e4ist\u00e4.",
+      "Videotarinankerronta: Puute sis\u00e4ll\u00f6st\u00e4, joka n\u00e4ytt\u00e4isi palvelun toiminnan k\u00e4yt\u00e4nn\u00f6ss\u00e4."
     ],
-    "audience_engagement": "Yleisö sitoutuu rationaaliseen lupaukseen (hinta/riski), mutta brändisuhde on ohut. Asiakkaat ovat uskollisia diilille, eivät välttämättä brändille."
+    "audience_engagement": "Yleis\u00f6 sitoutuu rationaaliseen lupaukseen (hinta/riski), mutta br\u00e4ndisuhde on ohut. Asiakkaat ovat uskollisia diilille, eiv\u00e4t v\u00e4ltt\u00e4m\u00e4tt\u00e4 br\u00e4ndille."
   },
   "competitive_analysis": {
     "key_competitors": [
       {
-        "name": "Oma raha / Halpa käytetty auto",
-        "content_strategy": "Ei keskitettyä strategiaa, yleinen narratiivi 'omistaminen on säästämistä'.",
+        "name": "Oma raha / Halpa k\u00e4ytetty auto",
+        "content_strategy": "Ei keskitetty\u00e4 strategiaa, yleinen narratiivi 'omistaminen on s\u00e4\u00e4st\u00e4mist\u00e4'.",
         "threat_level": "high"
       },
       {
         "name": "Perinteinen Yksityisleasing (esim. K-Auto, Volvo)",
-        "content_strategy": "Myyvät uutuudenviehätystä, statusta ja täydellistä huolettomuutta.",
+        "content_strategy": "Myyv\u00e4t uutuudenvieh\u00e4tyst\u00e4, statusta ja t\u00e4ydellist\u00e4 huolettomuutta.",
         "threat_level": "medium"
       }
     ],
     "brand_winning_areas": [
-      "Riskittömyys verrattuna oman auton omistamiseen (ei yllätyskuluja).",
+      "Riskitt\u00f6myys verrattuna oman auton omistamiseen (ei yll\u00e4tyskuluja).",
       "Joustavuus ja hinta verrattuna uuden auton leasingiin."
     ],
     "brand_losing_areas": [
-      "Mielikuvallinen haluttavuus (käytetty vs. uusi).",
-      "Pitkän aikavälin kustannusmielikuva (vs. käteisellä ostettu auto)."
+      "Mielikuvallinen haluttavuus (k\u00e4ytetty vs. uusi).",
+      "Pitk\u00e4n aikav\u00e4lin kustannusmielikuva (vs. k\u00e4teisell\u00e4 ostettu auto)."
     ]
   },
   "strategic_tensions": [
     {
       "id": "tension_01",
-      "description": "Palvelulupauksen ja tuoterealismin ristiriita: Brändi lupaa täydellistä huolettomuutta, mutta tuote on käytetty auto kulumajälkineen.",
+      "description": "Palvelulupauksen ja tuoterealismin ristiriita: Br\u00e4ndi lupaa t\u00e4ydellist\u00e4 huolettomuutta, mutta tuote on k\u00e4ytetty auto kulumaj\u00e4lkineen.",
       "evidence": [
-        "Lupaus: 'Auto ilman riskiä'",
-        "Todellisuus: Asiakaspalautteet kuluneista renkaista ja teknisistä vioista",
-        "Kitka: Asiakas odottaa uuden auton kokemusta, mutta saa käytetyn auton realiteetit"
+        "Lupaus: 'Auto ilman riski\u00e4'",
+        "Todellisuus: Asiakaspalautteet kuluneista renkaista ja teknisist\u00e4 vioista",
+        "Kitka: Asiakas odottaa uuden auton kokemusta, mutta saa k\u00e4ytetyn auton realiteetit"
       ],
       "opportunity_type": "gap",
       "priority_score": 5
@@ -121,7 +121,7 @@
       "description": "Digitaalinen helppous vs. Fyysinen pirstaloituminen: Tilaus on saumatonta, mutta ongelmatilanteet ulkoistetaan kolmansille osapuolille.",
       "evidence": [
         "Lupaus: 'Tilaa sohvalta'",
-        "Todellisuus: Huollot ja korjaukset hoidetaan kumppanikorjaamoilla, ei Beelyllä",
+        "Todellisuus: Huollot ja korjaukset hoidetaan kumppanikorjaamoilla, ei Beelyll\u00e4",
         "Asiakas joutuu navigoimaan vieraiden toimijoiden kanssa"
       ],
       "opportunity_type": "gap",
@@ -129,11 +129,11 @@
     },
     {
       "id": "tension_03",
-      "description": "Rationaalinen brändi emotionaalisessa kategoriassa: Beely puhuu vain järkeä (ehdot, hinta), jättäen tunnesiteen rakentamatta.",
+      "description": "Rationaalinen br\u00e4ndi emotionaalisessa kategoriassa: Beely puhuu vain j\u00e4rke\u00e4 (ehdot, hinta), j\u00e4tt\u00e4en tunnesiteen rakentamatta.",
       "evidence": [
         "Visuaalisuus on utilitaristista (musta-keltainen)",
-        "Sisältö keskittyy sopimusehtoihin",
-        "Puuttuu tarina 'autolla elämisen ilosta'"
+        "Sis\u00e4lt\u00f6 keskittyy sopimusehtoihin",
+        "Puuttuu tarina 'autolla el\u00e4misen ilosta'"
       ],
       "opportunity_type": "aspiration",
       "priority_score": 3
@@ -142,20 +142,20 @@
   "opportunity_zones": [
     {
       "id": "opp_01",
-      "description": "The Anti-Mechanic – Tietämättömyyden ylistys",
-      "rationale": "Kohdistetaan viestintä ihmisille, jotka eivät halua tietää autoista mitään. Beely voi omistaa position 'auto kodinkoneena', mikä vetoaa perinteistä autokauppaa vierastaviin.",
+      "description": "The Anti-Mechanic \u2013 Tiet\u00e4m\u00e4tt\u00f6myyden ylistys",
+      "rationale": "Kohdistetaan viestint\u00e4 ihmisille, jotka eiv\u00e4t halua tiet\u00e4\u00e4 autoista mit\u00e4\u00e4n. Beely voi omistaa position 'auto kodinkoneena', mik\u00e4 vetoaa perinteist\u00e4 autokauppaa vierastaviin.",
       "risk_level": "low"
     },
     {
       "id": "opp_02",
-      "description": "Radikaali läpinäkyvyys (Unboxing a Used Car)",
-      "rationale": "Näytetään rehellisesti auton kunto ja tarkastusprosessi. Tämä ratkaisee tension_01:n hallitsemalla odotukset ja rakentamalla luottamusta.",
+      "description": "Radikaali l\u00e4pin\u00e4kyvyys (Unboxing a Used Car)",
+      "rationale": "N\u00e4ytet\u00e4\u00e4n rehellisesti auton kunto ja tarkastusprosessi. T\u00e4m\u00e4 ratkaisee tension_01:n hallitsemalla odotukset ja rakentamalla luottamusta.",
       "risk_level": "medium"
     },
     {
       "id": "opp_03",
-      "description": "Elämäntilannemarkkinointi (Life-Stage Solutions)",
-      "rationale": "Siirrytään automallien markkinoinnista elämäntilanteiden (ero, vauva, koeaika) ratkaisemiseen, hyödyntäen Beelyn joustavuutta.",
+      "description": "El\u00e4m\u00e4ntilannemarkkinointi (Life-Stage Solutions)",
+      "rationale": "Siirryt\u00e4\u00e4n automallien markkinoinnista el\u00e4m\u00e4ntilanteiden (ero, vauva, koeaika) ratkaisemiseen, hy\u00f6dynt\u00e4en Beelyn joustavuutta.",
       "risk_level": "low"
     }
   ],
@@ -186,14 +186,14 @@
       "url": "https://www.sttinfo.fi",
       "type": "news",
       "date_accessed": "2023-10-01",
-      "relevance": "Yhtiön tiedotteet ja kumppanuusuutiset."
+      "relevance": "Yhti\u00f6n tiedotteet ja kumppanuusuutiset."
     },
     {
       "title": "YouTube",
       "url": "https://www.youtube.com",
       "type": "social",
       "date_accessed": "2023-10-01",
-      "relevance": "Beelyn videosisältöjen auditointi."
+      "relevance": "Beelyn videosis\u00e4lt\u00f6jen auditointi."
     },
     {
       "title": "Social Media Examiner / NIH / Wikipedia",
