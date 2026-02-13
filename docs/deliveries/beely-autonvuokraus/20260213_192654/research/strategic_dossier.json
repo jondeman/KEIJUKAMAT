@@ -1,0 +1,206 @@
+{
+  "company_name": "Beely autonvuokraus",
+  "company_slug": "beely-autonvuokraus",
+  "generated_at": "2026-02-13T19:29:31.583422",
+  "brand_identity": {
+    "positioning": "Kolmas vaihtoehto omistamisen ja leasingin väliin. Auto palveluna (Car-as-a-Service) tai Kuukausiauto.",
+    "visual_markers": {
+      "primary_color": "Musta ja keltainen",
+      "secondary_colors": [],
+      "style_keywords": [
+        "Utilitaristinen",
+        "Huomiota herättävä",
+        "Taksi-assosiaatio"
+      ],
+      "tone_keywords": [
+        "Ei-premium",
+        "Funktionaalinen"
+      ]
+    },
+    "voice_characteristics": [
+      "Pragmaattinen",
+      "Helpottaja (Enabler)",
+      "Rationaalinen"
+    ]
+  },
+  "strategic_priorities": [
+    {
+      "rank": 1,
+      "priority": "Kynnyksen madaltaminen (Risk-free Entry)",
+      "evidence": [
+        "Markkinoinnin kärjet: Ei käsirahaa, Palautusoikeus, Ei yllättäviä huoltokuluja",
+        "Lupaus riskin siirtämisestä kuluttajalta yritykselle"
+      ],
+      "execution_assessment": "strong"
+    },
+    {
+      "rank": 2,
+      "priority": "Varaston skaalautuvuus (Dealer Partnership)",
+      "evidence": [
+        "Laaja kumppaniverkosto (Saka, Kamux, ym.)",
+        "B2B-markkinointi autoliikkeille"
+      ],
+      "execution_assessment": "strong"
+    },
+    {
+      "rank": 3,
+      "priority": "Digitaalinen ostopolku (Digital-First)",
+      "evidence": [
+        "Kotiinkuljetuspalvelun korostaminen",
+        "Täysin sähköinen sopimusprosessi"
+      ],
+      "execution_assessment": "moderate"
+    }
+  ],
+  "marketing_posture": {
+    "current_content_types": [
+      "Taktinen mainonta (Auton kuva + hinta)",
+      "Valistava sisältö (Blogit sähköautoilusta ym.)",
+      "Vaikuttajamarkkinointi (Turvalliset kasvot)"
+    ],
+    "channel_presence": {
+      "youtube": {
+        "active": false,
+        "assessment": "Passiivinen/Heikko. Sisältö on staattista tai vanhentunutta, videotarinankerronta puuttuu."
+      },
+      "tiktok": {
+        "active": false,
+        "assessment": "Ei mainittu aineistossa."
+      },
+      "instagram": {
+        "active": true,
+        "assessment": "Aktiivinen (Meta). Pääkanava taktiselle retargeting-mainonnalle."
+      },
+      "linkedin": {
+        "active": false,
+        "assessment": "Ei mainittu aineistossa."
+      }
+    },
+    "apparent_gaps": [
+      "Emotionaalinen tyhjiö: Markkinointi on erittäin järkiperäistä.",
+      "Videotarinankerronta: Puute sisällöstä, joka näyttäisi palvelun toiminnan käytännössä."
+    ],
+    "audience_engagement": "Yleisö sitoutuu rationaaliseen lupaukseen (hinta/riski), mutta brändisuhde on ohut. Asiakkaat ovat uskollisia diilille, eivät välttämättä brändille."
+  },
+  "competitive_analysis": {
+    "key_competitors": [
+      {
+        "name": "Oma raha / Halpa käytetty auto",
+        "content_strategy": "Ei keskitettyä strategiaa, yleinen narratiivi 'omistaminen on säästämistä'.",
+        "threat_level": "high"
+      },
+      {
+        "name": "Perinteinen Yksityisleasing (esim. K-Auto, Volvo)",
+        "content_strategy": "Myyvät uutuudenviehätystä, statusta ja täydellistä huolettomuutta.",
+        "threat_level": "medium"
+      }
+    ],
+    "brand_winning_areas": [
+      "Riskittömyys verrattuna oman auton omistamiseen (ei yllätyskuluja).",
+      "Joustavuus ja hinta verrattuna uuden auton leasingiin."
+    ],
+    "brand_losing_areas": [
+      "Mielikuvallinen haluttavuus (käytetty vs. uusi).",
+      "Pitkän aikavälin kustannusmielikuva (vs. käteisellä ostettu auto)."
+    ]
+  },
+  "strategic_tensions": [
+    {
+      "id": "tension_01",
+      "description": "Palvelulupauksen ja tuoterealismin ristiriita: Brändi lupaa täydellistä huolettomuutta, mutta tuote on käytetty auto kulumajälkineen.",
+      "evidence": [
+        "Lupaus: 'Auto ilman riskiä'",
+        "Todellisuus: Asiakaspalautteet kuluneista renkaista ja teknisistä vioista",
+        "Kitka: Asiakas odottaa uuden auton kokemusta, mutta saa käytetyn auton realiteetit"
+      ],
+      "opportunity_type": "gap",
+      "priority_score": 5
+    },
+    {
+      "id": "tension_02",
+      "description": "Digitaalinen helppous vs. Fyysinen pirstaloituminen: Tilaus on saumatonta, mutta ongelmatilanteet ulkoistetaan kolmansille osapuolille.",
+      "evidence": [
+        "Lupaus: 'Tilaa sohvalta'",
+        "Todellisuus: Huollot ja korjaukset hoidetaan kumppanikorjaamoilla, ei Beelyllä",
+        "Asiakas joutuu navigoimaan vieraiden toimijoiden kanssa"
+      ],
+      "opportunity_type": "gap",
+      "priority_score": 4
+    },
+    {
+      "id": "tension_03",
+      "description": "Rationaalinen brändi emotionaalisessa kategoriassa: Beely puhuu vain järkeä (ehdot, hinta), jättäen tunnesiteen rakentamatta.",
+      "evidence": [
+        "Visuaalisuus on utilitaristista (musta-keltainen)",
+        "Sisältö keskittyy sopimusehtoihin",
+        "Puuttuu tarina 'autolla elämisen ilosta'"
+      ],
+      "opportunity_type": "aspiration",
+      "priority_score": 3
+    }
+  ],
+  "opportunity_zones": [
+    {
+      "id": "opp_01",
+      "description": "The Anti-Mechanic – Tietämättömyyden ylistys",
+      "rationale": "Kohdistetaan viestintä ihmisille, jotka eivät halua tietää autoista mitään. Beely voi omistaa position 'auto kodinkoneena', mikä vetoaa perinteistä autokauppaa vierastaviin.",
+      "risk_level": "low"
+    },
+    {
+      "id": "opp_02",
+      "description": "Radikaali läpinäkyvyys (Unboxing a Used Car)",
+      "rationale": "Näytetään rehellisesti auton kunto ja tarkastusprosessi. Tämä ratkaisee tension_01:n hallitsemalla odotukset ja rakentamalla luottamusta.",
+      "risk_level": "medium"
+    },
+    {
+      "id": "opp_03",
+      "description": "Elämäntilannemarkkinointi (Life-Stage Solutions)",
+      "rationale": "Siirrytään automallien markkinoinnista elämäntilanteiden (ero, vauva, koeaika) ratkaisemiseen, hyödyntäen Beelyn joustavuutta.",
+      "risk_level": "low"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Beely.fi (Useita sivuja)",
+      "url": "https://www.beely.fi",
+      "type": "company_site",
+      "date_accessed": "2023-10-01",
+      "relevance": "Palvelukuvaukset, ehdot, blogit."
+    },
+    {
+      "title": "Teknavi.fi",
+      "url": "https://teknavi.fi",
+      "type": "news",
+      "date_accessed": "2023-10-01",
+      "relevance": "Artikkelit palvelun toiminnasta."
+    },
+    {
+      "title": "Suomi24.fi",
+      "url": "https://keskustelu.suomi24.fi",
+      "type": "social",
+      "date_accessed": "2023-10-01",
+      "relevance": "Asiakaskeskustelut ja kokemukset (laadullinen data)."
+    },
+    {
+      "title": "STT Info",
+      "url": "https://www.sttinfo.fi",
+      "type": "news",
+      "date_accessed": "2023-10-01",
+      "relevance": "Yhtiön tiedotteet ja kumppanuusuutiset."
+    },
+    {
+      "title": "YouTube",
+      "url": "https://www.youtube.com",
+      "type": "social",
+      "date_accessed": "2023-10-01",
+      "relevance": "Beelyn videosisältöjen auditointi."
+    },
+    {
+      "title": "Social Media Examiner / NIH / Wikipedia",
+      "url": "Various",
+      "type": "other",
+      "date_accessed": "2023-10-01",
+      "relevance": "Yleiset markkinointi- ja taustatiedot."
+    }
+  ]
+}
