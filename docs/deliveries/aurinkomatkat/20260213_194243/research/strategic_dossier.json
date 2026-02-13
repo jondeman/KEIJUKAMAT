@@ -3,9 +3,9 @@
   "company_slug": "aurinkomatkat",
   "generated_at": "2026-02-13T20:00:43.558937",
   "brand_identity": {
-    "positioning": "Markkinajohtaja ja institutionaalinen 'huolenpitäjä', joka takaa onnistuneen loman yhdistämällä suomalaisen palvelun ja Finnairin suorat lennot. Ydinlupaus: 'Loma alkaa Finnairin lennoilla.'",
+    "positioning": "Markkinajohtaja ja institutionaalinen 'huolenpit\u00e4j\u00e4', joka takaa onnistuneen loman yhdist\u00e4m\u00e4ll\u00e4 suomalaisen palvelun ja Finnairin suorat lennot. Ydinlupaus: 'Loma alkaa Finnairin lennoilla.'",
     "visual_markers": {
-      "primary_color": "Sinivalkoinen (korostaa suomalaisuutta ja Finnair-yhteyttä)",
+      "primary_color": "Sinivalkoinen (korostaa suomalaisuutta ja Finnair-yhteytt\u00e4)",
       "secondary_colors": [],
       "style_keywords": [
         "Puhdas",
@@ -17,12 +17,12 @@
       "tone_keywords": [
         "Rauhallinen",
         "Asiantunteva",
-        "Lämmin",
+        "L\u00e4mmin",
         "Auktoriteettia omaava"
       ]
     },
     "voice_characteristics": [
-      "The Caregiver (Huolenpitäjä)",
+      "The Caregiver (Huolenpit\u00e4j\u00e4)",
       "The Explorer (Vapaa matkustaja)",
       "Ei huuda, vaan toteaa"
     ]
@@ -32,8 +32,8 @@
       "rank": 1,
       "priority": "Digitaalinen asiakaspalvelupolku (The App)",
       "evidence": [
-        "Sovellus viestinnän keskiössä",
-        "Retkimyynti ja palvelut siirretään sovellukseen",
+        "Sovellus viestinn\u00e4n keski\u00f6ss\u00e4",
+        "Retkimyynti ja palvelut siirret\u00e4\u00e4n sovellukseen",
         "Tavoite sitouttaa asiakas ennen matkaa"
       ],
       "execution_assessment": "strong"
@@ -52,14 +52,14 @@
       "rank": 3,
       "priority": "Kausisvaihtelun tasaaminen",
       "evidence": [
-        "Kevät/syksy-kausien pidentäminen",
-        "Ympärivuotisten kohteiden markkinointi"
+        "Kev\u00e4t/syksy-kausien pident\u00e4minen",
+        "Ymp\u00e4rivuotisten kohteiden markkinointi"
       ],
       "execution_assessment": "moderate"
     },
     {
       "rank": 4,
-      "priority": "Vastuullisuus hygieniatekijänä",
+      "priority": "Vastuullisuus hygieniatekij\u00e4n\u00e4",
       "evidence": [
         "Sosiaalisen vastuun korostaminen",
         "Sertifioidut hotellit",
@@ -71,9 +71,9 @@
   "marketing_posture": {
     "current_content_types": [
       "Korkealaatuiset elokuvalliset TV-mainokset",
-      "Taktinen digimainonta (äkkilähdöt, sesongit)",
+      "Taktinen digimainonta (\u00e4kkil\u00e4hd\u00f6t, sesongit)",
       "Inspiroivat blogit ja kohde-esittelyt",
-      "Sovelluksen hyötytieto"
+      "Sovelluksen hy\u00f6tytieto"
     ],
     "channel_presence": {
       "youtube": {
@@ -90,15 +90,15 @@
       },
       "linkedin": {
         "active": false,
-        "assessment": "Ei mainittu analyysissa merkittävänä kanavana."
+        "assessment": "Ei mainittu analyysissa merkitt\u00e4v\u00e4n\u00e4 kanavana."
       }
     },
     "apparent_gaps": [
-      "Aito, rosoinen 'behind-the-scenes' -sisältö puuttuu",
-      "Vaikuttajamarkkinoinnin ja tubettajien hyödyntäminen vähäistä",
+      "Aito, rosoinen 'behind-the-scenes' -sis\u00e4lt\u00f6 puuttuu",
+      "Vaikuttajamarkkinoinnin ja tubettajien hy\u00f6dynt\u00e4minen v\u00e4h\u00e4ist\u00e4",
       "Vuorovaikutus on tiedottamista, ei keskustelua"
     ],
-    "audience_engagement": "Transaktionaalista (ostetaan turvaa), ei emotionaalista yhteisöllisyyttä. Positiivista palautetta palvelun nopeudesta, negatiivista hinnasta."
+    "audience_engagement": "Transaktionaalista (ostetaan turvaa), ei emotionaalista yhteis\u00f6llisyytt\u00e4. Positiivista palautetta palvelun nopeudesta, negatiivista hinnasta."
   },
   "competitive_analysis": {
     "key_competitors": [
@@ -109,11 +109,11 @@
       },
       {
         "name": "TUI",
-        "content_strategy": "Globaali jätti, teknologisesti vahva, volyymivetoinen",
+        "content_strategy": "Globaali j\u00e4tti, teknologisesti vahva, volyymivetoinen",
         "threat_level": "high"
       },
       {
-        "name": "Tjäreborg",
+        "name": "Tj\u00e4reborg",
         "content_strategy": "Perinteinen, pohjoismainen, perhekeskeinen (Sunclass Airlines)",
         "threat_level": "medium"
       }
@@ -121,7 +121,7 @@
     "brand_winning_areas": [
       "Suomalainen palvelu (kieli, kulttuuri)",
       "Finnairin suorat lennot (nopeus, luotto)",
-      "Fyysinen läsnäolo kohteessa (oppaat)"
+      "Fyysinen l\u00e4sn\u00e4olo kohteessa (oppaat)"
     ],
     "brand_losing_areas": [
       "Hinta (vs. omatoimi)",
@@ -132,20 +132,20 @@
   "strategic_tensions": [
     {
       "id": "tension_01",
-      "description": "Brändi myy markkinoinnissaan seikkailua ja vapautta, mutta asiakas ostaa tuotteessa turvaverkon ja riskien minimoinnin.",
+      "description": "Br\u00e4ndi myy markkinoinnissaan seikkailua ja vapautta, mutta asiakas ostaa tuotteessa turvaverkon ja riskien minimoinnin.",
       "evidence": [
-        "'Vapaa matkustaja' -konsepti näyttää eksotiikkaa",
-        "Asiakaspalaute korostaa lääkärin ja oppaan saatavuutta"
+        "'Vapaa matkustaja' -konsepti n\u00e4ytt\u00e4\u00e4 eksotiikkaa",
+        "Asiakaspalaute korostaa l\u00e4\u00e4k\u00e4rin ja oppaan saatavuutta"
       ],
       "opportunity_type": "gap",
       "priority_score": 5
     },
     {
       "id": "tension_02",
-      "description": "Strategia ajaa asiakasta digitaaliseen sovellukseen, mutta brändin ainoa todellinen kilpailuetu globaaleja jättejä vastaan on inhimillinen palvelu.",
+      "description": "Strategia ajaa asiakasta digitaaliseen sovellukseen, mutta br\u00e4ndin ainoa todellinen kilpailuetu globaaleja j\u00e4ttej\u00e4 vastaan on inhimillinen palvelu.",
       "evidence": [
-        "Sovellus viestinnän keskiössä",
-        "Kiitokset kohdistuvat henkilökohtaiseen palveluun"
+        "Sovellus viestinn\u00e4n keski\u00f6ss\u00e4",
+        "Kiitokset kohdistuvat henkil\u00f6kohtaiseen palveluun"
       ],
       "opportunity_type": "threat",
       "priority_score": 4
@@ -162,7 +162,7 @@
     },
     {
       "id": "tension_04",
-      "description": "Brändin visuaalinen ilme on kiiltokuvamainen ja staattinen, kun taas moderni mediakulutus vaatii rosoisuutta ja aitoutta.",
+      "description": "Br\u00e4ndin visuaalinen ilme on kiiltokuvamainen ja staattinen, kun taas moderni mediakulutus vaatii rosoisuutta ja aitoutta.",
       "evidence": [
         "Some-kanavat ovat 'katalogimaisia'",
         "BTS-materiaalin puute"
@@ -174,20 +174,20 @@
   "opportunity_zones": [
     {
       "id": "opp_01",
-      "description": "Radikaali läpinäkyvyys / BTS",
-      "rationale": "Tuodaan esiin 'näkymätön työ' ja turvaverkko. Ratkaisee jännitteet 01 ja 03 konkretiisoimalla preemion syyn.",
+      "description": "Radikaali l\u00e4pin\u00e4kyvyys / BTS",
+      "rationale": "Tuodaan esiin 'n\u00e4kym\u00e4t\u00f6n ty\u00f6' ja turvaverkko. Ratkaisee j\u00e4nnitteet 01 ja 03 konkretiisoimalla preemion syyn.",
       "risk_level": "medium"
     },
     {
       "id": "opp_02",
       "description": "Digitaalinen humanismi",
-      "rationale": "Tuodaan oikeat oppaat sovelluksen kasvoiksi. Ratkaisee jännitteen 02 yhdistämällä digistrategian ja inhimillisen kilpailuedun.",
+      "rationale": "Tuodaan oikeat oppaat sovelluksen kasvoiksi. Ratkaisee j\u00e4nnitteen 02 yhdist\u00e4m\u00e4ll\u00e4 digistrategian ja inhimillisen kilpailuedun.",
       "risk_level": "low"
     },
     {
       "id": "opp_03",
-      "description": "Helppouden uudelleenbrändäys (Smart Travel)",
-      "rationale": "Käännetään pakettimatka 'smart travel' -konseptiksi, jossa aika on rahaa. Iskee omatoimimatkailun vaivalloisuuteen.",
+      "description": "Helppouden uudelleenbr\u00e4nd\u00e4ys (Smart Travel)",
+      "rationale": "K\u00e4\u00e4nnet\u00e4\u00e4n pakettimatka 'smart travel' -konseptiksi, jossa aika on rahaa. Iskee omatoimimatkailun vaivalloisuuteen.",
       "risk_level": "high"
     }
   ],
