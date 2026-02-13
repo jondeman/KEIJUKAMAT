@@ -5,7 +5,7 @@
   "brand_identity": {
     "positioning": "Pohjoismainen pragmaatikko ja Realistinen haastaja",
     "visual_markers": {
-      "primary_color": "Vihreä",
+      "primary_color": "Vihre\u00e4",
       "secondary_colors": [
         "Valkoinen"
       ],
@@ -13,7 +13,7 @@
         "Pelkistetty",
         "Funktionaalinen",
         "Kliininen",
-        "Kylmä"
+        "Kylm\u00e4"
       ],
       "tone_keywords": [
         "Suora",
@@ -24,8 +24,8 @@
     },
     "voice_characteristics": [
       "Teemme, emme vain puhu",
-      "Välttää viherpesua",
-      "Insinöörimäinen"
+      "V\u00e4ltt\u00e4\u00e4 viherpesua",
+      "Insin\u00f6\u00f6rim\u00e4inen"
     ]
   },
   "strategic_priorities": [
@@ -33,9 +33,9 @@
       "rank": 1,
       "priority": "Shell-integraatio (One Brand)",
       "evidence": [
-        "Päätös luopua Shell-lisenssistä",
-        "Kaikkien asemien brändäys St1:ksi",
-        "Tarve säilyttää palveluasiakkaat automaattibrändin alla"
+        "P\u00e4\u00e4t\u00f6s luopua Shell-lisenssist\u00e4",
+        "Kaikkien asemien br\u00e4nd\u00e4ys St1:ksi",
+        "Tarve s\u00e4ilytt\u00e4\u00e4 palveluasiakkaat automaattibr\u00e4ndin alla"
       ],
       "execution_assessment": "moderate"
     },
@@ -51,9 +51,9 @@
     },
     {
       "rank": 3,
-      "priority": "Energiasiirtymän rahoittaminen (Cash Cow)",
+      "priority": "Energiasiirtym\u00e4n rahoittaminen (Cash Cow)",
       "evidence": [
-        "Viestintä: Asiakas rahoittaa tuotekehitystä tankkaamalla",
+        "Viestint\u00e4: Asiakas rahoittaa tuotekehityst\u00e4 tankkaamalla",
         "Strateginen periaate: Nykyinen liiketoiminta maksaa tulevaisuuden"
       ],
       "execution_assessment": "moderate"
@@ -81,14 +81,14 @@
       },
       "linkedin": {
         "active": false,
-        "assessment": "Ei eritelty analyysissa, vaikka tekniset raportit viittaavat B2B-sisältöön"
+        "assessment": "Ei eritelty analyysissa, vaikka tekniset raportit viittaavat B2B-sis\u00e4lt\u00f6\u00f6n"
       }
     },
     "apparent_gaps": [
-      "Tarinankerronta: Innovaatiot jäävät teknisiksi maininnoiksi",
-      "Inhimillisyys: Brändi tuntuu koneistolta, ei ihmisiltä"
+      "Tarinankerronta: Innovaatiot j\u00e4\u00e4v\u00e4t teknisiksi maininnoiksi",
+      "Inhimillisyys: Br\u00e4ndi tuntuu koneistolta, ei ihmisilt\u00e4"
     ],
-    "audience_engagement": "Pragmaattista. Asiakkaat sitoutuvat hintaan tai sijaintiin, harvemmin brändin heimoon."
+    "audience_engagement": "Pragmaattista. Asiakkaat sitoutuvat hintaan tai sijaintiin, harvemmin br\u00e4ndin heimoon."
   },
   "competitive_analysis": {
     "key_competitors": [
@@ -98,13 +98,13 @@
         "threat_level": "high"
       },
       {
-        "name": "ABC (S-Ryhmä)",
+        "name": "ABC (S-Ryhm\u00e4)",
         "content_strategy": "Arjen helppous, koko kansan taukopaikka, S-Bonus",
         "threat_level": "high"
       },
       {
         "name": "Teboil",
-        "content_strategy": "Hiljainen (poliittinen hylkiö)",
+        "content_strategy": "Hiljainen (poliittinen hylki\u00f6)",
         "threat_level": "low"
       }
     ],
@@ -115,7 +115,7 @@
       "Pohjoismainen identiteetti ilman byrokratiaa"
     ],
     "brand_losing_areas": [
-      "Lämmin palvelumielikuva",
+      "L\u00e4mmin palvelumielikuva",
       "Teknologinen premium-status",
       "Kanta-asiakasohjelman sitouttavuus"
     ]
@@ -123,9 +123,9 @@
   "strategic_tensions": [
     {
       "id": "tension_01",
-      "description": "Kylmä kuori vs. Lämmin ydin (Shell-perintö)",
+      "description": "Kylm\u00e4 kuori vs. L\u00e4mmin ydin (Shell-perint\u00f6)",
       "evidence": [
-        "Kuluttajamielikuva: St1 = Halpa/Kylmä automaatti",
+        "Kuluttajamielikuva: St1 = Halpa/Kylm\u00e4 automaatti",
         "Todellisuus: Verkostoon tulee satoja palveluasemia",
         "Riski: Asiakas ajaa ohi luullen asemaa automaatiksi"
       ],
@@ -134,20 +134,20 @@
     },
     {
       "id": "tension_02",
-      "description": "Näkymätön hyväntekijä",
+      "description": "N\u00e4kym\u00e4t\u00f6n hyv\u00e4ntekij\u00e4",
       "evidence": [
         "Investoinnit biokaasuun ja HVO:hon ovat satoja miljoonia",
-        "Tankkauskokemus on täysin muuttumaton ja fossiilisen oloinen"
+        "Tankkauskokemus on t\u00e4ysin muuttumaton ja fossiilisen oloinen"
       ],
       "opportunity_type": "gap",
       "priority_score": 4
     },
     {
       "id": "tension_03",
-      "description": "Insinööri vs. Ihminen",
+      "description": "Insin\u00f6\u00f6ri vs. Ihminen",
       "evidence": [
-        "Markkinointimateriaali on teknistä ja asiapitoista",
-        "Gen Z ja nuoret aikuiset eivät koe brändiä samaistuttavaksi"
+        "Markkinointimateriaali on teknist\u00e4 ja asiapitoista",
+        "Gen Z ja nuoret aikuiset eiv\u00e4t koe br\u00e4ndi\u00e4 samaistuttavaksi"
       ],
       "opportunity_type": "aspiration",
       "priority_score": 3
@@ -156,20 +156,20 @@
   "opportunity_zones": [
     {
       "id": "opp_01",
-      "description": "Kylmän aseman inhimillistäminen",
-      "rationale": "Ratkaisee Shell-integraation ongelman tuomalla ihmiset (yrittäjät, kokit) brändin keskiöön osoittamaan palvelun säilymisen.",
+      "description": "Kylm\u00e4n aseman inhimillist\u00e4minen",
+      "rationale": "Ratkaisee Shell-integraation ongelman tuomalla ihmiset (yritt\u00e4j\u00e4t, kokit) br\u00e4ndin keski\u00f6\u00f6n osoittamaan palvelun s\u00e4ilymisen.",
       "risk_level": "low"
     },
     {
       "id": "opp_02",
       "description": "Paskan muuttaminen kullaksi (Tarinallistettu kiertotalous)",
-      "rationale": "Tehdään näkymättömästä prosessista (lanta -> kaasu) viihdyttävää ja konkreettista, erottuen Nesteen kliinisestä tyylistä.",
+      "rationale": "Tehd\u00e4\u00e4n n\u00e4kym\u00e4tt\u00f6m\u00e4st\u00e4 prosessista (lanta -> kaasu) viihdytt\u00e4v\u00e4\u00e4 ja konkreettista, erottuen Nesteen kliinisest\u00e4 tyylist\u00e4.",
       "risk_level": "medium"
     },
     {
       "id": "opp_03",
       "description": "Rehellinen diili (Rahoita muutos tankkaamalla)",
-      "rationale": "Radikaali läpinäkyvyys siitä, mihin fossiilirahat menevät. Kääntää tankkaamisen osallistumiseksi ilman viherpesua.",
+      "rationale": "Radikaali l\u00e4pin\u00e4kyvyys siit\u00e4, mihin fossiilirahat menev\u00e4t. K\u00e4\u00e4nt\u00e4\u00e4 tankkaamisen osallistumiseksi ilman viherpesua.",
       "risk_level": "high"
     }
   ],
@@ -186,14 +186,14 @@
       "url": "st1.com/reports",
       "type": "report",
       "date_accessed": "2023-10-27",
-      "relevance": "Tekninen viestintä ja investoinnit"
+      "relevance": "Tekninen viestint\u00e4 ja investoinnit"
     },
     {
       "title": "St1 YouTube Channel",
       "url": "youtube.com/st1",
       "type": "social",
       "date_accessed": "2023-10-27",
-      "relevance": "Videosisältöjen analyysi"
+      "relevance": "Videosis\u00e4lt\u00f6jen analyysi"
     },
     {
       "title": "Shell.fi - Asemat",
