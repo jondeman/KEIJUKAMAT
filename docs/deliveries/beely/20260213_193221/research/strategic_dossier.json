@@ -1,0 +1,209 @@
+{
+  "company_name": "Beely",
+  "company_slug": "beely",
+  "generated_at": "2026-02-13T19:41:53.137978",
+  "brand_identity": {
+    "positioning": "Anti-autokauppa. Palveluntarjoaja, joka myy mielenrauhaa: Autoilu ilman riskiä ja yllättäviä kuluja.",
+    "visual_markers": {
+      "primary_color": "Ei määritelty tekstissä (oletus: brändin mukainen)",
+      "secondary_colors": [
+        "Puhdas",
+        "Funktionaalinen"
+      ],
+      "style_keywords": [
+        "Käyttöliittymämäinen (UI-driven)",
+        "Puhdas",
+        "Funktionaalinen",
+        "Ei elokuvallinen"
+      ],
+      "tone_keywords": [
+        "Moderni",
+        "Digitaalinen",
+        "Pelkistetty"
+      ]
+    },
+    "voice_characteristics": [
+      "The Regular Guy / The Helper",
+      "Läpinäkyvä",
+      "Maanläheinen",
+      "Selkeä",
+      "Opettava",
+      "Rationaalinen"
+    ]
+  },
+  "strategic_priorities": [
+    {
+      "rank": 1,
+      "priority": "Varaston ja kattavuuden skaalaus",
+      "evidence": [
+        "Strateginen kumppanuus Hedin Automotiven kanssa (helmikuu 2025)",
+        "Tarve volyymille kannattavuuden saavuttamiseksi"
+      ],
+      "execution_assessment": "strong"
+    },
+    {
+      "rank": 2,
+      "priority": "Kynnyksen madaltaminen (Low Barrier of Entry)",
+      "evidence": [
+        "Viestintä: 'Ei käsirahaa', 'Kiinteä kk-erä', 'Katkaise milloin vain'",
+        "Digitaalinen ostopolku"
+      ],
+      "execution_assessment": "moderate"
+    },
+    {
+      "rank": 3,
+      "priority": "Luottamuksen rakentaminen käytettyyn autoon",
+      "evidence": [
+        "Liiketoimintamalli perustuu auton korjausvastuuseen",
+        "Lupaus: 'Ei yllättäviä kuluja'"
+      ],
+      "execution_assessment": "moderate"
+    }
+  ],
+  "marketing_posture": {
+    "current_content_types": [
+      "Taktinen digimainonta (hinta + auto)",
+      "Opettavat TV/Radio-spotit",
+      "Tuotenostot sosiaalisessa mediassa"
+    ],
+    "channel_presence": {
+      "youtube": {
+        "active": true,
+        "assessment": "Passiivinen. Toimii mainosvarastona, ei sisältökanavana."
+      },
+      "tiktok": {
+        "active": false,
+        "assessment": "Olematon/Heikko. Merkittävä puute nuorten aikuisten tavoittamisessa."
+      },
+      "instagram": {
+        "active": true,
+        "assessment": "Aktiivinen (Meta), mutta taktinen ja konversiokeskeinen."
+      },
+      "linkedin": {
+        "active": false,
+        "assessment": "Ei mainittu analyysissa."
+      }
+    },
+    "apparent_gaps": [
+      "Sisältökerroksen puute: Brändillä on mainoksia, mutta ei vapaaehtoisesti kulutettavaa sisältöä.",
+      "Yhteisön puute: Vuorovaikutus on transaktionaalista, ei osallistavaa."
+    ],
+    "audience_engagement": "Rationaalista. Sitoutuminen tapahtuu tarpeen (auton hajoaminen/vaihto), ei halun kautta."
+  },
+  "competitive_analysis": {
+    "key_competitors": [
+      {
+        "name": "Halpa autolaina & Nettiauto (DIY-kulttuuri)",
+        "content_strategy": "Ei keskitettyä strategiaa, perustuu kansanperinteeseen 'itse tekemällä säästää'.",
+        "threat_level": "high"
+      },
+      {
+        "name": "Perinteiset autoliikkeet (Saka, Kamux, Autolle.com)",
+        "content_strategy": "Aggressiivinen myynti, laaja valikoima, omat 'turva'-tuotteet.",
+        "threat_level": "medium"
+      },
+      {
+        "name": "Uusien autojen leasing (K-Auto, Volvo Care)",
+        "content_strategy": "Premium-mielikuva, uutuudenviehätys, status.",
+        "threat_level": "medium"
+      }
+    ],
+    "brand_winning_areas": [
+      "Riskien hallinta (ainoa toimija joka aidosti poistaa riskin käytetystä autosta)",
+      "Helppous (digitaalinen prosessi suoraviivaisempi kuin perinteinen autokauppa)"
+    ],
+    "brand_losing_areas": [
+      "Tunne (ei 'uuden auton tuoksua' tai statusta)",
+      "Kustannusmielikuva (kk-erä vs. näkymätön arvonalenema)"
+    ]
+  },
+  "strategic_tensions": [
+    {
+      "id": "tension_01",
+      "description": "Brändi myy vapauden tunnetta, mutta tuote vaatii sopimuksellista sitoutumista.",
+      "evidence": [
+        "Lupaus: 'Vapaus omistamisesta'",
+        "Todellisuus: Kilometrirajat, sopimusehdot, palautuskriteerit"
+      ],
+      "opportunity_type": "gap",
+      "priority_score": 5
+    },
+    {
+      "id": "tension_02",
+      "description": "Brändi esiintyy futuristisena teknologiayhtiönä, mutta fyysinen tuote on arkipäiväinen, käytetty auto.",
+      "evidence": [
+        "Identiteetti: 'Autoilun Spotify/Wolt', digitaalinen, moderni",
+        "Tuote: Esim. 4 vuotta vanha perus-Nissan"
+      ],
+      "opportunity_type": "aspiration",
+      "priority_score": 4
+    },
+    {
+      "id": "tension_03",
+      "description": "Markkinointi vetoaa lompakkoon (hinta), vaikka ostopäätöstä ajaa pelko (turvallisuus).",
+      "evidence": [
+        "Mainonta: 'Alk. 249€/kk', 'Ei käsirahaa'",
+        "Asiakasinsight: Valinta tehdään, koska pelätään kallista autoremonttia"
+      ],
+      "opportunity_type": "gap",
+      "priority_score": 4
+    }
+  ],
+  "opportunity_zones": [
+    {
+      "id": "opp_01",
+      "description": "Tunteiden validointi (Inhimillistäminen)",
+      "rationale": "Ratkaisee tension_03:n. Siirrytään teknisestä selityksestä tunteeseen. Dramatisoidaan helpotuksen tunne, kun 'check engine' -valo ei olekaan katastrofi.",
+      "risk_level": "low"
+    },
+    {
+      "id": "opp_02",
+      "description": "Elämä, ei pelti (Lifestyle-konteksti)",
+      "rationale": "Ratkaisee tension_02:n. Auton roolin muuttaminen pääosasta sivuosaksi. Seksikkyys haetaan elämäntyylistä, jota palvelu tukee.",
+      "risk_level": "medium"
+    },
+    {
+      "id": "opp_03",
+      "description": "Viihdyttävä rautalanka (Kategoriakasvatus)",
+      "rationale": "Ratkaisee tension_01:n ja tension_03:n. Leasingin ja osamaksun erojen selittäminen viihteellisin keinoin (esim. TikTok/Reels-sketsit).",
+      "risk_level": "medium"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Beely.fi",
+      "url": "https://beely.fi",
+      "type": "company_site",
+      "date_accessed": "2026-02-13",
+      "relevance": "Ydinviestit ja tuotelupaus"
+    },
+    {
+      "title": "K-Auto.fi",
+      "url": "https://k-auto.fi",
+      "type": "company_site",
+      "date_accessed": "2026-02-13",
+      "relevance": "Kilpailija-analyysi"
+    },
+    {
+      "title": "Nettiauto.com",
+      "url": "https://nettiauto.com",
+      "type": "other",
+      "date_accessed": "2026-02-13",
+      "relevance": "Markkinatilanne ja kilpailu"
+    },
+    {
+      "title": "STT Info",
+      "url": "https://sttinfo.fi",
+      "type": "news",
+      "date_accessed": "2026-02-13",
+      "relevance": "Hedin Automotive -kumppanuus"
+    },
+    {
+      "title": "Lähitapiola.fi",
+      "url": "https://lahitapiola.fi",
+      "type": "other",
+      "date_accessed": "2026-02-13",
+      "relevance": "Vakuutus- ja turvanäkökulma"
+    }
+  ]
+}
