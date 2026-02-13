@@ -1,0 +1,1 @@
+[{"timestamp": "2026-02-13T19:26:54.172485", "level": "INFO", "event": "Producer initialized", "run_id": "20260213_192654", "company": "Beely autonvuokraus"}, {"timestamp": "2026-02-13T19:26:54.172704", "level": "INFO", "event": "Starting pipeline run", "run_id": "20260213_192654"}, {"timestamp": "2026-02-13T19:26:54.224349", "level": "DEBUG", "event": "Bots initialized"}]
