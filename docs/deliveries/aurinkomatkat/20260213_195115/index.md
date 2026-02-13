@@ -16,9 +16,9 @@
 - [Concept 03](concepts/concept_03.md)
 
 ## Treatments
-- [aurinkomatkat_TREATMENT_01_20260213_200629.md](treatments/aurinkomatkat_TREATMENT_01_20260213_200629.md)
-- [aurinkomatkat_TREATMENT_02_20260213_200629.md](treatments/aurinkomatkat_TREATMENT_02_20260213_200629.md)
-- [aurinkomatkat_TREATMENT_03_20260213_200629.md](treatments/aurinkomatkat_TREATMENT_03_20260213_200629.md)
+- [aurinkomatkat_TREATMENT_01_20260213_201625.md](treatments/aurinkomatkat_TREATMENT_01_20260213_201625.md)
+- [aurinkomatkat_TREATMENT_02_20260213_201625.md](treatments/aurinkomatkat_TREATMENT_02_20260213_201625.md)
+- [aurinkomatkat_TREATMENT_03_20260213_201625.md](treatments/aurinkomatkat_TREATMENT_03_20260213_201625.md)
 
 ## One-Pagers
 - [One-Pager 01](onepagers/concept_01.png)
