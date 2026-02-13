@@ -1,0 +1,224 @@
+{
+  "company_name": "Kaalimato",
+  "company_slug": "kaalimato",
+  "generated_at": "2026-02-13T19:11:01.642985",
+  "brand_identity": {
+    "positioning": "Alan Gigantti – luotettava, nopea ja kansanomainen toimija. Turvallinen ja kotimainen vaihtoehto, joka tekee seksilelujen tilaamisesta yhtä arkista kuin pizzan tilaaminen.",
+    "visual_markers": {
+      "primary_color": "Värikäs (Monivärinen/Sarjakuvamainen)",
+      "secondary_colors": [
+        "Kirkkaat sävyt",
+        "Ei tummanpuhuva",
+        "Ei kliininen valkoinen"
+      ],
+      "style_keywords": [
+        "Sarjakuvamainen",
+        "Leikkisä",
+        "Värikäs",
+        "Kansanomainen"
+      ],
+      "tone_keywords": [
+        "Rempseä",
+        "Suora",
+        "Huumoripitoinen",
+        "Rallatus"
+      ]
+    },
+    "voice_characteristics": [
+      "Äijämäinen mutta asiallinen",
+      "Pelon ja häpeän poistaminen naurun kautta",
+      "Suorapuheinen"
+    ]
+  },
+  "strategic_priorities": [
+    {
+      "rank": 1,
+      "priority": "Logistinen ylivoima (Nopeus)",
+      "evidence": [
+        "Lupaus: Tilaa klo 14 mennessä, paketti lähtee samana päivänä",
+        "Keskeinen kilpailuetu kansainvälisiä jättejä vastaan"
+      ],
+      "execution_assessment": "strong"
+    },
+    {
+      "rank": 2,
+      "priority": "Normalisointi huumorin kautta",
+      "evidence": [
+        "Massiivinen näkyvyys Radio Rockilla",
+        "Naku-uinti -tyyppiset PR-stuntit",
+        "Kalastusvaikuttajayhteistyöt"
+      ],
+      "execution_assessment": "strong"
+    },
+    {
+      "rank": 3,
+      "priority": "Kotimaisuus ja luottamus",
+      "evidence": [
+        "100 % suomalainen -viestikärki",
+        "Avainlippu-mielikuvan hyödyntäminen turvallisuuden takeena"
+      ],
+      "execution_assessment": "moderate"
+    }
+  ],
+  "marketing_posture": {
+    "current_content_types": [
+      "Massamediamainonta (Radio/TV)",
+      "PR-stuntit",
+      "Tuotekeskeiset verkkokauppasisällöt",
+      "Tekstipohjaiset tietoiskut"
+    ],
+    "channel_presence": {
+      "youtube": {
+        "active": false,
+        "assessment": "Passiivinen / Haamu. Vanhoja mainoksia, ei jatkuvaa strategiaa."
+      },
+      "tiktok": {
+        "active": false,
+        "assessment": "Puuttuu moderni lifestyle-ote."
+      },
+      "instagram": {
+        "active": true,
+        "assessment": "Sisältö ei ole Instagram-uskottavaa (visuaalisesti jaettavaa)."
+      },
+      "linkedin": {
+        "active": false,
+        "assessment": "Ei mainittu analyysissa."
+      }
+    },
+    "apparent_gaps": [
+      "Videostrategian täydellinen puute (ei opetusvideoita, ei viihdesarjoja)",
+      "Samaistuttavan keulahahmon puute",
+      "Lifestyle-sisällön puute (hyvinvointikulma)"
+    ],
+    "audience_engagement": "Vahva reaktio huumoriin ja stuntteihin, mutta syvempi sitoutuminen asiantuntijuuteen tai brändiuskollisuuteen (love brand) on heikompaa."
+  },
+  "competitive_analysis": {
+    "key_competitors": [
+      {
+        "name": "Sinful",
+        "content_strategy": "Nordic Cool, premium-design, pariskuntakeskeisyys, laadukkaat joulukalenterikampanjat",
+        "threat_level": "high"
+      },
+      {
+        "name": "Apteekit",
+        "content_strategy": "Terveys edellä, kliininen luottamus",
+        "threat_level": "medium"
+      },
+      {
+        "name": "Huippu Kiva / Hot Lips",
+        "content_strategy": "Hinta ja valikoima",
+        "threat_level": "low"
+      }
+    ],
+    "brand_winning_areas": [
+      "Nopeus ja logistiikka",
+      "Kansan syvien rivien puhuttelu",
+      "Huumori ja häpeän poistaminen"
+    ],
+    "brand_losing_areas": [
+      "Estetiikka",
+      "Moderni hyvinvointidiskurssi",
+      "Nais- ja pariskuntakohderyhmän syvällinen ymmärrys",
+      "Videosisällön laatu"
+    ]
+  },
+  "strategic_tensions": [
+    {
+      "id": "tension_01",
+      "description": "Rempseä kaveri (nykytila) vs. Intiimi asiantuntija (markkinan vaatimus)",
+      "evidence": [
+        "Liikevaihdon 10 % lasku viittaa huumoristrategian kattoon",
+        "Markkina siirtyy leluista kohti Sexual Wellnessiä",
+        "Radio Rock -tausta vs. tarve puhua vaginismista uskottavasti"
+      ],
+      "opportunity_type": "threat",
+      "priority_score": 5
+    },
+    {
+      "id": "tension_02",
+      "description": "Mieskatseeseen nojaava markkinointihistoria vs. naisten ja pariskuntien ostovoima",
+      "evidence": [
+        "Vaikuttajayhteistyöt miesvaltaisia (esim. kalastusvaikuttajat)",
+        "Kilpailija Sinfulin menestys perustuu naisille suunnattuun estetiikkaan",
+        "Nykyinen kuvasto on hauskaa, mutta ei haluttavaa"
+      ],
+      "opportunity_type": "underserved_audience",
+      "priority_score": 5
+    },
+    {
+      "id": "tension_03",
+      "description": "Tuotekeskeinen myynti vs. Kokemusvetoinen markkina",
+      "evidence": [
+        "Videosisältö on liikkuvaa tuotekuvaa, ei tarinankerrontaa",
+        "Sivuston asiantuntijasisältö on erillinen kirjasto, ei osa ostopolkua",
+        "Kilpailijat myyvät parempaa yhteyttä kumppaniin, Kaalimato myy vibraattoria"
+      ],
+      "opportunity_type": "gap",
+      "priority_score": 4
+    }
+  ],
+  "opportunity_zones": [
+    {
+      "id": "opp_01",
+      "description": "Kansankielinen Wellness",
+      "rationale": "Kaalimadolla on lupa olla tavallinen. Ratkaisee jännitteen huumorin ja asiantuntijuuden välillä tekemällä hyvinvoinnista arkista ja helposti lähestyttävää.",
+      "risk_level": "medium"
+    },
+    {
+      "id": "opp_02",
+      "description": "Testiryhmä 2.0 / MythBusters",
+      "rationale": "Viihdyttävä, videopohjainen sarja, jossa testataan tuotteita ja myyttejä aidosti. Ratkaisee videostrategian puutteen ja rakentaa yhteisöllisyyttä.",
+      "risk_level": "low"
+    },
+    {
+      "id": "opp_03",
+      "description": "Kasvojen antaminen",
+      "rationale": "Samaistuttavan keulahahmon luominen. Henkilöhahmo toimisi siltana äijähuumorin ja modernin hyvinvointipuheen välillä.",
+      "risk_level": "medium"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Kaalimato.com (Verkkokauppa & Tietosivut)",
+      "url": "https://www.kaalimato.com",
+      "type": "company_site",
+      "date_accessed": "2024-05-21",
+      "relevance": "Primary source for brand identity and content analysis"
+    },
+    {
+      "title": "Talousluvut (Kentonec Oy)",
+      "url": "Finder / Asiakastieto",
+      "type": "report",
+      "date_accessed": "2024-05-21",
+      "relevance": "Financial context and revenue trends"
+    },
+    {
+      "title": "Sanoma B2B Case-esittelyt (Radio Rock & Naku-uinti)",
+      "url": "Sanoma B2B",
+      "type": "other",
+      "date_accessed": "2024-05-21",
+      "relevance": "Evidence of marketing strategy and PR stunts"
+    },
+    {
+      "title": "Sinful.fi",
+      "url": "https://www.sinful.fi",
+      "type": "company_site",
+      "date_accessed": "2024-05-21",
+      "relevance": "Competitor analysis"
+    },
+    {
+      "title": "YouTube (Kaalimato kanava-auditointi)",
+      "url": "YouTube",
+      "type": "social",
+      "date_accessed": "2024-05-21",
+      "relevance": "Channel presence analysis"
+    },
+    {
+      "title": "Lovebuddy.fi",
+      "url": "https://www.lovebuddy.fi",
+      "type": "other",
+      "date_accessed": "2024-05-21",
+      "relevance": "Market context"
+    }
+  ]
+}
