@@ -3,15 +3,15 @@
   "company_slug": "beely",
   "generated_at": "2026-02-13T19:41:53.137978",
   "brand_identity": {
-    "positioning": "Anti-autokauppa. Palveluntarjoaja, joka myy mielenrauhaa: Autoilu ilman riskiä ja yllättäviä kuluja.",
+    "positioning": "Anti-autokauppa. Palveluntarjoaja, joka myy mielenrauhaa: Autoilu ilman riski\u00e4 ja yll\u00e4tt\u00e4vi\u00e4 kuluja.",
     "visual_markers": {
-      "primary_color": "Ei määritelty tekstissä (oletus: brändin mukainen)",
+      "primary_color": "Ei m\u00e4\u00e4ritelty tekstiss\u00e4 (oletus: br\u00e4ndin mukainen)",
       "secondary_colors": [
         "Puhdas",
         "Funktionaalinen"
       ],
       "style_keywords": [
-        "Käyttöliittymämäinen (UI-driven)",
+        "K\u00e4ytt\u00f6liittym\u00e4m\u00e4inen (UI-driven)",
         "Puhdas",
         "Funktionaalinen",
         "Ei elokuvallinen"
@@ -24,9 +24,9 @@
     },
     "voice_characteristics": [
       "The Regular Guy / The Helper",
-      "Läpinäkyvä",
-      "Maanläheinen",
-      "Selkeä",
+      "L\u00e4pin\u00e4kyv\u00e4",
+      "Maanl\u00e4heinen",
+      "Selke\u00e4",
       "Opettava",
       "Rationaalinen"
     ]
@@ -45,17 +45,17 @@
       "rank": 2,
       "priority": "Kynnyksen madaltaminen (Low Barrier of Entry)",
       "evidence": [
-        "Viestintä: 'Ei käsirahaa', 'Kiinteä kk-erä', 'Katkaise milloin vain'",
+        "Viestint\u00e4: 'Ei k\u00e4sirahaa', 'Kiinte\u00e4 kk-er\u00e4', 'Katkaise milloin vain'",
         "Digitaalinen ostopolku"
       ],
       "execution_assessment": "moderate"
     },
     {
       "rank": 3,
-      "priority": "Luottamuksen rakentaminen käytettyyn autoon",
+      "priority": "Luottamuksen rakentaminen k\u00e4ytettyyn autoon",
       "evidence": [
         "Liiketoimintamalli perustuu auton korjausvastuuseen",
-        "Lupaus: 'Ei yllättäviä kuluja'"
+        "Lupaus: 'Ei yll\u00e4tt\u00e4vi\u00e4 kuluja'"
       ],
       "execution_assessment": "moderate"
     }
@@ -69,11 +69,11 @@
     "channel_presence": {
       "youtube": {
         "active": true,
-        "assessment": "Passiivinen. Toimii mainosvarastona, ei sisältökanavana."
+        "assessment": "Passiivinen. Toimii mainosvarastona, ei sis\u00e4lt\u00f6kanavana."
       },
       "tiktok": {
         "active": false,
-        "assessment": "Olematon/Heikko. Merkittävä puute nuorten aikuisten tavoittamisessa."
+        "assessment": "Olematon/Heikko. Merkitt\u00e4v\u00e4 puute nuorten aikuisten tavoittamisessa."
       },
       "instagram": {
         "active": true,
@@ -85,8 +85,8 @@
       }
     },
     "apparent_gaps": [
-      "Sisältökerroksen puute: Brändillä on mainoksia, mutta ei vapaaehtoisesti kulutettavaa sisältöä.",
-      "Yhteisön puute: Vuorovaikutus on transaktionaalista, ei osallistavaa."
+      "Sis\u00e4lt\u00f6kerroksen puute: Br\u00e4ndill\u00e4 on mainoksia, mutta ei vapaaehtoisesti kulutettavaa sis\u00e4lt\u00f6\u00e4.",
+      "Yhteis\u00f6n puute: Vuorovaikutus on transaktionaalista, ei osallistavaa."
     ],
     "audience_engagement": "Rationaalista. Sitoutuminen tapahtuu tarpeen (auton hajoaminen/vaihto), ei halun kautta."
   },
@@ -94,7 +94,7 @@
     "key_competitors": [
       {
         "name": "Halpa autolaina & Nettiauto (DIY-kulttuuri)",
-        "content_strategy": "Ei keskitettyä strategiaa, perustuu kansanperinteeseen 'itse tekemällä säästää'.",
+        "content_strategy": "Ei keskitetty\u00e4 strategiaa, perustuu kansanperinteeseen 'itse tekem\u00e4ll\u00e4 s\u00e4\u00e4st\u00e4\u00e4'.",
         "threat_level": "high"
       },
       {
@@ -104,23 +104,23 @@
       },
       {
         "name": "Uusien autojen leasing (K-Auto, Volvo Care)",
-        "content_strategy": "Premium-mielikuva, uutuudenviehätys, status.",
+        "content_strategy": "Premium-mielikuva, uutuudenvieh\u00e4tys, status.",
         "threat_level": "medium"
       }
     ],
     "brand_winning_areas": [
-      "Riskien hallinta (ainoa toimija joka aidosti poistaa riskin käytetystä autosta)",
+      "Riskien hallinta (ainoa toimija joka aidosti poistaa riskin k\u00e4ytetyst\u00e4 autosta)",
       "Helppous (digitaalinen prosessi suoraviivaisempi kuin perinteinen autokauppa)"
     ],
     "brand_losing_areas": [
       "Tunne (ei 'uuden auton tuoksua' tai statusta)",
-      "Kustannusmielikuva (kk-erä vs. näkymätön arvonalenema)"
+      "Kustannusmielikuva (kk-er\u00e4 vs. n\u00e4kym\u00e4t\u00f6n arvonalenema)"
     ]
   },
   "strategic_tensions": [
     {
       "id": "tension_01",
-      "description": "Brändi myy vapauden tunnetta, mutta tuote vaatii sopimuksellista sitoutumista.",
+      "description": "Br\u00e4ndi myy vapauden tunnetta, mutta tuote vaatii sopimuksellista sitoutumista.",
       "evidence": [
         "Lupaus: 'Vapaus omistamisesta'",
         "Todellisuus: Kilometrirajat, sopimusehdot, palautuskriteerit"
@@ -130,7 +130,7 @@
     },
     {
       "id": "tension_02",
-      "description": "Brändi esiintyy futuristisena teknologiayhtiönä, mutta fyysinen tuote on arkipäiväinen, käytetty auto.",
+      "description": "Br\u00e4ndi esiintyy futuristisena teknologiayhti\u00f6n\u00e4, mutta fyysinen tuote on arkip\u00e4iv\u00e4inen, k\u00e4ytetty auto.",
       "evidence": [
         "Identiteetti: 'Autoilun Spotify/Wolt', digitaalinen, moderni",
         "Tuote: Esim. 4 vuotta vanha perus-Nissan"
@@ -140,10 +140,10 @@
     },
     {
       "id": "tension_03",
-      "description": "Markkinointi vetoaa lompakkoon (hinta), vaikka ostopäätöstä ajaa pelko (turvallisuus).",
+      "description": "Markkinointi vetoaa lompakkoon (hinta), vaikka ostop\u00e4\u00e4t\u00f6st\u00e4 ajaa pelko (turvallisuus).",
       "evidence": [
-        "Mainonta: 'Alk. 249€/kk', 'Ei käsirahaa'",
-        "Asiakasinsight: Valinta tehdään, koska pelätään kallista autoremonttia"
+        "Mainonta: 'Alk. 249\u20ac/kk', 'Ei k\u00e4sirahaa'",
+        "Asiakasinsight: Valinta tehd\u00e4\u00e4n, koska pel\u00e4t\u00e4\u00e4n kallista autoremonttia"
       ],
       "opportunity_type": "gap",
       "priority_score": 4
@@ -152,20 +152,20 @@
   "opportunity_zones": [
     {
       "id": "opp_01",
-      "description": "Tunteiden validointi (Inhimillistäminen)",
-      "rationale": "Ratkaisee tension_03:n. Siirrytään teknisestä selityksestä tunteeseen. Dramatisoidaan helpotuksen tunne, kun 'check engine' -valo ei olekaan katastrofi.",
+      "description": "Tunteiden validointi (Inhimillist\u00e4minen)",
+      "rationale": "Ratkaisee tension_03:n. Siirryt\u00e4\u00e4n teknisest\u00e4 selityksest\u00e4 tunteeseen. Dramatisoidaan helpotuksen tunne, kun 'check engine' -valo ei olekaan katastrofi.",
       "risk_level": "low"
     },
     {
       "id": "opp_02",
-      "description": "Elämä, ei pelti (Lifestyle-konteksti)",
-      "rationale": "Ratkaisee tension_02:n. Auton roolin muuttaminen pääosasta sivuosaksi. Seksikkyys haetaan elämäntyylistä, jota palvelu tukee.",
+      "description": "El\u00e4m\u00e4, ei pelti (Lifestyle-konteksti)",
+      "rationale": "Ratkaisee tension_02:n. Auton roolin muuttaminen p\u00e4\u00e4osasta sivuosaksi. Seksikkyys haetaan el\u00e4m\u00e4ntyylist\u00e4, jota palvelu tukee.",
       "risk_level": "medium"
     },
     {
       "id": "opp_03",
-      "description": "Viihdyttävä rautalanka (Kategoriakasvatus)",
-      "rationale": "Ratkaisee tension_01:n ja tension_03:n. Leasingin ja osamaksun erojen selittäminen viihteellisin keinoin (esim. TikTok/Reels-sketsit).",
+      "description": "Viihdytt\u00e4v\u00e4 rautalanka (Kategoriakasvatus)",
+      "rationale": "Ratkaisee tension_01:n ja tension_03:n. Leasingin ja osamaksun erojen selitt\u00e4minen viihteellisin keinoin (esim. TikTok/Reels-sketsit).",
       "risk_level": "medium"
     }
   ],
@@ -199,11 +199,11 @@
       "relevance": "Hedin Automotive -kumppanuus"
     },
     {
-      "title": "Lähitapiola.fi",
+      "title": "L\u00e4hitapiola.fi",
       "url": "https://lahitapiola.fi",
       "type": "other",
       "date_accessed": "2026-02-13",
-      "relevance": "Vakuutus- ja turvanäkökulma"
+      "relevance": "Vakuutus- ja turvan\u00e4k\u00f6kulma"
     }
   ]
 }
