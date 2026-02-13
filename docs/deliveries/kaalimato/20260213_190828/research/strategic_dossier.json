@@ -3,30 +3,30 @@
   "company_slug": "kaalimato",
   "generated_at": "2026-02-13T19:11:01.642985",
   "brand_identity": {
-    "positioning": "Alan Gigantti – luotettava, nopea ja kansanomainen toimija. Turvallinen ja kotimainen vaihtoehto, joka tekee seksilelujen tilaamisesta yhtä arkista kuin pizzan tilaaminen.",
+    "positioning": "Alan Gigantti \u2013 luotettava, nopea ja kansanomainen toimija. Turvallinen ja kotimainen vaihtoehto, joka tekee seksilelujen tilaamisesta yht\u00e4 arkista kuin pizzan tilaaminen.",
     "visual_markers": {
-      "primary_color": "Värikäs (Monivärinen/Sarjakuvamainen)",
+      "primary_color": "V\u00e4rik\u00e4s (Moniv\u00e4rinen/Sarjakuvamainen)",
       "secondary_colors": [
-        "Kirkkaat sävyt",
+        "Kirkkaat s\u00e4vyt",
         "Ei tummanpuhuva",
         "Ei kliininen valkoinen"
       ],
       "style_keywords": [
         "Sarjakuvamainen",
-        "Leikkisä",
-        "Värikäs",
+        "Leikkis\u00e4",
+        "V\u00e4rik\u00e4s",
         "Kansanomainen"
       ],
       "tone_keywords": [
-        "Rempseä",
+        "Rempse\u00e4",
         "Suora",
         "Huumoripitoinen",
         "Rallatus"
       ]
     },
     "voice_characteristics": [
-      "Äijämäinen mutta asiallinen",
-      "Pelon ja häpeän poistaminen naurun kautta",
+      "\u00c4ij\u00e4m\u00e4inen mutta asiallinen",
+      "Pelon ja h\u00e4pe\u00e4n poistaminen naurun kautta",
       "Suorapuheinen"
     ]
   },
@@ -35,8 +35,8 @@
       "rank": 1,
       "priority": "Logistinen ylivoima (Nopeus)",
       "evidence": [
-        "Lupaus: Tilaa klo 14 mennessä, paketti lähtee samana päivänä",
-        "Keskeinen kilpailuetu kansainvälisiä jättejä vastaan"
+        "Lupaus: Tilaa klo 14 menness\u00e4, paketti l\u00e4htee samana p\u00e4iv\u00e4n\u00e4",
+        "Keskeinen kilpailuetu kansainv\u00e4lisi\u00e4 j\u00e4ttej\u00e4 vastaan"
       ],
       "execution_assessment": "strong"
     },
@@ -44,9 +44,9 @@
       "rank": 2,
       "priority": "Normalisointi huumorin kautta",
       "evidence": [
-        "Massiivinen näkyvyys Radio Rockilla",
+        "Massiivinen n\u00e4kyvyys Radio Rockilla",
         "Naku-uinti -tyyppiset PR-stuntit",
-        "Kalastusvaikuttajayhteistyöt"
+        "Kalastusvaikuttajayhteisty\u00f6t"
       ],
       "execution_assessment": "strong"
     },
@@ -54,8 +54,8 @@
       "rank": 3,
       "priority": "Kotimaisuus ja luottamus",
       "evidence": [
-        "100 % suomalainen -viestikärki",
-        "Avainlippu-mielikuvan hyödyntäminen turvallisuuden takeena"
+        "100 % suomalainen -viestik\u00e4rki",
+        "Avainlippu-mielikuvan hy\u00f6dynt\u00e4minen turvallisuuden takeena"
       ],
       "execution_assessment": "moderate"
     }
@@ -64,7 +64,7 @@
     "current_content_types": [
       "Massamediamainonta (Radio/TV)",
       "PR-stuntit",
-      "Tuotekeskeiset verkkokauppasisällöt",
+      "Tuotekeskeiset verkkokauppasis\u00e4ll\u00f6t",
       "Tekstipohjaiset tietoiskut"
     ],
     "channel_presence": {
@@ -78,7 +78,7 @@
       },
       "instagram": {
         "active": true,
-        "assessment": "Sisältö ei ole Instagram-uskottavaa (visuaalisesti jaettavaa)."
+        "assessment": "Sis\u00e4lt\u00f6 ei ole Instagram-uskottavaa (visuaalisesti jaettavaa)."
       },
       "linkedin": {
         "active": false,
@@ -86,11 +86,11 @@
       }
     },
     "apparent_gaps": [
-      "Videostrategian täydellinen puute (ei opetusvideoita, ei viihdesarjoja)",
+      "Videostrategian t\u00e4ydellinen puute (ei opetusvideoita, ei viihdesarjoja)",
       "Samaistuttavan keulahahmon puute",
-      "Lifestyle-sisällön puute (hyvinvointikulma)"
+      "Lifestyle-sis\u00e4ll\u00f6n puute (hyvinvointikulma)"
     ],
-    "audience_engagement": "Vahva reaktio huumoriin ja stuntteihin, mutta syvempi sitoutuminen asiantuntijuuteen tai brändiuskollisuuteen (love brand) on heikompaa."
+    "audience_engagement": "Vahva reaktio huumoriin ja stuntteihin, mutta syvempi sitoutuminen asiantuntijuuteen tai br\u00e4ndiuskollisuuteen (love brand) on heikompaa."
   },
   "competitive_analysis": {
     "key_competitors": [
@@ -101,7 +101,7 @@
       },
       {
         "name": "Apteekit",
-        "content_strategy": "Terveys edellä, kliininen luottamus",
+        "content_strategy": "Terveys edell\u00e4, kliininen luottamus",
         "threat_level": "medium"
       },
       {
@@ -113,22 +113,22 @@
     "brand_winning_areas": [
       "Nopeus ja logistiikka",
       "Kansan syvien rivien puhuttelu",
-      "Huumori ja häpeän poistaminen"
+      "Huumori ja h\u00e4pe\u00e4n poistaminen"
     ],
     "brand_losing_areas": [
       "Estetiikka",
       "Moderni hyvinvointidiskurssi",
-      "Nais- ja pariskuntakohderyhmän syvällinen ymmärrys",
-      "Videosisällön laatu"
+      "Nais- ja pariskuntakohderyhm\u00e4n syv\u00e4llinen ymm\u00e4rrys",
+      "Videosis\u00e4ll\u00f6n laatu"
     ]
   },
   "strategic_tensions": [
     {
       "id": "tension_01",
-      "description": "Rempseä kaveri (nykytila) vs. Intiimi asiantuntija (markkinan vaatimus)",
+      "description": "Rempse\u00e4 kaveri (nykytila) vs. Intiimi asiantuntija (markkinan vaatimus)",
       "evidence": [
         "Liikevaihdon 10 % lasku viittaa huumoristrategian kattoon",
-        "Markkina siirtyy leluista kohti Sexual Wellnessiä",
+        "Markkina siirtyy leluista kohti Sexual Wellnessi\u00e4",
         "Radio Rock -tausta vs. tarve puhua vaginismista uskottavasti"
       ],
       "opportunity_type": "threat",
@@ -138,7 +138,7 @@
       "id": "tension_02",
       "description": "Mieskatseeseen nojaava markkinointihistoria vs. naisten ja pariskuntien ostovoima",
       "evidence": [
-        "Vaikuttajayhteistyöt miesvaltaisia (esim. kalastusvaikuttajat)",
+        "Vaikuttajayhteisty\u00f6t miesvaltaisia (esim. kalastusvaikuttajat)",
         "Kilpailija Sinfulin menestys perustuu naisille suunnattuun estetiikkaan",
         "Nykyinen kuvasto on hauskaa, mutta ei haluttavaa"
       ],
@@ -149,9 +149,9 @@
       "id": "tension_03",
       "description": "Tuotekeskeinen myynti vs. Kokemusvetoinen markkina",
       "evidence": [
-        "Videosisältö on liikkuvaa tuotekuvaa, ei tarinankerrontaa",
-        "Sivuston asiantuntijasisältö on erillinen kirjasto, ei osa ostopolkua",
-        "Kilpailijat myyvät parempaa yhteyttä kumppaniin, Kaalimato myy vibraattoria"
+        "Videosis\u00e4lt\u00f6 on liikkuvaa tuotekuvaa, ei tarinankerrontaa",
+        "Sivuston asiantuntijasis\u00e4lt\u00f6 on erillinen kirjasto, ei osa ostopolkua",
+        "Kilpailijat myyv\u00e4t parempaa yhteytt\u00e4 kumppaniin, Kaalimato myy vibraattoria"
       ],
       "opportunity_type": "gap",
       "priority_score": 4
@@ -161,19 +161,19 @@
     {
       "id": "opp_01",
       "description": "Kansankielinen Wellness",
-      "rationale": "Kaalimadolla on lupa olla tavallinen. Ratkaisee jännitteen huumorin ja asiantuntijuuden välillä tekemällä hyvinvoinnista arkista ja helposti lähestyttävää.",
+      "rationale": "Kaalimadolla on lupa olla tavallinen. Ratkaisee j\u00e4nnitteen huumorin ja asiantuntijuuden v\u00e4lill\u00e4 tekem\u00e4ll\u00e4 hyvinvoinnista arkista ja helposti l\u00e4hestytt\u00e4v\u00e4\u00e4.",
       "risk_level": "medium"
     },
     {
       "id": "opp_02",
-      "description": "Testiryhmä 2.0 / MythBusters",
-      "rationale": "Viihdyttävä, videopohjainen sarja, jossa testataan tuotteita ja myyttejä aidosti. Ratkaisee videostrategian puutteen ja rakentaa yhteisöllisyyttä.",
+      "description": "Testiryhm\u00e4 2.0 / MythBusters",
+      "rationale": "Viihdytt\u00e4v\u00e4, videopohjainen sarja, jossa testataan tuotteita ja myyttej\u00e4 aidosti. Ratkaisee videostrategian puutteen ja rakentaa yhteis\u00f6llisyytt\u00e4.",
       "risk_level": "low"
     },
     {
       "id": "opp_03",
       "description": "Kasvojen antaminen",
-      "rationale": "Samaistuttavan keulahahmon luominen. Henkilöhahmo toimisi siltana äijähuumorin ja modernin hyvinvointipuheen välillä.",
+      "rationale": "Samaistuttavan keulahahmon luominen. Henkil\u00f6hahmo toimisi siltana \u00e4ij\u00e4huumorin ja modernin hyvinvointipuheen v\u00e4lill\u00e4.",
       "risk_level": "medium"
     }
   ],
