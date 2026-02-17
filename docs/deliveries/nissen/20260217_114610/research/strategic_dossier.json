@@ -1,0 +1,209 @@
+{
+  "company_name": "Nissen",
+  "company_slug": "nissen",
+  "generated_at": "2026-02-17T11:56:05.245307",
+  "brand_identity": {
+    "positioning": "Suomen helpoin ja mutkattomin optikko.",
+    "visual_markers": {
+      "primary_color": "Keltainen, Sininen",
+      "secondary_colors": [],
+      "style_keywords": [
+        "Ale-lappu -estetiikka",
+        "Studiokuvat",
+        "Hymyilevät ihmiset"
+      ],
+      "tone_keywords": [
+        "Energinen",
+        "Värikäs",
+        "Konstailematon"
+      ]
+    },
+    "voice_characteristics": [
+      "Myyvä",
+      "Aktivoiva",
+      "Sinutteleva",
+      "Arkinen",
+      "Imperatiivinen"
+    ]
+  },
+  "strategic_priorities": [
+    {
+      "rank": 1,
+      "priority": "Volyymin maksimointi (Traffic Driver)",
+      "evidence": [
+        "Jatkuva '3 yksien hinnalla' -kampanjointi",
+        "Kaikki kehykset -50% -tyyppiset viestit",
+        "Markkinoinnin syklisyys ja taktinen luonne"
+      ],
+      "execution_assessment": "strong"
+    },
+    {
+      "rank": 2,
+      "priority": "Private Label -myynnin kasvatus",
+      "evidence": [
+        "Omien merkkien (Unofficial, DbyD) vahva esillepano",
+        "Valikoiman rakentaminen edullisten hintapisteiden ympärille"
+      ],
+      "execution_assessment": "moderate"
+    },
+    {
+      "rank": 3,
+      "priority": "Nuoremman kohderyhmän tavoittelu (Gen Z & Millenniaalit)",
+      "evidence": [
+        "Visuaalinen erottautuminen Instrumentariumista",
+        "Värikäs ja energinen yleisilme"
+      ],
+      "execution_assessment": "weak"
+    }
+  ],
+  "marketing_posture": {
+    "current_content_types": [
+      "Taktinen mainonta (TV-spotit, radiomainokset)",
+      "Studiokuvatut mallikuvat hintagrafiikoilla",
+      "Tuotevetoiset vaikuttajayhteistyöt"
+    ],
+    "channel_presence": {
+      "youtube": {
+        "active": false,
+        "assessment": "Passiivinen. Toimii TV-mainosten arkistona, ei natiivia sisältöä."
+      },
+      "tiktok": {
+        "active": true,
+        "assessment": "Laatu vaihteleva. Sisältö usein liian mainosmaista, puuttuu aito 'some-tekeminen'."
+      },
+      "instagram": {
+        "active": true,
+        "assessment": "Aktiivinen, mutta sisältö usein liian mainosmaista."
+      },
+      "linkedin": {
+        "active": false,
+        "assessment": "Ei mainittu raportissa."
+      }
+    },
+    "apparent_gaps": [
+      "Sisältömarkkinointi (opettavainen/viihdyttävä puuttuu)",
+      "Tarinallisuus"
+    ],
+    "audience_engagement": "Transaktionaalista. Asiakkaat reagoivat hintaan, eivät brändiin. Sitoutuminen sosiaalisessa mediassa on pinnallista."
+  },
+  "competitive_analysis": {
+    "key_competitors": [
+      {
+        "name": "Specsavers",
+        "content_strategy": "Konseptuaalinen selkeys, huumori, itseironia.",
+        "threat_level": "high"
+      },
+      {
+        "name": "Instrumentarium",
+        "content_strategy": "Asiantuntijuus, lääketieteellinen auktoriteetti, laatu.",
+        "threat_level": "medium"
+      }
+    ],
+    "brand_winning_areas": [
+      "Hintamielikuvan aggressiivinen rummutus",
+      "Matala kynnys astua liikkeeseen (ei lääkärimäisyyttä)"
+    ],
+    "brand_losing_areas": [
+      "Emotionaalinen side asiakkaaseen",
+      "Sisällön viihdyttävyys ja samaistuttavuus",
+      "Digitaalinen natiivius"
+    ]
+  },
+  "strategic_tensions": [
+    {
+      "id": "tension_01",
+      "description": "Hinta vs. Itseilmaisu: Brändi yrittää myydä muotia ja identiteettiä, mutta käyttää ainoana työkalunaan alennusprosenttia.",
+      "evidence": [
+        "Lupaus: 'Lasit ovat osa tyyliäsi'",
+        "Toteutus: 'Osta 3, maksa 1'",
+        "Markkinointi ei puhu tyylistä, vaan euroista"
+      ],
+      "opportunity_type": "gap",
+      "priority_score": 5
+    },
+    {
+      "id": "tension_02",
+      "description": "Nuorekas brändi vs. Vanha media: Brändin olemus tavoittelee nuoria, mutta sen käyttäytyminen on perinteistä massamarkkinointia.",
+      "evidence": [
+        "Visuaalisuus on nuorekas, mutta kanavapainotus on TV/Radio",
+        "TikTok-sisältö on mainosmaista, ei alustalle ominaista"
+      ],
+      "opportunity_type": "aspiration",
+      "priority_score": 5
+    },
+    {
+      "id": "tension_03",
+      "description": "Helppous vs. Ostamisen tuska: Nissen lupaa helppoutta, mutta jättää asiakkaan yksin todellisen valintastressin kanssa.",
+      "evidence": [
+        "Markkinointi näyttää vain hymyileviä lopputuloksia",
+        "Asiakkaan epävarmuutta ei käsitellä sisällöissä"
+      ],
+      "opportunity_type": "underserved_audience",
+      "priority_score": 4
+    }
+  ],
+  "opportunity_zones": [
+    {
+      "id": "opp_01",
+      "description": "'Smart Choice' -ylpeys (Fiksuuden uudelleenkehystys)",
+      "rationale": "Käännetään edullisuus 'pihiyden' sijaan 'fiksuudeksi'. Tavoittaa Smart Shoppers -segmentin emotionaalisemmalla tasolla.",
+      "risk_level": "low"
+    },
+    {
+      "id": "opp_02",
+      "description": "Ostamisen tuskan poistaminen (Utility & Empathy)",
+      "rationale": "Videosisältö, joka aidosti auttaa valinnassa. Ratkaisee asiakkaan todellisen ongelman (epävarmuus) ja rakentaa luottamusta.",
+      "risk_level": "medium"
+    },
+    {
+      "id": "opp_03",
+      "description": "Private Labelin sielu (Tarinallistaminen)",
+      "rationale": "Luodaan omille merkeille (Unofficial, DbyD) oma tarina. Mahdollistaa korkeamman katteen tuotteiden myynnin ilman suoraa hintavertailua.",
+      "risk_level": "low"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Reddit (keskustelut)",
+      "url": "reddit.com",
+      "type": "social",
+      "date_accessed": "2026-02-17",
+      "relevance": "Kuluttajien aitoja kokemuksia ja mielikuvia."
+    },
+    {
+      "title": "Nissen verkkosivut & kampanjat",
+      "url": "nissen.fi",
+      "type": "company_site",
+      "date_accessed": "2026-02-17",
+      "relevance": "Brändin oma viestintä ja tarjoukset."
+    },
+    {
+      "title": "Valtioneuvosto (toimialaraportit)",
+      "url": "valtioneuvosto.fi",
+      "type": "report",
+      "date_accessed": "2026-02-17",
+      "relevance": "Taustatietoa toimialasta."
+    },
+    {
+      "title": "Markkinointi & Mainonta / Ping Helsinki",
+      "url": "pinghelsinki.fi",
+      "type": "report",
+      "date_accessed": "2026-02-17",
+      "relevance": "Vaikuttajamarkkinoinnin tila."
+    },
+    {
+      "title": "Indieplace",
+      "url": "indieplace.fi",
+      "type": "other",
+      "date_accessed": "2026-02-17",
+      "relevance": "Blogiyhteistyöt ja sisältöesimerkit."
+    },
+    {
+      "title": "Muut mainitut lähteet (bid.cars, boksi.com, fribakansa.fi, torquecafe.com)",
+      "url": "various",
+      "type": "other",
+      "date_accessed": "2026-02-17",
+      "relevance": "Taustamateriaali ja vertailudata."
+    }
+  ]
+}
