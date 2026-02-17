@@ -3,15 +3,15 @@
   "company_slug": "stadium",
   "generated_at": "2026-02-17T11:09:19.021160",
   "brand_identity": {
-    "positioning": "Koko kansan liikuttaja ja Active Lifestyle -brändi. Missio on aktivoida maailmaa matalan kynnyksen energisenä mahdollistajana.",
+    "positioning": "Koko kansan liikuttaja ja Active Lifestyle -br\u00e4ndi. Missio on aktivoida maailmaa matalan kynnyksen energisen\u00e4 mahdollistajana.",
     "visual_markers": {
-      "primary_color": "Kirkkaat brändivärit",
+      "primary_color": "Kirkkaat br\u00e4ndiv\u00e4rit",
       "secondary_colors": [
-        "Sesonkivärit"
+        "Sesonkiv\u00e4rit"
       ],
       "style_keywords": [
         "Puhdas pohjoismainen",
-        "Ryhmässä tekeminen",
+        "Ryhm\u00e4ss\u00e4 tekeminen",
         "Valoisa",
         "Kutsuva"
       ],
@@ -34,8 +34,8 @@
       "rank": 1,
       "priority": "Omat tuotemerkit (erityisesti SOC)",
       "evidence": [
-        "SOC-tuotteiden dominanssi myymälöiden ja verkkokaupan paraatipaikoilla",
-        "Strateginen tarve kilpailla verkkokauppajättejä vastaan paremmilla katteilla"
+        "SOC-tuotteiden dominanssi myym\u00e4l\u00f6iden ja verkkokaupan paraatipaikoilla",
+        "Strateginen tarve kilpailla verkkokauppaj\u00e4ttej\u00e4 vastaan paremmilla katteilla"
       ],
       "execution_assessment": "strong"
     },
@@ -43,8 +43,8 @@
       "rank": 2,
       "priority": "Vastuullisuus ja Kiertotalous",
       "evidence": [
-        "Re:activate -konsepti (käytettyjen välineiden keräys)",
-        "Human Rights -raportointi ja kestävät materiaalit SOC-mallistossa"
+        "Re:activate -konsepti (k\u00e4ytettyjen v\u00e4lineiden ker\u00e4ys)",
+        "Human Rights -raportointi ja kest\u00e4v\u00e4t materiaalit SOC-mallistossa"
       ],
       "execution_assessment": "moderate"
     },
@@ -63,37 +63,37 @@
       "Taktinen ja syklinen sesonkimainonta",
       "Korkean tuotantoarvon TV-mainokset (fiilis)",
       "Hintavetoiset mainokset",
-      "Geneerinen outfit-sisältö"
+      "Geneerinen outfit-sis\u00e4lt\u00f6"
     ],
     "channel_presence": {
       "youtube": {
         "active": false,
-        "assessment": "Passiivinen/Heikko. Toimii TV-mainosten arkistona. Ei hyödynnetä hakua tai opastusta."
+        "assessment": "Passiivinen/Heikko. Toimii TV-mainosten arkistona. Ei hy\u00f6dynnet\u00e4 hakua tai opastusta."
       },
       "tiktok": {
         "active": true,
-        "assessment": "Aktiivinen. Visuaalisesti tyylikästä, mutta geneeristä sisältöä."
+        "assessment": "Aktiivinen. Visuaalisesti tyylik\u00e4st\u00e4, mutta geneerist\u00e4 sis\u00e4lt\u00f6\u00e4."
       },
       "instagram": {
         "active": true,
-        "assessment": "Aktiivinen. Visuaalisesti tyylikästä, mutta geneeristä sisältöä. Vaikuttajayhteistyöt pinnallisia."
+        "assessment": "Aktiivinen. Visuaalisesti tyylik\u00e4st\u00e4, mutta geneerist\u00e4 sis\u00e4lt\u00f6\u00e4. Vaikuttajayhteisty\u00f6t pinnallisia."
       },
       "linkedin": {
         "active": false,
-        "assessment": "Ei analysoitu lähdemateriaalissa."
+        "assessment": "Ei analysoitu l\u00e4hdemateriaalissa."
       }
     },
     "apparent_gaps": [
-      "Hyötytieto puuttuu (How-to -sisältö)",
+      "Hy\u00f6tytieto puuttuu (How-to -sis\u00e4lt\u00f6)",
       "Tarinankerronta puuttuu (sponsoroinnin tunne ei siirry digiin)"
     ],
-    "audience_engagement": "Fyysisissä tapahtumissa sitoutuminen on vahvaa, mutta digitaalisesti suhde on transaktionaalinen."
+    "audience_engagement": "Fyysisiss\u00e4 tapahtumissa sitoutuminen on vahvaa, mutta digitaalisesti suhde on transaktionaalinen."
   },
   "competitive_analysis": {
     "key_competitors": [
       {
         "name": "XXL",
-        "content_strategy": "Aggressiivinen hintaviestintä, kaikki urheiluun -katalogimaisuus",
+        "content_strategy": "Aggressiivinen hintaviestint\u00e4, kaikki urheiluun -katalogimaisuus",
         "threat_level": "high"
       },
       {
@@ -113,28 +113,28 @@
       "Lasten ja nuorten liikunnan tukeminen"
     ],
     "brand_losing_areas": [
-      "Syvällinen asiantuntijamielikuva",
-      "Digitaalinen tarinankerronta ja yhteisöllisyys",
-      "Opastavan sisällön puute"
+      "Syv\u00e4llinen asiantuntijamielikuva",
+      "Digitaalinen tarinankerronta ja yhteis\u00f6llisyys",
+      "Opastavan sis\u00e4ll\u00f6n puute"
     ]
   },
   "strategic_tensions": [
     {
       "id": "tension_01",
-      "description": "Missio vs. Sisältö (Inspiraatiovaje): Missio on aktivoida, mutta sisältö on tuote-esittelyä.",
+      "description": "Missio vs. Sis\u00e4lt\u00f6 (Inspiraatiovaje): Missio on aktivoida, mutta sis\u00e4lt\u00f6 on tuote-esittely\u00e4.",
       "evidence": [
         "Slogan 'Join the Movement' lupaa toimintaa",
-        "Kanavat täynnä tuotekuvia, ei treenivinkkejä"
+        "Kanavat t\u00e4ynn\u00e4 tuotekuvia, ei treenivinkkej\u00e4"
       ],
       "opportunity_type": "gap",
       "priority_score": 5
     },
     {
       "id": "tension_02",
-      "description": "Ruohonjuuritason tunne vs. Digitaalinen etäisyys: Aito tunne kentän laidalta ei siirry digiin.",
+      "description": "Ruohonjuuritason tunne vs. Digitaalinen et\u00e4isyys: Aito tunne kent\u00e4n laidalta ei siirry digiin.",
       "evidence": [
         "Vahva panostus Helsinki Cupiin ja Vasaloppetiin",
-        "Digitaalinen sisältö on studiokuvattua ja geneeristä"
+        "Digitaalinen sis\u00e4lt\u00f6 on studiokuvattua ja geneerist\u00e4"
       ],
       "opportunity_type": "aspiration",
       "priority_score": 4
@@ -143,17 +143,17 @@
       "id": "tension_03",
       "description": "Vastuullisuusjohtajuus vs. Volyymibisnes (SOC): Halutaan olla vastuullisia, mutta ydin on volyymimyynti.",
       "evidence": [
-        "Raportit korostavat kestävyyttä",
-        "Myymälät dominoidaan edullisilla SOC-tuotteilla (pikamuoti-mielikuva)"
+        "Raportit korostavat kest\u00e4vyytt\u00e4",
+        "Myym\u00e4l\u00e4t dominoidaan edullisilla SOC-tuotteilla (pikamuoti-mielikuva)"
       ],
       "opportunity_type": "threat",
       "priority_score": 4
     },
     {
       "id": "tension_04",
-      "description": "Palvelun tarve vs. Sisällön puute: Asiakkaat hakevat tietoa, Stadium ei tarjoa sitä.",
+      "description": "Palvelun tarve vs. Sis\u00e4ll\u00f6n puute: Asiakkaat hakevat tietoa, Stadium ei tarjoa sit\u00e4.",
       "evidence": [
-        "Google-haut osoittavat kysynnän how-to -tiedolle",
+        "Google-haut osoittavat kysynn\u00e4n how-to -tiedolle",
         "Liikenne valuu kilpailijoille tai tubettajille"
       ],
       "opportunity_type": "underserved_audience",
@@ -163,20 +163,20 @@
   "opportunity_zones": [
     {
       "id": "opp_01",
-      "description": "Active Life Coach - Hyötytieto ja opastus",
-      "rationale": "Täyttää strategisen aukon, rakentaa asiantuntijuutta ja hyödyntää YouTubea hakukoneena.",
+      "description": "Active Life Coach - Hy\u00f6tytieto ja opastus",
+      "rationale": "T\u00e4ytt\u00e4\u00e4 strategisen aukon, rakentaa asiantuntijuutta ja hy\u00f6dynt\u00e4\u00e4 YouTubea hakukoneena.",
       "risk_level": "low"
     },
     {
       "id": "opp_02",
-      "description": "Local Heroes - Aidot tarinat kentän laidalta",
-      "rationale": "Ratkaisee jännitteen fyysisen ja digitaalisen välillä, tuo brändille sielua.",
+      "description": "Local Heroes - Aidot tarinat kent\u00e4n laidalta",
+      "rationale": "Ratkaisee j\u00e4nnitteen fyysisen ja digitaalisen v\u00e4lill\u00e4, tuo br\u00e4ndille sielua.",
       "risk_level": "medium"
     },
     {
       "id": "opp_03",
-      "description": "SOC-brändin arvonkorotus (Brand Elevation)",
-      "rationale": "Ratkaisee jännitettä vastuullisuuden ja halpatuotannon välillä, nostaa SOC:n smart choice -kategoriaan.",
+      "description": "SOC-br\u00e4ndin arvonkorotus (Brand Elevation)",
+      "rationale": "Ratkaisee j\u00e4nnitett\u00e4 vastuullisuuden ja halpatuotannon v\u00e4lill\u00e4, nostaa SOC:n smart choice -kategoriaan.",
       "risk_level": "medium"
     }
   ],
@@ -203,11 +203,11 @@
       "relevance": "Nykyisen videostrategian puutteiden analyysi."
     },
     {
-      "title": "Lehdistötiedotteet (Stadium Press Room)",
+      "title": "Lehdist\u00f6tiedotteet (Stadium Press Room)",
       "url": "N/A",
       "type": "news",
       "date_accessed": "2024-01-01",
-      "relevance": "Yhteistyösopimukset (Helsinki Cup, Vasaloppet)."
+      "relevance": "Yhteisty\u00f6sopimukset (Helsinki Cup, Vasaloppet)."
     },
     {
       "title": "Markkina-analyysi (Kaupan liitto & Urheilukauppa ry tilastot)",
