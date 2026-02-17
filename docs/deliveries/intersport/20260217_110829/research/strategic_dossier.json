@@ -1,0 +1,211 @@
+{
+  "company_name": "Intersport",
+  "company_slug": "intersport",
+  "generated_at": "2026-02-17T11:37:28.688885",
+  "brand_identity": {
+    "positioning": "The Heart of Sport (Urheilun sydän) - Bringing sports to everyone through trust, accessibility, and K-Group security.",
+    "visual_markers": {
+      "primary_color": "Blue",
+      "secondary_colors": [
+        "White",
+        "Red"
+      ],
+      "style_keywords": [
+        "Clear",
+        "Unpretentious",
+        "Product-centric",
+        "Factual"
+      ],
+      "tone_keywords": [
+        "Instructive",
+        "Factual",
+        "Safe",
+        "Rational",
+        "Price-driven"
+      ]
+    },
+    "voice_characteristics": [
+      "The Everyman",
+      "The Helper",
+      "Trustworthy",
+      "Pragmatic"
+    ]
+  },
+  "strategic_priorities": [
+    {
+      "rank": 1,
+      "priority": "Profitability over Volume",
+      "evidence": [
+        "Strategic shift away from XXL-driven price wars",
+        "Focus on private labels (McKinley, Energetics) to improve margins"
+      ],
+      "execution_assessment": "strong"
+    },
+    {
+      "rank": 2,
+      "priority": "Omnichannel & Data Utilization",
+      "evidence": [
+        "Leveraging K-Plussa data for customer understanding",
+        "Intersport Club engagement",
+        "Driving web traffic to brick-and-mortar (Click & Collect)"
+      ],
+      "execution_assessment": "strong"
+    },
+    {
+      "rank": 3,
+      "priority": "Productizing Expertise",
+      "evidence": [
+        "Highlighting maintenance services (skis, bikes)",
+        "Lajimestarit (Sport Masters) concept in stores"
+      ],
+      "execution_assessment": "moderate"
+    },
+    {
+      "rank": 4,
+      "priority": "Fulfilling 'Heart of Sport' Promise",
+      "evidence": [
+        "Global brand promise aiming for emotional connection"
+      ],
+      "execution_assessment": "weak"
+    }
+  ],
+  "marketing_posture": {
+    "current_content_types": [
+      "Tactical advertising",
+      "TV-spot style videos",
+      "Static product images",
+      "Campaign-driven influencer collaborations"
+    ],
+    "channel_presence": {
+      "youtube": {
+        "active": true,
+        "assessment": "Passive storage for TV ads and outdated content; does not serve SEO or user needs."
+      },
+      "tiktok": {
+        "active": true,
+        "assessment": "Focuses on tactical visibility and disconnected campaigns rather than continuous storytelling."
+      },
+      "instagram": {
+        "active": true,
+        "assessment": "Tactical visibility and campaign-based influencer work."
+      },
+      "linkedin": {
+        "active": false,
+        "assessment": "Not a primary focus in consumer diagnostic."
+      }
+    },
+    "apparent_gaps": [
+      "How-to content and genuine teaching",
+      "Digitalization of expertise",
+      "Inspiration and lifestyle content"
+    ],
+    "audience_engagement": "Pragmatic and transactional; audience views the brand as a place to buy goods, not as a community."
+  },
+  "competitive_analysis": {
+    "key_competitors": [
+      {
+        "name": "Stadium",
+        "content_strategy": "Builds lifestyle and community with educational content (e.g., Ski School) and active YouTube presence.",
+        "threat_level": "high"
+      },
+      {
+        "name": "XXL",
+        "content_strategy": "Aggressive volume advertising, auctioneer style, outlet communication.",
+        "threat_level": "high"
+      }
+    ],
+    "brand_winning_areas": [
+      "Location network and accessibility (K-Group)",
+      "Reliability and security (maintenance services)",
+      "Approachability for the common consumer"
+    ],
+    "brand_losing_areas": [
+      "Digital customer experience and content interest (vs. Stadium)",
+      "Price perception (vs. XXL)",
+      "Emotional connection and tribal credibility"
+    ]
+  },
+  "strategic_tensions": [
+    {
+      "id": "tension_01",
+      "description": "Emotional Promise vs. Transactional Reality",
+      "evidence": [
+        "Slogan 'The Heart of Sport' vs. YouTube content consisting of TV ads",
+        "Lack of emotional storytelling"
+      ],
+      "opportunity_type": "gap",
+      "priority_score": 5
+    },
+    {
+      "id": "tension_02",
+      "description": "Analog Expertise vs. Digital Invisibility",
+      "evidence": [
+        "Excellent in-store service ('Lajimestarit') is hidden online",
+        "Lack of 'How-to' videos compared to competitors like Stadium"
+      ],
+      "opportunity_type": "threat",
+      "priority_score": 5
+    },
+    {
+      "id": "tension_03",
+      "description": "Everyman Store vs. Tribal Credibility",
+      "evidence": [
+        "Serving the 'K-Plussa family' risks making the brand bland",
+        "Young people prefer Stadium; enthusiasts prefer specialty stores"
+      ],
+      "opportunity_type": "underserved_audience",
+      "priority_score": 4
+    }
+  ],
+  "opportunity_zones": [
+    {
+      "id": "opp_01",
+      "description": "Modernization of Expertise ('Digital Lajimestari')",
+      "rationale": "Transforms silent in-store knowledge into dynamic video content (tips, Q&A, problem-solving) to meet customers where they search (Google/YouTube/TikTok).",
+      "risk_level": "medium"
+    },
+    {
+      "id": "opp_02",
+      "description": "Honest Finnish Sports Reality ('Localized Heart of Sport')",
+      "rationale": "Owning the realities of Finnish exercise (slush, darkness) creates relatability and emotional connection, differentiating from global 'glossy' brands.",
+      "risk_level": "low"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Intersport Finland YouTube Channel",
+      "url": "youtube.com",
+      "type": "social",
+      "date_accessed": "2025-01-01",
+      "relevance": "Source for channel analysis and content gaps."
+    },
+    {
+      "title": "Intersport.fi Website",
+      "url": "intersport.fi",
+      "type": "company_site",
+      "date_accessed": "2025-01-01",
+      "relevance": "Source for service concepts and brand promise."
+    },
+    {
+      "title": "XXL Finland Website & Marketing",
+      "url": "xxl.fi",
+      "type": "company_site",
+      "date_accessed": "2025-01-01",
+      "relevance": "Source for competitor analysis (price)."
+    },
+    {
+      "title": "Stadium Finland Website & YouTube",
+      "url": "stadium.fi",
+      "type": "company_site",
+      "date_accessed": "2025-01-01",
+      "relevance": "Source for competitor analysis (content)."
+    },
+    {
+      "title": "Kesko Reports / Intersport Section",
+      "url": "kesko.fi",
+      "type": "report",
+      "date_accessed": "2025-01-01",
+      "relevance": "Source for strategic priorities (profitability, data)."
+    }
+  ]
+}
