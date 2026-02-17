@@ -3,9 +3,9 @@
   "company_slug": "budget-sport",
   "generated_at": "2026-02-17T13:12:43.779099",
   "brand_identity": {
-    "positioning": "Järkevän liikkujan valinta. Pragmaattinen mahdollistaja, joka poistaa hinnan esteenä liikkumiselle.",
+    "positioning": "J\u00e4rkev\u00e4n liikkujan valinta. Pragmaattinen mahdollistaja, joka poistaa hinnan esteen\u00e4 liikkumiselle.",
     "visual_markers": {
-      "primary_color": "Musta, Keltainen (Huomiovärit)",
+      "primary_color": "Musta, Keltainen (Huomiov\u00e4rit)",
       "secondary_colors": [
         "Punainen"
       ],
@@ -24,7 +24,7 @@
     },
     "voice_characteristics": [
       "The Everyman / The Realist",
-      "Käskevä ('Osta', 'Säästä')",
+      "K\u00e4skev\u00e4 ('Osta', 'S\u00e4\u00e4st\u00e4')",
       "Konseptuaalinen"
     ]
   },
@@ -33,7 +33,7 @@
       "rank": 1,
       "priority": "Hintajohtajuuden puolustaminen",
       "evidence": [
-        "Inflaatio ja taantuma ovat herkistäneet kuluttajat hinnalle",
+        "Inflaatio ja taantuma ovat herkist\u00e4neet kuluttajat hinnalle",
         "XXL ja hypermarketit uhkaavat 'halvimman' positiota"
       ],
       "execution_assessment": "strong"
@@ -42,7 +42,7 @@
       "rank": 2,
       "priority": "Varaston kiertonopeus",
       "evidence": [
-        "Outlet-liiketoimintamalli ja sesonkituotteet vaativat nopeaa myyntiä",
+        "Outlet-liiketoimintamalli ja sesonkituotteet vaativat nopeaa myynti\u00e4",
         "Keskon tulospaineet ajavat tehokkuutta"
       ],
       "execution_assessment": "moderate"
@@ -52,7 +52,7 @@
       "priority": "Omnichannel-tehokkuus",
       "evidence": [
         "Keskon strateginen linjaus: verkkokaupan ja kivijalan integraatio",
-        "Tilaa netistä, nouda myymälästä -malli"
+        "Tilaa netist\u00e4, nouda myym\u00e4l\u00e4st\u00e4 -malli"
       ],
       "execution_assessment": "moderate"
     }
@@ -60,22 +60,22 @@
   "marketing_posture": {
     "current_content_types": [
       "Taktinen TV-mainonta",
-      "Sähköiset tarjouslehdet",
+      "S\u00e4hk\u00f6iset tarjouslehdet",
       "Tuotenostot",
       "Hintavetoiset bannerit"
     ],
     "channel_presence": {
       "youtube": {
         "active": true,
-        "assessment": "Mainosfilmien arkisto, taktinen käyttö (perustuu lähdeluetteloon)"
+        "assessment": "Mainosfilmien arkisto, taktinen k\u00e4ytt\u00f6 (perustuu l\u00e4hdeluetteloon)"
       },
       "tiktok": {
         "active": false,
-        "assessment": "Passiivinen/Heikko. Ei natiivia preesensiä tai yhteisöllisyyttä."
+        "assessment": "Passiivinen/Heikko. Ei natiivia preesensi\u00e4 tai yhteis\u00f6llisyytt\u00e4."
       },
       "instagram": {
         "active": true,
-        "assessment": "Aktiivinen, mutta sisältö on staattista ja taktista."
+        "assessment": "Aktiivinen, mutta sis\u00e4lt\u00f6 on staattista ja taktista."
       },
       "linkedin": {
         "active": false,
@@ -83,11 +83,11 @@
       }
     },
     "apparent_gaps": [
-      "Inspiraatiovaje (kerrotaan mitä, ei miksi)",
+      "Inspiraatiovaje (kerrotaan mit\u00e4, ei miksi)",
       "Tarinankerronta puuttuu kokonaan",
       "Gen Z -relevanssi puuttuu"
     ],
-    "audience_engagement": "Transaktionaalista. Asiakkaat tulevat tarjousten perässä, eivät brändiuskollisuudesta. Sitoutuminen sisältöön on matalaa."
+    "audience_engagement": "Transaktionaalista. Asiakkaat tulevat tarjousten per\u00e4ss\u00e4, eiv\u00e4t br\u00e4ndiuskollisuudesta. Sitoutuminen sis\u00e4lt\u00f6\u00f6n on matalaa."
   },
   "competitive_analysis": {
     "key_competitors": [
@@ -98,7 +98,7 @@
       },
       {
         "name": "Prisma / K-Citymarket",
-        "content_strategy": "Helppous (ruokaostosten yhteydessä), volyymihinnoittelu",
+        "content_strategy": "Helppous (ruokaostosten yhteydess\u00e4), volyymihinnoittelu",
         "threat_level": "high"
       },
       {
@@ -109,31 +109,31 @@
     ],
     "brand_winning_areas": [
       "Mielikuva 'halvasta hallista'",
-      "Löytöjen tekeminen",
+      "L\u00f6yt\u00f6jen tekeminen",
       "Spesifimpi kuin marketti, halvempi kuin erikoisliike"
     ],
     "brand_losing_areas": [
       "Emotionaalinen side",
-      "Asiointikokemuksen elämyksellisyys",
+      "Asiointikokemuksen el\u00e4myksellisyys",
       "Nuorten aikuisten tavoittaminen (athleisure)"
     ]
   },
   "strategic_tensions": [
     {
       "id": "tension_01",
-      "description": "Varasto vs. Mahdollistaja: Brändi näyttäytyy staattisena tavaravarastona, vaikka sen lupaus on liikuttaminen.",
+      "description": "Varasto vs. Mahdollistaja: Br\u00e4ndi n\u00e4ytt\u00e4ytyy staattisena tavaravarastona, vaikka sen lupaus on liikuttaminen.",
       "evidence": [
-        "Mainonta keskittyy tuotteeseen (sukset 99€), ei lopputulokseen",
-        "Myymälämielikuva on hallimainen"
+        "Mainonta keskittyy tuotteeseen (sukset 99\u20ac), ei lopputulokseen",
+        "Myym\u00e4l\u00e4mielikuva on hallimainen"
       ],
       "opportunity_type": "gap",
       "priority_score": 5
     },
     {
       "id": "tension_02",
-      "description": "Huutaminen vs. Samaistuttavuus: Markkinointi on aggressiivista käskytystä, kun kohderyhmä kaipaisi rohkaisua.",
+      "description": "Huutaminen vs. Samaistuttavuus: Markkinointi on aggressiivista k\u00e4skytyst\u00e4, kun kohderyhm\u00e4 kaipaisi rohkaisua.",
       "evidence": [
-        "Imperatiivinen kielenkäyttö mainonnassa",
+        "Imperatiivinen kielenk\u00e4ytt\u00f6 mainonnassa",
         "Puuttuu vertainen vertaiselle -tason kommunikaatio"
       ],
       "opportunity_type": "aspiration",
@@ -141,10 +141,10 @@
     },
     {
       "id": "tension_03",
-      "description": "Demografinen kuilu (Boomers vs. Zoomers): Nykyinen mediamix tavoittaa keski-ikäiset, mutta brändi on näkymätön Gen Z:lle.",
+      "description": "Demografinen kuilu (Boomers vs. Zoomers): Nykyinen mediamix tavoittaa keski-ik\u00e4iset, mutta br\u00e4ndi on n\u00e4kym\u00e4t\u00f6n Gen Z:lle.",
       "evidence": [
-        "Vahva painotus TV:ssä ja lehdissä",
-        "TikTok-natiivin sisällön puute"
+        "Vahva painotus TV:ss\u00e4 ja lehdiss\u00e4",
+        "TikTok-natiivin sis\u00e4ll\u00f6n puute"
       ],
       "opportunity_type": "threat",
       "priority_score": 4
@@ -153,14 +153,14 @@
   "opportunity_zones": [
     {
       "id": "opp_01",
-      "description": "Smart Hacks – Liikuttamisen mahdollistaja: Videosisältö, joka opettaa harrastamaan laadukkaasti budjetilla.",
-      "rationale": "Ratkaisee jännitteen 'Varasto vs. Mahdollistaja'. Tuo lisäarvoa pelkän hinnan päälle ja rakentaa asiantuntijuutta.",
+      "description": "Smart Hacks \u2013 Liikuttamisen mahdollistaja: Videosis\u00e4lt\u00f6, joka opettaa harrastamaan laadukkaasti budjetilla.",
+      "rationale": "Ratkaisee j\u00e4nnitteen 'Varasto vs. Mahdollistaja'. Tuo lis\u00e4arvoa pelk\u00e4n hinnan p\u00e4\u00e4lle ja rakentaa asiantuntijuutta.",
       "risk_level": "low"
     },
     {
       "id": "opp_02",
-      "description": "The Honest Friend – Realistinen urheilu: Vastavoima kiiltokuvaurheilulle. Näytetään aitoa, suttuista ja hauskaa liikkumista.",
-      "rationale": "Ratkaisee jännitteen 'Huutaminen vs. Samaistuttavuus'. Erottuu XXL:n voittaja-estetiikasta ja vetoaa suomalaiskansalliseen vaatimattomuuteen.",
+      "description": "The Honest Friend \u2013 Realistinen urheilu: Vastavoima kiiltokuvaurheilulle. N\u00e4ytet\u00e4\u00e4n aitoa, suttuista ja hauskaa liikkumista.",
+      "rationale": "Ratkaisee j\u00e4nnitteen 'Huutaminen vs. Samaistuttavuus'. Erottuu XXL:n voittaja-estetiikasta ja vetoaa suomalaiskansalliseen vaatimattomuuteen.",
       "risk_level": "medium"
     }
   ],
