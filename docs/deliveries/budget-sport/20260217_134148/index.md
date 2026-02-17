@@ -21,15 +21,15 @@
 - [budget_sport_TREATMENT_03_20260217_132310.md](treatments/budget_sport_TREATMENT_03_20260217_132310.md)
 
 ## One-Pagers
-- [One-Pager 01](onepagers/concept_01.png)
-- [One-Pager 02](onepagers/concept_02.png)
-- [One-Pager 03](onepagers/concept_03.png)
+- (Kuvat jäivät pois: Gemini Image ei vastannut)
 
 ## One-Pager PDFs
 - (PDF-toimitukset puuttuvat: generointi epäonnistui tai kuvat puuttuivat)
 
 ## One-Pager Prompts
-- (No prompts found)
+- [onepager_prompt_concept_01_20260217_140736.md](onepagers/prompts/onepager_prompt_concept_01_20260217_140736.md)
+- [onepager_prompt_concept_02_20260217_140736.md](onepagers/prompts/onepager_prompt_concept_02_20260217_140736.md)
+- [onepager_prompt_concept_03_20260217_140736.md](onepagers/prompts/onepager_prompt_concept_03_20260217_140736.md)
 
 ## Delivery
 - [Pitch Email](delivery/pitch_email.md)
