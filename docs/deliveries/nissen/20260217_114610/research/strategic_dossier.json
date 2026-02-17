@@ -10,16 +10,16 @@
       "style_keywords": [
         "Ale-lappu -estetiikka",
         "Studiokuvat",
-        "Hymyilevät ihmiset"
+        "Hymyilev\u00e4t ihmiset"
       ],
       "tone_keywords": [
         "Energinen",
-        "Värikäs",
+        "V\u00e4rik\u00e4s",
         "Konstailematon"
       ]
     },
     "voice_characteristics": [
-      "Myyvä",
+      "Myyv\u00e4",
       "Aktivoiva",
       "Sinutteleva",
       "Arkinen",
@@ -42,16 +42,16 @@
       "priority": "Private Label -myynnin kasvatus",
       "evidence": [
         "Omien merkkien (Unofficial, DbyD) vahva esillepano",
-        "Valikoiman rakentaminen edullisten hintapisteiden ympärille"
+        "Valikoiman rakentaminen edullisten hintapisteiden ymp\u00e4rille"
       ],
       "execution_assessment": "moderate"
     },
     {
       "rank": 3,
-      "priority": "Nuoremman kohderyhmän tavoittelu (Gen Z & Millenniaalit)",
+      "priority": "Nuoremman kohderyhm\u00e4n tavoittelu (Gen Z & Millenniaalit)",
       "evidence": [
         "Visuaalinen erottautuminen Instrumentariumista",
-        "Värikäs ja energinen yleisilme"
+        "V\u00e4rik\u00e4s ja energinen yleisilme"
       ],
       "execution_assessment": "weak"
     }
@@ -60,20 +60,20 @@
     "current_content_types": [
       "Taktinen mainonta (TV-spotit, radiomainokset)",
       "Studiokuvatut mallikuvat hintagrafiikoilla",
-      "Tuotevetoiset vaikuttajayhteistyöt"
+      "Tuotevetoiset vaikuttajayhteisty\u00f6t"
     ],
     "channel_presence": {
       "youtube": {
         "active": false,
-        "assessment": "Passiivinen. Toimii TV-mainosten arkistona, ei natiivia sisältöä."
+        "assessment": "Passiivinen. Toimii TV-mainosten arkistona, ei natiivia sis\u00e4lt\u00f6\u00e4."
       },
       "tiktok": {
         "active": true,
-        "assessment": "Laatu vaihteleva. Sisältö usein liian mainosmaista, puuttuu aito 'some-tekeminen'."
+        "assessment": "Laatu vaihteleva. Sis\u00e4lt\u00f6 usein liian mainosmaista, puuttuu aito 'some-tekeminen'."
       },
       "instagram": {
         "active": true,
-        "assessment": "Aktiivinen, mutta sisältö usein liian mainosmaista."
+        "assessment": "Aktiivinen, mutta sis\u00e4lt\u00f6 usein liian mainosmaista."
       },
       "linkedin": {
         "active": false,
@@ -81,10 +81,10 @@
       }
     },
     "apparent_gaps": [
-      "Sisältömarkkinointi (opettavainen/viihdyttävä puuttuu)",
+      "Sis\u00e4lt\u00f6markkinointi (opettavainen/viihdytt\u00e4v\u00e4 puuttuu)",
       "Tarinallisuus"
     ],
-    "audience_engagement": "Transaktionaalista. Asiakkaat reagoivat hintaan, eivät brändiin. Sitoutuminen sosiaalisessa mediassa on pinnallista."
+    "audience_engagement": "Transaktionaalista. Asiakkaat reagoivat hintaan, eiv\u00e4t br\u00e4ndiin. Sitoutuminen sosiaalisessa mediassa on pinnallista."
   },
   "competitive_analysis": {
     "key_competitors": [
@@ -95,48 +95,48 @@
       },
       {
         "name": "Instrumentarium",
-        "content_strategy": "Asiantuntijuus, lääketieteellinen auktoriteetti, laatu.",
+        "content_strategy": "Asiantuntijuus, l\u00e4\u00e4ketieteellinen auktoriteetti, laatu.",
         "threat_level": "medium"
       }
     ],
     "brand_winning_areas": [
       "Hintamielikuvan aggressiivinen rummutus",
-      "Matala kynnys astua liikkeeseen (ei lääkärimäisyyttä)"
+      "Matala kynnys astua liikkeeseen (ei l\u00e4\u00e4k\u00e4rim\u00e4isyytt\u00e4)"
     ],
     "brand_losing_areas": [
       "Emotionaalinen side asiakkaaseen",
-      "Sisällön viihdyttävyys ja samaistuttavuus",
+      "Sis\u00e4ll\u00f6n viihdytt\u00e4vyys ja samaistuttavuus",
       "Digitaalinen natiivius"
     ]
   },
   "strategic_tensions": [
     {
       "id": "tension_01",
-      "description": "Hinta vs. Itseilmaisu: Brändi yrittää myydä muotia ja identiteettiä, mutta käyttää ainoana työkalunaan alennusprosenttia.",
+      "description": "Hinta vs. Itseilmaisu: Br\u00e4ndi yritt\u00e4\u00e4 myyd\u00e4 muotia ja identiteetti\u00e4, mutta k\u00e4ytt\u00e4\u00e4 ainoana ty\u00f6kalunaan alennusprosenttia.",
       "evidence": [
-        "Lupaus: 'Lasit ovat osa tyyliäsi'",
+        "Lupaus: 'Lasit ovat osa tyyli\u00e4si'",
         "Toteutus: 'Osta 3, maksa 1'",
-        "Markkinointi ei puhu tyylistä, vaan euroista"
+        "Markkinointi ei puhu tyylist\u00e4, vaan euroista"
       ],
       "opportunity_type": "gap",
       "priority_score": 5
     },
     {
       "id": "tension_02",
-      "description": "Nuorekas brändi vs. Vanha media: Brändin olemus tavoittelee nuoria, mutta sen käyttäytyminen on perinteistä massamarkkinointia.",
+      "description": "Nuorekas br\u00e4ndi vs. Vanha media: Br\u00e4ndin olemus tavoittelee nuoria, mutta sen k\u00e4ytt\u00e4ytyminen on perinteist\u00e4 massamarkkinointia.",
       "evidence": [
         "Visuaalisuus on nuorekas, mutta kanavapainotus on TV/Radio",
-        "TikTok-sisältö on mainosmaista, ei alustalle ominaista"
+        "TikTok-sis\u00e4lt\u00f6 on mainosmaista, ei alustalle ominaista"
       ],
       "opportunity_type": "aspiration",
       "priority_score": 5
     },
     {
       "id": "tension_03",
-      "description": "Helppous vs. Ostamisen tuska: Nissen lupaa helppoutta, mutta jättää asiakkaan yksin todellisen valintastressin kanssa.",
+      "description": "Helppous vs. Ostamisen tuska: Nissen lupaa helppoutta, mutta j\u00e4tt\u00e4\u00e4 asiakkaan yksin todellisen valintastressin kanssa.",
       "evidence": [
-        "Markkinointi näyttää vain hymyileviä lopputuloksia",
-        "Asiakkaan epävarmuutta ei käsitellä sisällöissä"
+        "Markkinointi n\u00e4ytt\u00e4\u00e4 vain hymyilevi\u00e4 lopputuloksia",
+        "Asiakkaan ep\u00e4varmuutta ei k\u00e4sitell\u00e4 sis\u00e4ll\u00f6iss\u00e4"
       ],
       "opportunity_type": "underserved_audience",
       "priority_score": 4
@@ -146,13 +146,13 @@
     {
       "id": "opp_01",
       "description": "'Smart Choice' -ylpeys (Fiksuuden uudelleenkehystys)",
-      "rationale": "Käännetään edullisuus 'pihiyden' sijaan 'fiksuudeksi'. Tavoittaa Smart Shoppers -segmentin emotionaalisemmalla tasolla.",
+      "rationale": "K\u00e4\u00e4nnet\u00e4\u00e4n edullisuus 'pihiyden' sijaan 'fiksuudeksi'. Tavoittaa Smart Shoppers -segmentin emotionaalisemmalla tasolla.",
       "risk_level": "low"
     },
     {
       "id": "opp_02",
       "description": "Ostamisen tuskan poistaminen (Utility & Empathy)",
-      "rationale": "Videosisältö, joka aidosti auttaa valinnassa. Ratkaisee asiakkaan todellisen ongelman (epävarmuus) ja rakentaa luottamusta.",
+      "rationale": "Videosis\u00e4lt\u00f6, joka aidosti auttaa valinnassa. Ratkaisee asiakkaan todellisen ongelman (ep\u00e4varmuus) ja rakentaa luottamusta.",
       "risk_level": "medium"
     },
     {
@@ -175,7 +175,7 @@
       "url": "nissen.fi",
       "type": "company_site",
       "date_accessed": "2026-02-17",
-      "relevance": "Brändin oma viestintä ja tarjoukset."
+      "relevance": "Br\u00e4ndin oma viestint\u00e4 ja tarjoukset."
     },
     {
       "title": "Valtioneuvosto (toimialaraportit)",
@@ -196,10 +196,10 @@
       "url": "indieplace.fi",
       "type": "other",
       "date_accessed": "2026-02-17",
-      "relevance": "Blogiyhteistyöt ja sisältöesimerkit."
+      "relevance": "Blogiyhteisty\u00f6t ja sis\u00e4lt\u00f6esimerkit."
     },
     {
-      "title": "Muut mainitut lähteet (bid.cars, boksi.com, fribakansa.fi, torquecafe.com)",
+      "title": "Muut mainitut l\u00e4hteet (bid.cars, boksi.com, fribakansa.fi, torquecafe.com)",
       "url": "various",
       "type": "other",
       "date_accessed": "2026-02-17",
