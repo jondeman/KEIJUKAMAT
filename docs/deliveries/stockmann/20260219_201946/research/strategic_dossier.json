@@ -1,0 +1,220 @@
+{
+  "company_name": "Stockmann",
+  "company_slug": "stockmann",
+  "generated_at": "2026-02-19T21:07:22.303537",
+  "brand_identity": {
+    "positioning": "Urbaanin elämäntyylin, muodin ja kodin inspiraation lähde sekä luksus- ja premium-segmentin kuroitu lippulaivakohde.",
+    "visual_markers": {
+      "primary_color": "Hillitty ja neutraali värimaailma",
+      "secondary_colors": [
+        "Valkoinen",
+        "Keltainen (Hullut Päivät)"
+      ],
+      "style_keywords": [
+        "Minimalistinen",
+        "High-end editorial",
+        "Vogue-tyylinen",
+        "Korkealaatuinen studiokuvaus"
+      ],
+      "tone_keywords": [
+        "Hienostunut",
+        "Viileä",
+        "Korrekti"
+      ]
+    },
+    "voice_characteristics": [
+      "Asiantunteva",
+      "Etäinen",
+      "Ylhäältä alaspäin suuntautuva (broadcasting)"
+    ]
+  },
+  "strategic_priorities": [
+    {
+      "rank": 1,
+      "priority": "Premiumisaatio & Luksus",
+      "evidence": [
+        "Investoinnit fyysisiin shop-in-shopeihin (Louis Vuitton, TAG Heuer)",
+        "Emoyhtiön strategiamuutos luksuslippulaivaksi"
+      ],
+      "execution_assessment": "strong"
+    },
+    {
+      "rank": 2,
+      "priority": "MyStockmann-lojaalisuusohjelma",
+      "evidence": [
+        "Jatkuva viestintä sovelluksesta ja eduista",
+        "Tavoitteena kasvattaa keskiostosta"
+      ],
+      "execution_assessment": "moderate"
+    },
+    {
+      "rank": 3,
+      "priority": "Omnichannel-kokemus",
+      "evidence": [
+        "Logistiikan tehostaminen (Jussla)",
+        "Verkkokaupan ja kivijalan integraatio"
+      ],
+      "execution_assessment": "moderate"
+    },
+    {
+      "rank": 4,
+      "priority": "Kustannustehokkuus & ROI",
+      "evidence": [
+        "Yrityssaneerauksen jälkeinen kurinalaisuus",
+        "Markkinoinnin tulosvastuullisuus"
+      ],
+      "execution_assessment": "strong"
+    }
+  ],
+  "marketing_posture": {
+    "current_content_types": [
+      "Taktinen (Hullut Päivät)",
+      "Brändi (Mood-filmit)",
+      "Tuote (Katalogikuvat)"
+    ],
+    "channel_presence": {
+      "youtube": {
+        "active": false,
+        "assessment": "Passiivinen; toimii TV-mainosten arkistona, ei itsenäisenä sisältökanavana."
+      },
+      "tiktok": {
+        "active": true,
+        "assessment": "Heikko/Haparoiva; sisältö tuntuu mainosmaiselta, ei natiivilta."
+      },
+      "instagram": {
+        "active": true,
+        "assessment": "Aktiivinen; toimii visuaalisena katalogina, korkea laatu mutta vaihteleva sitoutuminen."
+      },
+      "linkedin": {
+        "active": false,
+        "assessment": "Ei erikseen mainittu analyysissä ensisijaisena kuluttajakanavana."
+      }
+    },
+    "apparent_gaps": [
+      "Tarinallisuuden puute",
+      "Kasvottomuus (asiantuntijat piilossa)",
+      "Hyötytiedon ja How-to -sisältöjen puute"
+    ],
+    "audience_engagement": "Yleisö reagoi vahvasti alennuksiin, mutta brändisisältö jää usein etäiseksi."
+  },
+  "competitive_analysis": {
+    "key_competitors": [
+      {
+        "name": "Zalando / Boozt",
+        "content_strategy": "Datavetoinen, personoitu, valtava määrä UGC-sisältöä.",
+        "threat_level": "high"
+      },
+      {
+        "name": "Brändien omat kanavat (esim. Gucci, Marimekko)",
+        "content_strategy": "Syvä bränditarina, täydellinen kontrolli kokemuksesta.",
+        "threat_level": "medium"
+      }
+    ],
+    "brand_winning_areas": [
+      "Fyysinen elämys",
+      "Kuroitu valikoima",
+      "Perinteikäs status"
+    ],
+    "brand_losing_areas": [
+      "Nopeus",
+      "Digitaalinen natiivius",
+      "Inhimillinen ja samaistuttava ote",
+      "Normaalimyyntihinta"
+    ]
+  },
+  "strategic_tensions": [
+    {
+      "id": "tension_01",
+      "description": "Skitsofreninen arvolupaus (Alennus vs. Luksus)",
+      "evidence": [
+        "Hullut Päivät on suurin liikenteen lähde vs. investoinnit luksus-shop-in-shopeihin"
+      ],
+      "opportunity_type": "threat",
+      "priority_score": 5
+    },
+    {
+      "id": "tension_02",
+      "description": "Instituutio vs. Inspiraatio",
+      "evidence": [
+        "Viestintä on pönöttävää ja videosisällöt ovat turvallisia mood-filmejä ilman särmää"
+      ],
+      "opportunity_type": "aspiration",
+      "priority_score": 4
+    },
+    {
+      "id": "tension_03",
+      "description": "Kasvoton jättiläinen vs. Henkilövetoinen media",
+      "evidence": [
+        "Asiantuntijat (stylistit, sisäänostajat) eivät näy somessa kasvoillaan"
+      ],
+      "opportunity_type": "gap",
+      "priority_score": 4
+    },
+    {
+      "id": "tension_04",
+      "description": "Modern Premium Seekers -kohderyhmän laiminlyönti",
+      "evidence": [
+        "30–45v segmentti menetetään verkkokaupoille; brändi on heille vain yksi vaihtoehto muiden joukossa"
+      ],
+      "opportunity_type": "underserved_audience",
+      "priority_score": 5
+    }
+  ],
+  "opportunity_zones": [
+    {
+      "id": "opp_01",
+      "description": "Inside the Curator's Mind – Asiantuntijuuden inhimillistäminen",
+      "rationale": "Ratkaisee kasvottomuus-jännitteen ja hyödyntää kuraattori-etua, jota puhtailla digialustoilla ei ole.",
+      "risk_level": "low"
+    },
+    {
+      "id": "opp_02",
+      "description": "Luksuksen arkipäiväistäminen (Accessible Luxury)",
+      "rationale": "Pienentää kuilua saavuttamattoman luksuksen ja asiakkaan arjen välillä tuomalla tuotteet aitoihin ympäristöihin.",
+      "risk_level": "medium"
+    },
+    {
+      "id": "opp_03",
+      "description": "Utility-vetoinen videostrategia",
+      "rationale": "Tarjoaa syyn seurata kanavia alennusmyyntien ulkopuolella ja rakentaa asiantuntijapositiota hyötytiedon kautta.",
+      "risk_level": "low"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Strateginen Dossier: Stockmann (19.2.2026)",
+      "url": "internal://dossier-2026-02-19",
+      "type": "report",
+      "date_accessed": "2026-02-19",
+      "relevance": "Ensisijainen tutkimusmateriaali"
+    },
+    {
+      "title": "Lindex Group plc Osavuosikatsaukset & Tilinpäätöstiedotteet 2024–2025",
+      "url": "https://www.lindex-group.com/investors",
+      "type": "report",
+      "date_accessed": "2026-02-19",
+      "relevance": "Taloudellinen ja strateginen tausta"
+    },
+    {
+      "title": "Stockmann.com & MyStockmann -sovellus",
+      "url": "https://www.stockmann.com",
+      "type": "company_site",
+      "date_accessed": "2026-02-19",
+      "relevance": "Asiakaskokemuksen ja lojaalisuusohjelman auditointi"
+    },
+    {
+      "title": "Stockmannin viralliset some-kanavat (Instagram, TikTok, YouTube)",
+      "url": "https://www.instagram.com/stockmann",
+      "type": "social",
+      "date_accessed": "2026-02-19",
+      "relevance": "Markkinointipostuurin ja sisällön analyysi"
+    },
+    {
+      "title": "Kauppalehti & Talouselämä -arkistot",
+      "url": "https://www.kauppalehti.fi",
+      "type": "news",
+      "date_accessed": "2026-02-19",
+      "relevance": "Uutisointi saneerauksesta ja markkinapositiosta"
+    }
+  ]
+}
