@@ -16,6 +16,9 @@
 - [Concept 03](concepts/concept_03.md)
 
 ## Treatments
+- [stockmann_TREATMENT_01_20260219_211403.md](treatments/stockmann_TREATMENT_01_20260219_211403.md)
+- [stockmann_TREATMENT_02_20260219_211647.md](treatments/stockmann_TREATMENT_02_20260219_211647.md)
+- [stockmann_TREATMENT_03_20260219_211911.md](treatments/stockmann_TREATMENT_03_20260219_211911.md)
 
 ## One-Pagers
 - [One-Pager 01](onepagers/concept_01.png)
