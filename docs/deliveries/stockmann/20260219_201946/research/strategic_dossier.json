@@ -3,12 +3,12 @@
   "company_slug": "stockmann",
   "generated_at": "2026-02-19T21:07:22.303537",
   "brand_identity": {
-    "positioning": "Urbaanin elämäntyylin, muodin ja kodin inspiraation lähde sekä luksus- ja premium-segmentin kuroitu lippulaivakohde.",
+    "positioning": "Urbaanin el\u00e4m\u00e4ntyylin, muodin ja kodin inspiraation l\u00e4hde sek\u00e4 luksus- ja premium-segmentin kuroitu lippulaivakohde.",
     "visual_markers": {
-      "primary_color": "Hillitty ja neutraali värimaailma",
+      "primary_color": "Hillitty ja neutraali v\u00e4rimaailma",
       "secondary_colors": [
         "Valkoinen",
-        "Keltainen (Hullut Päivät)"
+        "Keltainen (Hullut P\u00e4iv\u00e4t)"
       ],
       "style_keywords": [
         "Minimalistinen",
@@ -18,14 +18,14 @@
       ],
       "tone_keywords": [
         "Hienostunut",
-        "Viileä",
+        "Viile\u00e4",
         "Korrekti"
       ]
     },
     "voice_characteristics": [
       "Asiantunteva",
-      "Etäinen",
-      "Ylhäältä alaspäin suuntautuva (broadcasting)"
+      "Et\u00e4inen",
+      "Ylh\u00e4\u00e4lt\u00e4 alasp\u00e4in suuntautuva (broadcasting)"
     ]
   },
   "strategic_priorities": [
@@ -34,7 +34,7 @@
       "priority": "Premiumisaatio & Luksus",
       "evidence": [
         "Investoinnit fyysisiin shop-in-shopeihin (Louis Vuitton, TAG Heuer)",
-        "Emoyhtiön strategiamuutos luksuslippulaivaksi"
+        "Emoyhti\u00f6n strategiamuutos luksuslippulaivaksi"
       ],
       "execution_assessment": "strong"
     },
@@ -42,7 +42,7 @@
       "rank": 2,
       "priority": "MyStockmann-lojaalisuusohjelma",
       "evidence": [
-        "Jatkuva viestintä sovelluksesta ja eduista",
+        "Jatkuva viestint\u00e4 sovelluksesta ja eduista",
         "Tavoitteena kasvattaa keskiostosta"
       ],
       "execution_assessment": "moderate"
@@ -60,7 +60,7 @@
       "rank": 4,
       "priority": "Kustannustehokkuus & ROI",
       "evidence": [
-        "Yrityssaneerauksen jälkeinen kurinalaisuus",
+        "Yrityssaneerauksen j\u00e4lkeinen kurinalaisuus",
         "Markkinoinnin tulosvastuullisuus"
       ],
       "execution_assessment": "strong"
@@ -68,18 +68,18 @@
   ],
   "marketing_posture": {
     "current_content_types": [
-      "Taktinen (Hullut Päivät)",
-      "Brändi (Mood-filmit)",
+      "Taktinen (Hullut P\u00e4iv\u00e4t)",
+      "Br\u00e4ndi (Mood-filmit)",
       "Tuote (Katalogikuvat)"
     ],
     "channel_presence": {
       "youtube": {
         "active": false,
-        "assessment": "Passiivinen; toimii TV-mainosten arkistona, ei itsenäisenä sisältökanavana."
+        "assessment": "Passiivinen; toimii TV-mainosten arkistona, ei itsen\u00e4isen\u00e4 sis\u00e4lt\u00f6kanavana."
       },
       "tiktok": {
         "active": true,
-        "assessment": "Heikko/Haparoiva; sisältö tuntuu mainosmaiselta, ei natiivilta."
+        "assessment": "Heikko/Haparoiva; sis\u00e4lt\u00f6 tuntuu mainosmaiselta, ei natiivilta."
       },
       "instagram": {
         "active": true,
@@ -87,33 +87,33 @@
       },
       "linkedin": {
         "active": false,
-        "assessment": "Ei erikseen mainittu analyysissä ensisijaisena kuluttajakanavana."
+        "assessment": "Ei erikseen mainittu analyysiss\u00e4 ensisijaisena kuluttajakanavana."
       }
     },
     "apparent_gaps": [
       "Tarinallisuuden puute",
       "Kasvottomuus (asiantuntijat piilossa)",
-      "Hyötytiedon ja How-to -sisältöjen puute"
+      "Hy\u00f6tytiedon ja How-to -sis\u00e4lt\u00f6jen puute"
     ],
-    "audience_engagement": "Yleisö reagoi vahvasti alennuksiin, mutta brändisisältö jää usein etäiseksi."
+    "audience_engagement": "Yleis\u00f6 reagoi vahvasti alennuksiin, mutta br\u00e4ndisis\u00e4lt\u00f6 j\u00e4\u00e4 usein et\u00e4iseksi."
   },
   "competitive_analysis": {
     "key_competitors": [
       {
         "name": "Zalando / Boozt",
-        "content_strategy": "Datavetoinen, personoitu, valtava määrä UGC-sisältöä.",
+        "content_strategy": "Datavetoinen, personoitu, valtava m\u00e4\u00e4r\u00e4 UGC-sis\u00e4lt\u00f6\u00e4.",
         "threat_level": "high"
       },
       {
-        "name": "Brändien omat kanavat (esim. Gucci, Marimekko)",
-        "content_strategy": "Syvä bränditarina, täydellinen kontrolli kokemuksesta.",
+        "name": "Br\u00e4ndien omat kanavat (esim. Gucci, Marimekko)",
+        "content_strategy": "Syv\u00e4 br\u00e4nditarina, t\u00e4ydellinen kontrolli kokemuksesta.",
         "threat_level": "medium"
       }
     ],
     "brand_winning_areas": [
-      "Fyysinen elämys",
+      "Fyysinen el\u00e4mys",
       "Kuroitu valikoima",
-      "Perinteikäs status"
+      "Perinteik\u00e4s status"
     ],
     "brand_losing_areas": [
       "Nopeus",
@@ -127,7 +127,7 @@
       "id": "tension_01",
       "description": "Skitsofreninen arvolupaus (Alennus vs. Luksus)",
       "evidence": [
-        "Hullut Päivät on suurin liikenteen lähde vs. investoinnit luksus-shop-in-shopeihin"
+        "Hullut P\u00e4iv\u00e4t on suurin liikenteen l\u00e4hde vs. investoinnit luksus-shop-in-shopeihin"
       ],
       "opportunity_type": "threat",
       "priority_score": 5
@@ -136,25 +136,25 @@
       "id": "tension_02",
       "description": "Instituutio vs. Inspiraatio",
       "evidence": [
-        "Viestintä on pönöttävää ja videosisällöt ovat turvallisia mood-filmejä ilman särmää"
+        "Viestint\u00e4 on p\u00f6n\u00f6tt\u00e4v\u00e4\u00e4 ja videosis\u00e4ll\u00f6t ovat turvallisia mood-filmej\u00e4 ilman s\u00e4rm\u00e4\u00e4"
       ],
       "opportunity_type": "aspiration",
       "priority_score": 4
     },
     {
       "id": "tension_03",
-      "description": "Kasvoton jättiläinen vs. Henkilövetoinen media",
+      "description": "Kasvoton j\u00e4ttil\u00e4inen vs. Henkil\u00f6vetoinen media",
       "evidence": [
-        "Asiantuntijat (stylistit, sisäänostajat) eivät näy somessa kasvoillaan"
+        "Asiantuntijat (stylistit, sis\u00e4\u00e4nostajat) eiv\u00e4t n\u00e4y somessa kasvoillaan"
       ],
       "opportunity_type": "gap",
       "priority_score": 4
     },
     {
       "id": "tension_04",
-      "description": "Modern Premium Seekers -kohderyhmän laiminlyönti",
+      "description": "Modern Premium Seekers -kohderyhm\u00e4n laiminly\u00f6nti",
       "evidence": [
-        "30–45v segmentti menetetään verkkokaupoille; brändi on heille vain yksi vaihtoehto muiden joukossa"
+        "30\u201345v segmentti menetet\u00e4\u00e4n verkkokaupoille; br\u00e4ndi on heille vain yksi vaihtoehto muiden joukossa"
       ],
       "opportunity_type": "underserved_audience",
       "priority_score": 5
@@ -163,20 +163,20 @@
   "opportunity_zones": [
     {
       "id": "opp_01",
-      "description": "Inside the Curator's Mind – Asiantuntijuuden inhimillistäminen",
-      "rationale": "Ratkaisee kasvottomuus-jännitteen ja hyödyntää kuraattori-etua, jota puhtailla digialustoilla ei ole.",
+      "description": "Inside the Curator's Mind \u2013 Asiantuntijuuden inhimillist\u00e4minen",
+      "rationale": "Ratkaisee kasvottomuus-j\u00e4nnitteen ja hy\u00f6dynt\u00e4\u00e4 kuraattori-etua, jota puhtailla digialustoilla ei ole.",
       "risk_level": "low"
     },
     {
       "id": "opp_02",
-      "description": "Luksuksen arkipäiväistäminen (Accessible Luxury)",
-      "rationale": "Pienentää kuilua saavuttamattoman luksuksen ja asiakkaan arjen välillä tuomalla tuotteet aitoihin ympäristöihin.",
+      "description": "Luksuksen arkip\u00e4iv\u00e4ist\u00e4minen (Accessible Luxury)",
+      "rationale": "Pienent\u00e4\u00e4 kuilua saavuttamattoman luksuksen ja asiakkaan arjen v\u00e4lill\u00e4 tuomalla tuotteet aitoihin ymp\u00e4rist\u00f6ihin.",
       "risk_level": "medium"
     },
     {
       "id": "opp_03",
       "description": "Utility-vetoinen videostrategia",
-      "rationale": "Tarjoaa syyn seurata kanavia alennusmyyntien ulkopuolella ja rakentaa asiantuntijapositiota hyötytiedon kautta.",
+      "rationale": "Tarjoaa syyn seurata kanavia alennusmyyntien ulkopuolella ja rakentaa asiantuntijapositiota hy\u00f6tytiedon kautta.",
       "risk_level": "low"
     }
   ],
@@ -189,7 +189,7 @@
       "relevance": "Ensisijainen tutkimusmateriaali"
     },
     {
-      "title": "Lindex Group plc Osavuosikatsaukset & Tilinpäätöstiedotteet 2024–2025",
+      "title": "Lindex Group plc Osavuosikatsaukset & Tilinp\u00e4\u00e4t\u00f6stiedotteet 2024\u20132025",
       "url": "https://www.lindex-group.com/investors",
       "type": "report",
       "date_accessed": "2026-02-19",
@@ -207,10 +207,10 @@
       "url": "https://www.instagram.com/stockmann",
       "type": "social",
       "date_accessed": "2026-02-19",
-      "relevance": "Markkinointipostuurin ja sisällön analyysi"
+      "relevance": "Markkinointipostuurin ja sis\u00e4ll\u00f6n analyysi"
     },
     {
-      "title": "Kauppalehti & Talouselämä -arkistot",
+      "title": "Kauppalehti & Talousel\u00e4m\u00e4 -arkistot",
       "url": "https://www.kauppalehti.fi",
       "type": "news",
       "date_accessed": "2026-02-19",
