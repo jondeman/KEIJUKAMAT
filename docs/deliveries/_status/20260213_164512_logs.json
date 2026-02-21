@@ -1,1 +1,0 @@
-[{"timestamp": "2026-02-13T16:45:12.942256", "level": "INFO", "event": "Producer initialized", "run_id": "20260213_164512", "company": "Nissen"}, {"timestamp": "2026-02-13T16:45:12.943436", "level": "INFO", "event": "Starting pipeline run", "run_id": "20260213_164512"}, {"timestamp": "2026-02-13T16:45:12.994436", "level": "DEBUG", "event": "Bots initialized"}]

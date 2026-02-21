@@ -1,1 +1,0 @@
-[{"timestamp": "2026-02-13T16:52:18.095083", "level": "INFO", "event": "Producer initialized", "run_id": "20260213_164613", "company": "Kaalimato"}, {"timestamp": "2026-02-13T16:52:18.096721", "level": "INFO", "event": "Starting pipeline run", "run_id": "20260213_164613"}, {"timestamp": "2026-02-13T16:52:18.389466", "level": "DEBUG", "event": "Bots initialized"}]
