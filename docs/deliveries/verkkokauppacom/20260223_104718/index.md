@@ -16,6 +16,9 @@
 - [Concept 03](concepts/concept_03.md)
 
 ## Treatments
+- [verkkokauppacom_TREATMENT_01_20260223_105626.md](treatments/verkkokauppacom_TREATMENT_01_20260223_105626.md)
+- [verkkokauppacom_TREATMENT_02_20260223_105928.md](treatments/verkkokauppacom_TREATMENT_02_20260223_105928.md)
+- [verkkokauppacom_TREATMENT_03_20260223_110140.md](treatments/verkkokauppacom_TREATMENT_03_20260223_110140.md)
 
 ## One-Pagers
 - [One-Pager 01](onepagers/concept_01.png)
