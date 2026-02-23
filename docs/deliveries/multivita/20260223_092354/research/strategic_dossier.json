@@ -3,7 +3,7 @@
   "company_slug": "multivita",
   "generated_at": "2026-02-23T09:26:39.473873",
   "brand_identity": {
-    "positioning": "Turvallinen ja kotimainen perusvalinta koko perheelle. Brändi asemoi itsensä lääketieteellisenä auktoriteettina ja apteekkien suosittelemana peruskalliona.",
+    "positioning": "Turvallinen ja kotimainen perusvalinta koko perheelle. Br\u00e4ndi asemoi itsens\u00e4 l\u00e4\u00e4ketieteellisen\u00e4 auktoriteettina ja apteekkien suosittelemana peruskalliona.",
     "visual_markers": {
       "primary_color": "Valkoinen (puhtaus)",
       "secondary_colors": [
@@ -15,17 +15,17 @@
         "Puhdas",
         "Apteekinomainen",
         "Tuotekeskeinen",
-        "Selkeä"
+        "Selke\u00e4"
       ],
       "tone_keywords": [
         "Asiallinen",
         "Toteava",
         "Rauhoittava",
-        "Lääkärimäinen"
+        "L\u00e4\u00e4k\u00e4rim\u00e4inen"
       ]
     },
     "voice_characteristics": [
-      "Välttää hypeä ja huutomerkkejä",
+      "V\u00e4ltt\u00e4\u00e4 hype\u00e4 ja huutomerkkej\u00e4",
       "Nojaa rationaalisiin argumentteihin",
       "Tutkittu",
       "Turvallinen"
@@ -54,8 +54,8 @@
       "rank": 3,
       "priority": "Apteekkikanavan puolustaminen",
       "evidence": [
-        "Vahva näkyvyys Itsehoitoapteekki.fi-portaalissa",
-        "Fyysisten apteekkien hyllypäädyt"
+        "Vahva n\u00e4kyvyys Itsehoitoapteekki.fi-portaalissa",
+        "Fyysisten apteekkien hyllyp\u00e4\u00e4dyt"
       ],
       "execution_assessment": "weak"
     }
@@ -63,22 +63,22 @@
   "marketing_posture": {
     "current_content_types": [
       "Staattiset tuotekuvat",
-      "Geneeriset kuvapankkikuvat (perhe metsässä)",
+      "Geneeriset kuvapankkikuvat (perhe mets\u00e4ss\u00e4)",
       "Tietoiskut ('Muista D-vitamiini')",
       "Vanhat TV-mainokset"
     ],
     "channel_presence": {
       "youtube": {
         "active": false,
-        "assessment": "Passiivinen. Sisältö vanhentunutta (10+ vuotta vanhoja mainoksia). Ei modernia videostrategiaa."
+        "assessment": "Passiivinen. Sis\u00e4lt\u00f6 vanhentunutta (10+ vuotta vanhoja mainoksia). Ei modernia videostrategiaa."
       },
       "tiktok": {
         "active": false,
-        "assessment": "Olematon. Ei tavoita nuorempaa kohderyhmää lainkaan."
+        "assessment": "Olematon. Ei tavoita nuorempaa kohderyhm\u00e4\u00e4 lainkaan."
       },
       "instagram": {
         "active": true,
-        "assessment": "Passiivinen/Staattinen. Toimii ilmoitustauluna, ei yhteisönä."
+        "assessment": "Passiivinen/Staattinen. Toimii ilmoitustauluna, ei yhteis\u00f6n\u00e4."
       },
       "linkedin": {
         "active": false,
@@ -86,9 +86,9 @@
       }
     },
     "apparent_gaps": [
-      "Always-on -videosisällön täydellinen puute",
+      "Always-on -videosis\u00e4ll\u00f6n t\u00e4ydellinen puute",
       "Inhimillisen kosketuspinnan puute (kasvottomuus)",
-      "Vuorovaikutuksen puute (yksisuuntainen viestintä)"
+      "Vuorovaikutuksen puute (yksisuuntainen viestint\u00e4)"
     ],
     "audience_engagement": "Matala. Reaktiot rajoittuvat peukutuksiin tai saatavuuskyselyihin. Tunneside puuttuu."
   },
@@ -96,68 +96,68 @@
     "key_competitors": [
       {
         "name": "Puhdistamo / Foodin",
-        "content_strategy": "Visuaalisesti korkeatasoinen sisältö, biohakkerointi, coolius, vaikuttajamarkkinointi",
+        "content_strategy": "Visuaalisesti korkeatasoinen sis\u00e4lt\u00f6, biohakkerointi, coolius, vaikuttajamarkkinointi",
         "threat_level": "high"
       },
       {
         "name": "Vitanallet / Sana-sol",
-        "content_strategy": "Maku edellä, helppous, lapsiperheiden houkuttelu karkilla",
+        "content_strategy": "Maku edell\u00e4, helppous, lapsiperheiden houkuttelu karkilla",
         "threat_level": "high"
       },
       {
         "name": "Pirkka / Rainbow",
-        "content_strategy": "Hinta ja riittävä laatu",
+        "content_strategy": "Hinta ja riitt\u00e4v\u00e4 laatu",
         "threat_level": "medium"
       }
     ],
     "brand_winning_areas": [
-      "Lääketieteellinen uskottavuus (Orion-tausta)",
-      "Apteekkihenkilökunnan suositukset",
-      "Turvallisuudentunne ('ei riskejä')"
+      "L\u00e4\u00e4ketieteellinen uskottavuus (Orion-tausta)",
+      "Apteekkihenkil\u00f6kunnan suositukset",
+      "Turvallisuudentunne ('ei riskej\u00e4')"
     ],
     "brand_losing_areas": [
       "Haluttavuus ja tunneside",
-      "Digitaalinen näkyvyys ja moderni tarinankerronta",
-      "Visuaalinen identiteetti (näyttää lääkkeeltä, ei hyvinvoinnilta)"
+      "Digitaalinen n\u00e4kyvyys ja moderni tarinankerronta",
+      "Visuaalinen identiteetti (n\u00e4ytt\u00e4\u00e4 l\u00e4\u00e4kkeelt\u00e4, ei hyvinvoinnilta)"
     ]
   },
   "strategic_tensions": [
     {
       "id": "tension_01",
-      "description": "Brändi näyttää sairauden hoidolta (lääke), vaikka kuluttaja ostaa terveyden ylläpitoa (elinvoima).",
+      "description": "Br\u00e4ndi n\u00e4ytt\u00e4\u00e4 sairauden hoidolta (l\u00e4\u00e4ke), vaikka kuluttaja ostaa terveyden yll\u00e4pitoa (elinvoima).",
       "evidence": [
         "Kliininen, valkoinen visuaalinen ilme ja purkki",
-        "Kilpailijat (Puhdistamo) käyttävät mustaa/kultaa ja urheilukuvastoa"
+        "Kilpailijat (Puhdistamo) k\u00e4ytt\u00e4v\u00e4t mustaa/kultaa ja urheilukuvastoa"
       ],
       "opportunity_type": "gap",
       "priority_score": 5
     },
     {
       "id": "tension_02",
-      "description": "Brändi viestii rationaalisia ainesosia, kun ostopäätös on usein emotionaalinen huoli jaksamisesta.",
+      "description": "Br\u00e4ndi viestii rationaalisia ainesosia, kun ostop\u00e4\u00e4t\u00f6s on usein emotionaalinen huoli jaksamisesta.",
       "evidence": [
-        "Sisältö keskittyy 'oikeaan koostumukseen'",
-        "Kuluttajan tarve on 'olla hyvä äiti' tai 'jaksaa työpäivä'"
+        "Sis\u00e4lt\u00f6 keskittyy 'oikeaan koostumukseen'",
+        "Kuluttajan tarve on 'olla hyv\u00e4 \u00e4iti' tai 'jaksaa ty\u00f6p\u00e4iv\u00e4'"
       ],
       "opportunity_type": "gap",
       "priority_score": 5
     },
     {
       "id": "tension_03",
-      "description": "Multivita yrittää olla 'kaikille', jolloin se ei tunnu olevan 'juuri minulle' (personoinnin puute).",
+      "description": "Multivita yritt\u00e4\u00e4 olla 'kaikille', jolloin se ei tunnu olevan 'juuri minulle' (personoinnin puute).",
       "evidence": [
-        "Geneerinen 'koko perheen' viestintä",
-        "Markkinatrendi on kohti hyper-spesifejä ratkaisuja"
+        "Geneerinen 'koko perheen' viestint\u00e4",
+        "Markkinatrendi on kohti hyper-spesifej\u00e4 ratkaisuja"
       ],
       "opportunity_type": "underserved_audience",
       "priority_score": 4
     },
     {
       "id": "tension_04",
-      "description": "Brändillä on valtava asiantuntijuus, mutta se on piilossa staattisten kuvien takana eikä palvele tiedonjanoisia kuluttajia.",
+      "description": "Br\u00e4ndill\u00e4 on valtava asiantuntijuus, mutta se on piilossa staattisten kuvien takana eik\u00e4 palvele tiedonjanoisia kuluttajia.",
       "evidence": [
-        "Mom forums (Vauva.fi) täynnä kysymyksiä, joihin Multivita ei vastaa sisällöllään",
-        "Videomuotoisen Q&A-sisällön puute"
+        "Mom forums (Vauva.fi) t\u00e4ynn\u00e4 kysymyksi\u00e4, joihin Multivita ei vastaa sis\u00e4ll\u00f6ll\u00e4\u00e4n",
+        "Videomuotoisen Q&A-sis\u00e4ll\u00f6n puute"
       ],
       "opportunity_type": "threat",
       "priority_score": 3
@@ -166,20 +166,20 @@
   "opportunity_zones": [
     {
       "id": "opp_01",
-      "description": "Kaaoksen kesyttäjä",
-      "rationale": "Otetaan rooli 'järjen äänenä' hyvinvointihypen ja foorumikeskustelujen keskellä. Hyödyntää Orionin lääketieteellistä auktoriteettia modernissa formaatissa.",
+      "description": "Kaaoksen kesytt\u00e4j\u00e4",
+      "rationale": "Otetaan rooli 'j\u00e4rjen \u00e4\u00e4nen\u00e4' hyvinvointihypen ja foorumikeskustelujen keskell\u00e4. Hy\u00f6dynt\u00e4\u00e4 Orionin l\u00e4\u00e4ketieteellist\u00e4 auktoriteettia modernissa formaatissa.",
       "risk_level": "low"
     },
     {
       "id": "opp_02",
       "description": "Arjen sankaruus / Anti-suorittaminen",
-      "rationale": "Erotutaan kilpailijoiden 'huippu-urheilija/biohakkeri' -kuvastosta näyttämällä aitoa, epätäydellistä suomalaista arkea. Vitamiini on tuki tavalliseen tiistaihin.",
+      "rationale": "Erotutaan kilpailijoiden 'huippu-urheilija/biohakkeri' -kuvastosta n\u00e4ytt\u00e4m\u00e4ll\u00e4 aitoa, ep\u00e4t\u00e4ydellist\u00e4 suomalaista arkea. Vitamiini on tuki tavalliseen tiistaihin.",
       "risk_level": "medium"
     },
     {
       "id": "opp_03",
-      "description": "Näkymätön vaikutus",
-      "rationale": "Visualisoidaan se, mitä ei tapahdu ('Koska söit tämän, et väsähtänyt klo 14'). Muuttaa 'vakuutusyhtiö-syndrooman' aktiiviseksi hyödyksi.",
+      "description": "N\u00e4kym\u00e4t\u00f6n vaikutus",
+      "rationale": "Visualisoidaan se, mit\u00e4 ei tapahdu ('Koska s\u00f6it t\u00e4m\u00e4n, et v\u00e4s\u00e4ht\u00e4nyt klo 14'). Muuttaa 'vakuutusyhti\u00f6-syndrooman' aktiiviseksi hy\u00f6dyksi.",
       "risk_level": "medium"
     }
   ],
@@ -210,21 +210,21 @@
       "url": "vau.fi",
       "type": "social",
       "date_accessed": "2026-02-23",
-      "relevance": "Kohderyhmän huolien ja keskustelujen lähde."
+      "relevance": "Kohderyhm\u00e4n huolien ja keskustelujen l\u00e4hde."
     },
     {
       "title": "Apteekkiplus",
       "url": "apteekkiplus.fi",
       "type": "company_site",
       "date_accessed": "2026-02-23",
-      "relevance": "Tuotevalikoiman ja hyllynäkymän analyysi."
+      "relevance": "Tuotevalikoiman ja hyllyn\u00e4kym\u00e4n analyysi."
     },
     {
       "title": "Orion Pharma",
       "url": "orionpharma.com",
       "type": "company_site",
       "date_accessed": "2026-02-23",
-      "relevance": "Emoyhtiön brändin ja arvojen lähde."
+      "relevance": "Emoyhti\u00f6n br\u00e4ndin ja arvojen l\u00e4hde."
     }
   ]
 }
