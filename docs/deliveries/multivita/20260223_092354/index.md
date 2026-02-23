@@ -16,6 +16,9 @@
 - [Concept 03](concepts/concept_03.md)
 
 ## Treatments
+- [multivita_TREATMENT_01_20260223_092914.md](treatments/multivita_TREATMENT_01_20260223_092914.md)
+- [multivita_TREATMENT_02_20260223_093015.md](treatments/multivita_TREATMENT_02_20260223_093015.md)
+- [multivita_TREATMENT_03_20260223_093301.md](treatments/multivita_TREATMENT_03_20260223_093301.md)
 
 ## One-Pagers
 - [One-Pager 01](onepagers/concept_01.png)
