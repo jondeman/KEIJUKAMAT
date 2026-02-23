@@ -11,7 +11,7 @@
       ],
       "style_keywords": [
         "Kliininen",
-        "Selkeä",
+        "Selke\u00e4",
         "Funktionaalinen",
         "Riisuttu",
         "Apteekkihylly-estetiikka"
@@ -36,8 +36,8 @@
       "priority": "Markkinaosuuden puolustaminen (Cash Cow -status)",
       "evidence": [
         "Markkinajohtajan asema",
-        "Tarve estää vuoto private label -tuotteisiin",
-        "Kausiluonteiset massakampanjat (Orionin keräilykampanja)"
+        "Tarve est\u00e4\u00e4 vuoto private label -tuotteisiin",
+        "Kausiluonteiset massakampanjat (Orionin ker\u00e4ilykampanja)"
       ],
       "execution_assessment": "strong"
     },
@@ -45,7 +45,7 @@
       "rank": 2,
       "priority": "Mikro-segmentointi (Blokki-strategia)",
       "evidence": [
-        "Erittäin laaja tuoteportfolio (Drops, Spray, Mix, Strong, Vege, Neutral)",
+        "Eritt\u00e4in laaja tuoteportfolio (Drops, Spray, Mix, Strong, Vege, Neutral)",
         "Tavoite tarjota tuote jokaiseen spesifiin tarpeeseen"
       ],
       "execution_assessment": "moderate"
@@ -56,7 +56,7 @@
       "evidence": [
         "Vahva sidos Itsehoitoapteekki-konseptiin",
         "Farmaseuttien suositukset",
-        "Brändi nojaa asiantuntijakanavaan"
+        "Br\u00e4ndi nojaa asiantuntijakanavaan"
       ],
       "execution_assessment": "strong"
     }
@@ -66,33 +66,33 @@
       "Tuotekeskeiset kuvat",
       "Faktatieto D-vitamiinin tarpeesta",
       "Asiantuntija-artikkelit",
-      "Taktiset kampanjamateriaalit (keräilykampanja)"
+      "Taktiset kampanjamateriaalit (ker\u00e4ilykampanja)"
     ],
     "channel_presence": {
       "youtube": {
         "active": false,
-        "assessment": "Passiivinen. TV-mainosten toistoalusta, ei natiivia sisältöä."
+        "assessment": "Passiivinen. TV-mainosten toistoalusta, ei natiivia sis\u00e4lt\u00f6\u00e4."
       },
       "tiktok": {
         "active": false,
-        "assessment": "Olematon. Ei relevanttia läsnäoloa tai orgaanista hypeä."
+        "assessment": "Olematon. Ei relevanttia l\u00e4sn\u00e4oloa tai orgaanista hype\u00e4."
       },
       "instagram": {
         "active": false,
-        "assessment": "Passiivinen/Jaettu. Ei omaa vahvaa tiliä, näkyy @itsehoitoapteekki -sateenvarjon alla."
+        "assessment": "Passiivinen/Jaettu. Ei omaa vahvaa tili\u00e4, n\u00e4kyy @itsehoitoapteekki -sateenvarjon alla."
       },
       "linkedin": {
         "active": false,
-        "assessment": "Ei mainittu analyysissa (oletus: ei kuluttajaviestinnän fokus)."
+        "assessment": "Ei mainittu analyysissa (oletus: ei kuluttajaviestinn\u00e4n fokus)."
       }
     },
     "apparent_gaps": [
       "Emotionaalinen tarttumapinta puuttuu",
-      "Viihdyttävyyden puute",
-      "Brändi ei osallistu keskusteluun",
+      "Viihdytt\u00e4vyyden puute",
+      "Br\u00e4ndi ei osallistu keskusteluun",
       "Yksisuuntainen tiedottaminen"
     ],
-    "audience_engagement": "Matala / Transaktionaalinen. Kuluttajat ostavat tavan vuoksi, mutta eivät sitoudu sisältöön."
+    "audience_engagement": "Matala / Transaktionaalinen. Kuluttajat ostavat tavan vuoksi, mutta eiv\u00e4t sitoudu sis\u00e4lt\u00f6\u00f6n."
   },
   "competitive_analysis": {
     "key_competitors": [
@@ -103,24 +103,24 @@
       },
       {
         "name": "Minisun (Verman)",
-        "content_strategy": "Aktiivinen elämäntapa. Maskotit, vaikuttajat, dynaaminen ote.",
+        "content_strategy": "Aktiivinen el\u00e4m\u00e4ntapa. Maskotit, vaikuttajat, dynaaminen ote.",
         "threat_level": "high"
       },
       {
         "name": "Private Label (Pirkka, Rainbow)",
-        "content_strategy": "Hinta edellä. Sama vaikuttava aine halvemmalla.",
+        "content_strategy": "Hinta edell\u00e4. Sama vaikuttava aine halvemmalla.",
         "threat_level": "medium"
       }
     ],
     "brand_winning_areas": [
       "Luottamus",
       "Kliininen uskottavuus",
-      "Apteekkiperintö",
+      "Apteekkiperint\u00f6",
       "Tuotevalikoiman laajuus (erikoistuotteet)"
     ],
     "brand_losing_areas": [
       "Mielikuvituksellisuus",
-      "Kiva käyttökokemus",
+      "Kiva k\u00e4ytt\u00f6kokemus",
       "Nuorten aikuisten tavoittaminen",
       "Sosiaalisen median presenssi"
     ]
@@ -128,30 +128,30 @@
   "strategic_tensions": [
     {
       "id": "tension_01",
-      "description": "Kliininen auktoriteetti vs. Arjen rituaali. Devisol viestii lääketieteellistä turvallisuutta, kun kuluttaja etsii vaivatonta ja miellyttävää aamurutiinia.",
+      "description": "Kliininen auktoriteetti vs. Arjen rituaali. Devisol viestii l\u00e4\u00e4ketieteellist\u00e4 turvallisuutta, kun kuluttaja etsii vaivatonta ja miellytt\u00e4v\u00e4\u00e4 aamurutiinia.",
       "evidence": [
-        "Pakkaukset näyttävät lääkkeiltä vs. kilpailijoiden karkkimaisuus",
-        "Markkinointi puhuu annostuksesta, kuluttaja haluaa hyvää oloa"
+        "Pakkaukset n\u00e4ytt\u00e4v\u00e4t l\u00e4\u00e4kkeilt\u00e4 vs. kilpailijoiden karkkimaisuus",
+        "Markkinointi puhuu annostuksesta, kuluttaja haluaa hyv\u00e4\u00e4 oloa"
       ],
       "opportunity_type": "gap",
       "priority_score": 5
     },
     {
       "id": "tension_02",
-      "description": "Markkinajohtajan hiljaisuus vs. Sosiaalinen todiste. Devisol on suurin brändi, mutta näkymätön siellä missä ostopäätökset ja trendit syntyvät (some).",
+      "description": "Markkinajohtajan hiljaisuus vs. Sosiaalinen todiste. Devisol on suurin br\u00e4ndi, mutta n\u00e4kym\u00e4t\u00f6n siell\u00e4 miss\u00e4 ostop\u00e4\u00e4t\u00f6kset ja trendit syntyv\u00e4t (some).",
       "evidence": [
-        "Ei omaa Instagram-yhteisöä",
-        "Kilpailijat käyttävät vaikuttajia rakentamaan hypeä"
+        "Ei omaa Instagram-yhteis\u00f6\u00e4",
+        "Kilpailijat k\u00e4ytt\u00e4v\u00e4t vaikuttajia rakentamaan hype\u00e4"
       ],
       "opportunity_type": "threat",
       "priority_score": 4
     },
     {
       "id": "tension_03",
-      "description": "Kaikille kaikkea vs. Henkilökohtainen relevanssi. Valtava tuoteportfolio mahdollistaisi yksilöllisen puhuttelun, mutta brändimielikuva on geneerinen.",
+      "description": "Kaikille kaikkea vs. Henkil\u00f6kohtainen relevanssi. Valtava tuoteportfolio mahdollistaisi yksil\u00f6llisen puhuttelun, mutta br\u00e4ndimielikuva on geneerinen.",
       "evidence": [
-        "Markkinointi on usein massaviestintää (Orionin keräilykampanja)",
-        "Spesifit tuotteet (Vege, Neutral) hukkuvat geneerisen brändin alle"
+        "Markkinointi on usein massaviestint\u00e4\u00e4 (Orionin ker\u00e4ilykampanja)",
+        "Spesifit tuotteet (Vege, Neutral) hukkuvat geneerisen br\u00e4ndin alle"
       ],
       "opportunity_type": "underserved_audience",
       "priority_score": 3
@@ -160,14 +160,14 @@
   "opportunity_zones": [
     {
       "id": "opp_01",
-      "description": "Lämmin huolenpito (Redefining Care)",
-      "rationale": "Siirretään brändin ydinviesti kliinisestä suorittamisesta inhimilliseen huolenpitoon. Tehdään turvallisuudesta emotionaalinen arvo. Erottautuu Sana-solin hupailusta ja Private Labelin kylmyydestä.",
+      "description": "L\u00e4mmin huolenpito (Redefining Care)",
+      "rationale": "Siirret\u00e4\u00e4n br\u00e4ndin ydinviesti kliinisest\u00e4 suorittamisesta inhimilliseen huolenpitoon. Tehd\u00e4\u00e4n turvallisuudesta emotionaalinen arvo. Erottautuu Sana-solin hupailusta ja Private Labelin kylmyydest\u00e4.",
       "risk_level": "low"
     },
     {
       "id": "opp_02",
       "description": "Mikro-hetkien omistaminen (Contextual Relevance)",
-      "rationale": "Hyödynnetään laajaa portfoliota kertomalla tarinoita miksi joku tarvitsee juuri tietyn tuotteen (esim. makuherkkä lapsi tai vegaani). Muuttaa laajan valikoiman sekavuuden henkilökohtaiseksi palveluksi.",
+      "rationale": "Hy\u00f6dynnet\u00e4\u00e4n laajaa portfoliota kertomalla tarinoita miksi joku tarvitsee juuri tietyn tuotteen (esim. makuherkk\u00e4 lapsi tai vegaani). Muuttaa laajan valikoiman sekavuuden henkil\u00f6kohtaiseksi palveluksi.",
       "risk_level": "medium"
     }
   ],
