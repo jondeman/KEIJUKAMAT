@@ -16,6 +16,9 @@
 - [Concept 03](concepts/concept_03.md)
 
 ## Treatments
+- [devisol_TREATMENT_01_20260223_084637.md](treatments/devisol_TREATMENT_01_20260223_084637.md)
+- [devisol_TREATMENT_02_20260223_085014.md](treatments/devisol_TREATMENT_02_20260223_085014.md)
+- [devisol_TREATMENT_03_20260223_085444.md](treatments/devisol_TREATMENT_03_20260223_085444.md)
 
 ## One-Pagers
 - [One-Pager 01](onepagers/concept_01.png)
