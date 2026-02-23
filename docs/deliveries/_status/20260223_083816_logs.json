@@ -1,0 +1,1 @@
+[{"timestamp": "2026-02-23T08:38:16.102775", "level": "INFO", "event": "Producer initialized", "run_id": "20260223_083816", "company": "Devisol"}, {"timestamp": "2026-02-23T08:38:16.102954", "level": "INFO", "event": "Starting pipeline run", "run_id": "20260223_083816"}, {"timestamp": "2026-02-23T08:38:16.195758", "level": "DEBUG", "event": "Bots initialized"}]
