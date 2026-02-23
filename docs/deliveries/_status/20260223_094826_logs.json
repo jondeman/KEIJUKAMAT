@@ -1,0 +1,1 @@
+[{"timestamp": "2026-02-23T09:48:26.867594", "level": "INFO", "event": "Producer initialized", "run_id": "20260223_094826", "company": "Vakuutusyhtiö Fennia"}, {"timestamp": "2026-02-23T09:48:26.868101", "level": "INFO", "event": "Starting pipeline run", "run_id": "20260223_094826"}, {"timestamp": "2026-02-23T09:48:26.869304", "level": "DEBUG", "event": "Bots initialized"}]
