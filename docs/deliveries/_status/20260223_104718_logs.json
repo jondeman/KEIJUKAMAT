@@ -1,0 +1,1 @@
+[{"timestamp": "2026-02-23T10:47:18.440474", "level": "INFO", "event": "Producer initialized", "run_id": "20260223_104718", "company": "Verkkokauppa.com"}, {"timestamp": "2026-02-23T10:47:18.441126", "level": "INFO", "event": "Starting pipeline run", "run_id": "20260223_104718"}, {"timestamp": "2026-02-23T10:47:18.443528", "level": "DEBUG", "event": "Bots initialized"}]
