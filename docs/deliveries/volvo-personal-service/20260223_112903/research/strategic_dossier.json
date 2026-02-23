@@ -3,7 +3,7 @@
   "company_slug": "volvo-personal-service",
   "generated_at": "2026-02-23T11:34:42.067164",
   "brand_identity": {
-    "positioning": "Sinä ja autosi ansaitsette henkilökohtaista palvelua. Lean-filosofiaan perustuva prosessi, jossa välikädet on poistettu ja asiakas on suorassa kontaktissa Omamekaanikkoon.",
+    "positioning": "Sin\u00e4 ja autosi ansaitsette henkil\u00f6kohtaista palvelua. Lean-filosofiaan perustuva prosessi, jossa v\u00e4lik\u00e4det on poistettu ja asiakas on suorassa kontaktissa Omamekaanikkoon.",
     "visual_markers": {
       "primary_color": "Skandinaavinen puhtaus (Cool tones)",
       "secondary_colors": [
@@ -14,7 +14,7 @@
         "Skandinaavinen",
         "Tekninen",
         "Kliininen",
-        "Ihmisläheinen (pyrkimys)"
+        "Ihmisl\u00e4heinen (pyrkimys)"
       ],
       "tone_keywords": [
         "Asiallinen",
@@ -32,10 +32,10 @@
   "strategic_priorities": [
     {
       "rank": 1,
-      "priority": "Sähköistymisen hallinta (Electrification Transition)",
+      "priority": "S\u00e4hk\u00f6istymisen hallinta (Electrification Transition)",
       "evidence": [
         "Fokus EX90/EX30-malleissa",
-        "Huollon roolin muutos: mekaanisesta ohjelmistopäivityksiin (OTA) ja akkuteknologiaan"
+        "Huollon roolin muutos: mekaanisesta ohjelmistop\u00e4ivityksiin (OTA) ja akkuteknologiaan"
       ],
       "execution_assessment": "moderate"
     },
@@ -44,7 +44,7 @@
       "priority": "Asiakasito (Retention) & Vanhempi autokanta",
       "evidence": [
         "Volvo Essential -huolto (yli 6-vuotiaat autot)",
-        "Tavoite estää asiakasvuoto riippumattomille ketjuille"
+        "Tavoite est\u00e4\u00e4 asiakasvuoto riippumattomille ketjuille"
       ],
       "execution_assessment": "moderate"
     },
@@ -52,14 +52,14 @@
       "rank": 3,
       "priority": "Digitalisaatio (Digital Customer Journey)",
       "evidence": [
-        "Volvo Cars App asiakassuhteen kaukosäätimenä",
+        "Volvo Cars App asiakassuhteen kaukos\u00e4\u00e4timen\u00e4",
         "Huollon varaus ja hallinta keskitetty appiin"
       ],
       "execution_assessment": "strong"
     },
     {
       "rank": 4,
-      "priority": "Kestävä kehitys (Sustainability / Circular Economy)",
+      "priority": "Kest\u00e4v\u00e4 kehitys (Sustainability / Circular Economy)",
       "evidence": [
         "Tavoite olla ilmastoneutraali 2040",
         "Osien korjaaminen vaihtamisen sijaan (esim. lasit, puskurit)"
@@ -70,13 +70,13 @@
   "marketing_posture": {
     "current_content_types": [
       "Global Brand (Tunteikkaat TV-mainokset)",
-      "Local Tactical (Sähköposti ja bannerit)",
+      "Local Tactical (S\u00e4hk\u00f6posti ja bannerit)",
       "Social (Tapahtumakoosteet ja lanseeraukset)"
     ],
     "channel_presence": {
       "youtube": {
         "active": true,
-        "assessment": "Aktiivinen (globaali materiaali), mutta heikko hyötytiedon osalta."
+        "assessment": "Aktiivinen (globaali materiaali), mutta heikko hy\u00f6tytiedon osalta."
       },
       "tiktok": {
         "active": false,
@@ -84,7 +84,7 @@
       },
       "instagram": {
         "active": true,
-        "assessment": "Visuaalisesti korkeatasoinen, mutta etäinen."
+        "assessment": "Visuaalisesti korkeatasoinen, mutta et\u00e4inen."
       },
       "linkedin": {
         "active": false,
@@ -92,16 +92,16 @@
       }
     },
     "apparent_gaps": [
-      "Inhimillisyysvaje: Sisällöstä puuttuu Omamekaanikon kasvot ja ääni.",
-      "Hyötytietotyhjiö: Puuttuu How-to -sisältö (esim. latausvinkit, pyyhkijät)."
+      "Inhimillisyysvaje: Sis\u00e4ll\u00f6st\u00e4 puuttuu Omamekaanikon kasvot ja \u00e4\u00e4ni.",
+      "Hy\u00f6tytietotyhji\u00f6: Puuttuu How-to -sis\u00e4lt\u00f6 (esim. latausvinkit, pyyhkij\u00e4t)."
     ],
-    "audience_engagement": "Brändisisältöä arvostetaan, mutta käytännön ongelmissa yleisö kääntyy kilpailijoiden (Vianor, Autodoc) puoleen."
+    "audience_engagement": "Br\u00e4ndisis\u00e4lt\u00f6\u00e4 arvostetaan, mutta k\u00e4yt\u00e4nn\u00f6n ongelmissa yleis\u00f6 k\u00e4\u00e4ntyy kilpailijoiden (Vianor, Autodoc) puoleen."
   },
   "competitive_analysis": {
     "key_competitors": [
       {
         "name": "K-Auto (VW/Audi)",
-        "content_strategy": "MyDay-videosarja inhimillistää mekaanikon työn; selkeät opasvideot.",
+        "content_strategy": "MyDay-videosarja inhimillist\u00e4\u00e4 mekaanikon ty\u00f6n; selke\u00e4t opasvideot.",
         "threat_level": "high"
       },
       {
@@ -111,47 +111,47 @@
       },
       {
         "name": "Autodoc",
-        "content_strategy": "Massiivinen määrä DIY-sisältöä ja varaosamyyntiä.",
+        "content_strategy": "Massiivinen m\u00e4\u00e4r\u00e4 DIY-sis\u00e4lt\u00f6\u00e4 ja varaosamyynti\u00e4.",
         "threat_level": "medium"
       }
     ],
     "brand_winning_areas": [
       "Premium-mielikuva",
-      "Turvallisuusperintö",
+      "Turvallisuusperint\u00f6",
       "Omamekaanikko-konseptin lupaus"
     ],
     "brand_losing_areas": [
-      "Käytännönläheisyys",
-      "Digitaalinen lähestyttävyys",
-      "Asiantuntijuuden konkreettinen näyttäminen (likaiset kädet)"
+      "K\u00e4yt\u00e4nn\u00f6nl\u00e4heisyys",
+      "Digitaalinen l\u00e4hestytt\u00e4vyys",
+      "Asiantuntijuuden konkreettinen n\u00e4ytt\u00e4minen (likaiset k\u00e4det)"
     ]
   },
   "strategic_tensions": [
     {
       "id": "tension_01",
-      "description": "Volvo lupaa henkilökohtaisen Omamekaanikon, mutta digitaalinen asiakaspolku (App) eristää asiakkaan ihmiskontaktista.",
+      "description": "Volvo lupaa henkil\u00f6kohtaisen Omamekaanikon, mutta digitaalinen asiakaspolku (App) erist\u00e4\u00e4 asiakkaan ihmiskontaktista.",
       "evidence": [
-        "Markkinointi korostaa PST-henkilöä, mutta prosessi ohjaa appiin.",
-        "Videosisällöstä puuttuu mekaanikon kasvot."
+        "Markkinointi korostaa PST-henkil\u00f6\u00e4, mutta prosessi ohjaa appiin.",
+        "Videosis\u00e4ll\u00f6st\u00e4 puuttuu mekaanikon kasvot."
       ],
       "opportunity_type": "gap",
       "priority_score": 5
     },
     {
       "id": "tension_02",
-      "description": "Brändi haluaa ylläpitää virheetöntä Premium-kuvaa, mikä estää näyttämästä huollon vaatimaa fyysistä asiantuntemusta.",
+      "description": "Br\u00e4ndi haluaa yll\u00e4pit\u00e4\u00e4 virheet\u00f6nt\u00e4 Premium-kuvaa, mik\u00e4 est\u00e4\u00e4 n\u00e4ytt\u00e4m\u00e4st\u00e4 huollon vaatimaa fyysist\u00e4 asiantuntemusta.",
       "evidence": [
-        "Visuaalisuus on kliinistä ja muotilehtimäistä.",
-        "Kilpailijat (K-Auto) näyttävät aitoa työtä ja rakentavat luottamusta."
+        "Visuaalisuus on kliinist\u00e4 ja muotilehtim\u00e4ist\u00e4.",
+        "Kilpailijat (K-Auto) n\u00e4ytt\u00e4v\u00e4t aitoa ty\u00f6t\u00e4 ja rakentavat luottamusta."
       ],
       "opportunity_type": "aspiration",
       "priority_score": 4
     },
     {
       "id": "tension_03",
-      "description": "Volvo omistaa turvallisuuden, mutta on ulkoistanut turvallisuuskriittisen ylläpitovalistuksen (renkaat, näkyvyys) rengasliikkeille.",
+      "description": "Volvo omistaa turvallisuuden, mutta on ulkoistanut turvallisuuskriittisen yll\u00e4pitovalistuksen (renkaat, n\u00e4kyvyys) rengasliikkeille.",
       "evidence": [
-        "Kanavista puuttuu 'Näin pidät autosi turvallisena' -hyötytieto.",
+        "Kanavista puuttuu 'N\u00e4in pid\u00e4t autosi turvallisena' -hy\u00f6tytieto.",
         "Haut valuvat Vianorille ja Autodocille."
       ],
       "opportunity_type": "threat",
@@ -162,19 +162,19 @@
     {
       "id": "opp_01",
       "description": "Demokratisoitu asiantuntijuus (Pro Tips)",
-      "rationale": "Ratkaisee uskottavuusongelman ja palauttaa asiantuntijuusjohtajuuden Volvolle näyttämällä osaamisen konkreettisesti.",
+      "rationale": "Ratkaisee uskottavuusongelman ja palauttaa asiantuntijuusjohtajuuden Volvolle n\u00e4ytt\u00e4m\u00e4ll\u00e4 osaamisen konkreettisesti.",
       "risk_level": "low"
     },
     {
       "id": "opp_02",
-      "description": "Sähköautoilun uusi lukutaito",
-      "rationale": "Vastaa sähköautoilijoiden epävarmuuteen ja sitouttaa uudet asiakkaat brändiin huollon kautta.",
+      "description": "S\u00e4hk\u00f6autoilun uusi lukutaito",
+      "rationale": "Vastaa s\u00e4hk\u00f6autoilijoiden ep\u00e4varmuuteen ja sitouttaa uudet asiakkaat br\u00e4ndiin huollon kautta.",
       "risk_level": "medium"
     },
     {
       "id": "opp_03",
       "description": "Digitaalinen Omamekaanikko",
-      "rationale": "Inhimillistää digitaalisen muurin ja tekee brändistä lähestyttävän ennen fyysistä kohtaamista.",
+      "rationale": "Inhimillist\u00e4\u00e4 digitaalisen muurin ja tekee br\u00e4ndist\u00e4 l\u00e4hestytt\u00e4v\u00e4n ennen fyysist\u00e4 kohtaamista.",
       "risk_level": "medium"
     }
   ],
@@ -205,7 +205,7 @@
       "url": "N/A",
       "type": "social",
       "date_accessed": "2026-02-23",
-      "relevance": "Sisältöauditointi"
+      "relevance": "Sis\u00e4lt\u00f6auditointi"
     },
     {
       "title": "inside-outmedia.com",
@@ -219,7 +219,7 @@
       "url": "N/A",
       "type": "social",
       "date_accessed": "2026-02-23",
-      "relevance": "Asiakasymmärrys/keskustelut"
+      "relevance": "Asiakasymm\u00e4rrys/keskustelut"
     },
     {
       "title": "hireborderless.com",
