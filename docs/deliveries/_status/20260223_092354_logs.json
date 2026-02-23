@@ -1,0 +1,1 @@
+[{"timestamp": "2026-02-23T09:23:54.813143", "level": "INFO", "event": "Producer initialized", "run_id": "20260223_092354", "company": "Multivita"}, {"timestamp": "2026-02-23T09:23:54.813768", "level": "INFO", "event": "Starting pipeline run", "run_id": "20260223_092354"}, {"timestamp": "2026-02-23T09:23:54.815120", "level": "DEBUG", "event": "Bots initialized"}]
