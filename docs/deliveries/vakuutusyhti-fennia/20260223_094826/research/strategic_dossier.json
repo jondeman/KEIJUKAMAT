@@ -1,33 +1,33 @@
 {
-  "company_name": "Vakuutusyhtiö Fennia",
+  "company_name": "Vakuutusyhti\u00f6 Fennia",
   "company_slug": "vakuutusyhti-fennia",
   "generated_at": "2026-02-23T09:50:37.728425",
   "brand_identity": {
-    "positioning": "Yrittäjien ja elämäänsä hallitsevien ihmisten kumppani. Vakuuttaminen on taitolaji.",
+    "positioning": "Yritt\u00e4jien ja el\u00e4m\u00e4\u00e4ns\u00e4 hallitsevien ihmisten kumppani. Vakuuttaminen on taitolaji.",
     "visual_markers": {
       "primary_color": "Kirkas pinkki",
       "secondary_colors": [
-        "Vihreä",
+        "Vihre\u00e4",
         "Musta",
         "Valkoinen"
       ],
       "style_keywords": [
         "Abstrakti",
         "Graafinen",
-        "Tech-yhtiömäinen",
+        "Tech-yhti\u00f6m\u00e4inen",
         "Moderni"
       ],
       "tone_keywords": [
         "Asiallinen",
         "Rohkaiseva",
-        "Eteenpäin katsova",
+        "Eteenp\u00e4in katsova",
         "Valmentaja"
       ]
     },
     "voice_characteristics": [
-      "Välttää uhkakuvilla mässäilyä",
-      "Korostaa elämän hallintaa",
-      "Enemmän valmentaja kuin lohduttaja"
+      "V\u00e4ltt\u00e4\u00e4 uhkakuvilla m\u00e4ss\u00e4ily\u00e4",
+      "Korostaa el\u00e4m\u00e4n hallintaa",
+      "Enemm\u00e4n valmentaja kuin lohduttaja"
     ]
   },
   "strategic_priorities": [
@@ -35,7 +35,7 @@
       "rank": 1,
       "priority": "Tulevaisuuden Fennia -transformaatio",
       "evidence": [
-        "Massiiviset investoinnit IT-järjestelmiin",
+        "Massiiviset investoinnit IT-j\u00e4rjestelmiin",
         "Kulttuurimuutos",
         "Tavoitteena vakuutusalan sujuvin arki"
       ],
@@ -43,19 +43,19 @@
     },
     {
       "rank": 2,
-      "priority": "Yrittäjyys keihäänkärkenä",
+      "priority": "Yritt\u00e4jyys keih\u00e4\u00e4nk\u00e4rken\u00e4",
       "evidence": [
-        "Historiallinen positio yrittäjien vakuutusyhtiönä",
-        "Markkinointiviestintä vahvasti B2B-painotteista",
-        "Yrittäjätarinat"
+        "Historiallinen positio yritt\u00e4jien vakuutusyhti\u00f6n\u00e4",
+        "Markkinointiviestint\u00e4 vahvasti B2B-painotteista",
+        "Yritt\u00e4j\u00e4tarinat"
       ],
       "execution_assessment": "strong"
     },
     {
       "rank": 3,
-      "priority": "Muotoilu (Design) strategisena erottuvuustekijänä",
+      "priority": "Muotoilu (Design) strategisena erottuvuustekij\u00e4n\u00e4",
       "evidence": [
-        "Yhteistyö Design Forum Finlandin kanssa",
+        "Yhteisty\u00f6 Design Forum Finlandin kanssa",
         "Radikaali visuaalinen ilme",
         "Puhe palvelumuotoilusta"
       ],
@@ -66,17 +66,17 @@
       "priority": "Henkivakuutusliiketoiminnan kasvu",
       "evidence": [
         "Fennia Henki on vakavarainen",
-        "Markkinoinnillisesti alisteinen emobrändille"
+        "Markkinoinnillisesti alisteinen emobr\u00e4ndille"
       ],
       "execution_assessment": "weak"
     }
   ],
   "marketing_posture": {
     "current_content_types": [
-      "TV-spotit (brändikuva)",
-      "Asiakastarinat (yrittäjät)",
+      "TV-spotit (br\u00e4ndikuva)",
+      "Asiakastarinat (yritt\u00e4j\u00e4t)",
       "Webinaaritallenteet",
-      "Näin toimit vahinkotilanteessa -animaatiot"
+      "N\u00e4in toimit vahinkotilanteessa -animaatiot"
     ],
     "channel_presence": {
       "youtube": {
@@ -85,34 +85,34 @@
       },
       "tiktok": {
         "active": false,
-        "assessment": "Ei merkittävää strategista läsnäoloa"
+        "assessment": "Ei merkitt\u00e4v\u00e4\u00e4 strategista l\u00e4sn\u00e4oloa"
       },
       "instagram": {
         "active": true,
-        "assessment": "Visuaalisesti tyylikäs mutta sisällöllisesti etäinen"
+        "assessment": "Visuaalisesti tyylik\u00e4s mutta sis\u00e4ll\u00f6llisesti et\u00e4inen"
       },
       "linkedin": {
         "active": true,
-        "assessment": "Vahva, osuu ydinyleisöön (yrittäjät/päättäjät)"
+        "assessment": "Vahva, osuu ydinyleis\u00f6\u00f6n (yritt\u00e4j\u00e4t/p\u00e4\u00e4tt\u00e4j\u00e4t)"
       }
     },
     "apparent_gaps": [
-      "Puuttuu hero-sisältö henkivakuutuksesta",
+      "Puuttuu hero-sis\u00e4lt\u00f6 henkivakuutuksesta",
       "Ei tunteisiin vetoavaa tarinankerrontaa",
-      "Sisältö on rationaalista ja toteavaa"
+      "Sis\u00e4lt\u00f6 on rationaalista ja toteavaa"
     ],
-    "audience_engagement": "B2B-sisällöt toimivat kohtuullisesti. Kuluttajapuolen sitoutuminen matalaa, sisältö koetaan mainosmaiseksi."
+    "audience_engagement": "B2B-sis\u00e4ll\u00f6t toimivat kohtuullisesti. Kuluttajapuolen sitoutuminen matalaa, sis\u00e4lt\u00f6 koetaan mainosmaiseksi."
   },
   "competitive_analysis": {
     "key_competitors": [
       {
-        "name": "LähiTapiola",
-        "content_strategy": "Elämänturva - inhimillinen, paikallinen ja maanläheinen",
+        "name": "L\u00e4hiTapiola",
+        "content_strategy": "El\u00e4m\u00e4nturva - inhimillinen, paikallinen ja maanl\u00e4heinen",
         "threat_level": "high"
       },
       {
-        "name": "Keskinäinen Vakuutusyhtiö Kaleva",
-        "content_strategy": "Liittoyhteistyöt ja hinta (Suomen edullisin)",
+        "name": "Keskin\u00e4inen Vakuutusyhti\u00f6 Kaleva",
+        "content_strategy": "Liittoyhteisty\u00f6t ja hinta (Suomen edullisin)",
         "threat_level": "high"
       },
       {
@@ -123,43 +123,43 @@
     ],
     "brand_winning_areas": [
       "Moderni, erottuva visuaalisuus",
-      "Yrittäjäsegmentin luottamus",
+      "Yritt\u00e4j\u00e4segmentin luottamus",
       "B2B-integraatiot"
     ],
     "brand_losing_areas": [
       "Emotionaalinen resonanssi",
       "Hintamielikuva",
       "Massojen tavoittaminen",
-      "Henkivakuutuksen inhimillistäminen"
+      "Henkivakuutuksen inhimillist\u00e4minen"
     ]
   },
   "strategic_tensions": [
     {
       "id": "tension_01",
-      "description": "Design-kuori vs. Verinen sisältö: Brändi on viileän tyylikäs, tuote vaatii lämpöä ja empatiaa.",
+      "description": "Design-kuori vs. Verinen sis\u00e4lt\u00f6: Br\u00e4ndi on viile\u00e4n tyylik\u00e4s, tuote vaatii l\u00e4mp\u00f6\u00e4 ja empatiaa.",
       "evidence": [
-        "Visuaalinen ilme abstrakti ja kirkasvärinen",
-        "Markkinointi välttää pelottelua, jolloin tarve jää epäselväksi"
+        "Visuaalinen ilme abstrakti ja kirkasv\u00e4rinen",
+        "Markkinointi v\u00e4ltt\u00e4\u00e4 pelottelua, jolloin tarve j\u00e4\u00e4 ep\u00e4selv\u00e4ksi"
       ],
       "opportunity_type": "gap",
       "priority_score": 5
     },
     {
       "id": "tension_02",
-      "description": "Yrittäjä-rooli vs. Ihminen-rooli: Puhutellaan ammattilaisena, vaikka päätös on henkilökohtainen ja emotionaalinen.",
+      "description": "Yritt\u00e4j\u00e4-rooli vs. Ihminen-rooli: Puhutellaan ammattilaisena, vaikka p\u00e4\u00e4t\u00f6s on henkil\u00f6kohtainen ja emotionaalinen.",
       "evidence": [
-        "Pääviestit korostavat yritystoiminnan jatkuvuutta",
-        "Sisältö puhuu hallinnasta, vaikka kuolema on hallinnan menetys"
+        "P\u00e4\u00e4viestit korostavat yritystoiminnan jatkuvuutta",
+        "Sis\u00e4lt\u00f6 puhuu hallinnasta, vaikka kuolema on hallinnan menetys"
       ],
       "opportunity_type": "underserved_audience",
       "priority_score": 5
     },
     {
       "id": "tension_03",
-      "description": "Rationaalinen ostaminen vs. Emotionaalinen tarve: Myydään taitolajina, ostetaan tunteella.",
+      "description": "Rationaalinen ostaminen vs. Emotionaalinen tarve: Myyd\u00e4\u00e4n taitolajina, ostetaan tunteella.",
       "evidence": [
-        "Videosisällöt graafisia animaatioita ilman draaman kaarta",
-        "Kilpailija LähiTapiola omistaa tunnetason Elämänturva-konseptilla"
+        "Videosis\u00e4ll\u00f6t graafisia animaatioita ilman draaman kaarta",
+        "Kilpailija L\u00e4hiTapiola omistaa tunnetason El\u00e4m\u00e4nturva-konseptilla"
       ],
       "opportunity_type": "threat",
       "priority_score": 4
@@ -168,20 +168,20 @@
   "opportunity_zones": [
     {
       "id": "opp_01",
-      "description": "The Off-Duty Entrepreneur (Yrittäjä vapaalla)",
-      "rationale": "Hyödyntää yrittäjäpositiota mutta kääntää kulman inhimilliseen: Pärjääkö perheesi, kun riisut yrittäjäpanssarin?",
+      "description": "The Off-Duty Entrepreneur (Yritt\u00e4j\u00e4 vapaalla)",
+      "rationale": "Hy\u00f6dynt\u00e4\u00e4 yritt\u00e4j\u00e4positiota mutta k\u00e4\u00e4nt\u00e4\u00e4 kulman inhimilliseen: P\u00e4rj\u00e4\u00e4k\u00f6 perheesi, kun riisut yritt\u00e4j\u00e4panssarin?",
       "risk_level": "low"
     },
     {
       "id": "opp_02",
       "description": "Visuaalinen empatia",
-      "rationale": "Käytetään graafista voimaa kuvaamaan elämän säröjä ja tunteita ilman kliseistä kuvapankkimateriaalia.",
+      "rationale": "K\u00e4ytet\u00e4\u00e4n graafista voimaa kuvaamaan el\u00e4m\u00e4n s\u00e4r\u00f6j\u00e4 ja tunteita ilman kliseist\u00e4 kuvapankkimateriaalia.",
       "risk_level": "high"
     },
     {
       "id": "opp_03",
-      "description": "Äänetön tarinankerronta (Silent Impact)",
-      "rationale": "Lyhyet, visuaalisesti hypnoottiset videot some-feedeihin, jotka toimivat ilman ääntä.",
+      "description": "\u00c4\u00e4net\u00f6n tarinankerronta (Silent Impact)",
+      "rationale": "Lyhyet, visuaalisesti hypnoottiset videot some-feedeihin, jotka toimivat ilman \u00e4\u00e4nt\u00e4.",
       "risk_level": "medium"
     }
   ],
@@ -194,7 +194,7 @@
       "relevance": "Primary source for strategic priorities"
     },
     {
-      "title": "Fennia Brändiuudistus 2022",
+      "title": "Fennia Br\u00e4ndiuudistus 2022",
       "url": "https://www.markkinointiuutiset.fi",
       "type": "news",
       "date_accessed": "2023-10-27",
@@ -208,7 +208,7 @@
       "relevance": "Financial backing for life insurance status"
     },
     {
-      "title": "Kilpailijavertailu (Kaleva, LähiTapiola)",
+      "title": "Kilpailijavertailu (Kaleva, L\u00e4hiTapiola)",
       "url": "https://www.lahitapiola.fi",
       "type": "other",
       "date_accessed": "2023-10-27",
