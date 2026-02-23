@@ -16,6 +16,9 @@
 - [Concept 03](concepts/concept_03.md)
 
 ## Treatments
+- [vakuutusyhti_fennia_TREATMENT_01_20260223_095858.md](treatments/vakuutusyhti_fennia_TREATMENT_01_20260223_095858.md)
+- [vakuutusyhti_fennia_TREATMENT_02_20260223_100131.md](treatments/vakuutusyhti_fennia_TREATMENT_02_20260223_100131.md)
+- [vakuutusyhti_fennia_TREATMENT_03_20260223_100350.md](treatments/vakuutusyhti_fennia_TREATMENT_03_20260223_100350.md)
 
 ## One-Pagers
 - [One-Pager 01](onepagers/concept_01.png)
