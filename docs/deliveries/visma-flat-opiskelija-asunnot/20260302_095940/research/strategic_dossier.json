@@ -13,20 +13,20 @@
         "Nordic Cool",
         "Minimalistinen",
         "Funktionaalinen",
-        "Käyttöliittymäkeskeinen"
+        "K\u00e4ytt\u00f6liittym\u00e4keskeinen"
       ],
       "tone_keywords": [
         "Pragmaattinen",
         "Suora",
-        "Läpinäkyvä",
+        "L\u00e4pin\u00e4kyv\u00e4",
         "Tehokas",
         "Luotettava"
       ]
     },
     "voice_characteristics": [
       "Aikuisena huoneessa",
-      "Välttää korporaatiojargonia",
-      "Ei yritä puhua nuorisokieltä",
+      "V\u00e4ltt\u00e4\u00e4 korporaatiojargonia",
+      "Ei yrit\u00e4 puhua nuorisokielt\u00e4",
       "Viestii tehokkuutta"
     ]
   },
@@ -36,7 +36,7 @@
       "priority": "Markkinan digitalisointi (Disruption of Friction)",
       "evidence": [
         "Visman ydinosaaminen prosessiautomaatiossa (Visma Sign, Payroll)",
-        "Kohderyhmän vaatimus: 'Jos sitä ei voi tehdä puhelimella, se on rikki'"
+        "Kohderyhm\u00e4n vaatimus: 'Jos sit\u00e4 ei voi tehd\u00e4 puhelimella, se on rikki'"
       ],
       "execution_assessment": "strong"
     },
@@ -44,16 +44,16 @@
       "rank": 2,
       "priority": "Luottamuksen rakentaminen (Trust at Scale)",
       "evidence": [
-        "Yksityisten markkinoiden (Tori.fi) huijaukset ja epävarmuus",
-        "Visman brändi on vakiintunut ja 'tylsän turvallinen'"
+        "Yksityisten markkinoiden (Tori.fi) huijaukset ja ep\u00e4varmuus",
+        "Visman br\u00e4ndi on vakiintunut ja 'tyls\u00e4n turvallinen'"
       ],
       "execution_assessment": "strong"
     },
     {
       "rank": 3,
-      "priority": "Ekosysteemin hyödyntäminen (Cross-Pollination)",
+      "priority": "Ekosysteemin hy\u00f6dynt\u00e4minen (Cross-Pollination)",
       "evidence": [
-        "Visma omistaa taustajärjestelmät (Tampuuri, Hausvise)",
+        "Visma omistaa taustaj\u00e4rjestelm\u00e4t (Tampuuri, Hausvise)",
         "Mahdollisuus 'Housing as a Service' -malliin"
       ],
       "execution_assessment": "moderate"
@@ -69,26 +69,26 @@
     "channel_presence": {
       "youtube": {
         "active": false,
-        "assessment": "Ei mainittu erikseen, oletettavasti osa B2B-sisältöä tai heikko"
+        "assessment": "Ei mainittu erikseen, oletettavasti osa B2B-sis\u00e4lt\u00f6\u00e4 tai heikko"
       },
       "tiktok": {
         "active": false,
-        "assessment": "Ei läsnäoloa / Heikko. Kriittinen aukko Gen Z -kohderyhmässä"
+        "assessment": "Ei l\u00e4sn\u00e4oloa / Heikko. Kriittinen aukko Gen Z -kohderyhm\u00e4ss\u00e4"
       },
       "instagram": {
         "active": false,
-        "assessment": "Ei läsnäoloa / Heikko (Reels)"
+        "assessment": "Ei l\u00e4sn\u00e4oloa / Heikko (Reels)"
       },
       "linkedin": {
         "active": true,
-        "assessment": "Aktiivinen / Korkea laatu (B2B-kohderyhmä)"
+        "assessment": "Aktiivinen / Korkea laatu (B2B-kohderyhm\u00e4)"
       }
     },
     "apparent_gaps": [
-      "Puuttuu kanavista, joissa opiskelijat viettävät aikaansa (TikTok, Jodel)",
-      "Brändi on 'faijan työpaikka', ei relevantti kuluttajabrändi"
+      "Puuttuu kanavista, joissa opiskelijat viett\u00e4v\u00e4t aikaansa (TikTok, Jodel)",
+      "Br\u00e4ndi on 'faijan ty\u00f6paikka', ei relevantti kuluttajabr\u00e4ndi"
     ],
-    "audience_engagement": "Rajoittuu ammattilaisyleisöön. Opiskelijoiden keskuudessa brändi on etäinen tai tuntematon."
+    "audience_engagement": "Rajoittuu ammattilaisyleis\u00f6\u00f6n. Opiskelijoiden keskuudessa br\u00e4ndi on et\u00e4inen tai tuntematon."
   },
   "competitive_analysis": {
     "key_competitors": [
@@ -98,32 +98,32 @@
         "threat_level": "low"
       },
       {
-        "name": "Yksityinen 'Villi Länsi' (Tori.fi, FB-ryhmät)",
+        "name": "Yksityinen 'Villi L\u00e4nsi' (Tori.fi, FB-ryhm\u00e4t)",
         "content_strategy": "Nopeus ja laaja valikoima",
         "threat_level": "medium"
       },
       {
         "name": "Lifestyle-operaattorit (Noli Studios)",
-        "content_strategy": "Brändi ja helppous",
+        "content_strategy": "Br\u00e4ndi ja helppous",
         "threat_level": "low"
       }
     ],
     "brand_winning_areas": [
-      "Prosessin sujuvuus ('Avaimet käteen' digitaalisesti)",
+      "Prosessin sujuvuus ('Avaimet k\u00e4teen' digitaalisesti)",
       "Turvallisuus (Luotettava korporaatio vs. huijarit)"
     ],
     "brand_losing_areas": [
       "Hinta (Ei pysty kilpailemaan subventoitujen hintojen kanssa)",
-      "Tunneside (Tekninen ja kylmä vs. yhteisöllinen)"
+      "Tunneside (Tekninen ja kylm\u00e4 vs. yhteis\u00f6llinen)"
     ]
   },
   "strategic_tensions": [
     {
       "id": "tension_01",
-      "description": "Corporate Efficiency vs. Student Chaos: Visma edustaa järjestystä, opiskelijaelämä kaaosta.",
+      "description": "Corporate Efficiency vs. Student Chaos: Visma edustaa j\u00e4rjestyst\u00e4, opiskelijael\u00e4m\u00e4 kaaosta.",
       "evidence": [
-        "Visman ydin on tylsä prosessien hallinta",
-        "Opiskelijat haluavat keskittyä elämään, eivät paperitöihin"
+        "Visman ydin on tyls\u00e4 prosessien hallinta",
+        "Opiskelijat haluavat keskitty\u00e4 el\u00e4m\u00e4\u00e4n, eiv\u00e4t paperit\u00f6ihin"
       ],
       "opportunity_type": "gap",
       "priority_score": 5
@@ -133,17 +133,17 @@
       "description": "'Koti' vs. 'SaaS-palvelu': Koti on tunneasia, mutta Visma Flat tuotteistaa sen ohjelmistomaiseksi palveluksi.",
       "evidence": [
         "Gen Z on tottunut tilaamaan kaiken palveluna",
-        "Perinteinen asuminen nähdään raskaana sitoumuksena"
+        "Perinteinen asuminen n\u00e4hd\u00e4\u00e4n raskaana sitoumuksena"
       ],
       "opportunity_type": "underserved_audience",
       "priority_score": 4
     },
     {
       "id": "tension_03",
-      "description": "Unelma vs. Radikaali rehellisyys: Kilpailijat myyvät epärealistista yhteisöllisyyttä, Visma lupaa toimivan prosessin.",
+      "description": "Unelma vs. Radikaali rehellisyys: Kilpailijat myyv\u00e4t ep\u00e4realistista yhteis\u00f6llisyytt\u00e4, Visma lupaa toimivan prosessin.",
       "evidence": [
         "Markkinointikuvasto on usein valheellista",
-        "Opiskelijan arki on usein yksinäistä ja stressaavaa"
+        "Opiskelijan arki on usein yksin\u00e4ist\u00e4 ja stressaavaa"
       ],
       "opportunity_type": "threat",
       "priority_score": 3
@@ -159,7 +159,7 @@
     {
       "id": "opp_02",
       "description": "'Adulting' huijauskoodina (Cheat Code to Life)",
-      "rationale": "Puhuttelee suoraan itsenäistyvän nuoren epävarmuutta ja halua helppouteen.",
+      "rationale": "Puhuttelee suoraan itsen\u00e4istyv\u00e4n nuoren ep\u00e4varmuutta ja halua helppouteen.",
       "risk_level": "medium"
     },
     {
@@ -175,7 +175,7 @@
       "url": "https://visma.fi",
       "type": "company_site",
       "date_accessed": "2026-03-02",
-      "relevance": "Tietoa Visman brändistä, palveluista ja viestinnästä"
+      "relevance": "Tietoa Visman br\u00e4ndist\u00e4, palveluista ja viestinn\u00e4st\u00e4"
     },
     {
       "title": "Kilpailijasivustot (Sato, Hoas ym.)",
@@ -203,7 +203,7 @@
       "url": "internal://research-bot",
       "type": "report",
       "date_accessed": "2026-03-02",
-      "relevance": "Ensisijainen lähde analyysille"
+      "relevance": "Ensisijainen l\u00e4hde analyysille"
     }
   ]
 }
