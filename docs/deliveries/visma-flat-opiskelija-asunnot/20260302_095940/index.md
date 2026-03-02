@@ -16,6 +16,9 @@
 - [Concept 03](concepts/concept_03.md)
 
 ## Treatments
+- [visma_flat_-opiskelija-asunnot_TREATMENT_01_20260302_100828.md](treatments/visma_flat_-opiskelija-asunnot_TREATMENT_01_20260302_100828.md)
+- [visma_flat_-opiskelija-asunnot_TREATMENT_02_20260302_101024.md](treatments/visma_flat_-opiskelija-asunnot_TREATMENT_02_20260302_101024.md)
+- [visma_flat_-opiskelija-asunnot_TREATMENT_03_20260302_101228.md](treatments/visma_flat_-opiskelija-asunnot_TREATMENT_03_20260302_101228.md)
 
 ## One-Pagers
 - [One-Pager 01](onepagers/concept_01.png)
