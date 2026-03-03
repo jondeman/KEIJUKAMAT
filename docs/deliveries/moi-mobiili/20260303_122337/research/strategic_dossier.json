@@ -26,17 +26,17 @@
       "Suorapuheinen",
       "Humoristinen",
       "Kuluttajan puolella",
-      "Ärsykevoimainen",
+      "\u00c4rsykevoimainen",
       "Toistava"
     ]
   },
   "strategic_priorities": [
     {
       "rank": 1,
-      "priority": "5G-siirtymän kiihdyttäminen ja ARPU:n kasvattaminen",
+      "priority": "5G-siirtym\u00e4n kiihdytt\u00e4minen ja ARPU:n kasvattaminen",
       "evidence": [
         "Kampanjat korostavat nopeutta ja kattavuutta (DNA:n verkko)",
-        "Siirtymä halvimmasta datasta laatuun"
+        "Siirtym\u00e4 halvimmasta datasta laatuun"
       ],
       "execution_assessment": "strong"
     },
@@ -44,8 +44,8 @@
       "rank": 2,
       "priority": "Asiakaspysyvyys 'Mun Moi' -ekosysteemin kautta",
       "evidence": [
-        "Strateginen painotus liittymän hallinnan helppoudessa",
-        "Sovelluskehitys asiakaskokemuksen ytimessä"
+        "Strateginen painotus liittym\u00e4n hallinnan helppoudessa",
+        "Sovelluskehitys asiakaskokemuksen ytimess\u00e4"
       ],
       "execution_assessment": "strong"
     },
@@ -54,7 +54,7 @@
       "priority": "B2B-markkinan valtaus (Moi Yrityksille)",
       "evidence": [
         "Moi Yrityksille -lanseeraus",
-        "Markkinointipanostukset 2023–2024"
+        "Markkinointipanostukset 2023\u20132024"
       ],
       "execution_assessment": "moderate"
     },
@@ -62,8 +62,8 @@
       "rank": 4,
       "priority": "Hinta-laatu-mielikuvan puolustaminen inflaatiossa",
       "evidence": [
-        "Viestintä 'turhasta maksamista' vastaan",
-        "Markkinan järkevin valinta -positio"
+        "Viestint\u00e4 'turhasta maksamista' vastaan",
+        "Markkinan j\u00e4rkevin valinta -positio"
       ],
       "execution_assessment": "moderate"
     }
@@ -72,12 +72,12 @@
     "current_content_types": [
       "Lyhyet, toistoon perustuvat TV-spotit ja videoklipit",
       "Taktinen digimainonta (konversiohakuinen)",
-      "Asiakaspalvelulähtöiset sosiaalisen median päivitykset"
+      "Asiakaspalvelul\u00e4ht\u00f6iset sosiaalisen median p\u00e4ivitykset"
     ],
     "channel_presence": {
       "youtube": {
         "active": false,
-        "assessment": "Passiivinen/Arkisto. Toimii TV-mainosten varastona, ei itsenäistä sisältöstrategiaa."
+        "assessment": "Passiivinen/Arkisto. Toimii TV-mainosten varastona, ei itsen\u00e4ist\u00e4 sis\u00e4lt\u00f6strategiaa."
       },
       "tiktok": {
         "active": true,
@@ -85,38 +85,38 @@
       },
       "instagram": {
         "active": true,
-        "assessment": "Aktiivinen. Visuaalisesti yhtenäinen, mutta sisältö usein staattista tai tarjousvetoista."
+        "assessment": "Aktiivinen. Visuaalisesti yhten\u00e4inen, mutta sis\u00e4lt\u00f6 usein staattista tai tarjousvetoista."
       },
       "linkedin": {
         "active": false,
-        "assessment": "Ei eritelty aktiiviseksi kanavaksi kuluttajamarkkinoinnin analyysissä, vaikka B2B on prioriteetti."
+        "assessment": "Ei eritelty aktiiviseksi kanavaksi kuluttajamarkkinoinnin analyysiss\u00e4, vaikka B2B on prioriteetti."
       }
     },
     "apparent_gaps": [
-      "Tarinallisen ja pidemmän sisällön puute",
-      "Kasvottomuus – puuttuvat inhimilliset samaistumispinnat"
+      "Tarinallisen ja pidemm\u00e4n sis\u00e4ll\u00f6n puute",
+      "Kasvottomuus \u2013 puuttuvat inhimilliset samaistumispinnat"
     ],
-    "audience_engagement": "Polarisoitunut: Korkea tunnettuus mutta mainonta koetaan ärsyttäväksi. Sitoutuminen transaktionaalista."
+    "audience_engagement": "Polarisoitunut: Korkea tunnettuus mutta mainonta koetaan \u00e4rsytt\u00e4v\u00e4ksi. Sitoutuminen transaktionaalista."
   },
   "competitive_analysis": {
     "key_competitors": [
       {
         "name": "Elisa & Telia",
-        "content_strategy": "Laaja ekosysteemi, massiivinen mediapreesenssi, lifestyle-sisällöt",
+        "content_strategy": "Laaja ekosysteemi, massiivinen mediapreesenssi, lifestyle-sis\u00e4ll\u00f6t",
         "threat_level": "high"
       },
       {
         "name": "DNA",
-        "content_strategy": "'Elämä on' -perintö, laite- ja viihdemyynti",
+        "content_strategy": "'El\u00e4m\u00e4 on' -perint\u00f6, laite- ja viihdemyynti",
         "threat_level": "medium"
       }
     ],
     "brand_winning_areas": [
-      "Selkeys ja läpinäkyvyys (ei piilokuluja)",
+      "Selkeys ja l\u00e4pin\u00e4kyvyys (ei piilokuluja)",
       "Digitaalinen asiointi (Mun Moi -sovellus)"
     ],
     "brand_losing_areas": [
-      "Palvelun laajuus (ei laitemyyntiä/viihdepaketteja)",
+      "Palvelun laajuus (ei laitemyynti\u00e4/viihdepaketteja)",
       "Emotionaalinen syvyys"
     ]
   },
@@ -133,10 +133,10 @@
     },
     {
       "id": "tension_02",
-      "description": "Huomioarvo vs. Syventäminen: Markkinointi on huutamista, joka ei rakenna asiantuntijuutta.",
+      "description": "Huomioarvo vs. Syvent\u00e4minen: Markkinointi on huutamista, joka ei rakenna asiantuntijuutta.",
       "evidence": [
         "Korkea tunnettuus 'Moi'-huudon ansiosta",
-        "Sisällöt mainosarkistoja ilman arvoa",
+        "Sis\u00e4ll\u00f6t mainosarkistoja ilman arvoa",
         "B2B vaatii uskottavuutta jota huutaminen ei tuo"
       ],
       "opportunity_type": "aspiration",
@@ -144,10 +144,10 @@
     },
     {
       "id": "tension_03",
-      "description": "Digitaalinen erinomaisuus vs. Inhimillinen tyhjiö: Teknisesti kitkaton, mutta sieluton.",
+      "description": "Digitaalinen erinomaisuus vs. Inhimillinen tyhji\u00f6: Teknisesti kitkaton, mutta sieluton.",
       "evidence": [
-        "Viestintä lakonista ja graafista",
-        "Puuttuu tarinat ihmisistä teknologian takana"
+        "Viestint\u00e4 lakonista ja graafista",
+        "Puuttuu tarinat ihmisist\u00e4 teknologian takana"
       ],
       "opportunity_type": "underserved_audience",
       "priority_score": 3
@@ -156,7 +156,7 @@
       "id": "tension_04",
       "description": "Kapinallinen identiteetti vs. Korporaatio-omistus: Haastaja-asema vs. DNA-omistus.",
       "evidence": [
-        "Brändipersoona: Röyhkeä haastaja",
+        "Br\u00e4ndipersoona: R\u00f6yhke\u00e4 haastaja",
         "Omistuspohja: DNA Oyj"
       ],
       "opportunity_type": "threat",
@@ -166,8 +166,8 @@
   "opportunity_zones": [
     {
       "id": "opp_01",
-      "description": "Asiantuntijuuden inhimillistäminen ('Tech with a Face')",
-      "rationale": "Ratkaisee tension_02:n selittämällä 5G:n hyödyt kansantajuisesti. Rakentaa luottamusta ja perustelee ARPUa.",
+      "description": "Asiantuntijuuden inhimillist\u00e4minen ('Tech with a Face')",
+      "rationale": "Ratkaisee tension_02:n selitt\u00e4m\u00e4ll\u00e4 5G:n hy\u00f6dyt kansantajuisesti. Rakentaa luottamusta ja perustelee ARPUa.",
       "risk_level": "low"
     },
     {
@@ -183,7 +183,7 @@
       "url": "N/A",
       "type": "report",
       "date_accessed": "2023-10-27",
-      "relevance": "Ensisijainen lähde kaikelle analyysille."
+      "relevance": "Ensisijainen l\u00e4hde kaikelle analyysille."
     },
     {
       "title": "Moi Mobiili: Vuosikertomukset (2022-2024)",
@@ -193,7 +193,7 @@
       "relevance": "Strategisten prioriteettien vahvistaminen."
     },
     {
-      "title": "Moi Mobiili: Lehdistötiedotteet (2022-2024)",
+      "title": "Moi Mobiili: Lehdist\u00f6tiedotteet (2022-2024)",
       "url": "https://www.moimobiili.fi",
       "type": "company_site",
       "date_accessed": "2023-10-27",
@@ -204,14 +204,14 @@
       "url": "N/A",
       "type": "report",
       "date_accessed": "2023-10-27",
-      "relevance": "Markkinointipostuurin ja ärsykevoiman analyysi."
+      "relevance": "Markkinointipostuurin ja \u00e4rsykevoiman analyysi."
     },
     {
-      "title": "DNA Oyj:n sijoittajaviestintä",
+      "title": "DNA Oyj:n sijoittajaviestint\u00e4",
       "url": "https://www.dna.fi/sijoittajat",
       "type": "other",
       "date_accessed": "2023-10-27",
-      "relevance": "Omistuspohjan ja konsernistrategian ymmärtäminen."
+      "relevance": "Omistuspohjan ja konsernistrategian ymm\u00e4rt\u00e4minen."
     }
   ]
 }
