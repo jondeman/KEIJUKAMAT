@@ -16,6 +16,9 @@
 - [Concept 03](concepts/concept_03.md)
 
 ## Treatments
+- [visma_flat_TREATMENT_01_20260303_114331.md](treatments/visma_flat_TREATMENT_01_20260303_114331.md)
+- [visma_flat_TREATMENT_02_20260303_114519.md](treatments/visma_flat_TREATMENT_02_20260303_114519.md)
+- [visma_flat_TREATMENT_03_20260303_114724.md](treatments/visma_flat_TREATMENT_03_20260303_114724.md)
 
 ## One-Pagers
 - [One-Pager 01](onepagers/concept_01.png)
