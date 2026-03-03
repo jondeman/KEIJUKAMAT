@@ -1,0 +1,1 @@
+[{"timestamp": "2026-03-03T11:34:19.352814", "level": "INFO", "event": "Producer initialized", "run_id": "20260303_113419", "company": "Visma Flat"}, {"timestamp": "2026-03-03T11:34:19.353915", "level": "INFO", "event": "Starting pipeline run", "run_id": "20260303_113419"}, {"timestamp": "2026-03-03T11:34:19.355592", "level": "DEBUG", "event": "Bots initialized"}]
