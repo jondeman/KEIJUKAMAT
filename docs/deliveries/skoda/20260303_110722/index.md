@@ -16,6 +16,9 @@
 - [Concept 03](concepts/concept_03.md)
 
 ## Treatments
+- [skoda_TREATMENT_01_20260303_111329.md](treatments/skoda_TREATMENT_01_20260303_111329.md)
+- [skoda_TREATMENT_02_20260303_111524.md](treatments/skoda_TREATMENT_02_20260303_111524.md)
+- [skoda_TREATMENT_03_20260303_111708.md](treatments/skoda_TREATMENT_03_20260303_111708.md)
 
 ## One-Pagers
 - [One-Pager 01](onepagers/concept_01.png)
