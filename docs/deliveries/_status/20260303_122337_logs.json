@@ -1,0 +1,1 @@
+[{"timestamp": "2026-03-03T12:23:37.381730", "level": "INFO", "event": "Producer initialized", "run_id": "20260303_122337", "company": "Moi Mobiili"}, {"timestamp": "2026-03-03T12:23:37.382384", "level": "INFO", "event": "Starting pipeline run", "run_id": "20260303_122337"}, {"timestamp": "2026-03-03T12:23:37.383190", "level": "DEBUG", "event": "Bots initialized"}]
