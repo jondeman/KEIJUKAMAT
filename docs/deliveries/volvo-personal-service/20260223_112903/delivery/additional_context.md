@@ -1,3 +1,0 @@
-# Lisähuomiot (käyttäjän antama)
-
-Haluan että KAIKISSA konsepteissa hyödynnetään genAI:lla toteutettuja videoita, joiden avulla esitellään Volvon huollon näkökulmasta Pro Tips autoilijoille: mitkä on yksinkertaiset huoltotoimenpiteet jotka jokaisen autoilijan tulee tietää ja tuntea? Miten voi pitää omasta autosta huolta? Mieti sellaisia aiheita ja sellaista approach, että sosiaalisessa mediassa voisi jakaa näitä sisältöjä ja niillä herättää Volvon huollon asiakkaiden huomiota.
