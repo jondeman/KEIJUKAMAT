@@ -16,6 +16,9 @@
 - [Concept 03](concepts/concept_03.md)
 
 ## Treatments
+- [viking_line_TREATMENT_01_20260303_172735.md](treatments/viking_line_TREATMENT_01_20260303_172735.md)
+- [viking_line_TREATMENT_02_20260303_172931.md](treatments/viking_line_TREATMENT_02_20260303_172931.md)
+- [viking_line_TREATMENT_03_20260303_173132.md](treatments/viking_line_TREATMENT_03_20260303_173132.md)
 
 ## One-Pagers
 - [One-Pager 01](onepagers/concept_01.png)
