@@ -1,0 +1,217 @@
+{
+  "company_name": "Moi Mobiili",
+  "company_slug": "moi-mobiili",
+  "generated_at": "2026-03-03T12:26:23.807088",
+  "brand_identity": {
+    "positioning": "Rehellinen haastaja (Challenger Brand). Moi on simmi.",
+    "visual_markers": {
+      "primary_color": "Magentanpunainen/Pinkki",
+      "secondary_colors": [
+        "Valkoinen",
+        "Musta"
+      ],
+      "style_keywords": [
+        "Minimalistinen",
+        "Graafinen",
+        "Riisuttu",
+        "Lihava typografia"
+      ],
+      "tone_keywords": [
+        "Moderni",
+        "Digitaalinen"
+      ]
+    },
+    "voice_characteristics": [
+      "Lakoninen",
+      "Suorapuheinen",
+      "Humoristinen",
+      "Kuluttajan puolella",
+      "Ärsykevoimainen",
+      "Toistava"
+    ]
+  },
+  "strategic_priorities": [
+    {
+      "rank": 1,
+      "priority": "5G-siirtymän kiihdyttäminen ja ARPU:n kasvattaminen",
+      "evidence": [
+        "Kampanjat korostavat nopeutta ja kattavuutta (DNA:n verkko)",
+        "Siirtymä halvimmasta datasta laatuun"
+      ],
+      "execution_assessment": "strong"
+    },
+    {
+      "rank": 2,
+      "priority": "Asiakaspysyvyys 'Mun Moi' -ekosysteemin kautta",
+      "evidence": [
+        "Strateginen painotus liittymän hallinnan helppoudessa",
+        "Sovelluskehitys asiakaskokemuksen ytimessä"
+      ],
+      "execution_assessment": "strong"
+    },
+    {
+      "rank": 3,
+      "priority": "B2B-markkinan valtaus (Moi Yrityksille)",
+      "evidence": [
+        "Moi Yrityksille -lanseeraus",
+        "Markkinointipanostukset 2023–2024"
+      ],
+      "execution_assessment": "moderate"
+    },
+    {
+      "rank": 4,
+      "priority": "Hinta-laatu-mielikuvan puolustaminen inflaatiossa",
+      "evidence": [
+        "Viestintä 'turhasta maksamista' vastaan",
+        "Markkinan järkevin valinta -positio"
+      ],
+      "execution_assessment": "moderate"
+    }
+  ],
+  "marketing_posture": {
+    "current_content_types": [
+      "Lyhyet, toistoon perustuvat TV-spotit ja videoklipit",
+      "Taktinen digimainonta (konversiohakuinen)",
+      "Asiakaspalvelulähtöiset sosiaalisen median päivitykset"
+    ],
+    "channel_presence": {
+      "youtube": {
+        "active": false,
+        "assessment": "Passiivinen/Arkisto. Toimii TV-mainosten varastona, ei itsenäistä sisältöstrategiaa."
+      },
+      "tiktok": {
+        "active": true,
+        "assessment": "Kokeileva. Satunnaisia kampanjoita, ei jatkuvaa orgaanista tarinankerrontaa."
+      },
+      "instagram": {
+        "active": true,
+        "assessment": "Aktiivinen. Visuaalisesti yhtenäinen, mutta sisältö usein staattista tai tarjousvetoista."
+      },
+      "linkedin": {
+        "active": false,
+        "assessment": "Ei eritelty aktiiviseksi kanavaksi kuluttajamarkkinoinnin analyysissä, vaikka B2B on prioriteetti."
+      }
+    },
+    "apparent_gaps": [
+      "Tarinallisen ja pidemmän sisällön puute",
+      "Kasvottomuus – puuttuvat inhimilliset samaistumispinnat"
+    ],
+    "audience_engagement": "Polarisoitunut: Korkea tunnettuus mutta mainonta koetaan ärsyttäväksi. Sitoutuminen transaktionaalista."
+  },
+  "competitive_analysis": {
+    "key_competitors": [
+      {
+        "name": "Elisa & Telia",
+        "content_strategy": "Laaja ekosysteemi, massiivinen mediapreesenssi, lifestyle-sisällöt",
+        "threat_level": "high"
+      },
+      {
+        "name": "DNA",
+        "content_strategy": "'Elämä on' -perintö, laite- ja viihdemyynti",
+        "threat_level": "medium"
+      }
+    ],
+    "brand_winning_areas": [
+      "Selkeys ja läpinäkyvyys (ei piilokuluja)",
+      "Digitaalinen asiointi (Mun Moi -sovellus)"
+    ],
+    "brand_losing_areas": [
+      "Palvelun laajuus (ei laitemyyntiä/viihdepaketteja)",
+      "Emotionaalinen syvyys"
+    ]
+  },
+  "strategic_tensions": [
+    {
+      "id": "tension_01",
+      "description": "Yksinkertaisuuden paradoksi: Moi lupaa olla 'vain simmi', mutta 5G ja B2B monimutkaistavat tuotetta.",
+      "evidence": [
+        "Ydinlupaus yksinkertaisuudesta vs. 5G-nopeusluokat",
+        "B2B-hallintapaneelien tarve"
+      ],
+      "opportunity_type": "gap",
+      "priority_score": 5
+    },
+    {
+      "id": "tension_02",
+      "description": "Huomioarvo vs. Syventäminen: Markkinointi on huutamista, joka ei rakenna asiantuntijuutta.",
+      "evidence": [
+        "Korkea tunnettuus 'Moi'-huudon ansiosta",
+        "Sisällöt mainosarkistoja ilman arvoa",
+        "B2B vaatii uskottavuutta jota huutaminen ei tuo"
+      ],
+      "opportunity_type": "aspiration",
+      "priority_score": 4
+    },
+    {
+      "id": "tension_03",
+      "description": "Digitaalinen erinomaisuus vs. Inhimillinen tyhjiö: Teknisesti kitkaton, mutta sieluton.",
+      "evidence": [
+        "Viestintä lakonista ja graafista",
+        "Puuttuu tarinat ihmisistä teknologian takana"
+      ],
+      "opportunity_type": "underserved_audience",
+      "priority_score": 3
+    },
+    {
+      "id": "tension_04",
+      "description": "Kapinallinen identiteetti vs. Korporaatio-omistus: Haastaja-asema vs. DNA-omistus.",
+      "evidence": [
+        "Brändipersoona: Röyhkeä haastaja",
+        "Omistuspohja: DNA Oyj"
+      ],
+      "opportunity_type": "threat",
+      "priority_score": 3
+    }
+  ],
+  "opportunity_zones": [
+    {
+      "id": "opp_01",
+      "description": "Asiantuntijuuden inhimillistäminen ('Tech with a Face')",
+      "rationale": "Ratkaisee tension_02:n selittämällä 5G:n hyödyt kansantajuisesti. Rakentaa luottamusta ja perustelee ARPUa.",
+      "risk_level": "low"
+    },
+    {
+      "id": "opp_02",
+      "description": "B2B-maailman 'Moi-fiointi'",
+      "rationale": "Ratkaisee tension_01:n tuomalla kuluttajapuolen rentouden yritysmarkkinaan. Erottautuu kankeista kilpailijoista.",
+      "risk_level": "medium"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Strateginen taustaraportti: Moi Mobiili",
+      "url": "N/A",
+      "type": "report",
+      "date_accessed": "2023-10-27",
+      "relevance": "Ensisijainen lähde kaikelle analyysille."
+    },
+    {
+      "title": "Moi Mobiili: Vuosikertomukset (2022-2024)",
+      "url": "https://www.moimobiili.fi",
+      "type": "report",
+      "date_accessed": "2023-10-27",
+      "relevance": "Strategisten prioriteettien vahvistaminen."
+    },
+    {
+      "title": "Moi Mobiili: Lehdistötiedotteet (2022-2024)",
+      "url": "https://www.moimobiili.fi",
+      "type": "company_site",
+      "date_accessed": "2023-10-27",
+      "relevance": "Tuotelanseeraukset ja B2B-uutisointi."
+    },
+    {
+      "title": "Mainostajien liitto: Kampanja-analyysit",
+      "url": "N/A",
+      "type": "report",
+      "date_accessed": "2023-10-27",
+      "relevance": "Markkinointipostuurin ja ärsykevoiman analyysi."
+    },
+    {
+      "title": "DNA Oyj:n sijoittajaviestintä",
+      "url": "https://www.dna.fi/sijoittajat",
+      "type": "other",
+      "date_accessed": "2023-10-27",
+      "relevance": "Omistuspohjan ja konsernistrategian ymmärtäminen."
+    }
+  ]
+}
