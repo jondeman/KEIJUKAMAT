@@ -1,0 +1,234 @@
+{
+  "company_name": "DNA Finland",
+  "company_slug": "dna-finland",
+  "generated_at": "2026-03-04T08:16:58.102866",
+  "brand_identity": {
+    "positioning": "Inhimillinen, mutkaton ja kansanomainen operaattori. Ydinlupaus 'Elämä on' juhlistaa elämän rosoisuutta ja monimuotoisuutta vastakohtana tekniselle etäisyydelle.",
+    "visual_markers": {
+      "primary_color": "Dominoiva pinkki",
+      "secondary_colors": [
+        "Valkoinen",
+        "Musta"
+      ],
+      "style_keywords": [
+        "Pelkistetty kuvamaailma",
+        "Selkeä typografia (DNA Sans)",
+        "Moderni"
+      ],
+      "tone_keywords": [
+        "Arkirealistinen",
+        "Viimeistelty",
+        "Energinen"
+      ]
+    },
+    "voice_characteristics": [
+      "Suora",
+      "Jargonia välttävä",
+      "Humoristinen",
+      "Ilkikurinen",
+      "Empaattinen"
+    ]
+  },
+  "strategic_priorities": [
+    {
+      "rank": 1,
+      "priority": "Arvon kasvattaminen nykyasiakkaista (Upsell/Cross-sell)",
+      "evidence": [
+        "Markkinan saturaatio",
+        "Kasvu haetaan 5G-nopeuksien nostosta",
+        "Lisäpalveluiden myynti (DNA TV Hubi, tietoturva)"
+      ],
+      "execution_assessment": "strong"
+    },
+    {
+      "rank": 2,
+      "priority": "B2B-markkinaosuuden valtaaminen (DNA Business)",
+      "evidence": [
+        "Määritelty strategiseksi 'must-win' -alueeksi",
+        "Tavoite haastaa Elisan asema pk-yrityksissä ja korporaatioissa"
+      ],
+      "execution_assessment": "moderate"
+    },
+    {
+      "rank": 3,
+      "priority": "Verkon laatu (5G & Kiinteä 5G)",
+      "evidence": [
+        "Profiloituminen nopeimman verkon tarjoajana",
+        "Koti-netti -kategorian omistajuus",
+        "Teknologinen uskottavuus elinehtona"
+      ],
+      "execution_assessment": "strong"
+    },
+    {
+      "rank": 4,
+      "priority": "Digitaalinen osallisuus (Vastuullisuus)",
+      "evidence": [
+        "Strategian ytimessä yhdenvertaisuus (seniorit, lapset)",
+        "Keskeinen viestinnällinen kärki"
+      ],
+      "execution_assessment": "moderate"
+    }
+  ],
+  "marketing_posture": {
+    "current_content_types": [
+      "Taktinen mainonta",
+      "Korkean tuotantoarvon mainoselokuvat",
+      "Tarjouskärjet"
+    ],
+    "channel_presence": {
+      "youtube": {
+        "active": false,
+        "assessment": "Passiivinen / Arkisto. Toimii 'TVC dump' -paikkana ilman alustalle suunniteltua sisältöä."
+      },
+      "tiktok": {
+        "active": true,
+        "assessment": "Kokeileva. Kampanjavetoista tai rekrytointikeskeistä. Jatkuva konsepti puuttuu."
+      },
+      "instagram": {
+        "active": true,
+        "assessment": "Kokeileva ja taktinen. Reels-sisältö kampanjavetoista."
+      },
+      "linkedin": {
+        "active": true,
+        "assessment": "Perinteinen. 'Corporate talking heads' ja webinaarimainontaa."
+      }
+    },
+    "apparent_gaps": [
+      "Aito, alustalle suunniteltu 'YouTuber-mainen' sisältö",
+      "Brändätty viihdesisältö (ei-mainos)",
+      "B2B-sisällön inhimillisyys ja samaistuttavuus"
+    ],
+    "audience_engagement": "TV-mainonta viihdyttää massoja, mutta digitaalinen sitoutuminen on transaktionaalista eikä yhteisöllistä."
+  },
+  "competitive_analysis": {
+    "key_competitors": [
+      {
+        "name": "Elisa",
+        "content_strategy": "Mediatalo-strategia (Elisa Viihde, alkuperäissarjat). Destinaatio, ei vain putki.",
+        "threat_level": "high"
+      },
+      {
+        "name": "Telia",
+        "content_strategy": "E-urheilun omistajuus ja teknologinen edelläkävijyys (B2B-uskottavuus).",
+        "threat_level": "medium"
+      },
+      {
+        "name": "Moi Mobiili",
+        "content_strategy": "Hintavetoinen, yksinkertainen.",
+        "threat_level": "low"
+      }
+    ],
+    "brand_winning_areas": [
+      "Erottuva ja pidetty brändipersoona ('Elämä on')",
+      "Selkeä visuaalinen identiteetti",
+      "Inhimillisyys"
+    ],
+    "brand_losing_areas": [
+      "Sisältömarkkinoinnin syvyys vs. Elisa Viihde",
+      "Brändi on 'putki' kun kilpailija on 'destinaatio'"
+    ]
+  },
+  "strategic_tensions": [
+    {
+      "id": "tension_01",
+      "description": "Empaattinen lupaus vs. Transaktionaalinen toteutus",
+      "evidence": [
+        "Slogan 'Elämä on' viittaa inhimillisyyteen",
+        "Suurin osa sisällöstä on tuotekeskeistä (laitemyynti, 5G)",
+        "Gap-analyysi osoittaa ristiriidan brändimielikuvan ja sisällön välillä"
+      ],
+      "opportunity_type": "gap",
+      "priority_score": 5
+    },
+    {
+      "id": "tension_02",
+      "description": "Viihdyttäjä ilman omaa viihdettä",
+      "evidence": [
+        "DNA tunnetaan hauskoista mainoksista",
+        "Elisalla on Elisa Viihde ja omat sarjat, DNA:lla ei sisältökirjastoa",
+        "Asiakkaat katsovat DNA:n mainoksia mutta kuluttavat Elisan sisältöjä"
+      ],
+      "opportunity_type": "threat",
+      "priority_score": 4
+    },
+    {
+      "id": "tension_03",
+      "description": "B2C-huumori vs. B2B-uskottavuus",
+      "evidence": [
+        "B2C-brändi on mutkaton ja ilkikurinen",
+        "B2B-päättäjät vaativat tietoturvauskottavuutta",
+        "Nykyinen B2B-sisältö on jäykkää ja ristiriidassa emobrändin kanssa"
+      ],
+      "opportunity_type": "aspiration",
+      "priority_score": 3
+    },
+    {
+      "id": "tension_04",
+      "description": "Yhteyden myyminen vs. Digitaalinen yksinäisyys",
+      "evidence": [
+        "Strateginen prioriteetti: Digitaalinen osallisuus",
+        "Paradoksi: Digiaika lisää yksinäisyyttä",
+        "Nykyinen sisältö jää CSR-tasolle eikä käsittele ilmiötä syvällisesti"
+      ],
+      "opportunity_type": "gap",
+      "priority_score": 3
+    }
+  ],
+  "opportunity_zones": [
+    {
+      "id": "opp_01",
+      "description": "'Teknologian tulkki' – Hyötyviihde (Edutainment)",
+      "rationale": "Täyttää aukon kuivan ohjeistuksen ja mainonnan välillä. Rakentaa asiantuntijuutta ilman tyrkyttämistä ja palvelee nykyasiakkaita.",
+      "risk_level": "low"
+    },
+    {
+      "id": "opp_02",
+      "description": "Inhimillinen B2B – Työelämän sujuvoittaja",
+      "rationale": "Ratkaisee jännitteen B2C-huumorin ja B2B-jäykkyyden välillä. Erottaa DNA Businessin kilpailijoiden 'pukuhenkilö'-sisällöstä.",
+      "risk_level": "medium"
+    },
+    {
+      "id": "opp_03",
+      "description": "Gen Z -uskottavuus alustanatiivilla sisällöllä",
+      "rationale": "Nuoret vaativat autenttisuutta. Vastaa Telian e-urheilu-uhkaan eri kulmalla luomalla sisältöä, joka ei näytä mainokselta.",
+      "risk_level": "medium"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Strateginen Dossier: DNA Finland",
+      "url": "internal://report/dna-finland-2026",
+      "type": "report",
+      "date_accessed": "2026-03-04",
+      "relevance": "Ensisijainen lähde: brändianalyysi ja strategiset linjaukset."
+    },
+    {
+      "title": "DNA Finland YouTube Channel",
+      "url": "https://www.youtube.com/user/dnafinland",
+      "type": "social",
+      "date_accessed": "2026-03-04",
+      "relevance": "Analyysin lähde kanavapresenssille ja sisältötyypeille."
+    },
+    {
+      "title": "Elisa Viihde & Elisa.fi",
+      "url": "https://elisa.fi",
+      "type": "company_site",
+      "date_accessed": "2026-03-04",
+      "relevance": "Kilpailija-analyysin vertailukohta (sisältöstrategia)."
+    },
+    {
+      "title": "Telia Finland Verkkosivut",
+      "url": "https://www.telia.fi",
+      "type": "company_site",
+      "date_accessed": "2026-03-04",
+      "relevance": "Kilpailija-analyysin vertailukohta (B2B & E-urheilu)."
+    },
+    {
+      "title": "Moi Mobiili Verkkosivut",
+      "url": "https://www.moi.fi",
+      "type": "company_site",
+      "date_accessed": "2026-03-04",
+      "relevance": "Kilpailija-analyysin vertailukohta (hintapositiointi)."
+    }
+  ]
+}
