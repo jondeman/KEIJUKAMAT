@@ -3,7 +3,7 @@
   "company_slug": "dna-finland",
   "generated_at": "2026-03-04T08:16:58.102866",
   "brand_identity": {
-    "positioning": "Inhimillinen, mutkaton ja kansanomainen operaattori. Ydinlupaus 'Elämä on' juhlistaa elämän rosoisuutta ja monimuotoisuutta vastakohtana tekniselle etäisyydelle.",
+    "positioning": "Inhimillinen, mutkaton ja kansanomainen operaattori. Ydinlupaus 'El\u00e4m\u00e4 on' juhlistaa el\u00e4m\u00e4n rosoisuutta ja monimuotoisuutta vastakohtana tekniselle et\u00e4isyydelle.",
     "visual_markers": {
       "primary_color": "Dominoiva pinkki",
       "secondary_colors": [
@@ -12,7 +12,7 @@
       ],
       "style_keywords": [
         "Pelkistetty kuvamaailma",
-        "Selkeä typografia (DNA Sans)",
+        "Selke\u00e4 typografia (DNA Sans)",
         "Moderni"
       ],
       "tone_keywords": [
@@ -23,7 +23,7 @@
     },
     "voice_characteristics": [
       "Suora",
-      "Jargonia välttävä",
+      "Jargonia v\u00e4ltt\u00e4v\u00e4",
       "Humoristinen",
       "Ilkikurinen",
       "Empaattinen"
@@ -36,7 +36,7 @@
       "evidence": [
         "Markkinan saturaatio",
         "Kasvu haetaan 5G-nopeuksien nostosta",
-        "Lisäpalveluiden myynti (DNA TV Hubi, tietoturva)"
+        "Lis\u00e4palveluiden myynti (DNA TV Hubi, tietoturva)"
       ],
       "execution_assessment": "strong"
     },
@@ -44,14 +44,14 @@
       "rank": 2,
       "priority": "B2B-markkinaosuuden valtaaminen (DNA Business)",
       "evidence": [
-        "Määritelty strategiseksi 'must-win' -alueeksi",
-        "Tavoite haastaa Elisan asema pk-yrityksissä ja korporaatioissa"
+        "M\u00e4\u00e4ritelty strategiseksi 'must-win' -alueeksi",
+        "Tavoite haastaa Elisan asema pk-yrityksiss\u00e4 ja korporaatioissa"
       ],
       "execution_assessment": "moderate"
     },
     {
       "rank": 3,
-      "priority": "Verkon laatu (5G & Kiinteä 5G)",
+      "priority": "Verkon laatu (5G & Kiinte\u00e4 5G)",
       "evidence": [
         "Profiloituminen nopeimman verkon tarjoajana",
         "Koti-netti -kategorian omistajuus",
@@ -63,8 +63,8 @@
       "rank": 4,
       "priority": "Digitaalinen osallisuus (Vastuullisuus)",
       "evidence": [
-        "Strategian ytimessä yhdenvertaisuus (seniorit, lapset)",
-        "Keskeinen viestinnällinen kärki"
+        "Strategian ytimess\u00e4 yhdenvertaisuus (seniorit, lapset)",
+        "Keskeinen viestinn\u00e4llinen k\u00e4rki"
       ],
       "execution_assessment": "moderate"
     }
@@ -73,20 +73,20 @@
     "current_content_types": [
       "Taktinen mainonta",
       "Korkean tuotantoarvon mainoselokuvat",
-      "Tarjouskärjet"
+      "Tarjousk\u00e4rjet"
     ],
     "channel_presence": {
       "youtube": {
         "active": false,
-        "assessment": "Passiivinen / Arkisto. Toimii 'TVC dump' -paikkana ilman alustalle suunniteltua sisältöä."
+        "assessment": "Passiivinen / Arkisto. Toimii 'TVC dump' -paikkana ilman alustalle suunniteltua sis\u00e4lt\u00f6\u00e4."
       },
       "tiktok": {
         "active": true,
-        "assessment": "Kokeileva. Kampanjavetoista tai rekrytointikeskeistä. Jatkuva konsepti puuttuu."
+        "assessment": "Kokeileva. Kampanjavetoista tai rekrytointikeskeist\u00e4. Jatkuva konsepti puuttuu."
       },
       "instagram": {
         "active": true,
-        "assessment": "Kokeileva ja taktinen. Reels-sisältö kampanjavetoista."
+        "assessment": "Kokeileva ja taktinen. Reels-sis\u00e4lt\u00f6 kampanjavetoista."
       },
       "linkedin": {
         "active": true,
@@ -94,22 +94,22 @@
       }
     },
     "apparent_gaps": [
-      "Aito, alustalle suunniteltu 'YouTuber-mainen' sisältö",
-      "Brändätty viihdesisältö (ei-mainos)",
-      "B2B-sisällön inhimillisyys ja samaistuttavuus"
+      "Aito, alustalle suunniteltu 'YouTuber-mainen' sis\u00e4lt\u00f6",
+      "Br\u00e4nd\u00e4tty viihdesis\u00e4lt\u00f6 (ei-mainos)",
+      "B2B-sis\u00e4ll\u00f6n inhimillisyys ja samaistuttavuus"
     ],
-    "audience_engagement": "TV-mainonta viihdyttää massoja, mutta digitaalinen sitoutuminen on transaktionaalista eikä yhteisöllistä."
+    "audience_engagement": "TV-mainonta viihdytt\u00e4\u00e4 massoja, mutta digitaalinen sitoutuminen on transaktionaalista eik\u00e4 yhteis\u00f6llist\u00e4."
   },
   "competitive_analysis": {
     "key_competitors": [
       {
         "name": "Elisa",
-        "content_strategy": "Mediatalo-strategia (Elisa Viihde, alkuperäissarjat). Destinaatio, ei vain putki.",
+        "content_strategy": "Mediatalo-strategia (Elisa Viihde, alkuper\u00e4issarjat). Destinaatio, ei vain putki.",
         "threat_level": "high"
       },
       {
         "name": "Telia",
-        "content_strategy": "E-urheilun omistajuus ja teknologinen edelläkävijyys (B2B-uskottavuus).",
+        "content_strategy": "E-urheilun omistajuus ja teknologinen edell\u00e4k\u00e4vijyys (B2B-uskottavuus).",
         "threat_level": "medium"
       },
       {
@@ -119,13 +119,13 @@
       }
     ],
     "brand_winning_areas": [
-      "Erottuva ja pidetty brändipersoona ('Elämä on')",
-      "Selkeä visuaalinen identiteetti",
+      "Erottuva ja pidetty br\u00e4ndipersoona ('El\u00e4m\u00e4 on')",
+      "Selke\u00e4 visuaalinen identiteetti",
       "Inhimillisyys"
     ],
     "brand_losing_areas": [
-      "Sisältömarkkinoinnin syvyys vs. Elisa Viihde",
-      "Brändi on 'putki' kun kilpailija on 'destinaatio'"
+      "Sis\u00e4lt\u00f6markkinoinnin syvyys vs. Elisa Viihde",
+      "Br\u00e4ndi on 'putki' kun kilpailija on 'destinaatio'"
     ]
   },
   "strategic_tensions": [
@@ -133,20 +133,20 @@
       "id": "tension_01",
       "description": "Empaattinen lupaus vs. Transaktionaalinen toteutus",
       "evidence": [
-        "Slogan 'Elämä on' viittaa inhimillisyyteen",
-        "Suurin osa sisällöstä on tuotekeskeistä (laitemyynti, 5G)",
-        "Gap-analyysi osoittaa ristiriidan brändimielikuvan ja sisällön välillä"
+        "Slogan 'El\u00e4m\u00e4 on' viittaa inhimillisyyteen",
+        "Suurin osa sis\u00e4ll\u00f6st\u00e4 on tuotekeskeist\u00e4 (laitemyynti, 5G)",
+        "Gap-analyysi osoittaa ristiriidan br\u00e4ndimielikuvan ja sis\u00e4ll\u00f6n v\u00e4lill\u00e4"
       ],
       "opportunity_type": "gap",
       "priority_score": 5
     },
     {
       "id": "tension_02",
-      "description": "Viihdyttäjä ilman omaa viihdettä",
+      "description": "Viihdytt\u00e4j\u00e4 ilman omaa viihdett\u00e4",
       "evidence": [
         "DNA tunnetaan hauskoista mainoksista",
-        "Elisalla on Elisa Viihde ja omat sarjat, DNA:lla ei sisältökirjastoa",
-        "Asiakkaat katsovat DNA:n mainoksia mutta kuluttavat Elisan sisältöjä"
+        "Elisalla on Elisa Viihde ja omat sarjat, DNA:lla ei sis\u00e4lt\u00f6kirjastoa",
+        "Asiakkaat katsovat DNA:n mainoksia mutta kuluttavat Elisan sis\u00e4lt\u00f6j\u00e4"
       ],
       "opportunity_type": "threat",
       "priority_score": 4
@@ -155,20 +155,20 @@
       "id": "tension_03",
       "description": "B2C-huumori vs. B2B-uskottavuus",
       "evidence": [
-        "B2C-brändi on mutkaton ja ilkikurinen",
-        "B2B-päättäjät vaativat tietoturvauskottavuutta",
-        "Nykyinen B2B-sisältö on jäykkää ja ristiriidassa emobrändin kanssa"
+        "B2C-br\u00e4ndi on mutkaton ja ilkikurinen",
+        "B2B-p\u00e4\u00e4tt\u00e4j\u00e4t vaativat tietoturvauskottavuutta",
+        "Nykyinen B2B-sis\u00e4lt\u00f6 on j\u00e4ykk\u00e4\u00e4 ja ristiriidassa emobr\u00e4ndin kanssa"
       ],
       "opportunity_type": "aspiration",
       "priority_score": 3
     },
     {
       "id": "tension_04",
-      "description": "Yhteyden myyminen vs. Digitaalinen yksinäisyys",
+      "description": "Yhteyden myyminen vs. Digitaalinen yksin\u00e4isyys",
       "evidence": [
         "Strateginen prioriteetti: Digitaalinen osallisuus",
-        "Paradoksi: Digiaika lisää yksinäisyyttä",
-        "Nykyinen sisältö jää CSR-tasolle eikä käsittele ilmiötä syvällisesti"
+        "Paradoksi: Digiaika lis\u00e4\u00e4 yksin\u00e4isyytt\u00e4",
+        "Nykyinen sis\u00e4lt\u00f6 j\u00e4\u00e4 CSR-tasolle eik\u00e4 k\u00e4sittele ilmi\u00f6t\u00e4 syv\u00e4llisesti"
       ],
       "opportunity_type": "gap",
       "priority_score": 3
@@ -177,20 +177,20 @@
   "opportunity_zones": [
     {
       "id": "opp_01",
-      "description": "'Teknologian tulkki' – Hyötyviihde (Edutainment)",
-      "rationale": "Täyttää aukon kuivan ohjeistuksen ja mainonnan välillä. Rakentaa asiantuntijuutta ilman tyrkyttämistä ja palvelee nykyasiakkaita.",
+      "description": "'Teknologian tulkki' \u2013 Hy\u00f6tyviihde (Edutainment)",
+      "rationale": "T\u00e4ytt\u00e4\u00e4 aukon kuivan ohjeistuksen ja mainonnan v\u00e4lill\u00e4. Rakentaa asiantuntijuutta ilman tyrkytt\u00e4mist\u00e4 ja palvelee nykyasiakkaita.",
       "risk_level": "low"
     },
     {
       "id": "opp_02",
-      "description": "Inhimillinen B2B – Työelämän sujuvoittaja",
-      "rationale": "Ratkaisee jännitteen B2C-huumorin ja B2B-jäykkyyden välillä. Erottaa DNA Businessin kilpailijoiden 'pukuhenkilö'-sisällöstä.",
+      "description": "Inhimillinen B2B \u2013 Ty\u00f6el\u00e4m\u00e4n sujuvoittaja",
+      "rationale": "Ratkaisee j\u00e4nnitteen B2C-huumorin ja B2B-j\u00e4ykkyyden v\u00e4lill\u00e4. Erottaa DNA Businessin kilpailijoiden 'pukuhenkil\u00f6'-sis\u00e4ll\u00f6st\u00e4.",
       "risk_level": "medium"
     },
     {
       "id": "opp_03",
-      "description": "Gen Z -uskottavuus alustanatiivilla sisällöllä",
-      "rationale": "Nuoret vaativat autenttisuutta. Vastaa Telian e-urheilu-uhkaan eri kulmalla luomalla sisältöä, joka ei näytä mainokselta.",
+      "description": "Gen Z -uskottavuus alustanatiivilla sis\u00e4ll\u00f6ll\u00e4",
+      "rationale": "Nuoret vaativat autenttisuutta. Vastaa Telian e-urheilu-uhkaan eri kulmalla luomalla sis\u00e4lt\u00f6\u00e4, joka ei n\u00e4yt\u00e4 mainokselta.",
       "risk_level": "medium"
     }
   ],
@@ -200,21 +200,21 @@
       "url": "internal://report/dna-finland-2026",
       "type": "report",
       "date_accessed": "2026-03-04",
-      "relevance": "Ensisijainen lähde: brändianalyysi ja strategiset linjaukset."
+      "relevance": "Ensisijainen l\u00e4hde: br\u00e4ndianalyysi ja strategiset linjaukset."
     },
     {
       "title": "DNA Finland YouTube Channel",
       "url": "https://www.youtube.com/user/dnafinland",
       "type": "social",
       "date_accessed": "2026-03-04",
-      "relevance": "Analyysin lähde kanavapresenssille ja sisältötyypeille."
+      "relevance": "Analyysin l\u00e4hde kanavapresenssille ja sis\u00e4lt\u00f6tyypeille."
     },
     {
       "title": "Elisa Viihde & Elisa.fi",
       "url": "https://elisa.fi",
       "type": "company_site",
       "date_accessed": "2026-03-04",
-      "relevance": "Kilpailija-analyysin vertailukohta (sisältöstrategia)."
+      "relevance": "Kilpailija-analyysin vertailukohta (sis\u00e4lt\u00f6strategia)."
     },
     {
       "title": "Telia Finland Verkkosivut",
