@@ -3,7 +3,7 @@
   "company_slug": "tui-lomamatkat",
   "generated_at": "2026-03-05T10:55:29.143019",
   "brand_identity": {
-    "positioning": "Laaja-alainen Leisure Travel Company, joka omistaa koko lomakokemuksen lennoista ja hotelleista elämyksiin.",
+    "positioning": "Laaja-alainen Leisure Travel Company, joka omistaa koko lomakokemuksen lennoista ja hotelleista el\u00e4myksiin.",
     "visual_markers": {
       "primary_color": "Punainen (#FF0000)",
       "secondary_colors": [
@@ -13,14 +13,14 @@
       ],
       "style_keywords": [
         "Korkeatuotantoinen",
-        "Värikäs",
+        "V\u00e4rik\u00e4s",
         "Huoliteltu",
         "Moderni"
       ],
       "tone_keywords": [
         "Optimistinen",
         "Inspiroiva",
-        "Kansainvälinen",
+        "Kansainv\u00e4linen",
         "Turvallinen"
       ]
     },
@@ -36,9 +36,9 @@
       "rank": 1,
       "priority": "Digitaalinen ekosysteemi (App-first)",
       "evidence": [
-        "Tavoite: 80 % myynnistä digitaalista",
+        "Tavoite: 80 % myynnist\u00e4 digitaalista",
         "Investoinnit Travel Product Generator -teknologiaan",
-        "Sovelluksen rooli check-inissä, retkissä ja chat-palvelussa"
+        "Sovelluksen rooli check-iniss\u00e4, retkiss\u00e4 ja chat-palvelussa"
       ],
       "execution_assessment": "strong"
     },
@@ -54,10 +54,10 @@
     },
     {
       "rank": 3,
-      "priority": "Elämykset (TUI Musement)",
+      "priority": "El\u00e4mykset (TUI Musement)",
       "evidence": [
         "Musement-alustan skaalaaminen",
-        "Retkien myynti sovelluksen kautta myös ei-lentäville asiakkaille"
+        "Retkien myynti sovelluksen kautta my\u00f6s ei-lent\u00e4ville asiakkaille"
       ],
       "execution_assessment": "moderate"
     },
@@ -66,34 +66,34 @@
       "priority": "Vastuullisuus (Sustainability)",
       "evidence": [
         "People, Planet, Progress -ohjelma",
-        "Science Based Targets -aloitteen hyväksyntä",
-        "Lentopäästöjen vähennystavoite -24 % vuoteen 2030 mennessä"
+        "Science Based Targets -aloitteen hyv\u00e4ksynt\u00e4",
+        "Lentop\u00e4\u00e4st\u00f6jen v\u00e4hennystavoite -24 % vuoteen 2030 menness\u00e4"
       ],
       "execution_assessment": "strong"
     }
   ],
   "marketing_posture": {
     "current_content_types": [
-      "Korkeatuotantoiset brändifilmit",
-      "Kiiltokuvamaiset vaikuttajasisällöt",
+      "Korkeatuotantoiset br\u00e4ndifilmit",
+      "Kiiltokuvamaiset vaikuttajasis\u00e4ll\u00f6t",
       "Informatiiviset kohdeoppaat"
     ],
     "channel_presence": {
       "youtube": {
         "active": false,
-        "assessment": "Passiivinen arkisto TV-mainoksille, ei omaa tubettaja-ääntä."
+        "assessment": "Passiivinen arkisto TV-mainoksille, ei omaa tubettaja-\u00e4\u00e4nt\u00e4."
       },
       "tiktok": {
         "active": true,
-        "assessment": "Aktiivinen ja visuaalisesti näyttävä, mutta erittäin kuratoitu."
+        "assessment": "Aktiivinen ja visuaalisesti n\u00e4ytt\u00e4v\u00e4, mutta eritt\u00e4in kuratoitu."
       },
       "instagram": {
         "active": true,
-        "assessment": "Pääkanava visuaaliselle inspiraatiolle."
+        "assessment": "P\u00e4\u00e4kanava visuaaliselle inspiraatiolle."
       },
       "linkedin": {
         "active": true,
-        "assessment": "Käytetään työnantajamielikuvaan ja korporaatioviestintään."
+        "assessment": "K\u00e4ytet\u00e4\u00e4n ty\u00f6nantajamielikuvaan ja korporaatioviestint\u00e4\u00e4n."
       }
     },
     "apparent_gaps": [
@@ -101,7 +101,7 @@
       "Vertaistuen ja rehellisen puheen puute",
       "Dynaamisen varaamisen opettaminen kuluttajalle"
     ],
-    "audience_engagement": "Inspiraatio toimii, mutta syvä emotionaalinen side on heikko; brändi koetaan etäiseksi."
+    "audience_engagement": "Inspiraatio toimii, mutta syv\u00e4 emotionaalinen side on heikko; br\u00e4ndi koetaan et\u00e4iseksi."
   },
   "competitive_analysis": {
     "key_competitors": [
@@ -116,7 +116,7 @@
         "threat_level": "high"
       },
       {
-        "name": "Tjäreborg",
+        "name": "Tj\u00e4reborg",
         "content_strategy": "Kansan valinta ja pohjoismainen perinne.",
         "threat_level": "medium"
       }
@@ -128,7 +128,7 @@
       "Hotellikonseptien laatu"
     ],
     "brand_losing_areas": [
-      "Emotionaalinen läheisyys",
+      "Emotionaalinen l\u00e4heisyys",
       "Paikallisuuden tuntu",
       "Mielikuva joustavuudesta vs. Booking"
     ]
@@ -136,10 +136,10 @@
   "strategic_tensions": [
     {
       "id": "tension_01",
-      "description": "Digitaalinen koneisto vs. Inhimillinen tarve: TUI on teknologisesti ylivertainen, mutta suomalainen kaipaa kasvoja ja henkilökohtaista palvelua.",
+      "description": "Digitaalinen koneisto vs. Inhimillinen tarve: TUI on teknologisesti ylivertainen, mutta suomalainen kaipaa kasvoja ja henkil\u00f6kohtaista palvelua.",
       "evidence": [
         "App-first strategia",
-        "Aurinkomatkojen menestys henkilökohtaisella palvelulla",
+        "Aurinkomatkojen menestys henkil\u00f6kohtaisella palvelulla",
         "Asiakaspalaute korporaatiomaisuudesta"
       ],
       "opportunity_type": "threat",
@@ -147,9 +147,9 @@
     },
     {
       "id": "tension_02",
-      "description": "Massatuotanto vs. Uniikkius: Liiketoiminta perustuu volyymiin, mutta matkailija haluaa tuntea löytäneensä jotain ainutlaatuista.",
+      "description": "Massatuotanto vs. Uniikkius: Liiketoiminta perustuu volyymiin, mutta matkailija haluaa tuntea l\u00f6yt\u00e4neens\u00e4 jotain ainutlaatuista.",
       "evidence": [
-        "Isot hotellikompleksit vs. Live Happy -yksilöllisyyslupaus",
+        "Isot hotellikompleksit vs. Live Happy -yksil\u00f6llisyyslupaus",
         "Musement-strategian ristiriita perusliiketoiminnan kanssa"
       ],
       "opportunity_type": "aspiration",
@@ -157,10 +157,10 @@
     },
     {
       "id": "tension_03",
-      "description": "Charter-leima vs. Dynaaminen todellisuus: Kuluttajat mieltävät TUI:n vain viikon rantalomaksi, vaikka tarjolla on joustavia kaupunkilomia.",
+      "description": "Charter-leima vs. Dynaaminen todellisuus: Kuluttajat mielt\u00e4v\u00e4t TUI:n vain viikon rantalomaksi, vaikka tarjolla on joustavia kaupunkilomia.",
       "evidence": [
         "Strateginen tavoite kasvattaa dynaamista paketointia",
-        "Kuluttajakäyttäytyminen: joustavat matkat varataan yhä kilpailijoilta"
+        "Kuluttajak\u00e4ytt\u00e4ytyminen: joustavat matkat varataan yh\u00e4 kilpailijoilta"
       ],
       "opportunity_type": "gap",
       "priority_score": 4
@@ -170,19 +170,19 @@
     {
       "id": "opp_01",
       "description": "Inhimillistetty Algoritmi",
-      "rationale": "Esitetään sovellus empaattisena matkakumppanina, joka tuo turvaa tiedon kautta, korvaten puuttuvat oppaat.",
+      "rationale": "Esitet\u00e4\u00e4n sovellus empaattisena matkakumppanina, joka tuo turvaa tiedon kautta, korvaten puuttuvat oppaat.",
       "risk_level": "low"
     },
     {
       "id": "opp_02",
       "description": "The Un-Charter Evidence",
-      "rationale": "Sisältösarja, joka näyttää konkreettisesti, miten TUIlla tehdään omatoimimatkamainen reissu pakettimatkan turvalla.",
+      "rationale": "Sis\u00e4lt\u00f6sarja, joka n\u00e4ytt\u00e4\u00e4 konkreettisesti, miten TUIlla tehd\u00e4\u00e4n omatoimimatkamainen reissu pakettimatkan turvalla.",
       "risk_level": "medium"
     },
     {
       "id": "opp_03",
       "description": "Beyond the Lobby",
-      "rationale": "Siirretään fokus hotelleista aitoon paikalliskulttuuriin ja rosoisempaan sisältöön uniikkiuden korostamiseksi.",
+      "rationale": "Siirret\u00e4\u00e4n fokus hotelleista aitoon paikalliskulttuuriin ja rosoisempaan sis\u00e4lt\u00f6\u00f6n uniikkiuden korostamiseksi.",
       "risk_level": "low"
     }
   ],
@@ -199,7 +199,7 @@
       "url": "https://www.epsi-finland.org/",
       "type": "report",
       "date_accessed": "2025-05-22",
-      "relevance": "Asiakastyytyväisyys ja kilpailijavertailu."
+      "relevance": "Asiakastyytyv\u00e4isyys ja kilpailijavertailu."
     },
     {
       "title": "TUI Finland Press Releases (Mynewsdesk)",
@@ -213,7 +213,7 @@
       "url": "https://www.tui.fi",
       "type": "company_site",
       "date_accessed": "2025-05-22",
-      "relevance": "Tuotetarjonta ja brändiviestintä."
+      "relevance": "Tuotetarjonta ja br\u00e4ndiviestint\u00e4."
     },
     {
       "title": "Travel News Finland",
