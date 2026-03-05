@@ -1,0 +1,1 @@
+[{"timestamp": "2026-03-05T11:30:14.420567", "level": "INFO", "event": "Producer initialized", "run_id": "20260305_113014", "company": "POP -pankki"}, {"timestamp": "2026-03-05T11:30:14.421825", "level": "INFO", "event": "Starting pipeline run", "run_id": "20260305_113014"}, {"timestamp": "2026-03-05T11:30:14.424057", "level": "DEBUG", "event": "Bots initialized"}]
