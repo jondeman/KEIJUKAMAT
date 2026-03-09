@@ -16,6 +16,9 @@
 - [Concept 03](concepts/concept_03.md)
 
 ## Treatments
+- [pop_-pankki_TREATMENT_01_20260309_084651.md](treatments/pop_-pankki_TREATMENT_01_20260309_084651.md)
+- [pop_-pankki_TREATMENT_02_20260309_084839.md](treatments/pop_-pankki_TREATMENT_02_20260309_084839.md)
+- [pop_-pankki_TREATMENT_03_20260309_085035.md](treatments/pop_-pankki_TREATMENT_03_20260309_085035.md)
 
 ## One-Pagers
 - [One-Pager 01](onepagers/concept_01.png)
