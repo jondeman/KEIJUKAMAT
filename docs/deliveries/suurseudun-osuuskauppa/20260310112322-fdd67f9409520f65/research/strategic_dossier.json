@@ -3,11 +3,11 @@
   "company_slug": "suurseudun-osuuskauppa",
   "generated_at": "2026-03-10T11:27:18.867552",
   "brand_identity": {
-    "positioning": "Oman kylän kauppa, jonka olemassaolon tarkoitus on tuottaa etuja ja palveluita omistajilleen sekä kehittää oman toimialueensa elinvoimaa.",
+    "positioning": "Oman kyl\u00e4n kauppa, jonka olemassaolon tarkoitus on tuottaa etuja ja palveluita omistajilleen sek\u00e4 kehitt\u00e4\u00e4 oman toimialueensa elinvoimaa.",
     "visual_markers": {
-      "primary_color": "S-ryhmän vihreä",
+      "primary_color": "S-ryhm\u00e4n vihre\u00e4",
       "secondary_colors": [
-        "Prisman vihreä",
+        "Prisman vihre\u00e4",
         "S-marketin sininen",
         "Salen punainen"
       ],
@@ -20,8 +20,8 @@
       "tone_keywords": [
         "pragmaattinen",
         "turvallinen",
-        "yhteisöllinen",
-        "maanläheinen"
+        "yhteis\u00f6llinen",
+        "maanl\u00e4heinen"
       ]
     },
     "voice_characteristics": [
@@ -35,78 +35,78 @@
       "rank": 1,
       "priority": "Alueellisen elinvoiman ja ostovoiman turvaaminen",
       "evidence": [
-        "Bonusten ja ylijäämänpalautusten jatkuva korostaminen viestinnässä",
-        "Paikallisten investointien (esim. myymäläuudistukset) säännöllinen esilletuonti tiedotteissa"
+        "Bonusten ja ylij\u00e4\u00e4m\u00e4npalautusten jatkuva korostaminen viestinn\u00e4ss\u00e4",
+        "Paikallisten investointien (esim. myym\u00e4l\u00e4uudistukset) s\u00e4\u00e4nn\u00f6llinen esilletuonti tiedotteissa"
       ],
       "execution_assessment": "strong"
     },
     {
       "rank": 2,
-      "priority": "Lähiruoan ja paikallisten tuottajien tukeminen",
+      "priority": "L\u00e4hiruoan ja paikallisten tuottajien tukeminen",
       "evidence": [
-        "S-ryhmän valtakunnallinen lähiruokatavoite",
+        "S-ryhm\u00e4n valtakunnallinen l\u00e4hiruokatavoite",
         "SSO:n omat tiedotteet paikallisista tavarantoimittajista",
-        "Lähiruokaa-merkintöjen korostaminen myymälöissä"
+        "L\u00e4hiruokaa-merkint\u00f6jen korostaminen myym\u00e4l\u00f6iss\u00e4"
       ],
       "execution_assessment": "moderate"
     },
     {
       "rank": 3,
-      "priority": "Paikallisen yhteisöllisyyden tukeminen",
+      "priority": "Paikallisen yhteis\u00f6llisyyden tukeminen",
       "evidence": [
-        "Kannustajat-ohjelma, jonka kautta jaetaan kymmeniä tuhansia euroja paikallisille urheiluseuroille ja yhdistyksille",
-        "Sponsorointishekkien luovutuskuvat PR-viestinnässä"
+        "Kannustajat-ohjelma, jonka kautta jaetaan kymmeni\u00e4 tuhansia euroja paikallisille urheiluseuroille ja yhdistyksille",
+        "Sponsorointishekkien luovutuskuvat PR-viestinn\u00e4ss\u00e4"
       ],
       "execution_assessment": "moderate"
     },
     {
       "rank": 4,
-      "priority": "Vihreä siirtymä ja energiatehokkuus",
+      "priority": "Vihre\u00e4 siirtym\u00e4 ja energiatehokkuus",
       "evidence": [
         "ABC-latausverkoston voimakas laajentaminen alueella",
-        "Aurinkopaneeli-investoinnit kiinteistöjen katoille"
+        "Aurinkopaneeli-investoinnit kiinteist\u00f6jen katoille"
       ],
       "execution_assessment": "strong"
     }
   ],
   "marketing_posture": {
     "current_content_types": [
-      "myymälöiden aukioloajat",
-      "avajaisviestintä",
+      "myym\u00e4l\u00f6iden aukioloajat",
+      "avajaisviestint\u00e4",
       "hintatarjoukset",
       "PR-kuvat (shekkien luovutukset)",
-      "yksittäisten myymälöiden omat some-nostot (henkilökunnan kasvot, arvonnat)"
+      "yksitt\u00e4isten myym\u00e4l\u00f6iden omat some-nostot (henkil\u00f6kunnan kasvot, arvonnat)"
     ],
     "channel_presence": {
       "youtube": {
         "active": false,
-        "assessment": "Satunnaisia vanhoja rekrytointivideoita tai hallinnon katsauksia. Ei strategista videosisältöä."
+        "assessment": "Satunnaisia vanhoja rekrytointivideoita tai hallinnon katsauksia. Ei strategista videosis\u00e4lt\u00f6\u00e4."
       },
       "tiktok": {
         "active": false,
-        "assessment": "Ei mainittu aineistossa, oletettavasti hyödyntämätön tai marginaalisessa roolissa."
+        "assessment": "Ei mainittu aineistossa, oletettavasti hy\u00f6dynt\u00e4m\u00e4t\u00f6n tai marginaalisessa roolissa."
       },
       "instagram": {
         "active": true,
-        "assessment": "Aktiivinen, mutta jakautunut. Yritystili viestii hallinnosta matalalla sitoutumisella, myymälätilit arjesta vaihtelevalla laadulla."
+        "assessment": "Aktiivinen, mutta jakautunut. Yritystili viestii hallinnosta matalalla sitoutumisella, myym\u00e4l\u00e4tilit arjesta vaihtelevalla laadulla."
       },
       "linkedin": {
         "active": false,
-        "assessment": "Ei mainittu aineistossa, oletettavasti hyödyntämätön strategisen brändinrakennuksen osalta."
+        "assessment": "Ei mainittu aineistossa, oletettavasti hy\u00f6dynt\u00e4m\u00e4t\u00f6n strategisen br\u00e4ndinrakennuksen osalta."
       }
     },
     "apparent_gaps": [
-      "Tarinallinen sisältö puuttuu lähes täysin",
-      "Paikallisen yrittäjyyden ja tuottajien tukeminen näkyy numeroina, ei inhimillisinä tarinoina",
+      "Tarinallinen sis\u00e4lt\u00f6 puuttuu l\u00e4hes t\u00e4ysin",
+      "Paikallisen yritt\u00e4jyyden ja tuottajien tukeminen n\u00e4kyy numeroina, ei inhimillisin\u00e4 tarinoina",
       "Visuaalinen todistusaineisto laadusta ja tuoreudesta uupuu"
     ],
-    "audience_engagement": "Lapsiperheet ja vanhemmat ikäluokat sitoutuvat hyvin taktiseen hintaviestintään ja paikallisiin uutisiin. Nuoret aikuiset ja laatutietoiset kuluttajat jäävät tavoittamatta brändin teollisen mielikuvan vuoksi."
+    "audience_engagement": "Lapsiperheet ja vanhemmat ik\u00e4luokat sitoutuvat hyvin taktiseen hintaviestint\u00e4\u00e4n ja paikallisiin uutisiin. Nuoret aikuiset ja laatutietoiset kuluttajat j\u00e4\u00e4v\u00e4t tavoittamatta br\u00e4ndin teollisen mielikuvan vuoksi."
   },
   "competitive_analysis": {
     "key_competitors": [
       {
-        "name": "K-Ryhmä (Kesko)",
-        "content_strategy": "K-kauppiasmalli mahdollistaa paikallisen yrittäjän kasvojen hyödyntämisen. Rakentaa visuaalisia elämyksiä ja tukee paikallista toimintaa inhimillisesti. Omistaa mielikuvan parhaasta laadusta ja tuoreudesta.",
+        "name": "K-Ryhm\u00e4 (Kesko)",
+        "content_strategy": "K-kauppiasmalli mahdollistaa paikallisen yritt\u00e4j\u00e4n kasvojen hy\u00f6dynt\u00e4misen. Rakentaa visuaalisia el\u00e4myksi\u00e4 ja tukee paikallista toimintaa inhimillisesti. Omistaa mielikuvan parhaasta laadusta ja tuoreudesta.",
         "threat_level": "high"
       },
       {
@@ -125,7 +125,7 @@
     "brand_losing_areas": [
       "Inhimillisyys",
       "Kasvollinen paikallisuus",
-      "Visuaalinen elämyksellisyys",
+      "Visuaalinen el\u00e4myksellisyys",
       "Laatumielikuva (erityisesti tuoretuotteissa)",
       "Tunnesiteen luominen nuorempiin ja laatutietoisiin kohderyhmiin"
     ]
@@ -133,40 +133,40 @@
   "strategic_tensions": [
     {
       "id": "tension_01",
-      "description": "Brändin ydin on logistisessa tehokkuudessa ja massavolyymissa, mutta kuluttajat kaipaavat tuoretuotteilta intohimoista, torimaista käsityöläisyyttä.",
+      "description": "Br\u00e4ndin ydin on logistisessa tehokkuudessa ja massavolyymissa, mutta kuluttajat kaipaavat tuoretuotteilta intohimoista, torimaista k\u00e4sity\u00f6l\u00e4isyytt\u00e4.",
       "evidence": [
-        "Vihannesosasto ja toimitusketju näyttäytyvät kuluttajalle teollisena ja kliinisenä",
-        "Kilpailija (K-ryhmä) omistaa mielikuvan parhaasta laadusta ja tuoreudesta"
+        "Vihannesosasto ja toimitusketju n\u00e4ytt\u00e4ytyv\u00e4t kuluttajalle teollisena ja kliinisen\u00e4",
+        "Kilpailija (K-ryhm\u00e4) omistaa mielikuvan parhaasta laadusta ja tuoreudesta"
       ],
       "opportunity_type": "aspiration",
       "priority_score": 5
     },
     {
       "id": "tension_02",
-      "description": "SSO on alueen suurin taloudellinen tukija, mutta sen tuki koetaan kasvottoman instituution budjettipäätöksenä verrattuna kilpailijan paikallisen kauppiaan inhimilliseen tukeen.",
+      "description": "SSO on alueen suurin taloudellinen tukija, mutta sen tuki koetaan kasvottoman instituution budjettip\u00e4\u00e4t\u00f6ksen\u00e4 verrattuna kilpailijan paikallisen kauppiaan inhimilliseen tukeen.",
       "evidence": [
-        "Viestintä nojaa jaettuihin euroihin ja PR-shekkikuviin",
-        "Kilpailijan yksittäinen kauppias kerää alueelliset sympatiat ruohonjuuritason toiminnallaan"
+        "Viestint\u00e4 nojaa jaettuihin euroihin ja PR-shekkikuviin",
+        "Kilpailijan yksitt\u00e4inen kauppias ker\u00e4\u00e4 alueelliset sympatiat ruohonjuuritason toiminnallaan"
       ],
       "opportunity_type": "threat",
       "priority_score": 5
     },
     {
       "id": "tension_03",
-      "description": "Brändi lupaa olla 'oman kylän kauppa', mutta sen fyysinen ja visuaalinen ympäristö on identtinen valtakunnallisen ketjukonseptin kanssa.",
+      "description": "Br\u00e4ndi lupaa olla 'oman kyl\u00e4n kauppa', mutta sen fyysinen ja visuaalinen ymp\u00e4rist\u00f6 on identtinen valtakunnallisen ketjukonseptin kanssa.",
       "evidence": [
-        "SSO:n myymälät näyttävät täsmälleen samalta kuin S-ryhmän myymälät muualla Suomessa",
-        "Paikallisuus on lupaus paperilla, ei koettu elämys"
+        "SSO:n myym\u00e4l\u00e4t n\u00e4ytt\u00e4v\u00e4t t\u00e4sm\u00e4lleen samalta kuin S-ryhm\u00e4n myym\u00e4l\u00e4t muualla Suomessa",
+        "Paikallisuus on lupaus paperilla, ei koettu el\u00e4mys"
       ],
       "opportunity_type": "gap",
       "priority_score": 4
     },
     {
       "id": "tension_04",
-      "description": "Viestintä palvelee tehokkaasti hintaorientoituneita lapsiperheitä, mutta vieraannuttaa inspiraatiota ja tarinoita etsivät nuoret aikuiset ja laatutietoiset kuluttajat.",
+      "description": "Viestint\u00e4 palvelee tehokkaasti hintaorientoituneita lapsiperheit\u00e4, mutta vieraannuttaa inspiraatiota ja tarinoita etsiv\u00e4t nuoret aikuiset ja laatutietoiset kuluttajat.",
       "evidence": [
         "Markkinointi keskittyy aukioloihin, tarjouksiin ja bonuksiin",
-        "Tarinallinen ja visuaalisesti inspiroiva sisältö puuttuu lähes täysin"
+        "Tarinallinen ja visuaalisesti inspiroiva sis\u00e4lt\u00f6 puuttuu l\u00e4hes t\u00e4ysin"
       ],
       "opportunity_type": "underserved_audience",
       "priority_score": 4
@@ -175,20 +175,20 @@
   "opportunity_zones": [
     {
       "id": "opp_01",
-      "description": "Toimitusketjun inhimillistäminen ja laadun visualisointi.",
-      "rationale": "SSO:n viestinnästä puuttuu todistusaineisto siitä, miten paikallinen tuoreus varmistetaan. Näyttämällä laatuun ja tuoreuteen liittyvät prosessit voidaan kuroa umpeen kuilua teollisen mielikuvan ja intohimoisen ruokaosaamisen välillä.",
+      "description": "Toimitusketjun inhimillist\u00e4minen ja laadun visualisointi.",
+      "rationale": "SSO:n viestinn\u00e4st\u00e4 puuttuu todistusaineisto siit\u00e4, miten paikallinen tuoreus varmistetaan. N\u00e4ytt\u00e4m\u00e4ll\u00e4 laatuun ja tuoreuteen liittyv\u00e4t prosessit voidaan kuroa umpeen kuilua teollisen mielikuvan ja intohimoisen ruokaosaamisen v\u00e4lill\u00e4.",
       "risk_level": "low"
     },
     {
       "id": "opp_02",
-      "description": "Vaikuttavuuden näyttäminen tuen saajan näkökulmasta.",
-      "rationale": "Siirtämällä fokus SSO:n PR-kuvista tuen saajiin, brändi voi muuttaa jaetut eurot aidoiksi, inhimillisiksi tarinoiksi. Tämä ratkaisee kasvottoman instituution ongelman ja rakentaa aitoa tunnesidettä.",
+      "description": "Vaikuttavuuden n\u00e4ytt\u00e4minen tuen saajan n\u00e4k\u00f6kulmasta.",
+      "rationale": "Siirt\u00e4m\u00e4ll\u00e4 fokus SSO:n PR-kuvista tuen saajiin, br\u00e4ndi voi muuttaa jaetut eurot aidoiksi, inhimillisiksi tarinoiksi. T\u00e4m\u00e4 ratkaisee kasvottoman instituution ongelman ja rakentaa aitoa tunnesidett\u00e4.",
       "risk_level": "low"
     },
     {
       "id": "opp_03",
       "description": "Osuuskaupan kollektiivisten kasvojen rakentaminen.",
-      "rationale": "Koska SSO:lla ei ole yhtä kauppiasta, brändin on mahdollista nostaa esiin omat asiantuntijansa. Asiantuntijoiden kasvojen esiin nostaminen inhimillistää brändiä ja tarjoaa vastineen kilpailijan kauppias-mallille.",
+      "rationale": "Koska SSO:lla ei ole yht\u00e4 kauppiasta, br\u00e4ndin on mahdollista nostaa esiin omat asiantuntijansa. Asiantuntijoiden kasvojen esiin nostaminen inhimillist\u00e4\u00e4 br\u00e4ndi\u00e4 ja tarjoaa vastineen kilpailijan kauppias-mallille.",
       "risk_level": "medium"
     }
   ],
@@ -198,7 +198,7 @@
       "url": "internal://sso-dossier",
       "type": "report",
       "date_accessed": "2024-05-20",
-      "relevance": "Ensisijainen lähdemateriaali, johon koko analyysi ja strategiset johtopäätökset perustuvat."
+      "relevance": "Ensisijainen l\u00e4hdemateriaali, johon koko analyysi ja strategiset johtop\u00e4\u00e4t\u00f6kset perustuvat."
     },
     {
       "title": "SSO Verkkosivut",
@@ -212,21 +212,21 @@
       "url": "https://facebook.com/suurseudunosuuskauppa",
       "type": "social",
       "date_accessed": "2024-05-20",
-      "relevance": "Sosiaalisen median sisältötyyppien ja yleisön sitoutumisen analysointi."
+      "relevance": "Sosiaalisen median sis\u00e4lt\u00f6tyyppien ja yleis\u00f6n sitoutumisen analysointi."
     },
     {
-      "title": "K-Ryhmän paikallismarkkinointi",
+      "title": "K-Ryhm\u00e4n paikallismarkkinointi",
       "url": "https://k-ruoka.fi",
       "type": "other",
       "date_accessed": "2024-05-20",
       "relevance": "Kilpailija-analyysin pohja K-kauppiasmallin ja laatumielikuvan osalta."
     },
     {
-      "title": "S-ryhmän valtakunnallinen strategia",
+      "title": "S-ryhm\u00e4n valtakunnallinen strategia",
       "url": "https://s-ryhma.fi",
       "type": "company_site",
       "date_accessed": "2024-05-20",
-      "relevance": "Ketjukonseptien, lähiruokatavoitteiden ja vihreän siirtymän taustoitus."
+      "relevance": "Ketjukonseptien, l\u00e4hiruokatavoitteiden ja vihre\u00e4n siirtym\u00e4n taustoitus."
     }
   ]
 }
