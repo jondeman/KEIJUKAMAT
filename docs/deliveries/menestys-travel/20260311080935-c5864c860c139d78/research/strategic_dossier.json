@@ -1,0 +1,219 @@
+{
+  "company_name": "Menestys Travel",
+  "company_slug": "menestys-travel",
+  "generated_at": "2026-03-11T08:13:18.390009",
+  "brand_identity": {
+    "positioning": "Luotettava, räätälöityjä ratkaisuja tarjoava matkailualan asiantuntija, jonka ydinlupaus nojaa vaivattomuuteen, korkeaan laatuun ja elämyksellisyyteen.",
+    "visual_markers": {
+      "primary_color": "Määrittelemätön (painotus esteettisessä kohdekuvastossa)",
+      "secondary_colors": [
+        "Määrittelemätön"
+      ],
+      "style_keywords": [
+        "Esteettinen",
+        "Geneerinen",
+        "Laadukas",
+        "Premium",
+        "Kohdekeskeinen"
+      ],
+      "tone_keywords": [
+        "Asiallinen",
+        "Palvelualtis",
+        "Asiantunteva",
+        "Varovainen"
+      ]
+    },
+    "voice_characteristics": [
+      "Matkailualan kieli",
+      "Logistiikkakeskeinen",
+      "Tuotelähtöinen",
+      "Ei-liikkeenjohdollinen"
+    ]
+  },
+  "strategic_priorities": [
+    {
+      "rank": 1,
+      "priority": "Etätyöajan jälkeisen yrityskulttuurin rakentaminen (Ryhmämatkat)",
+      "evidence": [
+        "Yritysten tarve koota hajautetut tiimit yhteen on kasvanut.",
+        "HR-päättäjät etsivät aktiivisesti työkaluja henkilöstön sitouttamiseen.",
+        "Toimialaraportit 2023-2024 ja yrityksen palveluvalikko."
+      ],
+      "execution_assessment": "weak"
+    },
+    {
+      "rank": 2,
+      "priority": "Premium-segmentin ja johdon erikoismatkojen myynnin kasvatus",
+      "evidence": [
+        "Eksoottiset ja korkean profiilin matkat tarjoavat suurimmat katteet.",
+        "Palvelua markkinoidaan eksklusiivisuudella ja täydellisellä diskreetillä palvelulla."
+      ],
+      "execution_assessment": "moderate"
+    },
+    {
+      "rank": 3,
+      "priority": "Vastuullisuus ja ESG-vaatimuksiin vastaaminen",
+      "evidence": [
+        "Suuryritysten HR ja johto vaativat hiilijalanjäljen raportointia ja kompensointia.",
+        "ESG-kriteerit ovat edellytys B2B-matkojen ostamiselle.",
+        "B2B-hankintakriteerit 2024."
+      ],
+      "execution_assessment": "moderate"
+    }
+  ],
+  "marketing_posture": {
+    "current_content_types": [
+      "Tuotelähtöiset kampanjat",
+      "Perinteiset yritysvideot",
+      "Kohde-esittelyt"
+    ],
+    "channel_presence": {
+      "youtube": {
+        "active": false,
+        "assessment": "Ei aktiivista, yhtenäistä läsnäoloa. Videosisältö on fragmentoitunutta ja perinteistä."
+      },
+      "tiktok": {
+        "active": false,
+        "assessment": "Ei aktiivista läsnäoloa."
+      },
+      "instagram": {
+        "active": false,
+        "assessment": "Ei aktiivista, yhtenäistä läsnäoloa."
+      },
+      "linkedin": {
+        "active": true,
+        "assessment": "Pääkanava B2B-päättäjien tavoittamiseen, mutta viesti on taktinen."
+      }
+    },
+    "apparent_gaps": [
+      "Markkinointi on siiloutunutta johdon matkojen ja henkilöstömatkojen välillä.",
+      "Puuttuu ajatusjohtajuus yrityskulttuurin kehittämisestä.",
+      "Videosisällöstä puuttuu emotionaalinen, B2B-ostajan kipupisteisiin vastaava tarinankerronta."
+    ],
+    "audience_engagement": "Yleisö reagoi todennäköisesti heikosti taktisiin 'varaa matka' -viesteihin, sillä B2B-ostopäätös on pitkä ja monimutkainen. Brändi ei tällä hetkellä herätä strategisen tason keskustelua."
+  },
+  "competitive_analysis": {
+    "key_competitors": [
+      {
+        "name": "Elämys Group & CWT",
+        "content_strategy": "Asemoituvat tapahtumatoimistoiksi. Tuottavat sisältöä siitä, miten yhteiset kokemukset vähentävät työntekijöiden vaihtuvuutta.",
+        "threat_level": "high"
+      },
+      {
+        "name": "Paikalliset boutique-tapahtumatoimistot",
+        "content_strategy": "Korostavat uniikkeja, räätälöityjä yritystapahtumia ja elämyksellisyyttä.",
+        "threat_level": "medium"
+      }
+    ],
+    "brand_winning_areas": [
+      "Logistiikan hallinta",
+      "Luotettavuus",
+      "Laadukkaiden puitteiden järjestäminen",
+      "Asiantuntijuus matkakohteista"
+    ],
+    "brand_losing_areas": [
+      "Strateginen asemointi",
+      "Kilpailu HR:n kehitysbudjeteista matkustusbudjettien sijaan",
+      "Helppo kilpailuttaa pelkällä hinnalla"
+    ]
+  },
+  "strategic_tensions": [
+    {
+      "id": "tension_01",
+      "description": "Brändi myy logistiikkaa ja puitteita, vaikka B2B-ostaja etsii ratkaisua liiketoimintaongelmaan ja vaikuttavuutta.",
+      "evidence": [
+        "Sisältö keskittyy hotelleihin, lentoihin ja kohteisiin.",
+        "Ostaja (HR/Johto) miettii tiimihengen rakoilua, strategian jalkauttamista ja ROI:ta."
+      ],
+      "opportunity_type": "gap",
+      "priority_score": 5
+    },
+    {
+      "id": "tension_02",
+      "description": "Markkinointi käyttää B2C-sektorin matkakuume-taktiikoita, vaikka B2B-ostajan ensisijainen tunneajuri on riskien minimointi ja mielenrauha.",
+      "evidence": [
+        "Nykyinen markkinointi yrittää herättää matkakuumetta.",
+        "B2B-matkojen ostaminen on HR-päättäjälle valtava stressinaihe, jossa epäonnistuminen kaatuu ostajan niskaan."
+      ],
+      "opportunity_type": "gap",
+      "priority_score": 5
+    },
+    {
+      "id": "tension_03",
+      "description": "Palvelutarjooma on viestinnällisesti siiloutunut, eikä brändillä ole yhtenäistä kattokonseptia eri kohderyhmille.",
+      "evidence": [
+        "Johdon matkoja ja ryhmämatkoja markkinoidaan täysin erillisinä tuotteina.",
+        "Yritys ei pysty kertomaan yhdellä lauseella, mikä yhdistää johdon safarin ja myyntitiimin kaupunkimatkan."
+      ],
+      "opportunity_type": "aspiration",
+      "priority_score": 4
+    },
+    {
+      "id": "tension_04",
+      "description": "Kilpailijat asemoituvat strategisiksi HR-kumppaneiksi, kun taas Menestys Travel uhkaa jäädä pelkäksi operatiiviseksi varaustoimistoksi.",
+      "evidence": [
+        "Parhaat kilpailijat myyvät yritystapahtumia ulkomailla ja puhuvat työntekijöiden vaihtuvuuden vähentämisestä.",
+        "Menestys Travelin viestintä on tuotelähtöistä."
+      ],
+      "opportunity_type": "threat",
+      "priority_score": 4
+    }
+  ],
+  "opportunity_zones": [
+    {
+      "id": "opp_01",
+      "description": "Fokus siirretään matkakohteesta ihmisissä tapahtuvaan muutokseen (transformaatio).",
+      "rationale": "Ratkaisee tension_01:n. Menestys Travelin todellinen arvo ei ole lennoissa, vaan siinä, että ihmiset ovat matkan jälkeen yhtenäisempiä ja sitoutuneempia. Tämä nostaa brändin strategiseksi kumppaniksi.",
+      "risk_level": "low"
+    },
+    {
+      "id": "opp_02",
+      "description": "Ihmissuhteiden fasilitaattori -kattokonseptin luominen yhdistämään koko palveluportfolio.",
+      "rationale": "Ratkaisee tension_03:n. Kun ydinviestiksi nostetaan ihmisten tuominen yhteen, mittakaava voi muuttua, mutta brändin ydinlupaus vaikuttavuudesta ja vaivattomuudesta pysyy samana.",
+      "risk_level": "low"
+    },
+    {
+      "id": "opp_03",
+      "description": "Visuaalisen narratiivin siirtäminen maisemista ihmisten väliseen dynamiikkaan ja ostajan (HR) mielenrauhaan.",
+      "rationale": "Ratkaisee tension_02:n. Hylkäämällä alan standardin ja keskittymällä katseisiin, jaettuihin hetkiin ja sujuvuuden tuomaan helpotukseen, brändi puhuttelee suoraan B2B-ostajan todellista motiivia ja stressipisteitä.",
+      "risk_level": "medium"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Strateginen Dossier: Menestys Travel",
+      "url": "internal://asiakkaan-toimittama-brief",
+      "type": "report",
+      "date_accessed": "2024-05-20",
+      "relevance": "Koko analyysin perusmateriaali."
+    },
+    {
+      "title": "Toimialaraportit 2023-2024",
+      "url": "internal://toimialaraportit-23-24",
+      "type": "report",
+      "date_accessed": "2024-05-20",
+      "relevance": "Näyttö etätyöajan jälkeisen yrityskulttuurin rakentamisen tarpeesta."
+    },
+    {
+      "title": "B2B-hankintakriteerit 2024",
+      "url": "internal://b2b-hankintakriteerit-2024",
+      "type": "report",
+      "date_accessed": "2024-05-20",
+      "relevance": "Näyttö vastuullisuuden ja ESG-vaatimusten merkityksestä B2B-ostamisessa."
+    },
+    {
+      "title": "Menestys Travel Verkkosivut",
+      "url": "https://www.menestystravel.fi",
+      "type": "company_site",
+      "date_accessed": "2024-05-20",
+      "relevance": "Palveluvalikon ja nykyisen visuaalisen ilmeen arviointi."
+    },
+    {
+      "title": "Menestys Travel LinkedIn",
+      "url": "https://www.linkedin.com/company/menestys-travel",
+      "type": "social",
+      "date_accessed": "2024-05-20",
+      "relevance": "B2B-markkinointiviestinnän ja kanavapresenssin arviointi."
+    }
+  ]
+}
