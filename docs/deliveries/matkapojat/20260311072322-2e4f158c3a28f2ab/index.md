@@ -16,6 +16,9 @@
 - [Concept 03](concepts/concept_03.md)
 
 ## Treatments
+- [matkapojat_TREATMENT_01_20260311_073423.md](treatments/matkapojat_TREATMENT_01_20260311_073423.md)
+- [matkapojat_TREATMENT_02_20260311_073614.md](treatments/matkapojat_TREATMENT_02_20260311_073614.md)
+- [matkapojat_TREATMENT_03_20260311_073813.md](treatments/matkapojat_TREATMENT_03_20260311_073813.md)
 
 ## One-Pagers
 - [One-Pager 01](onepagers/concept_01.png)
