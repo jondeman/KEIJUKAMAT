@@ -1,0 +1,239 @@
+{
+  "company_name": "Halton",
+  "company_slug": "halton",
+  "generated_at": "2026-03-18T14:28:50.653667",
+  "brand_identity": {
+    "positioning": "Globaali teknologiajohtaja vaativien sisäympäristöjen ilmanvaihtoratkaisuissa, ei perus-LVI-toimija vaan kriittisten kohteiden premium-tason asiantuntija. Ydinlupaus on 'Enabling Wellbeing'.",
+    "visual_markers": {
+      "primary_color": "Ei määritelty (perinteinen teollinen ilme)",
+      "secondary_colors": [
+        "Ei määritelty"
+      ],
+      "style_keywords": [
+        "tekninen",
+        "luotettava",
+        "funktionaalinen",
+        "ihmiskeskeinen",
+        "perinteinen"
+      ],
+      "tone_keywords": [
+        "insinöörivetoinen",
+        "asiantunteva",
+        "ratkaisukeskeinen",
+        "inhimillinen",
+        "eettinen"
+      ]
+    },
+    "voice_characteristics": [
+      "Insinöörivetoinen",
+      "Asiantunteva",
+      "Ratkaisukeskeinen",
+      "Faktapohjainen"
+    ]
+  },
+  "strategic_priorities": [
+    {
+      "rank": 1,
+      "priority": "Mission 500 -kasvustrategia ja maantieteellinen skaalautuminen",
+      "evidence": [
+        "Tavoitteena 500 miljoonan euron liikevaihto",
+        "Aggressiivinen laajentuminen Pohjois-Amerikassa, uusi 3 miljoonan euron tehdas Etelä-Carolinassa"
+      ],
+      "execution_assessment": "strong"
+    },
+    {
+      "rank": 2,
+      "priority": "Siirtymä laitevalmistajasta dataohjatuksi elinkaarikumppaniksi (Servitization)",
+      "evidence": [
+        "Painopisteen siirto metallikomponenteista digitaalisiin ratkaisuihin ja jatkuviin palvelusopimuksiin",
+        "Solution-selling toi 40 % kasvun uusiin sopimuksiin vuonna 2024"
+      ],
+      "execution_assessment": "moderate"
+    },
+    {
+      "rank": 3,
+      "priority": "Kestävä kehitys ja energiatehokkuus kilpailuetuna",
+      "evidence": [
+        "Liittyminen Science-Based Targets -aloitteeseen (SBTi) tammikuussa 2025",
+        "Markkinoinnin kärkenä asiakkaiden energialaskujen ja hiilijalanjäljen pienentäminen"
+      ],
+      "execution_assessment": "strong"
+    },
+    {
+      "rank": 4,
+      "priority": "Organisaation ketteröittäminen asiakassegmenteittäin",
+      "evidence": [
+        "Liiketoiminnan uudelleenjärjestely kahteen yksikköön: Halton Buildings ja Halton Health and Cleanroom",
+        "Tavoitteena nopeampi reagointi kapeiden niche-markkinoiden tarpeisiin"
+      ],
+      "execution_assessment": "moderate"
+    }
+  ],
+  "marketing_posture": {
+    "current_content_types": [
+      "B2B-suoramyyntimateriaalit",
+      "Asiantuntijawebinaarit",
+      "Dataan perustuvat ratkaisukampanjat",
+      "Digitaaliset työkalut (BIM-kirjastot, konfiguraattorit)",
+      "Työnantajamielikuvaan keskittyvät videot"
+    ],
+    "channel_presence": {
+      "youtube": {
+        "active": true,
+        "assessment": "Keskittyy lähes täysin Employer Brandingiin, opiskelijarekrytointiin ja teknisiin ohjeisiin."
+      },
+      "tiktok": {
+        "active": false,
+        "assessment": "Ei strategista painoarvoa nykymallissa."
+      },
+      "instagram": {
+        "active": false,
+        "assessment": "Ei strategista painoarvoa nykymallissa."
+      },
+      "linkedin": {
+        "active": true,
+        "assessment": "Aktiivinen, oletus B2B-fokuksen ja asiantuntijamyynnin perusteella."
+      }
+    },
+    "apparent_gaps": [
+      "C-tason päättäjille suunnattu, brändin arvoa, ROI:ta ja strategista kumppanuutta todistava korkean tason kaupallinen ja emotionaalinen videosisältö puuttuu."
+    ],
+    "audience_engagement": "Dataan ja konkreettisiin hyötyihin perustuvat täsmäkampanjat resonoivat erittäin hyvin ja tuottavat kysyntäpiikkejä. Digitaaliset suunnittelutyökalut sitouttavat arkkitehteja ja insinöörejä tehokkaasti."
+  },
+  "competitive_analysis": {
+    "key_competitors": [
+      {
+        "name": "Globaalit LVI-konglomeraatit (esim. Johnson Controls, Carrier, Daikin)",
+        "content_strategy": "Tarjoavat avaimet käteen -megaratkaisuja ja kokonaisvaltaista talotekniikkaa. Viestivät helppoudesta ja yhden luukun taktiikasta.",
+        "threat_level": "high"
+      },
+      {
+        "name": "Yleiset sisäilmastotoimijat (esim. TROX, Swegon, FläktGroup, Systemair)",
+        "content_strategy": "Laajat tuoteportfoliot yleisiin rakennuksiin, vahva läsnäolo perus-LVI-markkinoinnissa.",
+        "threat_level": "medium"
+      },
+      {
+        "name": "Alueelliset Niche-toimijat (esim. CaptiveAire, Greenheck)",
+        "content_strategy": "Vahva paikallinen preesens ja aggressiivinen myynti Pohjois-Amerikan ammattikeittiömarkkinoilla.",
+        "threat_level": "medium"
+      }
+    ],
+    "brand_winning_areas": [
+      "Äärimmäinen niche-erikoisosaaminen",
+      "Premium-laatu kriittisissä ympäristöissä",
+      "Digitaaliset työkalut (BIM) suunnittelijoiden tukena",
+      "Todennettava data (SBTi, energiansäästö)"
+    ],
+    "brand_losing_areas": [
+      "Ostamisen helppous verrattuna megakonglomeraatteihin",
+      "Brändin visuaalinen mielikuva on yhä kiinni metallikomponenteissa ohjelmisto-osaamisen sijaan"
+    ]
+  },
+  "strategic_tensions": [
+    {
+      "id": "tension_01",
+      "description": "Brändi lupaa emotionaalista inhimillistä hyvinvointia, mutta markkinoi piilossa olevaa, kylmän teknistä laitteistoa.",
+      "evidence": [
+        "Missio on 'Enabling Wellbeing'",
+        "Tuotteet ovat fyysisesti piilossa välikatoissa",
+        "Markkinointi puhuu usein teknisistä ominaisuuksista asiakkaan kokeman arvon sijaan"
+      ],
+      "opportunity_type": "gap",
+      "priority_score": 5
+    },
+    {
+      "id": "tension_02",
+      "description": "Yritys myy yhä enemmän älykkäitä elinkaaripalveluita, mutta brändin visuaalinen ja historiallinen identiteetti viestii perinteisestä metalliteollisuudesta.",
+      "evidence": [
+        "Palvelusopimusten ja digiratkaisujen myynti kasvoi 40 %",
+        "Brändin historiallinen painolasti ja ulospäin näkyvä identiteetti eivät vielä heijasta ohjelmisto- ja datayrityksen profiilia"
+      ],
+      "opportunity_type": "aspiration",
+      "priority_score": 5
+    },
+    {
+      "id": "tension_03",
+      "description": "C-tason päättäjät tekevät ostopäätökset, mutta yrityksen videosisältö on valjastettu lähes yksinomaan insinöörien rekrytointiin ja sisäiseen kulttuuriin.",
+      "evidence": [
+        "YouTube-kanava on täynnä työntekijähaastatteluja ja asennusohjeita",
+        "Kaupallisille B2B-päättäjille suunnattu, ROI:ta ja brändin arvoa todistava korkean tason sisältö on aliedustettuna"
+      ],
+      "opportunity_type": "underserved_audience",
+      "priority_score": 4
+    },
+    {
+      "id": "tension_04",
+      "description": "Yrityksen on skaalauduttava aggressiivisesti massiiviseen kokoluokkaan menettämättä kapeaan erikoistumiseen perustuvaa premium-auraansa.",
+      "evidence": [
+        "Mission 500 vaatii valtavaa volyymikasvua",
+        "Kilpailuetu ja korkeampi hinnoittelu perustuvat eksklusiiviseen asiantuntijuuteen vaativissa niche-kohteissa"
+      ],
+      "opportunity_type": "threat",
+      "priority_score": 4
+    }
+  ],
+  "opportunity_zones": [
+    {
+      "id": "opp_01",
+      "description": "Vaikutuksen visualisointi (The Invisible Made Visible)",
+      "rationale": "Koska Haltonin tuotteet ovat piilossa ja teknisiä, luovalla konseptoinnilla on valtava tilaus tehdä ilmanlaadun, virustorjunnan ja energiansäästön vaikutuksista visuaalisesti ja emotionaalisesti ymmärrettäviä B2B-päättäjille.",
+      "risk_level": "medium"
+    },
+    {
+      "id": "opp_02",
+      "description": "Mielenrauhan myyminen datan aikakaudella",
+      "rationale": "Tukee strategista siirtymää laitevalmistajasta palvelukumppaniksi. Viestinnän painopisteen siirtäminen hyvästä ilmanvaihdosta siihen varmuuteen, että asiakkaan kriittinen liiketoiminta ei koskaan pysähdy älykkään monitoroinnin ansiosta.",
+      "risk_level": "low"
+    },
+    {
+      "id": "opp_03",
+      "description": "C-tason 'Thought Leadership' -videostrategia",
+      "rationale": "YouTube- ja videokanavien kaupallisen tyhjiön täyttäminen. Luodaan sisältöä, joka puhuttelee suoraan sairaaloiden johtajia ja kiinteistösijoittajia, yhdistäen Haltonin suomalaisen luotettavuuden globaaliin ROI-dataan.",
+      "risk_level": "low"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Matrix BCG: Competitive Landscape of Oy Halton Group Ltd. (2025)",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGVcueMnPd8JonmbHeSm4n8lQFh_24bTqcSKFFwTBRhcd8-Di89L3CruATWmwm87906FGpCyfb4ZKqIcIbiRUXmObkr15vlP8jbg5vBEv9eMuVLEE1-Qk59kHzHopLiGEYHVrps7hamVw=",
+      "type": "report",
+      "date_accessed": "2024-05-20",
+      "relevance": "Kilpailijakentän ja markkina-aseman ymmärtäminen."
+    },
+    {
+      "title": "Porter's Five Forces: Competitive Landscape of Oy Halton Group Ltd. (2025)",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFojEwBwLJUyIOC-tu5xvVw4fufXTzKDSDlnm30lSK6pjXmH-9jNmJ7_fBPfku82lcy0fqDvVc4yrqIeFPJXK0M-jSPP-ZLph4-xyGMHmM0fGaafhtc0HBdVecgMFsrTTVGy5bE4kjVLnNm8Z_Iqhsv",
+      "type": "report",
+      "date_accessed": "2024-05-20",
+      "relevance": "Kilpailupaineiden ja uhkien analysointi."
+    },
+    {
+      "title": "Halton.com: Global Leader in Demanding Indoor Air Quality Solutions",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKR63KSl1bdLUBokxBkvsk4mlnoUM0Y9_PEZ13VDAkLnoJFJ6NXmLZewXJG97jRA57vC3USLgxn3AAM36a18AgU6ftwrad59A-lhkWFYlQhelM",
+      "type": "company_site",
+      "date_accessed": "2024-05-20",
+      "relevance": "Ydinpositioinnin ja brändilupauksen määrittely."
+    },
+    {
+      "title": "Halton Group YouTube-kanava & rekrytointisisällöt (2026)",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF85XJl64tkUsGrFqjtPvn_L89-r77efCGTi8dDyCRZUM6jtnlhJD8LkQA2eHZ-eStMSpixtcu2Ff_apC7_IxORLc52RysjPvQApFn3i2CiI6KSZ8s8zi9kC7SVLKog7ojMk5iutn8=",
+      "type": "video",
+      "date_accessed": "2024-05-20",
+      "relevance": "Videosisältöjen ja kanavastrategian auditointi."
+    },
+    {
+      "title": "Halton Group Cision News / Lehdistötiedotteet",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpkSg_Q7W5pQR2y2yhNV-tGS8VXiqiWVVf4PPqcCsWl8C_HyvxkLLwE6hQ_n9hdDzwG6Mmil24FsYpfz6iYpd1CyzSAy6YSdkTMkHmfJ1qY4s02OTokldZsD8cMIEBaRTjHQvBoN14JyGSLTbwmbc64mz3ZQTMXK-tsYTpJskvhA==",
+      "type": "news",
+      "date_accessed": "2024-05-20",
+      "relevance": "Viimeaikaiset kampanjat, investoinnit ja strategiset julkistukset."
+    },
+    {
+      "title": "Halton.com: Social Responsibility & The Halton Way",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGODyTOnObNLLTWetIKNSu6jHqrHxLtbSR8cKIguwDveqrNx2hFhZzQriO4hK_-QL3t_gb4ZdIFV9H6CnkvOR38-mt2chWcNESUJwrKXvXwlaFT3rst2IkTU94--t1DSbwoVNBIT0QFIw==",
+      "type": "company_site",
+      "date_accessed": "2024-05-20",
+      "relevance": "Brändin arvojen ja yrityskulttuurin todentaminen."
+    }
+  ]
+}
