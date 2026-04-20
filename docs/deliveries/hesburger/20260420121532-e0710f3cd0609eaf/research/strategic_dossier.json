@@ -3,33 +3,33 @@
   "company_slug": "hesburger",
   "generated_at": "2026-04-20T12:19:29.351972",
   "brand_identity": {
-    "positioning": "Hesburger on vastuullinen, suomalainen perheyritys, joka tekee päätöksiä pitkäjänteisesti yli kvartaalitalouden ja on suomalaisten perheiden luottoravintola.",
+    "positioning": "Hesburger on vastuullinen, suomalainen perheyritys, joka tekee p\u00e4\u00e4t\u00f6ksi\u00e4 pitk\u00e4j\u00e4nteisesti yli kvartaalitalouden ja on suomalaisten perheiden luottoravintola.",
     "visual_markers": {
-      "primary_color": "Maanläheinen",
+      "primary_color": "Maanl\u00e4heinen",
       "secondary_colors": [],
       "style_keywords": [
         "Arkinen",
-        "Lähestyttävä",
-        "Maanläheinen",
+        "L\u00e4hestytt\u00e4v\u00e4",
+        "Maanl\u00e4heinen",
         "Asiallinen",
         "Luokkahuoneen priimus"
       ],
       "tone_keywords": [
         "Asiallinen",
-        "Maanläheinen",
+        "Maanl\u00e4heinen",
         "Luotettava",
         "Palveleva",
-        "Yrittäjähenkinen",
+        "Yritt\u00e4j\u00e4henkinen",
         "Kantaaottavan vastuullinen",
-        "Kiltti ja tylsä"
+        "Kiltti ja tyls\u00e4"
       ]
     },
     "voice_characteristics": [
       "Asiallinen",
-      "Maanläheinen",
+      "Maanl\u00e4heinen",
       "Luotettava",
       "Palveleva",
-      "Yrittäjähenkinen"
+      "Yritt\u00e4j\u00e4henkinen"
     ]
   },
   "strategic_priorities": [
@@ -37,7 +37,7 @@
       "rank": 1,
       "priority": "Kasvipohjaisen myynnin radikaali kasvattaminen (VEKE)",
       "evidence": [
-        "Tavoitteena 50 % lihatonta myyntiä vuoteen 2030 mennessä.",
+        "Tavoitteena 50 % lihatonta myynti\u00e4 vuoteen 2030 menness\u00e4.",
         "Oman kasviproteiinitehtaan rakentaminen Kaarinaan.",
         "VEKE-tuotteiden strateginen hinnoittelu aina lihaversioita halvemmiksi."
       ],
@@ -47,8 +47,8 @@
       "rank": 2,
       "priority": "Lapsiin kohdistuvan markkinoinnin eettinen uudistaminen",
       "evidence": [
-        "Historiallinen päätös luopua lastenaterioiden leluista ja oheistuotteista keväästä 2026 alkaen.",
-        "Vähentää 3 miljoonaa oheistuotetta vuodessa.",
+        "Historiallinen p\u00e4\u00e4t\u00f6s luopua lastenaterioiden leluista ja oheistuotteista kev\u00e4\u00e4st\u00e4 2026 alkaen.",
+        "V\u00e4hent\u00e4\u00e4 3 miljoonaa oheistuotetta vuodessa.",
         "Ennakoi viranomaisten tiukentuvia suosituksia."
       ],
       "execution_assessment": "strong"
@@ -57,25 +57,25 @@
       "rank": 3,
       "priority": "Digitalisaatio ja tilauskanavien hallinta",
       "evidence": [
-        "Suomen myynnin lähes 11 % kasvu vuonna 2025 omien sovellusten ja Wolt-yhteistyön ajamana.",
+        "Suomen myynnin l\u00e4hes 11 % kasvu vuonna 2025 omien sovellusten ja Wolt-yhteisty\u00f6n ajamana.",
         "Taisten kanssa tehty tilaustenhallinnan uudistus (jopa 7 eri kanavan hallinta)."
       ],
       "execution_assessment": "strong"
     },
     {
       "rank": 4,
-      "priority": "Aggressiivinen Itä-Euroopan laajentuminen",
+      "priority": "Aggressiivinen It\u00e4-Euroopan laajentuminen",
       "evidence": [
-        "Suurin suhteellinen kasvu tulee ulkomailta (242 M€ myynti 2025).",
-        "Kymmeniä uusia ravintoloita Romaniaan ja Bulgariaan.",
-        "'Haamukeittiöiden' (pelkkä kotiinkuljetus) testaus Puolassa."
+        "Suurin suhteellinen kasvu tulee ulkomailta (242 M\u20ac myynti 2025).",
+        "Kymmeni\u00e4 uusia ravintoloita Romaniaan ja Bulgariaan.",
+        "'Haamukeitti\u00f6iden' (pelkk\u00e4 kotiinkuljetus) testaus Puolassa."
       ],
       "execution_assessment": "strong"
     }
   ],
   "marketing_posture": {
     "current_content_types": [
-      "Vastuullisuusviestintä (hiilijalanjälki, kierrätys)",
+      "Vastuullisuusviestint\u00e4 (hiilijalanj\u00e4lki, kierr\u00e4tys)",
       "Hinta-laatusuhdetta korostava tuotemainonta (VEKE)",
       "Tarinalliset minisarjat ('Mun vuoro')",
       "Historiallisesti suuret viihteelliset panostukset (Chuck Norris)"
@@ -83,11 +83,11 @@
     "channel_presence": {
       "youtube": {
         "active": true,
-        "assessment": "Aktiivinen. Alusta pidemmille tarinallisille sisällöille (minisarjat) ja isoille kampanjoille. Laatu: Hyvä, mutta perinteinen."
+        "assessment": "Aktiivinen. Alusta pidemmille tarinallisille sis\u00e4ll\u00f6ille (minisarjat) ja isoille kampanjoille. Laatu: Hyv\u00e4, mutta perinteinen."
       },
       "tiktok": {
         "active": false,
-        "assessment": "Heikko/Passiivinen. Ei mainintoja onnistumisista; kilpailijat dominoivat tätä tilaa."
+        "assessment": "Heikko/Passiivinen. Ei mainintoja onnistumisista; kilpailijat dominoivat t\u00e4t\u00e4 tilaa."
       },
       "instagram": {
         "active": false,
@@ -99,21 +99,21 @@
       }
     },
     "apparent_gaps": [
-      "Nopearytmisen, ilmiöittävän ja puhtaasti viihteellisen (viraalin) videosisällön puute",
-      "Vastuullisuusviestintä ei generoi FOMOa nuorissa kohderyhmissä"
+      "Nopearytmisen, ilmi\u00f6itt\u00e4v\u00e4n ja puhtaasti viihteellisen (viraalin) videosis\u00e4ll\u00f6n puute",
+      "Vastuullisuusviestint\u00e4 ei generoi FOMOa nuorissa kohderyhmiss\u00e4"
     ],
-    "audience_engagement": "Perheyleisö on historiallisesti vahvasti sitoutunut, mutta lelujen poistuminen asettaa tämän koetukselle. Nuorison sitoutuminen on enemmän transaktionaalista (halpa hinta sovelluksessa) kuin emotionaalista tai kulttuurista."
+    "audience_engagement": "Perheyleis\u00f6 on historiallisesti vahvasti sitoutunut, mutta lelujen poistuminen asettaa t\u00e4m\u00e4n koetukselle. Nuorison sitoutuminen on enemm\u00e4n transaktionaalista (halpa hinta sovelluksessa) kuin emotionaalista tai kulttuurista."
   },
   "competitive_analysis": {
     "key_competitors": [
       {
         "name": "McDonald's Suomi",
-        "content_strategy": "Erittäin datavetoinen (OMD/Annalect). Keskittyy pelillistämiseen, tarkan ROI:n mittaamiseen ja ilmiöittämiseen (esim. 'The Big Mac Conspiracy' -salaliittokampanja).",
+        "content_strategy": "Eritt\u00e4in datavetoinen (OMD/Annalect). Keskittyy pelillist\u00e4miseen, tarkan ROI:n mittaamiseen ja ilmi\u00f6itt\u00e4miseen (esim. 'The Big Mac Conspiracy' -salaliittokampanja).",
         "threat_level": "high"
       },
       {
         "name": "Burger King Suomi",
-        "content_strategy": "Aggressiivinen nuoriin vetoava, nopeatempoinen TikTok-läsnäolo. Vahva kulttuurinen kytkös (Jokerit-sponsorointi) ja personoitu kanta-asiakasohjelma (Kingiklubi).",
+        "content_strategy": "Aggressiivinen nuoriin vetoava, nopeatempoinen TikTok-l\u00e4sn\u00e4olo. Vahva kulttuurinen kytk\u00f6s (Jokerit-sponsorointi) ja personoitu kanta-asiakasohjelma (Kingiklubi).",
         "threat_level": "high"
       }
     ],
@@ -125,17 +125,17 @@
     ],
     "brand_losing_areas": [
       "Kulttuurinen relevanssi nuorison keskuudessa",
-      "Brändin viihdearvo",
+      "Br\u00e4ndin viihdearvo",
       "Viraalius",
-      "Kyky luoda puheenaiheita, jotka eivät liity pelkästään yritysvastuuseen"
+      "Kyky luoda puheenaiheita, jotka eiv\u00e4t liity pelk\u00e4st\u00e4\u00e4n yritysvastuuseen"
     ]
   },
   "strategic_tensions": [
     {
       "id": "tension_01",
-      "description": "Brändi haluaa ohjata kulutusta voimakkaasti kasvisruokaan, mutta kuluttajat pitävät sitä edelleen kompromissina mielihalun sijaan.",
+      "description": "Br\u00e4ndi haluaa ohjata kulutusta voimakkaasti kasvisruokaan, mutta kuluttajat pit\u00e4v\u00e4t sit\u00e4 edelleen kompromissina mielihalun sijaan.",
       "evidence": [
-        "Tavoite on 50 % lihatonta vuoteen 2030 mennessä.",
+        "Tavoite on 50 % lihatonta vuoteen 2030 menness\u00e4.",
         "Toteuma oli vasta 13,5 % loppuvuodesta 2025 hintasubventoinnista huolimatta."
       ],
       "opportunity_type": "aspiration",
@@ -143,20 +143,20 @@
     },
     {
       "id": "tension_02",
-      "description": "Brändi on historiallisesti ostanut perheiden huomion leluilla, mutta joutuu nyt ylläpitämään perhevetovoimaansa täysin ilman tätä konkreettista koukkua.",
+      "description": "Br\u00e4ndi on historiallisesti ostanut perheiden huomion leluilla, mutta joutuu nyt yll\u00e4pit\u00e4m\u00e4\u00e4n perhevetovoimaansa t\u00e4ysin ilman t\u00e4t\u00e4 konkreettista koukkua.",
       "evidence": [
         "Hesburger on perheiden luottoravintola (jakanut 3 miljoonaa lelua vuodessa).",
-        "Keväästä 2026 alkaen lelut poistuvat kokonaan eettisistä syistä."
+        "Kev\u00e4\u00e4st\u00e4 2026 alkaen lelut poistuvat kokonaan eettisist\u00e4 syist\u00e4."
       ],
       "opportunity_type": "gap",
       "priority_score": 5
     },
     {
       "id": "tension_03",
-      "description": "Hesburger viestii asiallisesta vastuullisuudesta, kun taas kilpailijat varastavat nuorten huomion puhtaalla, viraalilla viihteellä.",
+      "description": "Hesburger viestii asiallisesta vastuullisuudesta, kun taas kilpailijat varastavat nuorten huomion puhtaalla, viraalilla viihteell\u00e4.",
       "evidence": [
-        "Hesburgerin viestintä keskittyy hiilijalanjälkeen ja aurinkopaneeleihin.",
-        "McDonald's tekee salaliittopelejä ja Burger King ratsastaa TikTok-trendeillä."
+        "Hesburgerin viestint\u00e4 keskittyy hiilijalanj\u00e4lkeen ja aurinkopaneeleihin.",
+        "McDonald's tekee salaliittopelej\u00e4 ja Burger King ratsastaa TikTok-trendeill\u00e4."
       ],
       "opportunity_type": "threat",
       "priority_score": 4
@@ -165,33 +165,33 @@
   "opportunity_zones": [
     {
       "id": "opp_01",
-      "description": "VEKE:n uudelleenkehystäminen (Re-framing the Plant-based)",
-      "rationale": "Koska pelkkä hinta ja ilmastoargumentti eivät riitä murtamaan lihatottumuksia (tension_01), videosisällön on siirrettävä kasvisruoka pois 'luokkahuoneesta'. Mahdollisuus luoda sisältöä, joka tekee VEKE:stä asenteellista, haluttavaa ja jopa kapinallista pikaruokakulttuuria.",
+      "description": "VEKE:n uudelleenkehyst\u00e4minen (Re-framing the Plant-based)",
+      "rationale": "Koska pelkk\u00e4 hinta ja ilmastoargumentti eiv\u00e4t riit\u00e4 murtamaan lihatottumuksia (tension_01), videosis\u00e4ll\u00f6n on siirrett\u00e4v\u00e4 kasvisruoka pois 'luokkahuoneesta'. Mahdollisuus luoda sis\u00e4lt\u00f6\u00e4, joka tekee VEKE:st\u00e4 asenteellista, haluttavaa ja jopa kapinallista pikaruokakulttuuria.",
       "risk_level": "medium"
     },
     {
       "id": "opp_02",
       "description": "Uusi perhedynamiikka (The Post-Toy Era)",
-      "rationale": "Lelujen poistuminen (tension_02) jättää valtavan emotionaalisen tyhjiön lasten ravintolakokemukseen. Brändätty videosisältö tai digitaalinen viihde voi toimia uutena, aineettomana 'leluna', joka luo taikaa ja yhdistää perheet Hesburger-kokemuksen ympärille ilman muoviromua.",
+      "rationale": "Lelujen poistuminen (tension_02) j\u00e4tt\u00e4\u00e4 valtavan emotionaalisen tyhji\u00f6n lasten ravintolakokemukseen. Br\u00e4nd\u00e4tty videosis\u00e4lt\u00f6 tai digitaalinen viihde voi toimia uutena, aineettomana 'leluna', joka luo taikaa ja yhdist\u00e4\u00e4 perheet Hesburger-kokemuksen ymp\u00e4rille ilman muoviromua.",
       "risk_level": "high"
     },
     {
       "id": "opp_03",
       "description": "Suomalaisen omalaatuisuuden palauttaminen",
-      "rationale": "Kilpailijoiden globaalit ja kliiniset markkinointikoneistot jyräävät datalla (tension_03). Hesburgerilla on historiaa oudoista ja rohkeista vedoista (esim. Chuck Norris). Mahdollisuus käyttää videosisältöä kanavoimaan suomalaista, yrittäjähenkistä altavastaaja-asennetta, joka erottuu kilpailijoiden muovisesta viihteestä.",
+      "rationale": "Kilpailijoiden globaalit ja kliiniset markkinointikoneistot jyr\u00e4\u00e4v\u00e4t datalla (tension_03). Hesburgerilla on historiaa oudoista ja rohkeista vedoista (esim. Chuck Norris). Mahdollisuus k\u00e4ytt\u00e4\u00e4 videosis\u00e4lt\u00f6\u00e4 kanavoimaan suomalaista, yritt\u00e4j\u00e4henkist\u00e4 altavastaaja-asennetta, joka erottuu kilpailijoiden muovisesta viihteest\u00e4.",
       "risk_level": "medium"
     }
   ],
   "sources": [
     {
-      "title": "Hesburger määritteli tuotteidensa hiilijalanjäljet Luken kanssa",
+      "title": "Hesburger m\u00e4\u00e4ritteli tuotteidensa hiilijalanj\u00e4ljet Luken kanssa",
       "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQXiBU6ZDFKIkP0rTHozfro3658p6c4Ye_4aiKcSslB9Isgl-R0jyml1gH7kHFYYFHGvh7g_-RoyZc4orYU3qtBlfGauNmTfHhdllQMpz1k44TzB3udMPCmZFjVEW2dSyw1sl0Mlg2pNNvEn2LTc5K51hj1QN2xKWV46ZG93G3NONAierhhML4Mc2nMIEEPN0niZfD21lPdNlQkcFj1HXLPC1GOasQRjy7Z10=",
       "type": "report",
       "date_accessed": "2026-04-20",
-      "relevance": "Korkea (Vastuullisuusviestintä)"
+      "relevance": "Korkea (Vastuullisuusviestint\u00e4)"
     },
     {
-      "title": "Hesburger asetti kovan tavoitteen – Nyt noin joka seitsemäs myyty tuote on kasvipohjainen",
+      "title": "Hesburger asetti kovan tavoitteen \u2013 Nyt noin joka seitsem\u00e4s myyty tuote on kasvipohjainen",
       "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5aMzBsi9HFK8-fXE5NL60bdvvgyn4vAEo37jCiP5Ha58mQ65oOwXbJLaFE2V0mJxtltraMncHy4DDhjeOb106GLSmv1R5U7h_hAY_JLJsxIYxJHJXgnW9SBoTjQCyBBp4pWDjTMJ1fgbesY94lQjASvIsx2IhdnvNMKSTcb3Uzu4wgEqkZuH1YlIN3VxbGIOjlGh6DLOhM5BYIz0m5ZKVNFduIe9CMVXkr6xM46mXU67nK0ne9G4F_aY_0nSOXBKhQmftkOIMjDbo_3TKrOrnnfcDFGM8ALs=",
       "type": "news",
       "date_accessed": "2026-04-20",
@@ -205,21 +205,21 @@
       "relevance": "Korkea (Strateginen prioriteetti 1)"
     },
     {
-      "title": "Näin tehtiin Chuck Norris -mainokset",
+      "title": "N\u00e4in tehtiin Chuck Norris -mainokset",
       "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE42YoJlES_HBC7qIIFPg0SFmxf1Qaw9LMoWGpkzOBf-iOmN-PknXbEQNEmxQiZYXtTcgq8lmIMoHPLrVigI_HScDdW9jIw98nF56vHcvvZsTNDGknEggimPzytT1eRdzt5W8OK23A=",
       "type": "video",
       "date_accessed": "2026-04-20",
       "relevance": "Keskitaso (Markkinointipostuuri)"
     },
     {
-      "title": "Mäkkärin Big Mac -salaliittokampanja oli menestys",
+      "title": "M\u00e4kk\u00e4rin Big Mac -salaliittokampanja oli menestys",
       "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEg4TEXCFbArnDXJLCMGEM_prYe77xRrYAE33kQbpV7_7La4o8a0Dt_XdmPF05Tj6AUHVW1hloPyQzvQjPMeJ8Ka0OqIncBqDQfX2O8u75LcqrPbOnuiMX_xZyBHAge3H_e0ah4dCbCfv8LtM4xwnNe4K_cdTuo7vtacOLLQHEJlRJSTpUnQ6d_xKAj8szfBkrVef7rIjPtuM2EGhawTuj3Xu18B8NRovvlnnWmUwuQb_nlPClYq4HHLtPkSrjHzLP8Pb5pTFA3nQy_BP7XZQ8ifvlo3r8o9c9yh2Ze",
       "type": "news",
       "date_accessed": "2026-04-20",
       "relevance": "Korkea (Kilpailija-analyysi)"
     },
     {
-      "title": "TikTok markkinointiviestinnän alustana (Burger King)",
+      "title": "TikTok markkinointiviestinn\u00e4n alustana (Burger King)",
       "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3fE-m7bWoivJsIOmBDRdL2hQ6ahY_Yb0lQOEFXkPPoHxAX0-tUd0oXPaLJdihOtjDoJ6VVa9evd6K-YG_WI-FPL6FD060soYapfqgtJcNpIqoaRX4uNv4z43Qe2aH8ONwl9pfpKC-bmaMsXHhB0SGHCzm5WvpXcy36AgHbmntwLQ=",
       "type": "report",
       "date_accessed": "2026-04-20",
