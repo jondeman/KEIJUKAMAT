@@ -16,6 +16,9 @@
 - [Concept 03](concepts/concept_03.md)
 
 ## Treatments
+- [mcdonalds_TREATMENT_01_20260422_074257.md](treatments/mcdonalds_TREATMENT_01_20260422_074257.md)
+- [mcdonalds_TREATMENT_02_20260422_074443.md](treatments/mcdonalds_TREATMENT_02_20260422_074443.md)
+- [mcdonalds_TREATMENT_03_20260422_074621.md](treatments/mcdonalds_TREATMENT_03_20260422_074621.md)
 
 ## One-Pagers
 - [One-Pager 01](onepagers/concept_01.png)
