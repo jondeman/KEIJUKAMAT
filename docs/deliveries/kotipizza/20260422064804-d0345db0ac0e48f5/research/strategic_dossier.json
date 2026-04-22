@@ -3,9 +3,9 @@
   "company_slug": "kotipizza",
   "generated_at": "2026-04-22T06:52:00.196489",
   "brand_identity": {
-    "positioning": "Fast casual -kategoriaan asettuva, valkoisten pöytäliinojen ja halpojen pikaruoan tarjoajien väliin sijoittuva koko kansan brändi, jonka ydinmissio on olla 'hyvän puolella'.",
+    "positioning": "Fast casual -kategoriaan asettuva, valkoisten p\u00f6yt\u00e4liinojen ja halpojen pikaruoan tarjoajien v\u00e4liin sijoittuva koko kansan br\u00e4ndi, jonka ydinmissio on olla 'hyv\u00e4n puolella'.",
     "visual_markers": {
-      "primary_color": "Vihreä (Kokinhattu-logo)",
+      "primary_color": "Vihre\u00e4 (Kokinhattu-logo)",
       "secondary_colors": [
         "Punainen",
         "Valkoinen"
@@ -35,8 +35,8 @@
       "rank": 1,
       "priority": "Vastuullisuus ja hiilineutraalius 2030",
       "evidence": [
-        "Tavoite saavuttaa täysin hiilineutraalit ruokatuotteet vuoteen 2030 mennessä.",
-        "Valittu useasti Suomen vastuullisimmaksi ravintolabrändiksi (Sustainable Brand Index).",
+        "Tavoite saavuttaa t\u00e4ysin hiilineutraalit ruokatuotteet vuoteen 2030 menness\u00e4.",
+        "Valittu useasti Suomen vastuullisimmaksi ravintolabr\u00e4ndiksi (Sustainable Brand Index).",
         "Kotimaisen luonnonkalan tuonti valikoimaan (2025)."
       ],
       "execution_assessment": "strong"
@@ -45,17 +45,17 @@
       "rank": 2,
       "priority": "Digitaalisen asiakaskokemuksen ja kotiinkuljetuksen maksimointi",
       "evidence": [
-        "Oman verkkokaupan visuaalinen ja toiminnallinen uudistus kesäkuussa 2025.",
+        "Oman verkkokaupan visuaalinen ja toiminnallinen uudistus kes\u00e4kuussa 2025.",
         "Uuden, pisteisiin perustuvan 'Kotijoukot'-kanta-asiakasohjelman lanseeraus toukokuussa 2026.",
-        "Yhteistyö Woltin kanssa 'self-delivery'-mallilla."
+        "Yhteisty\u00f6 Woltin kanssa 'self-delivery'-mallilla."
       ],
       "execution_assessment": "strong"
     },
     {
       "rank": 3,
-      "priority": "Tuotevalikoiman rohkea kehittäminen",
+      "priority": "Tuotevalikoiman rohkea kehitt\u00e4minen",
       "evidence": [
-        "Klassikkotuotteiden (kuten Opera) poistaminen valikoimasta brändiuudistuksen (2025) yhteydessä.",
+        "Klassikkotuotteiden (kuten Opera) poistaminen valikoimasta br\u00e4ndiuudistuksen (2025) yhteydess\u00e4.",
         "Uusien, rohkeiden reseptiikoiden ja raaka-aineiden (luonnonkala) tuominen listalle."
       ],
       "execution_assessment": "moderate"
@@ -64,19 +64,19 @@
       "rank": 4,
       "priority": "Kustannuspaineiden hallinta inflaatiomarkkinassa",
       "evidence": [
-        "Ulkomaisen lihan tuominen kotimaisen rinnalle lokakuussa 2024 hintojen pitämiseksi kurissa.",
-        "Radikaalin avoimuuden hyödyntäminen hintojen nousun ja raaka-ainemuutosten viestimisessä."
+        "Ulkomaisen lihan tuominen kotimaisen rinnalle lokakuussa 2024 hintojen pit\u00e4miseksi kurissa.",
+        "Radikaalin avoimuuden hy\u00f6dynt\u00e4minen hintojen nousun ja raaka-ainemuutosten viestimisess\u00e4."
       ],
       "execution_assessment": "moderate"
     }
   ],
   "marketing_posture": {
     "current_content_types": [
-      "Laatu-, kotimaisuus- ja vastuullisuusviestintä",
-      "Herkullisuutta korostavat tuotesisällöt",
+      "Laatu-, kotimaisuus- ja vastuullisuusviestint\u00e4",
+      "Herkullisuutta korostavat tuotesis\u00e4ll\u00f6t",
       "Osallistavat some-kokeilut",
-      "Urheilusponsorointiin liittyvä sisältö",
-      "Johdon asiantuntijasisällöt B2B-foorumeilla"
+      "Urheilusponsorointiin liittyv\u00e4 sis\u00e4lt\u00f6",
+      "Johdon asiantuntijasis\u00e4ll\u00f6t B2B-foorumeilla"
     ],
     "channel_presence": {
       "youtube": {
@@ -85,58 +85,58 @@
       },
       "tiktok": {
         "active": true,
-        "assessment": "Osallistavaa, kokeilevaa ja nuorempaa yleisöä puhuttelevaa."
+        "assessment": "Osallistavaa, kokeilevaa ja nuorempaa yleis\u00f6\u00e4 puhuttelevaa."
       },
       "instagram": {
         "active": true,
-        "assessment": "Osallistavaa, kokeilevaa ja nuorempaa yleisöä puhuttelevaa."
+        "assessment": "Osallistavaa, kokeilevaa ja nuorempaa yleis\u00f6\u00e4 puhuttelevaa."
       },
       "linkedin": {
         "active": true,
-        "assessment": "Toimitusjohtaja ja markkinointijohtaja rakentavat asiantuntijabrändiä."
+        "assessment": "Toimitusjohtaja ja markkinointijohtaja rakentavat asiantuntijabr\u00e4ndi\u00e4."
       }
     },
     "apparent_gaps": [
-      "Kanta-asiakasohjelman (Kotijoukot) viestintä on puhtaasti mekaanista ja transaktionaalista, siitä puuttuu emotionaalinen ja yhteisöllinen sisältökerros.",
-      "Klo 21 jälkeinen 'myöhäisillan' kulutustilanne on tunnistettu datassa, mutta sitä ei ole vielä omittu sisällöissä."
+      "Kanta-asiakasohjelman (Kotijoukot) viestint\u00e4 on puhtaasti mekaanista ja transaktionaalista, siit\u00e4 puuttuu emotionaalinen ja yhteis\u00f6llinen sis\u00e4lt\u00f6kerros.",
+      "Klo 21 j\u00e4lkeinen 'my\u00f6h\u00e4isillan' kulutustilanne on tunnistettu datassa, mutta sit\u00e4 ei ole viel\u00e4 omittu sis\u00e4ll\u00f6iss\u00e4."
     ],
-    "audience_engagement": "Vastuullisuusteot ja osallistavat kampanjat saavat kiitosta, mutta brändi on haavoittuvainen polarisoivalle keskustelulle. Nuoret kaupunkilaiset sitoutuvat heikommin omiin kanaviin suosien aggregaattoreita."
+    "audience_engagement": "Vastuullisuusteot ja osallistavat kampanjat saavat kiitosta, mutta br\u00e4ndi on haavoittuvainen polarisoivalle keskustelulle. Nuoret kaupunkilaiset sitoutuvat heikommin omiin kanaviin suosien aggregaattoreita."
   },
   "competitive_analysis": {
     "key_competitors": [
       {
-        "name": "Alustatalouden jätit (Wolt, Foodora) ja haamukeittiöt",
-        "content_strategy": "Äärimmäinen helppous, laaja valikoima, nuorten kaupunkilaisten arjen omistaminen.",
+        "name": "Alustatalouden j\u00e4tit (Wolt, Foodora) ja haamukeitti\u00f6t",
+        "content_strategy": "\u00c4\u00e4rimm\u00e4inen helppous, laaja valikoima, nuorten kaupunkilaisten arjen omistaminen.",
         "threat_level": "high"
       },
       {
-        "name": "Kansainväliset ketjut (Domino's, Pizza Hut)",
-        "content_strategy": "Aggressiivinen tarjousvetoisuus ja globaali brändimielikuva.",
+        "name": "Kansainv\u00e4liset ketjut (Domino's, Pizza Hut)",
+        "content_strategy": "Aggressiivinen tarjousvetoisuus ja globaali br\u00e4ndimielikuva.",
         "threat_level": "medium"
       },
       {
         "name": "Paikalliset kebab-pizzeriat",
-        "content_strategy": "Ei keskitettyä strategiaa, kilpailevat puhtaasti hinnalla ja lähialueen saavutettavuudella.",
+        "content_strategy": "Ei keskitetty\u00e4 strategiaa, kilpailevat puhtaasti hinnalla ja l\u00e4hialueen saavutettavuudella.",
         "threat_level": "medium"
       }
     ],
     "brand_winning_areas": [
-      "Koko maan kattavuus (myös maakunnat)",
+      "Koko maan kattavuus (my\u00f6s maakunnat)",
       "Vastuullisuusmielikuva",
       "Fast casual -laatu ja kotimaisuusaste",
       "Omien kuljetusten hallinta (self-delivery)"
     ],
     "brand_losing_areas": [
-      "Nuorten urbaanien kuluttajien brändiuskollisuus (alusta-uskollisuus ajaa ohi)",
+      "Nuorten urbaanien kuluttajien br\u00e4ndiuskollisuus (alusta-uskollisuus ajaa ohi)",
       "Hintakilpailu halpatarjoajia vastaan"
     ]
   },
   "strategic_tensions": [
     {
       "id": "tension_01",
-      "description": "Brändi viestii ehdotonta vastuullisuutta ja idealismia, mutta joutuu tekemään taloudellisia kompromisseja raaka-aineissa.",
+      "description": "Br\u00e4ndi viestii ehdotonta vastuullisuutta ja idealismia, mutta joutuu tekem\u00e4\u00e4n taloudellisia kompromisseja raaka-aineissa.",
       "evidence": [
-        "Tavoitteena hiilineutraalius 2030 ja brändimissio 'hyvän puolella'.",
+        "Tavoitteena hiilineutraalius 2030 ja br\u00e4ndimissio 'hyv\u00e4n puolella'.",
         "Inflaation pakottama ulkomaisen lihan tuonti kotimaisen rinnalle lokakuussa 2024."
       ],
       "opportunity_type": "gap",
@@ -144,29 +144,29 @@
     },
     {
       "id": "tension_02",
-      "description": "Kotipizza asemoi itsensä laadukkaaksi 'fast casual' -ravintolaksi, mutta asiakaskokemus typistyy usein myöhäisillan pahvilaatikkoon.",
+      "description": "Kotipizza asemoi itsens\u00e4 laadukkaaksi 'fast casual' -ravintolaksi, mutta asiakaskokemus typistyy usein my\u00f6h\u00e4isillan pahvilaatikkoon.",
       "evidence": [
-        "Brändi haluaa irti pikaruokaleimasta.",
-        "Yhä suurempi osa pizzoista tilataan sovelluksella kotiin ja syödään sohvalla klo 21 jälkeen."
+        "Br\u00e4ndi haluaa irti pikaruokaleimasta.",
+        "Yh\u00e4 suurempi osa pizzoista tilataan sovelluksella kotiin ja sy\u00f6d\u00e4\u00e4n sohvalla klo 21 j\u00e4lkeen."
       ],
       "opportunity_type": "aspiration",
       "priority_score": 4
     },
     {
       "id": "tension_03",
-      "description": "Brändi haluaa olla koko kansan 'Fazerin Sininen', mutta menettää otettaan kaupungistuvasta, alustoja käyttävästä Z-sukupolvesta.",
+      "description": "Br\u00e4ndi haluaa olla koko kansan 'Fazerin Sininen', mutta menett\u00e4\u00e4 otettaan kaupungistuvasta, alustoja k\u00e4ytt\u00e4v\u00e4st\u00e4 Z-sukupolvesta.",
       "evidence": [
         "Vahva panostus omaan verkkokauppaan ja maakuntien tavoittamiseen.",
-        "Nuoret kaupunkilaiset tilaavat ruokansa Woltista/Foodorasta, joissa brändiuskollisuus on matalampaa."
+        "Nuoret kaupunkilaiset tilaavat ruokansa Woltista/Foodorasta, joissa br\u00e4ndiuskollisuus on matalampaa."
       ],
       "opportunity_type": "underserved_audience",
       "priority_score": 4
     },
     {
       "id": "tension_04",
-      "description": "Brändiuudistus korostaa inhimillisyyttä ja iloa, mutta digitaalinen ostopolku ja kanta-asiakasohjelma ovat kylmän mekaanisia.",
+      "description": "Br\u00e4ndiuudistus korostaa inhimillisyytt\u00e4 ja iloa, mutta digitaalinen ostopolku ja kanta-asiakasohjelma ovat kylm\u00e4n mekaanisia.",
       "evidence": [
-        "Visuaaliseen ilmeeseen tuotiin energiaa ja 'kokinhattu'-inhimillisyyttä (2025).",
+        "Visuaaliseen ilmeeseen tuotiin energiaa ja 'kokinhattu'-inhimillisyytt\u00e4 (2025).",
         "Uusi Kotijoukot-ohjelma (2026) perustuu puhtaasti transaktionaaliseen pisteidenkeruuseen (slaissit)."
       ],
       "opportunity_type": "gap",
@@ -176,20 +176,20 @@
   "opportunity_zones": [
     {
       "id": "opp_01",
-      "description": "Myöhäisillan (After 9 PM) koti-iltojen omistaminen tunnetasolla.",
-      "rationale": "Data osoittaa ruokailuaikojen pirstaloituneen ja myöhäisillan tilausten kasvaneen. Luomalla sisältöä, joka resonoi tämän spesifin, urbaanin 'sohvahetken' kanssa, brändi voi tuoda 'fast casual' -laadun tunteen myös kotiinkuljetettuun pahvilaatikkoon vieraannuttamatta perinteisiä lapsiperheitä.",
+      "description": "My\u00f6h\u00e4isillan (After 9 PM) koti-iltojen omistaminen tunnetasolla.",
+      "rationale": "Data osoittaa ruokailuaikojen pirstaloituneen ja my\u00f6h\u00e4isillan tilausten kasvaneen. Luomalla sis\u00e4lt\u00f6\u00e4, joka resonoi t\u00e4m\u00e4n spesifin, urbaanin 'sohvahetken' kanssa, br\u00e4ndi voi tuoda 'fast casual' -laadun tunteen my\u00f6s kotiinkuljetettuun pahvilaatikkoon vieraannuttamatta perinteisi\u00e4 lapsiperheit\u00e4.",
       "risk_level": "low"
     },
     {
       "id": "opp_02",
       "description": "Kotijoukot-kanta-asiakasohjelman muuttaminen mekaanisesta alennusautomaatista emotionaaliseksi heimoksi.",
-      "rationale": "Ohjelma on juuri lanseerattu, ja sen infrastruktuuri on kunnossa. Nyt on mahdollisuus kuroa umpeen kuilu digitaalisen tehokkuuden ja brändin inhimillisyyden välillä. Sisällöillä voidaan rakentaa yhteisöllisyyttä, joka sitouttaa asiakkaita Kotipizzan omaan ekosysteemiin ohi Woltin ja Foodoran.",
+      "rationale": "Ohjelma on juuri lanseerattu, ja sen infrastruktuuri on kunnossa. Nyt on mahdollisuus kuroa umpeen kuilu digitaalisen tehokkuuden ja br\u00e4ndin inhimillisyyden v\u00e4lill\u00e4. Sis\u00e4ll\u00f6ill\u00e4 voidaan rakentaa yhteis\u00f6llisyytt\u00e4, joka sitouttaa asiakkaita Kotipizzan omaan ekosysteemiin ohi Woltin ja Foodoran.",
       "risk_level": "medium"
     },
     {
       "id": "opp_03",
-      "description": "Abstraktin vastuullisuuden (Hiilineutraali 2030) kääntäminen radikaalin avoimeksi, arkiseksi teoksi.",
-      "rationale": "Brändi kärsii jännitteestä idealismin ja hintapragmatismin välillä. Saarnaavan ylätason viestinnän sijaan brändätty sisältö voi näyttää rehellisesti ja 'radikaalilla avoimuudella', mitä kompromisseja ja onnistumisia vastuullinen arki vaatii.",
+      "description": "Abstraktin vastuullisuuden (Hiilineutraali 2030) k\u00e4\u00e4nt\u00e4minen radikaalin avoimeksi, arkiseksi teoksi.",
+      "rationale": "Br\u00e4ndi k\u00e4rsii j\u00e4nnitteest\u00e4 idealismin ja hintapragmatismin v\u00e4lill\u00e4. Saarnaavan yl\u00e4tason viestinn\u00e4n sijaan br\u00e4nd\u00e4tty sis\u00e4lt\u00f6 voi n\u00e4ytt\u00e4\u00e4 rehellisesti ja 'radikaalilla avoimuudella', mit\u00e4 kompromisseja ja onnistumisia vastuullinen arki vaatii.",
       "risk_level": "high"
     }
   ],
@@ -206,7 +206,7 @@
       "url": "pizzaguy.fi",
       "type": "other",
       "date_accessed": "2023-10-25",
-      "relevance": "Johdon asiantuntijasisältö ja historia"
+      "relevance": "Johdon asiantuntijasis\u00e4lt\u00f6 ja historia"
     },
     {
       "title": "Kotipizza Group",
@@ -227,7 +227,7 @@
       "url": "maaseuduntulevaisuus.fi",
       "type": "news",
       "date_accessed": "2023-10-25",
-      "relevance": "Raaka-aineiden alkuperä (liha, kotimaisuus)"
+      "relevance": "Raaka-aineiden alkuper\u00e4 (liha, kotimaisuus)"
     }
   ]
 }
