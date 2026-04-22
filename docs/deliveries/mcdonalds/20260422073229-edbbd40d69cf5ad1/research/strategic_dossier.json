@@ -3,7 +3,7 @@
   "company_slug": "mcdonalds",
   "generated_at": "2026-04-22T07:36:57.314680",
   "brand_identity": {
-    "positioning": "Globaali mutta lokaali, helposti lähestyttävä ja edullinen perheravintola. McDonald's asemoi itsensä arjen tutuksi ja turvalliseksi kiintopisteeksi, joka tarjoaa mukavuutta ja vaivattomuutta.",
+    "positioning": "Globaali mutta lokaali, helposti l\u00e4hestytt\u00e4v\u00e4 ja edullinen perheravintola. McDonald's asemoi itsens\u00e4 arjen tutuksi ja turvalliseksi kiintopisteeksi, joka tarjoaa mukavuutta ja vaivattomuutta.",
     "visual_markers": {
       "primary_color": "Punakeltainen (#DA291C ja #FFC72C)",
       "secondary_colors": [
@@ -16,21 +16,21 @@
         "Ikoninen"
       ],
       "tone_keywords": [
-        "Ystävällinen",
+        "Yst\u00e4v\u00e4llinen",
         "Humoristinen",
         "Nostalginen",
-        "Leikkisä",
+        "Leikkis\u00e4",
         "Some-natiivi"
       ]
     },
     "voice_characteristics": [
-      "Ystävällinen",
+      "Yst\u00e4v\u00e4llinen",
       "Humoristinen",
       "Nostalginen",
-      "Leikkisä",
+      "Leikkis\u00e4",
       "Some-natiivi",
       "Pop-kulttuuriin osallistuva",
-      "Faniyhteisöjen kieltä puhuva"
+      "Faniyhteis\u00f6jen kielt\u00e4 puhuva"
     ]
   },
   "strategic_priorities": [
@@ -39,9 +39,9 @@
       "priority": "Digitaalisen ekosysteemin ja kanta-asiakkuuden maksimointi",
       "evidence": [
         "MyMcDonald's Rewards on kasvanut 37 miljardin dollarin myyntikoneeksi.",
-        "Yli 210 miljoonaa aktiivista käyttäjää globaalisti.",
-        "Digitaalisten kanavien osuus myynnistä on huippumarkkinoilla yli 40 %.",
-        "Markkinointibudjetin jatkuva siirto perinteisestä mediasta personoituihin digikanaviin."
+        "Yli 210 miljoonaa aktiivista k\u00e4ytt\u00e4j\u00e4\u00e4 globaalisti.",
+        "Digitaalisten kanavien osuus myynnist\u00e4 on huippumarkkinoilla yli 40 %.",
+        "Markkinointibudjetin jatkuva siirto perinteisest\u00e4 mediasta personoituihin digikanaviin."
       ],
       "execution_assessment": "strong"
     },
@@ -50,7 +50,7 @@
       "priority": "Hintakilpailukyvyn (Value Leadership) palauttaminen",
       "evidence": [
         "Aggressiivinen 'McValue 2.0' -strategia vastauksena inflaatioon.",
-        "3 dollarin yksittäistuotteiden ja 4 dollarin ateriakokonaisuuksien lanseeraukset.",
+        "3 dollarin yksitt\u00e4istuotteiden ja 4 dollarin ateriakokonaisuuksien lanseeraukset.",
         "Tavoitteena voittaa takaisin menetetyt, hintatietoiset pienituloiset kuluttajat."
       ],
       "execution_assessment": "moderate"
@@ -60,8 +60,8 @@
       "priority": "Ydinmenun vahvistaminen ja uudet kulutustilanteet",
       "evidence": [
         "Kanan markkinaosuuden systemaattinen kasvattaminen.",
-        "Uusien juomakonseptien (energiajuomat, jääkahvit, 'fruity refreshers') pilotointi.",
-        "Tavoitteena houkutella asiakkaita iltapäivän hiljaisempina tunteina (snacking-kategoria)."
+        "Uusien juomakonseptien (energiajuomat, j\u00e4\u00e4kahvit, 'fruity refreshers') pilotointi.",
+        "Tavoitteena houkutella asiakkaita iltap\u00e4iv\u00e4n hiljaisempina tunteina (snacking-kategoria)."
       ],
       "execution_assessment": "moderate"
     }
@@ -72,76 +72,76 @@
       "Nostalgia",
       "Fanius (fandom)",
       "Pelillisyys",
-      "Käyttäjien luoma sisältö (UGC)"
+      "K\u00e4ytt\u00e4jien luoma sis\u00e4lt\u00f6 (UGC)"
     ],
     "channel_presence": {
       "youtube": {
         "active": true,
-        "assessment": "Hyödyntää vahvasti Shorts-formaattia ja pelivaikuttajia. Tekee myös pidempää, emotionaalista tarinankerrontaa. Korkea sitoutuminen."
+        "assessment": "Hy\u00f6dynt\u00e4\u00e4 vahvasti Shorts-formaattia ja pelivaikuttajia. Tekee my\u00f6s pidemp\u00e4\u00e4, emotionaalista tarinankerrontaa. Korkea sitoutuminen."
       },
       "tiktok": {
         "active": true,
-        "assessment": "Erittäin aktiivinen. Brändi on täällä natiiveimmillaan. Hyödyntää AR-linssejä ja luo alustan viraali-ilmiöille. Erinomainen sitoutuminen nuorison keskuudessa."
+        "assessment": "Eritt\u00e4in aktiivinen. Br\u00e4ndi on t\u00e4\u00e4ll\u00e4 natiiveimmillaan. Hy\u00f6dynt\u00e4\u00e4 AR-linssej\u00e4 ja luo alustan viraali-ilmi\u00f6ille. Erinomainen sitoutuminen nuorison keskuudessa."
       },
       "instagram": {
         "active": true,
-        "assessment": "Erittäin aktiivinen. Hyödyntää AR-linssejä ja luo alustan viraali-ilmiöille. Erinomainen sitoutuminen nuorison keskuudessa."
+        "assessment": "Eritt\u00e4in aktiivinen. Hy\u00f6dynt\u00e4\u00e4 AR-linssej\u00e4 ja luo alustan viraali-ilmi\u00f6ille. Erinomainen sitoutuminen nuorison keskuudessa."
       },
       "linkedin": {
         "active": false,
-        "assessment": "Ei mainittu analyysissä, oletettavasti vähemmän aktiivinen kuluttajamarkkinoinnissa."
+        "assessment": "Ei mainittu analyysiss\u00e4, oletettavasti v\u00e4hemm\u00e4n aktiivinen kuluttajamarkkinoinnissa."
       }
     },
     "apparent_gaps": [
-      "Digitaalisen asioinnin (kioskit, appi) ja brändin viestimän inhimillisen lämmön välillä on kuilu.",
-      "Viestintä jakautuu voimakkaasti nuorten viihdyttämiseen ja toisaalta perheiden hintavetoiseen taktiseen mainontaan."
+      "Digitaalisen asioinnin (kioskit, appi) ja br\u00e4ndin viestim\u00e4n inhimillisen l\u00e4mm\u00f6n v\u00e4lill\u00e4 on kuilu.",
+      "Viestint\u00e4 jakautuu voimakkaasti nuorten viihdytt\u00e4miseen ja toisaalta perheiden hintavetoiseen taktiseen mainontaan."
     ],
-    "audience_engagement": "Z-sukupolvi ja millenniaalit sitoutuvat erinomaisesti pelillistettyyn ja pop-kulttuuria sivuavaan sisältöön. Pienituloiset perheet ja työssäkäyvät reagoivat lähinnä hintaan ja nopeuteen, ja heidän orgaaninen sitoutumisensa brändiin on heikentynyt inflaation myötä."
+    "audience_engagement": "Z-sukupolvi ja millenniaalit sitoutuvat erinomaisesti pelillistettyyn ja pop-kulttuuria sivuavaan sis\u00e4lt\u00f6\u00f6n. Pienituloiset perheet ja ty\u00f6ss\u00e4k\u00e4yv\u00e4t reagoivat l\u00e4hinn\u00e4 hintaan ja nopeuteen, ja heid\u00e4n orgaaninen sitoutumisensa br\u00e4ndiin on heikentynyt inflaation my\u00f6t\u00e4."
   },
   "competitive_analysis": {
     "key_competitors": [
       {
         "name": "Chick-fil-A",
-        "content_strategy": "Keskittyy ylivertaiseen asiakaspalveluun, yhteisöllisyyteen ja laatumielikuvaan.",
+        "content_strategy": "Keskittyy ylivertaiseen asiakaspalveluun, yhteis\u00f6llisyyteen ja laatumielikuvaan.",
         "threat_level": "high"
       },
       {
         "name": "Wendy's",
-        "content_strategy": "Tunnettu rohkeasta, piikittelevästä some-presenssistään. Digitaalisesti erittäin edistynyt ja haastaa vahvasti aamiaisissa sekä 'tuoreen lihan' viestillä.",
+        "content_strategy": "Tunnettu rohkeasta, piikittelev\u00e4st\u00e4 some-presenssist\u00e4\u00e4n. Digitaalisesti eritt\u00e4in edistynyt ja haastaa vahvasti aamiaisissa sek\u00e4 'tuoreen lihan' viestill\u00e4.",
         "threat_level": "medium"
       },
       {
         "name": "Burger King",
-        "content_strategy": "'Reclaim the Flame' -strategia. Investoi miljardeja ravintoloiden ja markkinoinnin uudistamiseen viedäkseen markkinaosuutta suoraan McDonald'silta.",
+        "content_strategy": "'Reclaim the Flame' -strategia. Investoi miljardeja ravintoloiden ja markkinoinnin uudistamiseen vied\u00e4kseen markkinaosuutta suoraan McDonald'silta.",
         "threat_level": "medium"
       }
     ],
     "brand_winning_areas": [
-      "Digitaalisen ekosysteemin skaala (210 miljoonan käyttäjän kanta-asiakasohjelma)",
-      "Kyky luoda globaaleja kulttuurisia viraali-ilmiöitä (UGC)",
+      "Digitaalisen ekosysteemin skaala (210 miljoonan k\u00e4ytt\u00e4j\u00e4n kanta-asiakasohjelma)",
+      "Kyky luoda globaaleja kulttuurisia viraali-ilmi\u00f6it\u00e4 (UGC)",
       "Pop-kulttuurin integrointi"
     ],
     "brand_losing_areas": [
       "Fyysisen asiakaskohtaamisen laatu (vs. Chick-fil-A)",
-      "Hintamielikuvan hallinta inflaation puristuksessa olevien kuluttajien silmissä"
+      "Hintamielikuvan hallinta inflaation puristuksessa olevien kuluttajien silmiss\u00e4"
     ]
   },
   "strategic_tensions": [
     {
       "id": "tension_01",
-      "description": "Brändi automatisoi asiointikokemuksen äärimmilleen, mutta yrittää samalla viestiä markkinoinnissaan inhimillistä lämpöä ja yhteisöllisyyttä.",
+      "description": "Br\u00e4ndi automatisoi asiointikokemuksen \u00e4\u00e4rimmilleen, mutta yritt\u00e4\u00e4 samalla viesti\u00e4 markkinoinnissaan inhimillist\u00e4 l\u00e4mp\u00f6\u00e4 ja yhteis\u00f6llisyytt\u00e4.",
       "evidence": [
-        "Tilauskioskit, tekoäly-drive-in ja sovellustilaukset poistavat ihmiskontaktin.",
-        "Samaan aikaan kampanjat nojaavat vahvasti ihmisten välisiin tunteisiin ja kohtaamisiin."
+        "Tilauskioskit, teko\u00e4ly-drive-in ja sovellustilaukset poistavat ihmiskontaktin.",
+        "Samaan aikaan kampanjat nojaavat vahvasti ihmisten v\u00e4lisiin tunteisiin ja kohtaamisiin."
       ],
       "opportunity_type": "gap",
       "priority_score": 5
     },
     {
       "id": "tension_02",
-      "description": "McDonald's kärsii arvolupauksen identiteettikriisistä yrittäessään olla samanaikaisesti halparavintola ja premium-hampurilaisten tarjoaja.",
+      "description": "McDonald's k\u00e4rsii arvolupauksen identiteettikriisist\u00e4 yritt\u00e4ess\u00e4\u00e4n olla samanaikaisesti halparavintola ja premium-hampurilaisten tarjoaja.",
       "evidence": [
-        "Lanseeraa epätoivoisesti 3–4 dollarin McValue 2.0 -aterioita voittaakseen takaisin pienituloiset.",
+        "Lanseeraa ep\u00e4toivoisesti 3\u20134 dollarin McValue 2.0 -aterioita voittaakseen takaisin pienituloiset.",
         "Samanaikaisesti lanseeraa yli 10 dollarin 'Big Arch' -hampurilaisia suurituloisemmille."
       ],
       "opportunity_type": "aspiration",
@@ -149,20 +149,20 @@
     },
     {
       "id": "tension_03",
-      "description": "Korporaation ajamat aggressiiviset alennuskampanjat sovelluksessa syövät suoraan kauppiaiden (franchise-yrittäjien) katteita ja luovat sisäistä kitkaa.",
+      "description": "Korporaation ajamat aggressiiviset alennuskampanjat sovelluksessa sy\u00f6v\u00e4t suoraan kauppiaiden (franchise-yritt\u00e4jien) katteita ja luovat sis\u00e4ist\u00e4 kitkaa.",
       "evidence": [
         "Johto puskee sovellustarjouksia asiakasvirtojen kasvattamiseksi.",
-        "Ruoan ja työn hinta on noussut, ja McDonald's on nostanut kauppiaiden rojaltimaksuja 5 prosenttiin."
+        "Ruoan ja ty\u00f6n hinta on noussut, ja McDonald's on nostanut kauppiaiden rojaltimaksuja 5 prosenttiin."
       ],
       "opportunity_type": "threat",
       "priority_score": 4
     },
     {
       "id": "tension_04",
-      "description": "Asiakaskunta on jakautunut kahtia (bifurcation), jolloin brändin perinteinen ydinyleisö (pienituloiset perheet) on jäämässä palvelun ulkopuolelle.",
+      "description": "Asiakaskunta on jakautunut kahtia (bifurcation), jolloin br\u00e4ndin perinteinen ydinyleis\u00f6 (pienituloiset perheet) on j\u00e4\u00e4m\u00e4ss\u00e4 palvelun ulkopuolelle.",
       "evidence": [
-        "Pienituloisten asiakkaiden käyntimäärät ovat laskeneet lähes kaksinumeroisin luvuin.",
-        "Suurituloisempien käynnit ovat kasvaneet, mikä vääristää asiakasdata."
+        "Pienituloisten asiakkaiden k\u00e4yntim\u00e4\u00e4r\u00e4t ovat laskeneet l\u00e4hes kaksinumeroisin luvuin.",
+        "Suurituloisempien k\u00e4ynnit ovat kasvaneet, mik\u00e4 v\u00e4\u00e4rist\u00e4\u00e4 asiakasdata."
       ],
       "opportunity_type": "underserved_audience",
       "priority_score": 3
@@ -171,20 +171,20 @@
   "opportunity_zones": [
     {
       "id": "opp_01",
-      "description": "Arvon (Value) uudelleenmäärittely viihteen kautta, ei vain hintalapun kautta.",
-      "rationale": "Koska raskaat alennukset suututtavat kauppiaat ja halpuuttavat brändiä, sovelluksen käytön arvo pitää kääntää kokemukselliseksi. Sovellus voi tarjota arjen viihdettä ja pelillisyyttä, jolloin asiakas kokee saavansa 'enemmän' ilman, että hampurilaisen hintaa tarvitsee polkea.",
+      "description": "Arvon (Value) uudelleenm\u00e4\u00e4rittely viihteen kautta, ei vain hintalapun kautta.",
+      "rationale": "Koska raskaat alennukset suututtavat kauppiaat ja halpuuttavat br\u00e4ndi\u00e4, sovelluksen k\u00e4yt\u00f6n arvo pit\u00e4\u00e4 k\u00e4\u00e4nt\u00e4\u00e4 kokemukselliseksi. Sovellus voi tarjota arjen viihdett\u00e4 ja pelillisyytt\u00e4, jolloin asiakas kokee saavansa 'enemm\u00e4n' ilman, ett\u00e4 hampurilaisen hintaa tarvitsee polkea.",
       "risk_level": "low"
     },
     {
       "id": "opp_02",
-      "description": "Phygital-kokemuksen luominen: Kylmän teknologian inhimillistäminen.",
-      "rationale": "Asiointi on muuttunut kasvottomaksi ruudun näpyttelyksi. Luovalla sisällöllä ja sovellusaktivaatioilla on mahdollisuus kuroa umpeen tämä kuilu ja palauttaa inhimillisen yhteyden tunne automatisoituun asiointiin.",
+      "description": "Phygital-kokemuksen luominen: Kylm\u00e4n teknologian inhimillist\u00e4minen.",
+      "rationale": "Asiointi on muuttunut kasvottomaksi ruudun n\u00e4pyttelyksi. Luovalla sis\u00e4ll\u00f6ll\u00e4 ja sovellusaktivaatioilla on mahdollisuus kuroa umpeen t\u00e4m\u00e4 kuilu ja palauttaa inhimillisen yhteyden tunne automatisoituun asiointiin.",
       "risk_level": "medium"
     },
     {
       "id": "opp_03",
       "description": "Faniuden (Fandom) ja UGC:n valjastaminen uusiin kulutustilanteisiin.",
-      "rationale": "Brändi haluaa kasvattaa iltapäivän myyntiä uusilla juomilla. Uusien tuotteiden lanseeraus iltapäivän 'snacking'-aikaan tulisi rakentaa alustaksi käyttäjien omalle sisällöntuotannolle, ei vain perinteiseksi tuotemainonnaksi.",
+      "rationale": "Br\u00e4ndi haluaa kasvattaa iltap\u00e4iv\u00e4n myynti\u00e4 uusilla juomilla. Uusien tuotteiden lanseeraus iltap\u00e4iv\u00e4n 'snacking'-aikaan tulisi rakentaa alustaksi k\u00e4ytt\u00e4jien omalle sis\u00e4ll\u00f6ntuotannolle, ei vain perinteiseksi tuotemainonnaksi.",
       "risk_level": "low"
     }
   ],
@@ -201,7 +201,7 @@
       "url": "https://enrichlabs.ai",
       "type": "other",
       "date_accessed": "2025-01-01",
-      "relevance": "Tekoälyn ja datan hyödyntäminen"
+      "relevance": "Teko\u00e4lyn ja datan hy\u00f6dynt\u00e4minen"
     },
     {
       "title": "MediaPost",
@@ -222,7 +222,7 @@
       "url": "https://mcdonalds.com",
       "type": "company_site",
       "date_accessed": "2025-01-01",
-      "relevance": "Brändin oma viestintä ja Q4/2025 tulos"
+      "relevance": "Br\u00e4ndin oma viestint\u00e4 ja Q4/2025 tulos"
     },
     {
       "title": "Investing.com",
