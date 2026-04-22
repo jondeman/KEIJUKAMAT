@@ -16,6 +16,9 @@
 - [Concept 03](concepts/concept_03.md)
 
 ## Treatments
+- [kotipizza_TREATMENT_01_20260422_065748.md](treatments/kotipizza_TREATMENT_01_20260422_065748.md)
+- [kotipizza_TREATMENT_02_20260422_065929.md](treatments/kotipizza_TREATMENT_02_20260422_065929.md)
+- [kotipizza_TREATMENT_03_20260422_070118.md](treatments/kotipizza_TREATMENT_03_20260422_070118.md)
 
 ## One-Pagers
 - [One-Pager 01](onepagers/concept_01.png)
