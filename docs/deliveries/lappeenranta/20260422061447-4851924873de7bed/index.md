@@ -16,6 +16,9 @@
 - [Concept 03](concepts/concept_03.md)
 
 ## Treatments
+- [lappeenranta_TREATMENT_01_20260422_062451.md](treatments/lappeenranta_TREATMENT_01_20260422_062451.md)
+- [lappeenranta_TREATMENT_02_20260422_062618.md](treatments/lappeenranta_TREATMENT_02_20260422_062618.md)
+- [lappeenranta_TREATMENT_03_20260422_062758.md](treatments/lappeenranta_TREATMENT_03_20260422_062758.md)
 
 ## One-Pagers
 - [One-Pager 01](onepagers/concept_01.png)
