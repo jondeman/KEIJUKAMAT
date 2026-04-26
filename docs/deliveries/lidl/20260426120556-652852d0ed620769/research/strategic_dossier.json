@@ -3,7 +3,7 @@
   "company_slug": "lidl",
   "generated_at": "2026-04-26T12:10:32.937627",
   "brand_identity": {
-    "positioning": "Paras vastine rahalle. Lidl ei määrittele itseään pelkästään halpana, vaan tehokkaana valintana, jossa hinta ja laatu kohtaavat optimaalisesti. Ydinviesti: 'Lidl. Se kannattaa.'",
+    "positioning": "Paras vastine rahalle. Lidl ei m\u00e4\u00e4rittele itse\u00e4\u00e4n pelk\u00e4st\u00e4\u00e4n halpana, vaan tehokkaana valintana, jossa hinta ja laatu kohtaavat optimaalisesti. Ydinviesti: 'Lidl. Se kannattaa.'",
     "visual_markers": {
       "primary_color": "Sininen",
       "secondary_colors": [
@@ -37,7 +37,7 @@
       "priority": "Nuorten, lapsettomien kotitalouksien valloittaminen",
       "evidence": [
         "Raskaat investoinnit TikTokiin ja Jodeliin",
-        "Tavoitteena parantaa 'First Choice' -mittareita tässä segmentissä"
+        "Tavoitteena parantaa 'First Choice' -mittareita t\u00e4ss\u00e4 segmentiss\u00e4"
       ],
       "execution_assessment": "strong"
     },
@@ -46,8 +46,8 @@
       "priority": "Vastuullisuuden ja halpuuden yhteensovittaminen",
       "evidence": [
         "Nettonollatavoite 2050",
-        "30 % muovivähennys omamerkkituotteissa 2025 mennessä",
-        "Ekomyymälöiden rakentaminen"
+        "30 % muoviv\u00e4hennys omamerkkituotteissa 2025 menness\u00e4",
+        "Ekomyym\u00e4l\u00f6iden rakentaminen"
       ],
       "execution_assessment": "moderate"
     },
@@ -62,9 +62,9 @@
   ],
   "marketing_posture": {
     "current_content_types": [
-      "Korkean tuotantoarvon brändifilmit (TV)",
+      "Korkean tuotantoarvon br\u00e4ndifilmit (TV)",
       "Taktiset printtimainokset",
-      "Kotikutoinen lyhytvideosisältö (TikTok)",
+      "Kotikutoinen lyhytvideosis\u00e4lt\u00f6 (TikTok)",
       "Rekrytointivideot (YouTube)"
     ],
     "channel_presence": {},
@@ -74,13 +74,13 @@
   "competitive_analysis": {
     "key_competitors": [
       {
-        "name": "S-ryhmä",
-        "content_strategy": "Hyödyntää massiivista asiakasdataa ja bonusjärjestelmää.",
+        "name": "S-ryhm\u00e4",
+        "content_strategy": "Hy\u00f6dynt\u00e4\u00e4 massiivista asiakasdataa ja bonusj\u00e4rjestelm\u00e4\u00e4.",
         "threat_level": "high"
       },
       {
-        "name": "K-ryhmä",
-        "content_strategy": "Korostaa paikallista kauppiasvetoisuutta ja yhteisöllisyyttä.",
+        "name": "K-ryhm\u00e4",
+        "content_strategy": "Korostaa paikallista kauppiasvetoisuutta ja yhteis\u00f6llisyytt\u00e4.",
         "threat_level": "high"
       }
     ],
@@ -90,9 +90,9 @@
   "strategic_tensions": [
     {
       "id": "tension_01",
-      "description": "Globaali tehokkuuskoneisto vs. halu olla paikallinen ja lähellä suomalaista arkea.",
+      "description": "Globaali tehokkuuskoneisto vs. halu olla paikallinen ja l\u00e4hell\u00e4 suomalaista arkea.",
       "evidence": [
-        "Keskusjohtoinen saksalaisketju vs. joulukampanjat ja SPR-yhteistyö."
+        "Keskusjohtoinen saksalaisketju vs. joulukampanjat ja SPR-yhteisty\u00f6."
       ],
       "opportunity_type": "aspiration",
       "priority_score": 4
@@ -101,7 +101,7 @@
       "id": "tension_02",
       "description": "Kiillotettu TV-presenssi vs. rosoinen somenatiivi-identiteetti.",
       "evidence": [
-        "Korkealaatuiset brändifilmit vs. TikTokin 'kotikutoinen' tyyli; yhtenäinen keskitien linja puuttuu."
+        "Korkealaatuiset br\u00e4ndifilmit vs. TikTokin 'kotikutoinen' tyyli; yhten\u00e4inen keskitien linja puuttuu."
       ],
       "opportunity_type": "gap",
       "priority_score": 3
@@ -110,16 +110,16 @@
       "id": "tension_03",
       "description": "Halvin hinta vs. vastuullisuuden ja laadun uskottavuus.",
       "evidence": [
-        "Kuluttajien epäilys 'kuka maksaa hinnan' vs. Lidlin väite tehokkuudesta hinnan lähteenä."
+        "Kuluttajien ep\u00e4ilys 'kuka maksaa hinnan' vs. Lidlin v\u00e4ite tehokkuudesta hinnan l\u00e4hteen\u00e4."
       ],
       "opportunity_type": "threat",
       "priority_score": 5
     },
     {
       "id": "tension_04",
-      "description": "YouTuben käyttö arkistona vs. alustan potentiaali yhteisön rakentamisessa.",
+      "description": "YouTuben k\u00e4ytt\u00f6 arkistona vs. alustan potentiaali yhteis\u00f6n rakentamisessa.",
       "evidence": [
-        "Kanavalla vain TV-spotteja ja rekryvideoita, vaikka kohderyhmä (nuoret aikuiset) kuluttaa alustalla viihdettä."
+        "Kanavalla vain TV-spotteja ja rekryvideoita, vaikka kohderyhm\u00e4 (nuoret aikuiset) kuluttaa alustalla viihdett\u00e4."
       ],
       "opportunity_type": "gap",
       "priority_score": 4
@@ -128,20 +128,20 @@
   "opportunity_zones": [
     {
       "id": "opp_01",
-      "description": "\"Tehokkuuden tarinallistaminen\" – Avataan videon keinoin, miten logistiikka ja prosessit mahdollistavat halvan hinnan ilman eettisiä kompromisseja.",
-      "rationale": "Ratkaisee jännitteen hinnan ja vastuullisuuden välillä (tension_03).",
+      "description": "\"Tehokkuuden tarinallistaminen\" \u2013 Avataan videon keinoin, miten logistiikka ja prosessit mahdollistavat halvan hinnan ilman eettisi\u00e4 kompromisseja.",
+      "rationale": "Ratkaisee j\u00e4nnitteen hinnan ja vastuullisuuden v\u00e4lill\u00e4 (tension_03).",
       "risk_level": "low"
     },
     {
       "id": "opp_02",
-      "description": "\"Somenatiivi YouTube-viihde\" – Skaalataan TikTokin itseironinen ote pitkäkestoiseen YouTube-formaattiin (esim. brändätty viihdesarja).",
-      "rationale": "Täyttää YouTube-kanavan identiteettityhjiön ja sitouttaa nuoria aikuisia syvemmin (tension_04).",
+      "description": "\"Somenatiivi YouTube-viihde\" \u2013 Skaalataan TikTokin itseironinen ote pitk\u00e4kestoiseen YouTube-formaattiin (esim. br\u00e4nd\u00e4tty viihdesarja).",
+      "rationale": "T\u00e4ytt\u00e4\u00e4 YouTube-kanavan identiteettityhji\u00f6n ja sitouttaa nuoria aikuisia syvemmin (tension_04).",
       "risk_level": "medium"
     },
     {
       "id": "opp_03",
-      "description": "\"Henkilöstö brändin kasvoina\" – Inhimillistetään koneisto nostamalla työntekijät tarinoiden keskiöön \"Lidl-kauppiaina\".",
-      "rationale": "Vastaa K-ryhmän kauppiasvetoisuuteen ja tuo inhimillisyyttä globaaliin brändiin (tension_01).",
+      "description": "\"Henkil\u00f6st\u00f6 br\u00e4ndin kasvoina\" \u2013 Inhimillistet\u00e4\u00e4n koneisto nostamalla ty\u00f6ntekij\u00e4t tarinoiden keski\u00f6\u00f6n \"Lidl-kauppiaina\".",
+      "rationale": "Vastaa K-ryhm\u00e4n kauppiasvetoisuuteen ja tuo inhimillisyytt\u00e4 globaaliin br\u00e4ndiin (tension_01).",
       "risk_level": "low"
     }
   ],
