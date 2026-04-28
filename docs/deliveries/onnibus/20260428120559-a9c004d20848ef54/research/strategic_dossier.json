@@ -3,7 +3,7 @@
   "company_slug": "onnibus",
   "generated_at": "2026-04-28T12:09:15.767376",
   "brand_identity": {
-    "positioning": "Mutkaton ja näppärä kaukoliikenteen matkustusmuoto. Brändi on siirtymässä sääntelyä purkavasta, aggressiivisesta hintahäiriköstä luotettavaksi ja laadukkaammaksi markkinajohtajaksi.",
+    "positioning": "Mutkaton ja n\u00e4pp\u00e4r\u00e4 kaukoliikenteen matkustusmuoto. Br\u00e4ndi on siirtym\u00e4ss\u00e4 s\u00e4\u00e4ntely\u00e4 purkavasta, aggressiivisesta hintah\u00e4irik\u00f6st\u00e4 luotettavaksi ja laadukkaammaksi markkinajohtajaksi.",
     "visual_markers": {
       "primary_color": "Punainen",
       "secondary_colors": [],
@@ -36,16 +36,16 @@
       "priority": "Asiakaskokemuksen ja laadun nosto (Premiumisaatio)",
       "evidence": [
         "20 miljoonan euron kalustoinvestoinnit vuodesta 2024 alkaen.",
-        "25 uutta kaksikerrosbussia kesällä 2026 ja uusi premium-luokka yksikerrosbusseihin 2027.",
+        "25 uutta kaksikerrosbussia kes\u00e4ll\u00e4 2026 ja uusi premium-luokka yksikerrosbusseihin 2027.",
         "Laaja 'Kaupallinen Kehitysohjelma' perustuen 14 000 matkustajan palautteeseen."
       ],
       "execution_assessment": "strong"
     },
     {
       "rank": 2,
-      "priority": "Digitaalisen matkaketjun täydellinen hallinta",
+      "priority": "Digitaalisen matkaketjun t\u00e4ydellinen hallinta",
       "evidence": [
-        "Käteisen vastaanoton lopettaminen vuonna 2025.",
+        "K\u00e4teisen vastaanoton lopettaminen vuonna 2025.",
         "Panostukset mobiilisovellukseen, joustaviin lippuihin ja OnniEtu-ohjelmaan.",
         "'Bussit kartalla' -reaaliaikaseurannan lanseeraus huhtikuussa 2026."
       ],
@@ -53,19 +53,19 @@
     },
     {
       "rank": 3,
-      "priority": "Brändiarkkitehtuurin ja operoinnin yhtenäistäminen",
+      "priority": "Br\u00e4ndiarkkitehtuurin ja operoinnin yhten\u00e4ist\u00e4minen",
       "evidence": [
-        "MEGA- ja FLEX-alabrändeistä luopuminen vuonna 2025.",
-        "Lupaus: 'OnniBus on OnniBus riippumatta siitä, montako kerrosta bussissa on.'",
-        "Kaluston joustavampi sijoittelu kysynnän mukaan."
+        "MEGA- ja FLEX-alabr\u00e4ndeist\u00e4 luopuminen vuonna 2025.",
+        "Lupaus: 'OnniBus on OnniBus riippumatta siit\u00e4, montako kerrosta bussissa on.'",
+        "Kaluston joustavampi sijoittelu kysynn\u00e4n mukaan."
       ],
       "execution_assessment": "moderate"
     },
     {
       "rank": 4,
-      "priority": "Reitistön ja kapasiteetin optimointi",
+      "priority": "Reitist\u00f6n ja kapasiteetin optimointi",
       "evidence": [
-        "Uuden 'Head of Network Planning' -johtoryhmäroolin perustaminen.",
+        "Uuden 'Head of Network Planning' -johtoryhm\u00e4roolin perustaminen.",
         "Tarve hallita ja tehostaa noin 10 000 kuukausittaisen vuoron monimutkaista verkostoa."
       ],
       "execution_assessment": "moderate"
@@ -74,32 +74,32 @@
   "marketing_posture": {
     "current_content_types": [
       "Taktinen hintamarkkinointi",
-      "Dynaamisen hinnoittelun hyödyntäminen",
-      "Vaikuttajien luoma aito ja visuaalinen UGC-sisältö",
-      "Omien mediapintojen kaupallinen hyödyntäminen"
+      "Dynaamisen hinnoittelun hy\u00f6dynt\u00e4minen",
+      "Vaikuttajien luoma aito ja visuaalinen UGC-sis\u00e4lt\u00f6",
+      "Omien mediapintojen kaupallinen hy\u00f6dynt\u00e4minen"
     ],
     "channel_presence": {
       "youtube": {
         "active": true,
-        "assessment": "Aktiivinen. Hyödyntää kesävaikuttajia."
+        "assessment": "Aktiivinen. Hy\u00f6dynt\u00e4\u00e4 kes\u00e4vaikuttajia."
       },
       "tiktok": {
         "active": true,
-        "assessment": "Aktiivinen. Hyödyntää kesävaikuttajia. Sitoutuminen nuoremman kohderyhmän osalta todennäköisesti hyvällä tasolla."
+        "assessment": "Aktiivinen. Hy\u00f6dynt\u00e4\u00e4 kes\u00e4vaikuttajia. Sitoutuminen nuoremman kohderyhm\u00e4n osalta todenn\u00e4k\u00f6isesti hyv\u00e4ll\u00e4 tasolla."
       },
       "instagram": {
         "active": true,
-        "assessment": "Aktiivinen. Hyödyntää kesävaikuttajia."
+        "assessment": "Aktiivinen. Hy\u00f6dynt\u00e4\u00e4 kes\u00e4vaikuttajia."
       },
       "linkedin": {
         "active": false,
-        "assessment": "Ei mainittu aineistossa keskeisinä kanavina, todennäköisesti matalampi prioriteetti B2C-fokuksen vuoksi."
+        "assessment": "Ei mainittu aineistossa keskeisin\u00e4 kanavina, todenn\u00e4k\u00f6isesti matalampi prioriteetti B2C-fokuksen vuoksi."
       }
     },
     "apparent_gaps": [
-      "Työssäkäyvien aikuisten ja yksityisautoilijoiden tavoittaminen premium- ja mukavuuskulmalla puuttuu orgaanisesta ja emotionaalisesta viestinnästä."
+      "Ty\u00f6ss\u00e4k\u00e4yvien aikuisten ja yksityisautoilijoiden tavoittaminen premium- ja mukavuuskulmalla puuttuu orgaanisesta ja emotionaalisesta viestinn\u00e4st\u00e4."
     ],
-    "audience_engagement": "Nuoriso ja opiskelijat ovat vahvasti sitoutuneita, mutta maksukykyisempi aikuisyleisö ei vielä täysin osta uutta laatumielikuvaa brändin historian vuoksi."
+    "audience_engagement": "Nuoriso ja opiskelijat ovat vahvasti sitoutuneita, mutta maksukykyisempi aikuisyleis\u00f6 ei viel\u00e4 t\u00e4ysin osta uutta laatumielikuvaa br\u00e4ndin historian vuoksi."
   },
   "competitive_analysis": {
     "key_competitors": [
@@ -126,42 +126,42 @@
       "Nuorten ja hintatietoisten segmenttien tavoittaminen"
     ],
     "brand_losing_areas": [
-      "Mielikuva matkustusmukavuudesta ja työrauhasta verrattuna junaan",
-      "Matka-aika runkoreiteillä",
-      "Hintakilpailukyky suhteessa omaan autoon ALV-korotuksen jälkeen"
+      "Mielikuva matkustusmukavuudesta ja ty\u00f6rauhasta verrattuna junaan",
+      "Matka-aika runkoreiteill\u00e4",
+      "Hintakilpailukyky suhteessa omaan autoon ALV-korotuksen j\u00e4lkeen"
     ]
   },
   "strategic_tensions": [
     {
       "id": "tension_01",
-      "description": "Brändi investoi kymmeniä miljoonia premium-tason asiakaskokemukseen, mutta suuren yleisön mielissä se on edelleen opiskelijoiden 'halpabussi'.",
+      "description": "Br\u00e4ndi investoi kymmeni\u00e4 miljoonia premium-tason asiakaskokemukseen, mutta suuren yleis\u00f6n mieliss\u00e4 se on edelleen opiskelijoiden 'halpabussi'.",
       "evidence": [
-        "20 miljoonan euron kalustoinvestoinnit ja uusi premium-luokka vs. brändin historiallinen 'liput alkaen 1 €' -ydinlupaus."
+        "20 miljoonan euron kalustoinvestoinnit ja uusi premium-luokka vs. br\u00e4ndin historiallinen 'liput alkaen 1 \u20ac' -ydinlupaus."
       ],
       "opportunity_type": "aspiration",
       "priority_score": 5
     },
     {
       "id": "tension_02",
-      "description": "Asiakas odottaa brändilupauksen mukaista ikonista kaksikerrosbussia, mutta operatiivisen tehokkuuden vuoksi hän saattaakin astua tavalliseen yksikerrosbussiin.",
+      "description": "Asiakas odottaa br\u00e4ndilupauksen mukaista ikonista kaksikerrosbussia, mutta operatiivisen tehokkuuden vuoksi h\u00e4n saattaakin astua tavalliseen yksikerrosbussiin.",
       "evidence": [
-        "Punaisen kaksikerrosbussin rekisteröinti 3D-tavaramerkiksi 2025 vs. MEGA- ja FLEX-alabrändeistä luopuminen kaluston joustavan käytön nimissä."
+        "Punaisen kaksikerrosbussin rekister\u00f6inti 3D-tavaramerkiksi 2025 vs. MEGA- ja FLEX-alabr\u00e4ndeist\u00e4 luopuminen kaluston joustavan k\u00e4yt\u00f6n nimiss\u00e4."
       ],
       "opportunity_type": "gap",
       "priority_score": 4
     },
     {
       "id": "tension_03",
-      "description": "Täydelliseksi hiottu ja hallittu digitaalinen ostopolku kohtaa sään, liikenteen ja muiden matkustajien aiheuttaman fyysisen matkustamisen arvaamattomuuden.",
+      "description": "T\u00e4ydelliseksi hiottu ja hallittu digitaalinen ostopolku kohtaa s\u00e4\u00e4n, liikenteen ja muiden matkustajien aiheuttaman fyysisen matkustamisen arvaamattomuuden.",
       "evidence": [
-        "Täysin käteisetön, app-vetoinen ja joustava lipunmyynti vs. tarve lanseerata 'Bussit kartalla' -ominaisuus epävarmuuden taklaamiseksi."
+        "T\u00e4ysin k\u00e4teiset\u00f6n, app-vetoinen ja joustava lipunmyynti vs. tarve lanseerata 'Bussit kartalla' -ominaisuus ep\u00e4varmuuden taklaamiseksi."
       ],
       "opportunity_type": "gap",
       "priority_score": 4
     },
     {
       "id": "tension_04",
-      "description": "Entinen sääntelyä purkanut markkinahäirikkö on muuttunut pääomasijoittajan omistamaksi suuryhtiöksi, joka joutuu nyt itse puolustautumaan uudelta globaalilta disruptoijalta.",
+      "description": "Entinen s\u00e4\u00e4ntely\u00e4 purkanut markkinah\u00e4irikk\u00f6 on muuttunut p\u00e4\u00e4omasijoittajan omistamaksi suuryhti\u00f6ksi, joka joutuu nyt itse puolustautumaan uudelta globaalilta disruptoijalta.",
       "evidence": [
         "OnniBusin syntyhistoria vs. FlixBusin aggressiivinen laajentuminen Suomessa samalla taktiikalla."
       ],
@@ -172,20 +172,20 @@
   "opportunity_zones": [
     {
       "id": "opp_01",
-      "description": "Yksityisautoilun haastaminen ajankäytön ja stressittömyyden (mukavuuden) kautta, ei pelkällä hinnalla.",
-      "rationale": "ALV-korotus kavensi hintaeroa autoiluun. Työssäkäyvät aikuiset, jotka ajavat tottumuksesta yksin, ovat suuri tavoittamaton yleisö. Visuaalinen sisältö voi todistaa bussimatkustamisen ylivoimaisuuden rentoutumisen tai työnteon näkökulmasta.",
+      "description": "Yksityisautoilun haastaminen ajank\u00e4yt\u00f6n ja stressitt\u00f6myyden (mukavuuden) kautta, ei pelk\u00e4ll\u00e4 hinnalla.",
+      "rationale": "ALV-korotus kavensi hintaeroa autoiluun. Ty\u00f6ss\u00e4k\u00e4yv\u00e4t aikuiset, jotka ajavat tottumuksesta yksin, ovat suuri tavoittamaton yleis\u00f6. Visuaalinen sis\u00e4lt\u00f6 voi todistaa bussimatkustamisen ylivoimaisuuden rentoutumisen tai ty\u00f6nteon n\u00e4k\u00f6kulmasta.",
       "risk_level": "medium"
     },
     {
       "id": "opp_02",
-      "description": "'Bussit kartalla' -ominaisuuden viestiminen emotionaalisena mielenrauhan tuojana, ei vain teknisenä GPS-toimintona.",
-      "rationale": "Ratkaisee suoraan fyysisen matkustamisen epävarmuuteen liittyvän jännitteen (tension_03). Odottamisen ahdistuksen poistaminen on vahva, samaistuttava tunne, jota ei ole vielä täysimääräisesti hyödynnetty brändimarkkinoinnissa.",
+      "description": "'Bussit kartalla' -ominaisuuden viestiminen emotionaalisena mielenrauhan tuojana, ei vain teknisen\u00e4 GPS-toimintona.",
+      "rationale": "Ratkaisee suoraan fyysisen matkustamisen ep\u00e4varmuuteen liittyv\u00e4n j\u00e4nnitteen (tension_03). Odottamisen ahdistuksen poistaminen on vahva, samaistuttava tunne, jota ei ole viel\u00e4 t\u00e4ysim\u00e4\u00e4r\u00e4isesti hy\u00f6dynnetty br\u00e4ndimarkkinoinnissa.",
       "risk_level": "low"
     },
     {
       "id": "opp_03",
-      "description": "Uuden kaluston (premiumisaation) todellisen tason radikaali, visuaalinen todistaminen aikuisyleisölle.",
-      "rationale": "Kuilu halpamielikuvan ja 20 miljoonan euron investointien välillä (tension_01) on valtava. Opiskelijat on jo tavoitettu taktisesti, mutta brändin kasvu vaatii mukavuudenhaluisten aikuisten vakuuttamista. Sisällön on 'näytettävä, ei vain kerrottava' uusi laatutaso.",
+      "description": "Uuden kaluston (premiumisaation) todellisen tason radikaali, visuaalinen todistaminen aikuisyleis\u00f6lle.",
+      "rationale": "Kuilu halpamielikuvan ja 20 miljoonan euron investointien v\u00e4lill\u00e4 (tension_01) on valtava. Opiskelijat on jo tavoitettu taktisesti, mutta br\u00e4ndin kasvu vaatii mukavuudenhaluisten aikuisten vakuuttamista. Sis\u00e4ll\u00f6n on 'n\u00e4ytett\u00e4v\u00e4, ei vain kerrottava' uusi laatutaso.",
       "risk_level": "medium"
     }
   ],
@@ -195,7 +195,7 @@
       "url": "https://suojaatavaramerkki.fi",
       "type": "other",
       "date_accessed": "2026-04-01",
-      "relevance": "3D-tavaramerkin rekisteröintitiedot."
+      "relevance": "3D-tavaramerkin rekister\u00f6intitiedot."
     },
     {
       "title": "prh.fi",
@@ -237,7 +237,7 @@
       "url": "https://onnibus.com",
       "type": "company_site",
       "date_accessed": "2026-04-01",
-      "relevance": "Palvelulupaukset, 'Bussit kartalla' -ominaisuus, OnniEtu, reitistö."
+      "relevance": "Palvelulupaukset, 'Bussit kartalla' -ominaisuus, OnniEtu, reitist\u00f6."
     },
     {
       "title": "staffpoint.fi",
@@ -251,7 +251,7 @@
       "url": "https://mtvuutiset.fi",
       "type": "news",
       "date_accessed": "2026-04-01",
-      "relevance": "Yleiset uutiset joukkoliikenteestä ja ALV-muutoksista."
+      "relevance": "Yleiset uutiset joukkoliikenteest\u00e4 ja ALV-muutoksista."
     },
     {
       "title": "theseus.fi",
