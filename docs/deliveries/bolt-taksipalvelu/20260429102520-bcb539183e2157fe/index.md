@@ -16,6 +16,9 @@
 - [Concept 03](concepts/concept_03.md)
 
 ## Treatments
+- [bolt_taksipalvelu_TREATMENT_01_20260429_103401.md](treatments/bolt_taksipalvelu_TREATMENT_01_20260429_103401.md)
+- [bolt_taksipalvelu_TREATMENT_02_20260429_103530.md](treatments/bolt_taksipalvelu_TREATMENT_02_20260429_103530.md)
+- [bolt_taksipalvelu_TREATMENT_03_20260429_103713.md](treatments/bolt_taksipalvelu_TREATMENT_03_20260429_103713.md)
 
 ## One-Pagers
 - [One-Pager 01](onepagers/concept_01.png)
