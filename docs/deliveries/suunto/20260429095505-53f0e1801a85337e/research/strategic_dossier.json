@@ -1,0 +1,250 @@
+{
+  "company_name": "Suunto",
+  "company_slug": "suunto",
+  "generated_at": "2026-04-29T09:58:01.995501",
+  "brand_identity": {
+    "positioning": "Tinkimättömien 'outdoor GPS' -laitteiden valmistaja, jonka ytimessä on vuodesta 1936 jatkunut 'pioneering exploration' -henki. Ydinlupaus: Seikkailu (Adventure).",
+    "visual_markers": {
+      "primary_color": "Musta / Tummanharmaa (Black / Dark Grey)",
+      "secondary_colors": [
+        "Valkoinen",
+        "Teräksenharmaa",
+        "Pohjoismainen sininen"
+      ],
+      "style_keywords": [
+        "Pohjoismainen perintö",
+        "Suomalainen käsityö",
+        "Ammattilaistason",
+        "Luodinkestävä",
+        "Riisuttu",
+        "Äärimmäiset luontoympäristöt"
+      ],
+      "tone_keywords": [
+        "Inhimillinen",
+        "Tunteisiin vetoava",
+        "Rohkea",
+        "Utelias",
+        "Kestävä"
+      ]
+    },
+    "voice_characteristics": [
+      "Autenttinen",
+      "Asiantunteva",
+      "Kokemuksellinen",
+      "Yhteisöllinen",
+      "Luontoyhteyttä korostava"
+    ]
+  },
+  "strategic_priorities": [
+    {
+      "rank": 1,
+      "priority": "Kategorioiden rajat ylittävä tuoteportfolio",
+      "evidence": [
+        "Laajentuminen perinteisistä GPS-kelloista uusiin kategorioihin.",
+        "Avoimien luujohdekuulokkeiden (Sonic, Wing, Aqua Light) lanseeraus.",
+        "Hybridilaitteiden (Suunto Ocean) kehittäminen."
+      ],
+      "execution_assessment": "strong"
+    },
+    {
+      "rank": 2,
+      "priority": "Vastuullisuus ja ilmastovaikuttaminen",
+      "evidence": [
+        "Sitoutuminen tieteeseen perustuviin SBTi-ilmastotavoitteisiin vuoden 2025 lopussa.",
+        "Yhteisön aktivoiminen Vertical Week -kampanjalla.",
+        "Yhteistyö Protect Our Winters (POW) Europe -järjestön kanssa."
+      ],
+      "execution_assessment": "strong"
+    },
+    {
+      "rank": 3,
+      "priority": "Ekosysteemin ja avoimen datan kasvattaminen",
+      "evidence": [
+        "Suunto Partner Program -ohjelman luominen.",
+        "Suunto Cloud API:n avaaminen.",
+        "Integraatiot satoihin kolmannen osapuolen palveluihin."
+      ],
+      "execution_assessment": "moderate"
+    },
+    {
+      "rank": 4,
+      "priority": "Markkinaosuuden valtaaminen uusilta kohderyhmiltä (UK & Pohjois-Amerikka)",
+      "evidence": [
+        "Aggressiivinen PR- ja myyntistrategia markkinahäirikkönä.",
+        "Entisen Coros-työntekijän rekrytointi Amerikan myyntijohtajaksi.",
+        "Uusien, nuorempien juoksuyhteisöjen tavoittelu."
+      ],
+      "execution_assessment": "weak"
+    }
+  ],
+  "marketing_posture": {
+    "current_content_types": [
+      "User Generated Content (UGC)",
+      "Vaikuttajamarkkinointi (urheilijalähettiläät, creator-kampanjat)",
+      "Ruohonjuuritason testauskampanjat (esim. UTMB)",
+      "Digitaalinen ulkomainonta (DOOH)",
+      "B2B-haastattelut"
+    ],
+    "channel_presence": {
+      "youtube": {
+        "active": true,
+        "assessment": "Aktiivinen, mutta kahtiajakautunut. Omat kanavat keskittyvät kuiviin tuotelanseerauksiin, näkyvyys lepää vahvasti riippumattomien teknologia-arvostelijoiden varassa."
+      },
+      "tiktok": {
+        "active": true,
+        "assessment": "Aktiivinen. Hyödyntää vahvasti UGC-sisältöä ja urheilijalähettiläitä."
+      },
+      "instagram": {
+        "active": true,
+        "assessment": "Aktiivinen. Hyödyntää vahvasti UGC-sisältöä ja urheilijalähettiläitä."
+      },
+      "linkedin": {
+        "active": true,
+        "assessment": "Käytetään todennäköisesti B2B-haastatteluihin ja yritysviestintään."
+      }
+    },
+    "apparent_gaps": [
+      "Omien kanavien (erityisesti YouTube) sisällön emotionaalinen ja tarinallinen vetovoima on heikko verrattuna ansaittuun mediaan.",
+      "Markkinointiviestintä on usein lajikohtaisesti siiloutunutta, vaikka tuotteet tukevat monilajisuutta."
+    ],
+    "audience_engagement": "Ydinkohderyhmä (polkujuoksijat, sukeltajat) on erittäin lojaali ja osallistuu aktiivisesti UGC-kampanjoihin. Kasvuyleisöjen (kaupunkilaiset, uudet amerikkalaiset juoksuyhteisöt) sitouttaminen on vasta alussa."
+  },
+  "competitive_analysis": {
+    "key_competitors": [
+      {
+        "name": "Garmin",
+        "content_strategy": "Dominoi yleistä älykello- ja maantiejuoksumarkkinaa massiivisella läsnäololla ja laajoilla tuote-ekosysteemeillä.",
+        "threat_level": "high"
+      },
+      {
+        "name": "Coros",
+        "content_strategy": "Aggressiivinen kasvu ja markkinaosuuden valtaaminen, vetoaa vahvasti uusiin juoksuyhteisöihin.",
+        "threat_level": "high"
+      },
+      {
+        "name": "Polar",
+        "content_strategy": "Vahva perintö sykemittauksessa ja urheilutieteessä.",
+        "threat_level": "medium"
+      }
+    ],
+    "brand_winning_areas": [
+      "'Outdoor GPS' -niche",
+      "Äärimmäinen luotettavuus/kestävyys",
+      "Sukelluslaitteiden laatumielikuva",
+      "Vastuullisuus (SBTi, POW)",
+      "Vahva pohjoismainen perintö"
+    ],
+    "brand_losing_areas": [
+      "Yleinen älykellomarkkina",
+      "Maantiejuoksu",
+      "Brändin tunnettuus Pohjois-Amerikassa",
+      "Omien kanavien videosisällön tarinallisuus"
+    ]
+  },
+  "strategic_tensions": [
+    {
+      "id": "tension_01",
+      "description": "Äärimmäinen seikkailu vs. Urbaani arki",
+      "evidence": [
+        "Kasvuyleisönä työikäiset kaupunkilaiset (90-v kampanja DOOH-näytöillä).",
+        "Tuotetarinat nojaavat lumivyöryihin ja hylkysukelluksiin."
+      ],
+      "opportunity_type": "underserved_audience",
+      "priority_score": 5
+    },
+    {
+      "id": "tension_02",
+      "description": "Eurooppalainen perintö vs. Globaali penetraatio",
+      "evidence": [
+        "Brändi nojaa 90-vuotiseen pohjoismaiseen identiteettiin.",
+        "Yhdysvalloissa bränditunnettuus on heikko ja vaatii jenkkityylistä vaikuttajamarkkinointia."
+      ],
+      "opportunity_type": "threat",
+      "priority_score": 5
+    },
+    {
+      "id": "tension_03",
+      "description": "Siiloutuneet lajit vs. Kokonaisvaltainen luontosuhde",
+      "evidence": [
+        "Markkinointi tapahtuu lajikohtaisesti (UTMB juoksijoille, DEMA sukeltajille).",
+        "Uudet tuotteet (Ocean, Aqua Light) on suunniteltu monilajiseen käyttöön."
+      ],
+      "opportunity_type": "gap",
+      "priority_score": 4
+    },
+    {
+      "id": "tension_04",
+      "description": "Laitteistokeskeisyys vs. Jaettu digitaalinen kokemus",
+      "evidence": [
+        "Suunto Partner Program ja Cloud API ovat strategisia prioriteetteja.",
+        "Markkinan mielikuva perustuu laitteiden luodinkestävään kestävyyteen ja akunkestoon."
+      ],
+      "opportunity_type": "gap",
+      "priority_score": 3
+    }
+  ],
+  "opportunity_zones": [
+    {
+      "id": "opp_01",
+      "description": "Elementtien saumaton rajapinta (Maa ja Vesi)",
+      "rationale": "Ratkaisee jännitteen (tension_03) hyödyntämällä suoraan uutta tuoteportfoliota (Ocean-hybridi, vedenpitävät kuulokkeet). Erottaa Suunnon kilpailijoista, jotka keskittyvät vain maantiejuoksuun tai perinteiseen triathloniin.",
+      "risk_level": "low"
+    },
+    {
+      "id": "opp_02",
+      "description": "Yksinäisestä suorittamisesta jaettuun seikkailuun",
+      "rationale": "Vastaa jännitteeseen (tension_04) tuomalla digitaalisen ekosysteemin (esim. 3D-reittien jakaminen) näkyväksi osaksi sosiaalista kokemusta. Tukee myös kasvuyleisöjen tavoittamista.",
+      "risk_level": "low"
+    },
+    {
+      "id": "opp_03",
+      "description": "Luonto kumppanina, ei vain valloitettavana esteenä",
+      "rationale": "Lieventää jännitettä (tension_01) hardcore-uskottavuuden ja urbaanin arjen välillä. Resonoi voimakkaasti brändin SBTi-ilmastotavoitteiden ja POW-yhteistyön kanssa.",
+      "risk_level": "medium"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Suunto (Official)",
+      "url": "suunto.com",
+      "type": "company_site",
+      "date_accessed": "2023-10-24",
+      "relevance": "Tuotetiedot, SBTi-tavoitteet, Partner Program"
+    },
+    {
+      "title": "Hasan & partners",
+      "url": "hasanpartners.fi",
+      "type": "company_site",
+      "date_accessed": "2023-10-24",
+      "relevance": "Brändiuudistuksen taustatiedot"
+    },
+    {
+      "title": "YouTube (DesFit ym.)",
+      "url": "youtube.com",
+      "type": "video",
+      "date_accessed": "2023-10-24",
+      "relevance": "Kanava-analyysi ja ansaittu media"
+    },
+    {
+      "title": "SciSpace",
+      "url": "scispace.com",
+      "type": "report",
+      "date_accessed": "2023-10-24",
+      "relevance": "Markkinatutkimus"
+    },
+    {
+      "title": "Reddit",
+      "url": "reddit.com",
+      "type": "social",
+      "date_accessed": "2023-10-24",
+      "relevance": "Yhteisön sitoutuminen ja UGC"
+    },
+    {
+      "title": "Gadgets and Wearables",
+      "url": "gadgetsandwearables.com",
+      "type": "news",
+      "date_accessed": "2023-10-24",
+      "relevance": "Kilpailija-analyysi (Garmin, Coros)"
+    }
+  ]
+}
