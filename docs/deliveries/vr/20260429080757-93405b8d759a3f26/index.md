@@ -16,6 +16,8 @@
 - [Concept 03](concepts/concept_03.md)
 
 ## Treatments
+- [vr_TREATMENT_01_20260429_074019.md](treatments/vr_TREATMENT_01_20260429_074019.md)
+- [vr_TREATMENT_02_20260429_074203.md](treatments/vr_TREATMENT_02_20260429_074203.md)
 - [vr_TREATMENT_03_20260429_074354.md](treatments/vr_TREATMENT_03_20260429_074354.md)
 
 ## One-Pagers
