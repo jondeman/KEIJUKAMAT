@@ -16,6 +16,9 @@
 - [Concept 03](concepts/concept_03.md)
 
 ## Treatments
+- [suunto_TREATMENT_01_20260429_100326.md](treatments/suunto_TREATMENT_01_20260429_100326.md)
+- [suunto_TREATMENT_02_20260429_100459.md](treatments/suunto_TREATMENT_02_20260429_100459.md)
+- [suunto_TREATMENT_03_20260429_100706.md](treatments/suunto_TREATMENT_03_20260429_100706.md)
 
 ## One-Pagers
 - [One-Pager 01](onepagers/concept_01.png)
