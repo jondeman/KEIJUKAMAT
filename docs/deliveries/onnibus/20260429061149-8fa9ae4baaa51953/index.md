@@ -16,6 +16,9 @@
 - [Concept 03](concepts/concept_03.md)
 
 ## Treatments
+- [onnibus_TREATMENT_01_20260429_061716.md](treatments/onnibus_TREATMENT_01_20260429_061716.md)
+- [onnibus_TREATMENT_02_20260429_061847.md](treatments/onnibus_TREATMENT_02_20260429_061847.md)
+- [onnibus_TREATMENT_03_20260429_062031.md](treatments/onnibus_TREATMENT_03_20260429_062031.md)
 
 ## One-Pagers
 - [One-Pager 01](onepagers/concept_01.png)
