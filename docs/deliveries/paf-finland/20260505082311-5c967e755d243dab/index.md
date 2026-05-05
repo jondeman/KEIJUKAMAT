@@ -16,6 +16,9 @@
 - [Concept 03](concepts/concept_03.md)
 
 ## Treatments
+- [paf_finland_TREATMENT_01_20260505_083112.md](treatments/paf_finland_TREATMENT_01_20260505_083112.md)
+- [paf_finland_TREATMENT_02_20260505_083307.md](treatments/paf_finland_TREATMENT_02_20260505_083307.md)
+- [paf_finland_TREATMENT_03_20260505_083508.md](treatments/paf_finland_TREATMENT_03_20260505_083508.md)
 
 ## One-Pagers
 - [One-Pager 01](onepagers/concept_01.png)
