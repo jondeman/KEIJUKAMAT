@@ -16,6 +16,9 @@
 - [Concept 03](concepts/concept_03.md)
 
 ## Treatments
+- [r-kioski_TREATMENT_01_20260512_113141.md](treatments/r-kioski_TREATMENT_01_20260512_113141.md)
+- [r-kioski_TREATMENT_02_20260512_113309.md](treatments/r-kioski_TREATMENT_02_20260512_113309.md)
+- [r-kioski_TREATMENT_03_20260512_113458.md](treatments/r-kioski_TREATMENT_03_20260512_113458.md)
 
 ## One-Pagers
 - [One-Pager 01](onepagers/concept_01.png)
