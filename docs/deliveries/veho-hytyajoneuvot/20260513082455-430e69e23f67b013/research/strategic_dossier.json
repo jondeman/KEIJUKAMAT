@@ -1,9 +1,9 @@
 {
-  "company_name": "Veho Hyötyajoneuvot",
+  "company_name": "Veho Hy\u00f6tyajoneuvot",
   "company_slug": "veho-hytyajoneuvot",
   "generated_at": "2026-05-13T08:28:22.336466",
   "brand_identity": {
-    "positioning": "Markkinoiden johtava, luotettava ja vastuullinen premium-kumppani. Ydinlupaus on 'Veho liikuttaa kestävästi', mikä sitoo yhteen ympäristövastuun, asiakaskokemuksen ja kaluston käyttöasteen maksimoinnin.",
+    "positioning": "Markkinoiden johtava, luotettava ja vastuullinen premium-kumppani. Ydinlupaus on 'Veho liikuttaa kest\u00e4v\u00e4sti', mik\u00e4 sitoo yhteen ymp\u00e4rist\u00f6vastuun, asiakaskokemuksen ja kaluston k\u00e4ytt\u00f6asteen maksimoinnin.",
     "visual_markers": {
       "primary_color": "Premium Black / Silver",
       "secondary_colors": [
@@ -17,8 +17,8 @@
         "Teknologisesti edistynyt",
         "Auktoriteettinen",
         "Laadukas",
-        "Saksalainen insinöörityö",
-        "Suomalainen perheyhtiö"
+        "Saksalainen insin\u00f6\u00f6rity\u00f6",
+        "Suomalainen perheyhti\u00f6"
       ],
       "tone_keywords": [
         "Asiapitoinen",
@@ -38,19 +38,19 @@
   "strategic_priorities": [
     {
       "rank": 1,
-      "priority": "Sähköistymisen johtaminen raskaassa liikenteessä",
+      "priority": "S\u00e4hk\u00f6istymisen johtaminen raskaassa liikenteess\u00e4",
       "evidence": [
-        "Täyssähköisen Mercedes-Benz VLE -mallin lanseeraus loppuvuodesta 2026",
+        "T\u00e4yss\u00e4hk\u00f6isen Mercedes-Benz VLE -mallin lanseeraus loppuvuodesta 2026",
         "eActros 600 -mallin vahva puskeminen suurille logistiikkatoimijoille"
       ],
       "execution_assessment": "strong"
     },
     {
       "rank": 2,
-      "priority": "Palvelukokemus ja käyttöasteen maksimointi (Huolto)",
+      "priority": "Palvelukokemus ja k\u00e4ytt\u00f6asteen maksimointi (Huolto)",
       "evidence": [
-        "Johdon linjaus maaliskuun 2026 mediapäivässä: 'Kumppanin valinta ratkaistaan palvelukokemuksessa ja käyttövarmuudessa'",
-        "Service24h-päivystys ja huoltopalvelut määritelty liiketoiminnan ytimeksi"
+        "Johdon linjaus maaliskuun 2026 mediap\u00e4iv\u00e4ss\u00e4: 'Kumppanin valinta ratkaistaan palvelukokemuksessa ja k\u00e4ytt\u00f6varmuudessa'",
+        "Service24h-p\u00e4ivystys ja huoltopalvelut m\u00e4\u00e4ritelty liiketoiminnan ytimeksi"
       ],
       "execution_assessment": "moderate"
     },
@@ -58,8 +58,8 @@
       "rank": 3,
       "priority": "Markkinaosuuden aggressiivinen kasvattaminen ja organisaation vahvistaminen",
       "evidence": [
-        "Kovat myyntitavoitteet vuodelle 2026: yhteensä 15 000 ajoneuvoa viidellä markkinalla",
-        "Suomen myyntiorganisaation uudelleenjärjestely ja uuden markkinointivetäjän nimitys"
+        "Kovat myyntitavoitteet vuodelle 2026: yhteens\u00e4 15 000 ajoneuvoa viidell\u00e4 markkinalla",
+        "Suomen myyntiorganisaation uudelleenj\u00e4rjestely ja uuden markkinointivet\u00e4j\u00e4n nimitys"
       ],
       "execution_assessment": "moderate"
     }
@@ -74,15 +74,15 @@
     "channel_presence": {
       "youtube": {
         "active": false,
-        "assessment": "Käyttö brändin kokoon nähden vähäistä ja epäyhtenäistä."
+        "assessment": "K\u00e4ytt\u00f6 br\u00e4ndin kokoon n\u00e4hden v\u00e4h\u00e4ist\u00e4 ja ep\u00e4yhten\u00e4ist\u00e4."
       },
       "tiktok": {
         "active": false,
-        "assessment": "Ei läsnäoloa / Ei mainittu."
+        "assessment": "Ei l\u00e4sn\u00e4oloa / Ei mainittu."
       },
       "instagram": {
         "active": true,
-        "assessment": "Aktiivinen, mutta taktinen. Pääasiassa perinteistä markkinointia ja arvontoja. Sitoutuminen pinnallista."
+        "assessment": "Aktiivinen, mutta taktinen. P\u00e4\u00e4asiassa perinteist\u00e4 markkinointia ja arvontoja. Sitoutuminen pinnallista."
       },
       "linkedin": {
         "active": true,
@@ -90,17 +90,17 @@
       }
     },
     "apparent_gaps": [
-      "Syvällinen, tunteisiin vetoava ja sitouttava videosisältö",
+      "Syv\u00e4llinen, tunteisiin vetoava ja sitouttava videosis\u00e4lt\u00f6",
       "Huollon ja arjen 'sankaritarinat' puuttuvat",
-      "Sisältö on liian kiillotettua ja tuotekeskeistä"
+      "Sis\u00e4lt\u00f6 on liian kiillotettua ja tuotekeskeist\u00e4"
     ],
-    "audience_engagement": "Brändi tavoittaa tehokkaasti kalustopäälliköt ja yritysjohdon rationaalisilla argumenteilla, mutta epäonnistuu rakentamaan heimohenkeä tai tunnesidettä ruohonjuuritason ammattilaisten (kuljettajien) kanssa."
+    "audience_engagement": "Br\u00e4ndi tavoittaa tehokkaasti kalustop\u00e4\u00e4llik\u00f6t ja yritysjohdon rationaalisilla argumenteilla, mutta ep\u00e4onnistuu rakentamaan heimohenke\u00e4 tai tunnesidett\u00e4 ruohonjuuritason ammattilaisten (kuljettajien) kanssa."
   },
   "competitive_analysis": {
     "key_competitors": [
       {
         "name": "Volvo & Scania",
-        "content_strategy": "Vahva emotionaalinen veto. Rakentavat 'heimohenkeä' ja tunnesidettä suomalaisiin/pohjoismaisiin kuljettajiin.",
+        "content_strategy": "Vahva emotionaalinen veto. Rakentavat 'heimohenke\u00e4' ja tunnesidett\u00e4 suomalaisiin/pohjoismaisiin kuljettajiin.",
         "threat_level": "high"
       },
       {
@@ -110,54 +110,54 @@
       }
     ],
     "brand_winning_areas": [
-      "Sähköistymisen teknologia",
+      "S\u00e4hk\u00f6istymisen teknologia",
       "Premium-mielikuva",
       "Suurten logistiikkatalojen B2B-suhteet",
       "Kokonaiskustannusten (TCO) rationaalinen argumentointi"
     ],
     "brand_losing_areas": [
       "Kuljettajien tunneside",
-      "Brändin inhimillisyys",
+      "Br\u00e4ndin inhimillisyys",
       "Mielikuva huollon kalleudesta vanhemman kaluston kohdalla"
     ]
   },
   "strategic_tensions": [
     {
       "id": "tension_01",
-      "description": "Johto linjaa kilpailuedun syntyvän palvelukokemuksesta, mutta brändin ulkoinen viestintä on edelleen siiloutunut kiiltävään tuotekeskeisyyteen.",
+      "description": "Johto linjaa kilpailuedun syntyv\u00e4n palvelukokemuksesta, mutta br\u00e4ndin ulkoinen viestint\u00e4 on edelleen siiloutunut kiilt\u00e4v\u00e4\u00e4n tuotekeskeisyyteen.",
       "evidence": [
-        "Johdon lausunnot (2026) korostavat huoltoa ja käyttövarmuutta.",
-        "PR ja markkinointi keskittyvät silti VLE-lanseeraukseen, eActros-spekseihin ja aerodynamiikkaan."
+        "Johdon lausunnot (2026) korostavat huoltoa ja k\u00e4ytt\u00f6varmuutta.",
+        "PR ja markkinointi keskittyv\u00e4t silti VLE-lanseeraukseen, eActros-spekseihin ja aerodynamiikkaan."
       ],
       "opportunity_type": "gap",
       "priority_score": 5
     },
     {
       "id": "tension_02",
-      "description": "Brändi puhuu korporaatiotason vihreästä siirtymästä, kun taas kohdeyleisö taistelee suomalaisen talven ja kuljetusalan raakojen realiteettien kanssa.",
+      "description": "Br\u00e4ndi puhuu korporaatiotason vihre\u00e4st\u00e4 siirtym\u00e4st\u00e4, kun taas kohdeyleis\u00f6 taistelee suomalaisen talven ja kuljetusalan raakojen realiteettien kanssa.",
       "evidence": [
-        "Viestinnän kärkenä 'kestävä liikuttaminen' ja sähkörekat.",
-        "Asiakaskunta operoi matalakatteisessa volyymibisneksessä, pakkasessa ja soramontuilla, joissa sähköistymispuhe tuntuu vieraalta."
+        "Viestinn\u00e4n k\u00e4rken\u00e4 'kest\u00e4v\u00e4 liikuttaminen' ja s\u00e4hk\u00f6rekat.",
+        "Asiakaskunta operoi matalakatteisessa volyymibisneksess\u00e4, pakkasessa ja soramontuilla, joissa s\u00e4hk\u00f6istymispuhe tuntuu vieraalta."
       ],
       "opportunity_type": "aspiration",
       "priority_score": 4
     },
     {
       "id": "tension_03",
-      "description": "Mercedes-Benzin premium-mielikuva on myyntivaltti uusissa autoissa, mutta muodostaa kynnyksen vanhemman kaluston huoltamiselle merkkiliikkeessä.",
+      "description": "Mercedes-Benzin premium-mielikuva on myyntivaltti uusissa autoissa, mutta muodostaa kynnyksen vanhemman kaluston huoltamiselle merkkiliikkeess\u00e4.",
       "evidence": [
         "Raskone ja muut monimerkkihuollot voittavat markkinaosuutta.",
-        "Veho yrittää paikata tätä taktisilla ECO-huolloilla, mutta premium-leima hidastaa viestin läpimenoa."
+        "Veho yritt\u00e4\u00e4 paikata t\u00e4t\u00e4 taktisilla ECO-huolloilla, mutta premium-leima hidastaa viestin l\u00e4pimenoa."
       ],
       "opportunity_type": "threat",
       "priority_score": 4
     },
     {
       "id": "tension_04",
-      "description": "Veho kohdentaa viestintänsä yritysjohdolle rationaalisilla kanavilla, jättäen kalustohankintoihin vahvasti vaikuttavat kuljettajat kilpailijoiden (Volvo/Scania) leiriin.",
+      "description": "Veho kohdentaa viestint\u00e4ns\u00e4 yritysjohdolle rationaalisilla kanavilla, j\u00e4tt\u00e4en kalustohankintoihin vahvasti vaikuttavat kuljettajat kilpailijoiden (Volvo/Scania) leiriin.",
       "evidence": [
-        "Sisältö jaellaan Vimeossa, ammattilehdissä ja tiedotteina (B2B-päättäjät).",
-        "Kuljettajien suosimat kanavat (YouTube, TikTok) ja heitä puhutteleva tunnetason videosisältö loistavat poissaolollaan."
+        "Sis\u00e4lt\u00f6 jaellaan Vimeossa, ammattilehdiss\u00e4 ja tiedotteina (B2B-p\u00e4\u00e4tt\u00e4j\u00e4t).",
+        "Kuljettajien suosimat kanavat (YouTube, TikTok) ja heit\u00e4 puhutteleva tunnetason videosis\u00e4lt\u00f6 loistavat poissaolollaan."
       ],
       "opportunity_type": "underserved_audience",
       "priority_score": 5
@@ -166,20 +166,20 @@
   "opportunity_zones": [
     {
       "id": "opp_01",
-      "description": "\"Käyttöasteen sankarit\" – Huollon ja jälkimarkkinoinnin inhimillistäminen ja nostaminen brändin keskiöön.",
-      "rationale": "Ratkaisee tension_01:n. Siirtää fokuksen peltikuorista ihmisiin. Service24h-mekaanikot ja yölliset huolto-operaatiot tarjoavat aitoa, rosoista ja tunteisiin vetoavaa videosisältöä, joka todistaa Vehon palvelulupauksen todeksi.",
+      "description": "\"K\u00e4ytt\u00f6asteen sankarit\" \u2013 Huollon ja j\u00e4lkimarkkinoinnin inhimillist\u00e4minen ja nostaminen br\u00e4ndin keski\u00f6\u00f6n.",
+      "rationale": "Ratkaisee tension_01:n. Siirt\u00e4\u00e4 fokuksen peltikuorista ihmisiin. Service24h-mekaanikot ja y\u00f6lliset huolto-operaatiot tarjoavat aitoa, rosoista ja tunteisiin vetoavaa videosis\u00e4lt\u00f6\u00e4, joka todistaa Vehon palvelulupauksen todeksi.",
       "risk_level": "low"
     },
     {
       "id": "opp_02",
-      "description": "Saksalaisen premium-insinöörityön ja suomalaisen arktisen arjen visuaalinen ja tarinallinen törmäyttäminen.",
-      "rationale": "Ratkaisee tension_02:n ja tension_04:n. Tuo sähköistymisen ja premium-brändin alas korporaatiopilvistä suomalaiseen roudan, loskan ja puunajon todellisuuteen. Rakentaa puuttuvaa heimohenkeä kuljettajien suuntaan.",
+      "description": "Saksalaisen premium-insin\u00f6\u00f6rity\u00f6n ja suomalaisen arktisen arjen visuaalinen ja tarinallinen t\u00f6rm\u00e4ytt\u00e4minen.",
+      "rationale": "Ratkaisee tension_02:n ja tension_04:n. Tuo s\u00e4hk\u00f6istymisen ja premium-br\u00e4ndin alas korporaatiopilvist\u00e4 suomalaiseen roudan, loskan ja puunajon todellisuuteen. Rakentaa puuttuvaa heimohenke\u00e4 kuljettajien suuntaan.",
       "risk_level": "medium"
     },
     {
       "id": "opp_03",
-      "description": "Taloudellisen mielenrauhan visualisointi – TCO:n ja huoltosopimusten kääntäminen Excel-matematiikasta tunnekokemukseksi.",
-      "rationale": "Ratkaisee tension_03:n. Auttaa purkamaan \"premium on kallista\" -myyttiä näyttämällä, miltä tuntuu, kun yrittäjän ei tarvitse stressata kaluston hajoamisesta. Siirtää keskustelun huollon hinnasta liiketoiminnan jatkuvuuden arvoon.",
+      "description": "Taloudellisen mielenrauhan visualisointi \u2013 TCO:n ja huoltosopimusten k\u00e4\u00e4nt\u00e4minen Excel-matematiikasta tunnekokemukseksi.",
+      "rationale": "Ratkaisee tension_03:n. Auttaa purkamaan \"premium on kallista\" -myytti\u00e4 n\u00e4ytt\u00e4m\u00e4ll\u00e4, milt\u00e4 tuntuu, kun yritt\u00e4j\u00e4n ei tarvitse stressata kaluston hajoamisesta. Siirt\u00e4\u00e4 keskustelun huollon hinnasta liiketoiminnan jatkuvuuden arvoon.",
       "risk_level": "low"
     }
   ],
