@@ -1,0 +1,228 @@
+{
+  "company_name": "Veho henkiöautot",
+  "company_slug": "veho-henkiautot",
+  "generated_at": "2026-05-13T09:00:58.528037",
+  "brand_identity": {
+    "positioning": "Veho asemoi itsensä perinteisen autokaupan yläpuolelle kokonaisvaltaiseksi, premium-tason liikkumisratkaisujen tarjoajaksi. Ydinlupaus on 'Viiden tähden asiakaskokemus'.",
+    "visual_markers": {
+      "primary_color": "Tummat sävyt",
+      "secondary_colors": [
+        "Marmori",
+        "Hopea"
+      ],
+      "style_keywords": [
+        "Pelkistetty",
+        "Luksus",
+        "Premium",
+        "Lounge-tyyppinen"
+      ],
+      "tone_keywords": [
+        "Korporatiivinen",
+        "Luotettava",
+        "Arvokas",
+        "Ratkaisukeskeinen"
+      ]
+    },
+    "voice_characteristics": [
+      "Asiantunteva",
+      "Vastuullinen",
+      "Pitkäjänteinen",
+      "Korporatiivinen"
+    ]
+  },
+  "strategic_priorities": [
+    {
+      "rank": 1,
+      "priority": "'Yksi Veho' ja asiakaskokemuksen yhtenäistäminen",
+      "evidence": [
+        "Henkilö- ja hyötyajoneuvot on tuotu saman brändin ja verkkosivuston (Veho.fi) alle.",
+        "Tavoitteena saumaton viiden tähden kokemus riippumatta ajoneuvotyypistä."
+      ],
+      "execution_assessment": "strong"
+    },
+    {
+      "rank": 2,
+      "priority": "Sähköistyminen ja uudet hintasegmentit",
+      "evidence": [
+        "Historiallinen päätös aloittaa kiinalaisen BYD-sähköautojen myynti ja huolto (kesä 2025) Mercedes-Benzin rinnalla volyymin ja kilpailukyvyn turvaamiseksi."
+      ],
+      "execution_assessment": "moderate"
+    },
+    {
+      "rank": 3,
+      "priority": "Vastuullisuus (ESG) kilpailuetuna",
+      "evidence": [
+        "Vastuullisuus on integroitu operatiiviseen toimintaan (esim. Granlund Manager -energiaohjaus kiinteistöissä, EU:n kestävyysraportointistandardit), ei vain viestintään."
+      ],
+      "execution_assessment": "strong"
+    },
+    {
+      "rank": 4,
+      "priority": "Huoltopalveluiden ennakoivuus ja luotettavuus",
+      "evidence": [
+        "Linjaus siitä, että tuotteiden ollessa kilpailukykyisiä kaikkialla, kumppanin valinta ratkaistaan huollon palvelukokemuksessa ja käyttövarmuudessa."
+      ],
+      "execution_assessment": "moderate"
+    }
+  ],
+  "marketing_posture": {
+    "current_content_types": [
+      "Taktinen 'Ajankohtaiset huoltoedut' -mainonta",
+      "Korkean tuotantoarvon korporatiiviset videot",
+      "Vaikuttajamarkkinointi"
+    ],
+    "channel_presence": {
+      "youtube": {
+        "active": true,
+        "assessment": "Tuotantolaatu korkea, mutta sisältö vahvan korporatiivista ja tuotekeskeistä."
+      },
+      "tiktok": {
+        "active": true,
+        "assessment": "Vaikuttajakampanjat (esim. Chisu, Isac Elliot). Laatu hyvä, mutta sävy irrallaan ydinbrändistä."
+      },
+      "instagram": {
+        "active": true,
+        "assessment": "Vaikuttajakampanjat. Laatu hyvä, mutta sävy irrallaan ydinbrändistä."
+      },
+      "linkedin": {
+        "active": true,
+        "assessment": "Oletettavasti aktiivinen B2B-kohderyhmän ja ESG-viestinnän vuoksi."
+      }
+    },
+    "apparent_gaps": [
+      "Huoltopalveluiden brändillinen sisältö puuttuu.",
+      "Huolto esitetään taktisena toimenpiteenä, kun taas uudet autot saavat 'kiiltokuvakäsittelyn'.",
+      "Sähköautojen huollon uutta arvoa ei ole sanoitettu."
+    ],
+    "audience_engagement": "Ristiriitainen. Vaikuttajakampanjat keräävät huomiota nuorissa, mutta eivät konvertoidu ydinliiketoiminnan (huollon) mielikuviin, joka puhuttelee edelleen lähinnä keski-ikäisiä ja B2B-päättäjiä."
+  },
+  "competitive_analysis": {
+    "key_competitors": [
+      {
+        "name": "Hedin Automotive",
+        "content_strategy": "Aggressiivinen monimerkkitalon volyymimarkkinointi, skaalaetujen hyödyntäminen.",
+        "threat_level": "high"
+      },
+      {
+        "name": "K-Auto",
+        "content_strategy": "Edelläkävijyys autojen verkkokaupassa ja digitaalisten huoltopolkujen viestinnässä.",
+        "threat_level": "high"
+      }
+    ],
+    "brand_winning_areas": [
+      "Syvä asiantuntijuus (historiallisesti MB)",
+      "Premium-tason fyysiset puitteet",
+      "Vastuullisuuden (ESG) aito integrointi liiketoimintaan"
+    ],
+    "brand_losing_areas": [
+      "'Yhden luukun taktiikka' (kilpailijat huoltavat useita merkkejä)",
+      "BYD:n mukaantulo pakottaa Vehon todistamaan, että sen asiantuntijuus taipuu myös uuteen teknologiaan"
+    ]
+  },
+  "strategic_tensions": [
+    {
+      "id": "tension_01",
+      "description": "Brändi lupaa eksklusiivista luksuspalvelua, mutta joutuu palvelemaan volyymisähköautojen (BYD) asiakkaita samoissa tiloissa.",
+      "evidence": [
+        "Veho Olarin miljoonaremontit ja MB:n luksusarkkitehtuuri.",
+        "35 000 euron BYD-sähköauton tuominen samaan huoltoaulaan kesällä 2025."
+      ],
+      "opportunity_type": "threat",
+      "priority_score": 5
+    },
+    {
+      "id": "tension_02",
+      "description": "Huoltoprosessi on automatisoitu tehokkaaksi, mikä syö tilan luvatulta viiden tähden henkilökohtaiselta palvelukokemukselta.",
+      "evidence": [
+        "Lupaus: 'Jokainen asiakas tulee huomioiduksi yksilöllisesti.'",
+        "Todellisuus: Asiakkaat ohjataan varaamaan verkossa ja jättämään avaimet 24/7-automaattiin."
+      ],
+      "opportunity_type": "gap",
+      "priority_score": 5
+    },
+    {
+      "id": "tension_03",
+      "description": "Sähköautojen huolto on muuttunut näkymättömäksi softatyöksi, mutta asiakkaat odottavat edelleen perinteistä mekaanista arvolupausta.",
+      "evidence": [
+        "Sähköautot eivät vaadi öljynvaihtoja tai yhtä paljon kuluvien osien vaihtoa.",
+        "Huollon arvoa (ohjelmistopäivitykset, akun kunto) ei ole osattu sanoittaa kuluttajalle ymmärrettäväksi."
+      ],
+      "opportunity_type": "gap",
+      "priority_score": 4
+    },
+    {
+      "id": "tension_04",
+      "description": "Markkinointi yrittää tavoittaa nuoria sähköautoilijoita, mutta brändin ydin ja huollon todellisuus ovat vahvan korporatiivisia.",
+      "evidence": [
+        "Vaikuttajamarkkinointi (Chisu, Isac Elliot) vs. pukupukuiset palveluneuvojat ja marmorilattiat.",
+        "Nuorempi kohderyhmä arvostaa läpinäkyvyyttä ja nopeutta enemmän kuin perinteistä luksusta."
+      ],
+      "opportunity_type": "underserved_audience",
+      "priority_score": 3
+    }
+  ],
+  "opportunity_zones": [
+    {
+      "id": "opp_01",
+      "description": "Mekaanikosta 'Insinööriksi' – Uudenlaisen asiantuntijuuden esiin tuominen.",
+      "rationale": "Sähköautojen huolto vaatii huipputeknologian, akkuarkkitehtuurin ja ohjelmistojen hallintaa. Tämän 'näkymättömän' työn tekeminen näkyväksi perustelee merkkihuollon arvon ja hinnan, ja vastaa tension_03:een.",
+      "risk_level": "low"
+    },
+    {
+      "id": "opp_02",
+      "description": "Palvelun inhimillistäminen digiaikana.",
+      "rationale": "Koska rutiinit (varaus, avainten jättö) on automatisoitu, ihmisten välisille kohtaamisille (esim. selkokielinen palaute mekaanikolta, auton luovutus) jää enemmän aikaa. Tämän inhimillisen lisäarvon korostaminen ratkaisee tension_02:n ja erottaa Vehon kilpailijoiden pelkästä digitehokkuudesta.",
+      "risk_level": "medium"
+    },
+    {
+      "id": "opp_03",
+      "description": "Mielenrauhan uudelleenmäärittely sähköautoaikakaudella.",
+      "rationale": "Mielenrauha ei ole enää vain sitä, että auto ei jätä tielle. Se on akun eliniän maksimointia, tietoturvaa ja jälleenmyyntiarvon säilyttämistä. Tämän uuden arvolupauksen viestiminen voi yhdistää sekä MB- että BYD-asiakkaiden tarpeet (ratkoo tension_01:tä).",
+      "risk_level": "low"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Veho.fi",
+      "url": "https://www.veho.fi",
+      "type": "company_site",
+      "date_accessed": "2023-10-24",
+      "relevance": "Brändin ydinviestintä, palvelulupaukset, huollon varausprosessit."
+    },
+    {
+      "title": "Vehocompany.com",
+      "url": "https://www.vehocompany.com",
+      "type": "company_site",
+      "date_accessed": "2023-10-24",
+      "relevance": "Konsernitason strategia ja ESG-tavoitteet."
+    },
+    {
+      "title": "Projektiuutiset.fi",
+      "url": "https://www.projektiuutiset.fi",
+      "type": "news",
+      "date_accessed": "2023-10-24",
+      "relevance": "Veho Olarin / kiinteistöjen uudistukset ja arkkitehtuuri."
+    },
+    {
+      "title": "Kuljetuslehti.fi / Ammattilehti.fi",
+      "url": "https://www.ammattilehti.fi",
+      "type": "news",
+      "date_accessed": "2023-10-24",
+      "relevance": "B2B-puolen huoltolupaukset, 'Yksi Veho' -strategia."
+    },
+    {
+      "title": "Northpatrol.fi",
+      "url": "https://northpatrol.fi",
+      "type": "report",
+      "date_accessed": "2023-10-24",
+      "relevance": "Veho.fi -verkkopalvelu-uudistuksen taustat ja tavoitteet."
+    },
+    {
+      "title": "Mtvuutiset.fi",
+      "url": "https://www.mtvuutiset.fi",
+      "type": "news",
+      "date_accessed": "2023-10-24",
+      "relevance": "Uutiset BYD-edustuksesta ja sähköistymisestä."
+    }
+  ]
+}
