@@ -1,11 +1,11 @@
 {
-  "company_name": "Veho henkiöautot",
+  "company_name": "Veho henki\u00f6autot",
   "company_slug": "veho-henkiautot",
   "generated_at": "2026-05-13T09:00:58.528037",
   "brand_identity": {
-    "positioning": "Veho asemoi itsensä perinteisen autokaupan yläpuolelle kokonaisvaltaiseksi, premium-tason liikkumisratkaisujen tarjoajaksi. Ydinlupaus on 'Viiden tähden asiakaskokemus'.",
+    "positioning": "Veho asemoi itsens\u00e4 perinteisen autokaupan yl\u00e4puolelle kokonaisvaltaiseksi, premium-tason liikkumisratkaisujen tarjoajaksi. Ydinlupaus on 'Viiden t\u00e4hden asiakaskokemus'.",
     "visual_markers": {
-      "primary_color": "Tummat sävyt",
+      "primary_color": "Tummat s\u00e4vyt",
       "secondary_colors": [
         "Marmori",
         "Hopea"
@@ -26,25 +26,25 @@
     "voice_characteristics": [
       "Asiantunteva",
       "Vastuullinen",
-      "Pitkäjänteinen",
+      "Pitk\u00e4j\u00e4nteinen",
       "Korporatiivinen"
     ]
   },
   "strategic_priorities": [
     {
       "rank": 1,
-      "priority": "'Yksi Veho' ja asiakaskokemuksen yhtenäistäminen",
+      "priority": "'Yksi Veho' ja asiakaskokemuksen yhten\u00e4ist\u00e4minen",
       "evidence": [
-        "Henkilö- ja hyötyajoneuvot on tuotu saman brändin ja verkkosivuston (Veho.fi) alle.",
-        "Tavoitteena saumaton viiden tähden kokemus riippumatta ajoneuvotyypistä."
+        "Henkil\u00f6- ja hy\u00f6tyajoneuvot on tuotu saman br\u00e4ndin ja verkkosivuston (Veho.fi) alle.",
+        "Tavoitteena saumaton viiden t\u00e4hden kokemus riippumatta ajoneuvotyypist\u00e4."
       ],
       "execution_assessment": "strong"
     },
     {
       "rank": 2,
-      "priority": "Sähköistyminen ja uudet hintasegmentit",
+      "priority": "S\u00e4hk\u00f6istyminen ja uudet hintasegmentit",
       "evidence": [
-        "Historiallinen päätös aloittaa kiinalaisen BYD-sähköautojen myynti ja huolto (kesä 2025) Mercedes-Benzin rinnalla volyymin ja kilpailukyvyn turvaamiseksi."
+        "Historiallinen p\u00e4\u00e4t\u00f6s aloittaa kiinalaisen BYD-s\u00e4hk\u00f6autojen myynti ja huolto (kes\u00e4 2025) Mercedes-Benzin rinnalla volyymin ja kilpailukyvyn turvaamiseksi."
       ],
       "execution_assessment": "moderate"
     },
@@ -52,7 +52,7 @@
       "rank": 3,
       "priority": "Vastuullisuus (ESG) kilpailuetuna",
       "evidence": [
-        "Vastuullisuus on integroitu operatiiviseen toimintaan (esim. Granlund Manager -energiaohjaus kiinteistöissä, EU:n kestävyysraportointistandardit), ei vain viestintään."
+        "Vastuullisuus on integroitu operatiiviseen toimintaan (esim. Granlund Manager -energiaohjaus kiinteist\u00f6iss\u00e4, EU:n kest\u00e4vyysraportointistandardit), ei vain viestint\u00e4\u00e4n."
       ],
       "execution_assessment": "strong"
     },
@@ -60,7 +60,7 @@
       "rank": 4,
       "priority": "Huoltopalveluiden ennakoivuus ja luotettavuus",
       "evidence": [
-        "Linjaus siitä, että tuotteiden ollessa kilpailukykyisiä kaikkialla, kumppanin valinta ratkaistaan huollon palvelukokemuksessa ja käyttövarmuudessa."
+        "Linjaus siit\u00e4, ett\u00e4 tuotteiden ollessa kilpailukykyisi\u00e4 kaikkialla, kumppanin valinta ratkaistaan huollon palvelukokemuksessa ja k\u00e4ytt\u00f6varmuudessa."
       ],
       "execution_assessment": "moderate"
     }
@@ -74,88 +74,88 @@
     "channel_presence": {
       "youtube": {
         "active": true,
-        "assessment": "Tuotantolaatu korkea, mutta sisältö vahvan korporatiivista ja tuotekeskeistä."
+        "assessment": "Tuotantolaatu korkea, mutta sis\u00e4lt\u00f6 vahvan korporatiivista ja tuotekeskeist\u00e4."
       },
       "tiktok": {
         "active": true,
-        "assessment": "Vaikuttajakampanjat (esim. Chisu, Isac Elliot). Laatu hyvä, mutta sävy irrallaan ydinbrändistä."
+        "assessment": "Vaikuttajakampanjat (esim. Chisu, Isac Elliot). Laatu hyv\u00e4, mutta s\u00e4vy irrallaan ydinbr\u00e4ndist\u00e4."
       },
       "instagram": {
         "active": true,
-        "assessment": "Vaikuttajakampanjat. Laatu hyvä, mutta sävy irrallaan ydinbrändistä."
+        "assessment": "Vaikuttajakampanjat. Laatu hyv\u00e4, mutta s\u00e4vy irrallaan ydinbr\u00e4ndist\u00e4."
       },
       "linkedin": {
         "active": true,
-        "assessment": "Oletettavasti aktiivinen B2B-kohderyhmän ja ESG-viestinnän vuoksi."
+        "assessment": "Oletettavasti aktiivinen B2B-kohderyhm\u00e4n ja ESG-viestinn\u00e4n vuoksi."
       }
     },
     "apparent_gaps": [
-      "Huoltopalveluiden brändillinen sisältö puuttuu.",
-      "Huolto esitetään taktisena toimenpiteenä, kun taas uudet autot saavat 'kiiltokuvakäsittelyn'.",
-      "Sähköautojen huollon uutta arvoa ei ole sanoitettu."
+      "Huoltopalveluiden br\u00e4ndillinen sis\u00e4lt\u00f6 puuttuu.",
+      "Huolto esitet\u00e4\u00e4n taktisena toimenpiteen\u00e4, kun taas uudet autot saavat 'kiiltokuvak\u00e4sittelyn'.",
+      "S\u00e4hk\u00f6autojen huollon uutta arvoa ei ole sanoitettu."
     ],
-    "audience_engagement": "Ristiriitainen. Vaikuttajakampanjat keräävät huomiota nuorissa, mutta eivät konvertoidu ydinliiketoiminnan (huollon) mielikuviin, joka puhuttelee edelleen lähinnä keski-ikäisiä ja B2B-päättäjiä."
+    "audience_engagement": "Ristiriitainen. Vaikuttajakampanjat ker\u00e4\u00e4v\u00e4t huomiota nuorissa, mutta eiv\u00e4t konvertoidu ydinliiketoiminnan (huollon) mielikuviin, joka puhuttelee edelleen l\u00e4hinn\u00e4 keski-ik\u00e4isi\u00e4 ja B2B-p\u00e4\u00e4tt\u00e4ji\u00e4."
   },
   "competitive_analysis": {
     "key_competitors": [
       {
         "name": "Hedin Automotive",
-        "content_strategy": "Aggressiivinen monimerkkitalon volyymimarkkinointi, skaalaetujen hyödyntäminen.",
+        "content_strategy": "Aggressiivinen monimerkkitalon volyymimarkkinointi, skaalaetujen hy\u00f6dynt\u00e4minen.",
         "threat_level": "high"
       },
       {
         "name": "K-Auto",
-        "content_strategy": "Edelläkävijyys autojen verkkokaupassa ja digitaalisten huoltopolkujen viestinnässä.",
+        "content_strategy": "Edell\u00e4k\u00e4vijyys autojen verkkokaupassa ja digitaalisten huoltopolkujen viestinn\u00e4ss\u00e4.",
         "threat_level": "high"
       }
     ],
     "brand_winning_areas": [
-      "Syvä asiantuntijuus (historiallisesti MB)",
+      "Syv\u00e4 asiantuntijuus (historiallisesti MB)",
       "Premium-tason fyysiset puitteet",
       "Vastuullisuuden (ESG) aito integrointi liiketoimintaan"
     ],
     "brand_losing_areas": [
-      "'Yhden luukun taktiikka' (kilpailijat huoltavat useita merkkejä)",
-      "BYD:n mukaantulo pakottaa Vehon todistamaan, että sen asiantuntijuus taipuu myös uuteen teknologiaan"
+      "'Yhden luukun taktiikka' (kilpailijat huoltavat useita merkkej\u00e4)",
+      "BYD:n mukaantulo pakottaa Vehon todistamaan, ett\u00e4 sen asiantuntijuus taipuu my\u00f6s uuteen teknologiaan"
     ]
   },
   "strategic_tensions": [
     {
       "id": "tension_01",
-      "description": "Brändi lupaa eksklusiivista luksuspalvelua, mutta joutuu palvelemaan volyymisähköautojen (BYD) asiakkaita samoissa tiloissa.",
+      "description": "Br\u00e4ndi lupaa eksklusiivista luksuspalvelua, mutta joutuu palvelemaan volyymis\u00e4hk\u00f6autojen (BYD) asiakkaita samoissa tiloissa.",
       "evidence": [
         "Veho Olarin miljoonaremontit ja MB:n luksusarkkitehtuuri.",
-        "35 000 euron BYD-sähköauton tuominen samaan huoltoaulaan kesällä 2025."
+        "35 000 euron BYD-s\u00e4hk\u00f6auton tuominen samaan huoltoaulaan kes\u00e4ll\u00e4 2025."
       ],
       "opportunity_type": "threat",
       "priority_score": 5
     },
     {
       "id": "tension_02",
-      "description": "Huoltoprosessi on automatisoitu tehokkaaksi, mikä syö tilan luvatulta viiden tähden henkilökohtaiselta palvelukokemukselta.",
+      "description": "Huoltoprosessi on automatisoitu tehokkaaksi, mik\u00e4 sy\u00f6 tilan luvatulta viiden t\u00e4hden henkil\u00f6kohtaiselta palvelukokemukselta.",
       "evidence": [
-        "Lupaus: 'Jokainen asiakas tulee huomioiduksi yksilöllisesti.'",
-        "Todellisuus: Asiakkaat ohjataan varaamaan verkossa ja jättämään avaimet 24/7-automaattiin."
+        "Lupaus: 'Jokainen asiakas tulee huomioiduksi yksil\u00f6llisesti.'",
+        "Todellisuus: Asiakkaat ohjataan varaamaan verkossa ja j\u00e4tt\u00e4m\u00e4\u00e4n avaimet 24/7-automaattiin."
       ],
       "opportunity_type": "gap",
       "priority_score": 5
     },
     {
       "id": "tension_03",
-      "description": "Sähköautojen huolto on muuttunut näkymättömäksi softatyöksi, mutta asiakkaat odottavat edelleen perinteistä mekaanista arvolupausta.",
+      "description": "S\u00e4hk\u00f6autojen huolto on muuttunut n\u00e4kym\u00e4tt\u00f6m\u00e4ksi softaty\u00f6ksi, mutta asiakkaat odottavat edelleen perinteist\u00e4 mekaanista arvolupausta.",
       "evidence": [
-        "Sähköautot eivät vaadi öljynvaihtoja tai yhtä paljon kuluvien osien vaihtoa.",
-        "Huollon arvoa (ohjelmistopäivitykset, akun kunto) ei ole osattu sanoittaa kuluttajalle ymmärrettäväksi."
+        "S\u00e4hk\u00f6autot eiv\u00e4t vaadi \u00f6ljynvaihtoja tai yht\u00e4 paljon kuluvien osien vaihtoa.",
+        "Huollon arvoa (ohjelmistop\u00e4ivitykset, akun kunto) ei ole osattu sanoittaa kuluttajalle ymm\u00e4rrett\u00e4v\u00e4ksi."
       ],
       "opportunity_type": "gap",
       "priority_score": 4
     },
     {
       "id": "tension_04",
-      "description": "Markkinointi yrittää tavoittaa nuoria sähköautoilijoita, mutta brändin ydin ja huollon todellisuus ovat vahvan korporatiivisia.",
+      "description": "Markkinointi yritt\u00e4\u00e4 tavoittaa nuoria s\u00e4hk\u00f6autoilijoita, mutta br\u00e4ndin ydin ja huollon todellisuus ovat vahvan korporatiivisia.",
       "evidence": [
         "Vaikuttajamarkkinointi (Chisu, Isac Elliot) vs. pukupukuiset palveluneuvojat ja marmorilattiat.",
-        "Nuorempi kohderyhmä arvostaa läpinäkyvyyttä ja nopeutta enemmän kuin perinteistä luksusta."
+        "Nuorempi kohderyhm\u00e4 arvostaa l\u00e4pin\u00e4kyvyytt\u00e4 ja nopeutta enemm\u00e4n kuin perinteist\u00e4 luksusta."
       ],
       "opportunity_type": "underserved_audience",
       "priority_score": 3
@@ -164,20 +164,20 @@
   "opportunity_zones": [
     {
       "id": "opp_01",
-      "description": "Mekaanikosta 'Insinööriksi' – Uudenlaisen asiantuntijuuden esiin tuominen.",
-      "rationale": "Sähköautojen huolto vaatii huipputeknologian, akkuarkkitehtuurin ja ohjelmistojen hallintaa. Tämän 'näkymättömän' työn tekeminen näkyväksi perustelee merkkihuollon arvon ja hinnan, ja vastaa tension_03:een.",
+      "description": "Mekaanikosta 'Insin\u00f6\u00f6riksi' \u2013 Uudenlaisen asiantuntijuuden esiin tuominen.",
+      "rationale": "S\u00e4hk\u00f6autojen huolto vaatii huipputeknologian, akkuarkkitehtuurin ja ohjelmistojen hallintaa. T\u00e4m\u00e4n 'n\u00e4kym\u00e4tt\u00f6m\u00e4n' ty\u00f6n tekeminen n\u00e4kyv\u00e4ksi perustelee merkkihuollon arvon ja hinnan, ja vastaa tension_03:een.",
       "risk_level": "low"
     },
     {
       "id": "opp_02",
-      "description": "Palvelun inhimillistäminen digiaikana.",
-      "rationale": "Koska rutiinit (varaus, avainten jättö) on automatisoitu, ihmisten välisille kohtaamisille (esim. selkokielinen palaute mekaanikolta, auton luovutus) jää enemmän aikaa. Tämän inhimillisen lisäarvon korostaminen ratkaisee tension_02:n ja erottaa Vehon kilpailijoiden pelkästä digitehokkuudesta.",
+      "description": "Palvelun inhimillist\u00e4minen digiaikana.",
+      "rationale": "Koska rutiinit (varaus, avainten j\u00e4tt\u00f6) on automatisoitu, ihmisten v\u00e4lisille kohtaamisille (esim. selkokielinen palaute mekaanikolta, auton luovutus) j\u00e4\u00e4 enemm\u00e4n aikaa. T\u00e4m\u00e4n inhimillisen lis\u00e4arvon korostaminen ratkaisee tension_02:n ja erottaa Vehon kilpailijoiden pelk\u00e4st\u00e4 digitehokkuudesta.",
       "risk_level": "medium"
     },
     {
       "id": "opp_03",
-      "description": "Mielenrauhan uudelleenmäärittely sähköautoaikakaudella.",
-      "rationale": "Mielenrauha ei ole enää vain sitä, että auto ei jätä tielle. Se on akun eliniän maksimointia, tietoturvaa ja jälleenmyyntiarvon säilyttämistä. Tämän uuden arvolupauksen viestiminen voi yhdistää sekä MB- että BYD-asiakkaiden tarpeet (ratkoo tension_01:tä).",
+      "description": "Mielenrauhan uudelleenm\u00e4\u00e4rittely s\u00e4hk\u00f6autoaikakaudella.",
+      "rationale": "Mielenrauha ei ole en\u00e4\u00e4 vain sit\u00e4, ett\u00e4 auto ei j\u00e4t\u00e4 tielle. Se on akun elini\u00e4n maksimointia, tietoturvaa ja j\u00e4lleenmyyntiarvon s\u00e4ilytt\u00e4mist\u00e4. T\u00e4m\u00e4n uuden arvolupauksen viestiminen voi yhdist\u00e4\u00e4 sek\u00e4 MB- ett\u00e4 BYD-asiakkaiden tarpeet (ratkoo tension_01:t\u00e4).",
       "risk_level": "low"
     }
   ],
@@ -187,7 +187,7 @@
       "url": "https://www.veho.fi",
       "type": "company_site",
       "date_accessed": "2023-10-24",
-      "relevance": "Brändin ydinviestintä, palvelulupaukset, huollon varausprosessit."
+      "relevance": "Br\u00e4ndin ydinviestint\u00e4, palvelulupaukset, huollon varausprosessit."
     },
     {
       "title": "Vehocompany.com",
@@ -201,7 +201,7 @@
       "url": "https://www.projektiuutiset.fi",
       "type": "news",
       "date_accessed": "2023-10-24",
-      "relevance": "Veho Olarin / kiinteistöjen uudistukset ja arkkitehtuuri."
+      "relevance": "Veho Olarin / kiinteist\u00f6jen uudistukset ja arkkitehtuuri."
     },
     {
       "title": "Kuljetuslehti.fi / Ammattilehti.fi",
@@ -222,7 +222,7 @@
       "url": "https://www.mtvuutiset.fi",
       "type": "news",
       "date_accessed": "2023-10-24",
-      "relevance": "Uutiset BYD-edustuksesta ja sähköistymisestä."
+      "relevance": "Uutiset BYD-edustuksesta ja s\u00e4hk\u00f6istymisest\u00e4."
     }
   ]
 }
