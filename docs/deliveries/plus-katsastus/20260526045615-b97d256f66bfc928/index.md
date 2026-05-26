@@ -16,6 +16,9 @@
 - [Concept 03](concepts/concept_03.md)
 
 ## Treatments
+- [plus_katsastus_TREATMENT_01_20260526_050617.md](treatments/plus_katsastus_TREATMENT_01_20260526_050617.md)
+- [plus_katsastus_TREATMENT_02_20260526_050800.md](treatments/plus_katsastus_TREATMENT_02_20260526_050800.md)
+- [plus_katsastus_TREATMENT_03_20260526_050947.md](treatments/plus_katsastus_TREATMENT_03_20260526_050947.md)
 
 ## One-Pagers
 - [One-Pager 01](onepagers/concept_01.png)
