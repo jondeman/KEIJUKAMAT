@@ -1,0 +1,231 @@
+{
+  "company_name": "Plus Katsastus",
+  "company_slug": "plus-katsastus",
+  "generated_at": "2026-05-26T04:59:51.743186",
+  "brand_identity": {
+    "positioning": "100 % suomalainen, yrittäjävetoinen haastaja. Helppoa ja sujuvaa katsastusta, silloin kun sinulle sopii.",
+    "visual_markers": {
+      "primary_color": "Sininen (Avainlippu)",
+      "secondary_colors": [
+        "Valkoinen"
+      ],
+      "style_keywords": [
+        "Perinteinen",
+        "Funktionaalinen",
+        "Kotimainen"
+      ],
+      "tone_keywords": [
+        "Maanläheinen",
+        "Asiantunteva",
+        "Helposti lähestyttävä",
+        "Mutkaton"
+      ]
+    },
+    "voice_characteristics": [
+      "Maanläheinen",
+      "Asiantunteva",
+      "Helposti lähestyttävä",
+      "Reilu meininki",
+      "Mutkaton"
+    ]
+  },
+  "strategic_priorities": [
+    {
+      "rank": 1,
+      "priority": "Aggressiivinen valtakunnallinen kasvu ja PK-seudun valtaus",
+      "evidence": [
+        "HelppoKatsastuksen osto (2025), joka kasvatti asemien määrän 50:stä 75:een.",
+        "Toimitusjohtajan julkinen tavoite kasvattaa markkinaosuus 20 %:sta 25 %:iin.",
+        "Erityinen strateginen fokus pääkaupunkiseudulla, jossa aiemmin vain yksi asema."
+      ],
+      "execution_assessment": "strong"
+    },
+    {
+      "rank": 2,
+      "priority": "Ulkomaisten jättien ja pääomasijoittajien haastaminen",
+      "evidence": [
+        "Johdon lausunnoissa toistuva yrittäjävetoisuuden korostaminen.",
+        "Tietoinen asemoituminen vastavoimaksi ulkomaisille toimijoille (kuten A-Katsastus ja K1 Katsastus)."
+      ],
+      "execution_assessment": "moderate"
+    },
+    {
+      "rank": 3,
+      "priority": "Osaajapulan ratkaiseminen (Rekrytointi)",
+      "evidence": [
+        "Voimakkaat panostukset rekrytointiin ja autokorjaamoalan ammattilaisten uudelleenkoulutukseen.",
+        "Ainutlaatuisen palkitsemisjärjestelmän mainostaminen työpaikkailmoituksissa."
+      ],
+      "execution_assessment": "moderate"
+    }
+  ],
+  "marketing_posture": {
+    "current_content_types": [
+      "Taktinen",
+      "Lokaali",
+      "Perinteinen",
+      "Hintavetoiset kampanjat",
+      "Tiedottava sisältö",
+      "Urheilusponsorointi (Ralli SM)"
+    ],
+    "channel_presence": {
+      "ooh": {
+        "active": true,
+        "assessment": "Aktiivinen. Vahva luotto lokaaliin näkyvyyteen (esim. massiiviset LED-taulut Kehä III:lla). Laatu: Taktinen/Toimiva."
+      },
+      "facebook_instagram": {
+        "active": true,
+        "assessment": "Aktiivinen, mutta heikko. Sisältö on staattista tiedottamista (esim. aukioloajat)."
+      },
+      "youtube": {
+        "active": false,
+        "assessment": "Ei aktiivinen. Kanavalla vain yli 10 vuotta vanhoja amatöörivideoita."
+      },
+      "tiktok": {
+        "active": false,
+        "assessment": "Ei läsnäoloa."
+      },
+      "linkedin": {
+        "active": false,
+        "assessment": "Ei mainittu tutkimuksessa (oletettavasti matala profiili)."
+      }
+    },
+    "apparent_gaps": [
+      "Moderni, opastava ja asiantuntijuutta rakentava videosisältö puuttuu täysin.",
+      "Yritys ei vastaa digitaalisissa kanavissa autoilijoiden tiedonhakuun (esim. miten valmistaudun katsastukseen)."
+    ],
+    "audience_engagement": "Tavoittaa hyvin perinteiset automiehet (rallisponsorointi) ja hintatietoiset paikalliset. Nuoret, ensiauton ostajat ja täysin digitaalista asiointia suosivat jäävät kylmiksi staattisen ja taktisen viestinnän vuoksi."
+  },
+  "competitive_analysis": {
+    "key_competitors": [
+      {
+        "name": "A-Katsastus",
+        "content_strategy": "Aggressiivinen taktinen markkinointi, laajat aukioloajat (klo 20 asti) ja hintahäiriköinti (29 €).",
+        "threat_level": "high"
+      }
+    ],
+    "brand_winning_areas": [
+      "Kotimaisuus (Avainlippu)",
+      "Yrittäjävetoisuus",
+      "Ketteryys",
+      "Digitaalisen asioinnin helppous (HelppoKatsastus-kaupan myötä)"
+    ],
+    "brand_losing_areas": [
+      "Hintakilpailu (katteet tiukassa, ei pysty loputtomiin vastaamaan 29€ polkuhintoihin)",
+      "Asiantuntijaposition omistaminen moderneissa digikanavissa"
+    ]
+  },
+  "strategic_tensions": [
+    {
+      "id": "tension_01",
+      "description": "Paikallinen tuttu yrittäjä vs. 75 aseman valtakunnallinen jätti",
+      "evidence": [
+        "Tavoitteena 25 % markkinaosuus ja aggressiivinen laajentuminen PK-seudulle.",
+        "Brändiydin nojaa kasvoton korporaatio -mielikuvan vastakohtaan."
+      ],
+      "opportunity_type": "aspiration",
+      "priority_score": 4
+    },
+    {
+      "id": "tension_02",
+      "description": "Rallimaskuliinisuus vs. Tavallisen autoilijan katsastusahdistus",
+      "evidence": [
+        "Pitkäaikainen Ralli SM -sponsorointi ja teknisen osaamisen korostaminen.",
+        "Tavoittamattomissa segmenteissä ovat nuoret ja autoilijat, joille tekniikka on vierasta ja hylkäys pelottaa."
+      ],
+      "opportunity_type": "underserved_audience",
+      "priority_score": 5
+    },
+    {
+      "id": "tension_03",
+      "description": "Hintavetoinen markkinointi vs. Arvopohjainen tavoitetila",
+      "evidence": [
+        "Omistajaportaan julkinen harmittelu alan hintojen polkemisesta ja tiukoista katteista.",
+        "Omat pääviestit (esim. LED-taulut) nojaavat vahvasti alennuksiin (ennakkovarauksella edullisemmin)."
+      ],
+      "opportunity_type": "gap",
+      "priority_score": 4
+    },
+    {
+      "id": "tension_04",
+      "description": "Moderni kasvustrategia vs. Digitaalinen tyhjiö",
+      "evidence": [
+        "HelppoKatsastuksen osto ja täysin digitaalisten asiakkaiden määrän kasvu.",
+        "YouTubessa ja somessa ei ole lainkaan opastavaa asiantuntijasisältöä, jota nykykuluttajat etsivät."
+      ],
+      "opportunity_type": "gap",
+      "priority_score": 5
+    }
+  ],
+  "opportunity_zones": [
+    {
+      "id": "opp_01",
+      "description": "Katsastajan inhimillistäminen ja demystifiointi",
+      "rationale": "Ratkaisee samanaikaisesti kahta strategista ongelmaa: se madaltaa tavallisten asiakkaiden katsastusjännitystä ja rakentaa houkuttelevaa, aitoa työnantajamielikuvaa alan huutavan osaajapulan keskellä.",
+      "risk_level": "low"
+    },
+    {
+      "id": "opp_02",
+      "description": "Asiantuntijaposition valtaaminen hakukoneissa ja videopalveluissa",
+      "rationale": "Täyttää massiivisen digitaalisen tyhjiön ja siirtää kilpailuetua pois pelkästä hinnasta kohti luottamusta ja asiantuntijuutta. Tavoittaa uudet kohderyhmät, jotka etsivät tietoa ennen katsastusta.",
+      "risk_level": "medium"
+    },
+    {
+      "id": "opp_03",
+      "description": "Paikallisuuden skaalaaminen valtakunnalliseksi",
+      "rationale": "Toimii siltana pienen nyrkkipajan ja 75 aseman valtakunnallisen ketjun välillä. Auttaa brändiä kasvamaan ilman, että se muuttuu asiakkaiden silmissä kasvottomaksi korporaatioksi.",
+      "risk_level": "low"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Docusdisplay.fi",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiiNDD...",
+      "type": "report",
+      "date_accessed": "2023-10-24",
+      "relevance": "Taustatieto yrityksen visuaalisesta ilmeestä ja kampanjoista."
+    },
+    {
+      "title": "Kaasujalka-lehti",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVVC48...",
+      "type": "interview",
+      "date_accessed": "2023-10-24",
+      "relevance": "Marko Aavikon haastattelu, markkinaosuustavoitteet, hintakilpailun taustat."
+    },
+    {
+      "title": "Y-lehti",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcp8Qz...",
+      "type": "news",
+      "date_accessed": "2023-10-24",
+      "relevance": "Toimitusjohtajan vaihdostiedote, yrittäjävetoisuuden korostaminen."
+    },
+    {
+      "title": "Plus.fi",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH55MZ5...",
+      "type": "company_site",
+      "date_accessed": "2023-10-24",
+      "relevance": "Työpaikkailmoitukset, rekrytointistrategia, palkitsemisjärjestelmä."
+    },
+    {
+      "title": "Theseus.fi",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHk840i...",
+      "type": "report",
+      "date_accessed": "2023-10-24",
+      "relevance": "Toimialan yleinen analyysi ja kilpailutilanne."
+    },
+    {
+      "title": "A-katsastus.fi",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbgvuo...",
+      "type": "company_site",
+      "date_accessed": "2023-10-24",
+      "relevance": "Kilpailijan kampanjatiedotteet, hintapisteet (29€)."
+    },
+    {
+      "title": "Demokraatti.fi",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZjuTg...",
+      "type": "news",
+      "date_accessed": "2023-10-24",
+      "relevance": "Toimialan työvoimapula ja alan yleiset haasteet."
+    }
+  ]
+}
