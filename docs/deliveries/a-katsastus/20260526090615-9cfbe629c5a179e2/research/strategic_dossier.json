@@ -1,0 +1,219 @@
+{
+  "company_name": "A-Katsastus",
+  "company_slug": "a-katsastus",
+  "generated_at": "2026-05-26T09:08:43.008481",
+  "brand_identity": {
+    "positioning": "Markkinoiden luotettavin, kotimainen ja vastuullinen asiantuntija.",
+    "visual_markers": {
+      "primary_color": "Sininen ja valkoinen (Avainlippu-tunnus)",
+      "secondary_colors": [],
+      "style_keywords": [
+        "Asiallinen",
+        "opastava",
+        "viranomaismainen",
+        "perinteinen"
+      ],
+      "tone_keywords": [
+        "Virallinen",
+        "aggressiivisen kaupallinen",
+        "alennusvetoinen",
+        "arkinen"
+      ]
+    },
+    "voice_characteristics": [
+      "Kahtiajakoinen",
+      "Lakisääteistä valvontaa korostava",
+      "Kaupallinen"
+    ]
+  },
+  "strategic_priorities": [
+    {
+      "rank": 1,
+      "priority": "Ehdottoman markkinajohtajuuden sementointi",
+      "evidence": [
+        "Suurimman kilpailijan K1 Katsastuksen osto vuonna 2022",
+        "Ylivoimainen markkina-asema ja asemaverkosto"
+      ],
+      "execution_assessment": "strong"
+    },
+    {
+      "rank": 2,
+      "priority": "Asiakaspysyvyyden automatisointi",
+      "evidence": [
+        "Datan vahva hyödyntäminen",
+        "Asiakkaiden ohjaaminen Muistakatsastus.fi-palveluun kilpailutuksen estämiseksi ennakkoon"
+      ],
+      "execution_assessment": "strong"
+    },
+    {
+      "rank": 3,
+      "priority": "Kustannustehokkuus ja uudelleenorganisoituminen",
+      "evidence": [
+        "Muutosneuvotteluiden aloittaminen (18.5.2026)",
+        "Uuden toimitusjohtajan Pekka Elon nimitys kesäkuussa 2026"
+      ],
+      "execution_assessment": "moderate"
+    },
+    {
+      "rank": 4,
+      "priority": "Sähköistymiseen sopeutuminen",
+      "evidence": [
+        "eAutotohtori-palvelun lanseeraus sähkö- ja hybridiautojen akkujen ja kaapelointien tarkastamiseen"
+      ],
+      "execution_assessment": "weak"
+    }
+  ],
+  "marketing_posture": {
+    "current_content_types": [
+      "Taktinen ja hintavetoinen kampanjointi",
+      "Alennuskoodit",
+      "Asema-aktivoinnit",
+      "B2B-kohdennetut edut",
+      "Tekstiviestit ja suoramarkkinointi"
+    ],
+    "channel_presence": {
+      "youtube": {
+        "active": false,
+        "assessment": "Hylätty kanava, jonka uusimmat videot ovat 4 vuotta vanhoja. Historiallisesti erittäin korkea sitoutuminen."
+      },
+      "tiktok": {
+        "active": false,
+        "assessment": "Ei aktiivinen arvoa tuottavan sisällön kanavana."
+      },
+      "instagram": {
+        "active": false,
+        "assessment": "Ei aktiivinen arvoa tuottavan sisällön kanavana."
+      },
+      "linkedin": {
+        "active": false,
+        "assessment": "Ei mainittu aktiivisena."
+      }
+    },
+    "apparent_gaps": [
+      "Moderni, opastava how-to-videosisältö puuttuu täysin",
+      "Asiantuntijuutta ei jaeta lyhytvideoformaateissa",
+      "Sähköautoilijoille suunnattu tarinallinen ja opastava sisältö loistaa poissaolollaan"
+    ],
+    "audience_engagement": "Yleisöllä on valtava orgaaninen tiedonjano ja tarve lievittää katsastukseen liittyvää stressiä. Nykyinen taktinen viestintä sitouttaa asiakkaan ainoastaan hintaan, ei brändiin tai asiantuntijuuteen."
+  },
+  "competitive_analysis": {
+    "key_competitors": [
+      {
+        "name": "HelppoKatsastus & Plus Katsastus",
+        "content_strategy": "Asemoituvat ketteriksi, helposti lähestyttäviksi ja halvoiksi vaihtoehdoiksi.",
+        "threat_level": "high"
+      }
+    ],
+    "brand_winning_areas": [
+      "Verkoston laajuus ja saavutettavuus",
+      "Lakisääteinen auktoriteetti ja viranomaisluottamus",
+      "B2B-kumppanuudet ja ammattiautoilijoiden tavoittaminen",
+      "Vastuullinen omistajapohja"
+    ],
+    "brand_losing_areas": [
+      "Hintamielikuva vapailla markkinoilla",
+      "Nuorten ja uusien autoilijoiden konvertointi elinikäisiksi asiakkaiksi",
+      "Digitaalinen asiantuntijasisältö ja moderni opastaminen"
+    ]
+  },
+  "strategic_tensions": [
+    {
+      "id": "tension_01",
+      "description": "Brändi väittää olevansa alan johtava asiantuntija, mutta ei jaa asiantuntijuuttaan siellä, missä nykykuluttaja sitä etsii.",
+      "evidence": [
+        "Vanha Katsastukseen valmistautuminen -video on kerännyt 266 000 katselukertaa.",
+        "YouTube-kanava on ollut hylättynä 4 vuotta.",
+        "Markkinointi keskittyy asiantuntijuuden sijaan taktisiin tekstiviesteihin ja alennuskoodeihin."
+      ],
+      "opportunity_type": "gap",
+      "priority_score": 5
+    },
+    {
+      "id": "tension_02",
+      "description": "Brändi yrittää ylläpitää premium-tason vastuullista markkinajohtajuutta, mutta joutuu kilpailun puristuksessa turvautumaan brändiä halventavaan hintataktikointiin.",
+      "evidence": [
+        "Viestinnässä korostetaan Tradeka-taustaa, Avainlippua ja laatua.",
+        "Käytännön markkinointi on Keväthulinat 29 € -tyyppistä polkumyyntiä."
+      ],
+      "opportunity_type": "threat",
+      "priority_score": 4
+    },
+    {
+      "id": "tension_03",
+      "description": "Yritys on viranomaisauktoriteetti, joka tekee hylkäyksiin johtavaa valvontaa, mutta sen pitäisi samaan aikaan olla houkutteleva ja helposti lähestyttävä kaupallinen palvelu.",
+      "evidence": [
+        "Ajovarma hoitaa Traficomin lakisääteisiä palveluita (tiukka viranomaisrooli).",
+        "Asemilla tarjotaan kahvia ja purtavaa asiakkaiden houkuttelemiseksi (kaupallinen palvelurooli)."
+      ],
+      "opportunity_type": "aspiration",
+      "priority_score": 4
+    },
+    {
+      "id": "tension_04",
+      "description": "Yritys kohtaa nuoret kuljettajat näiden autoilu-uran alussa, mutta ei onnistu rakentamaan heihin kaupallista suhdetta.",
+      "evidence": [
+        "Nuoret asioivat Ajovarmassa ajokorttia suorittaessaan.",
+        "Siirtymä A-Katsastuksen maksaviksi katsastusasiakkaiksi ei tapahdu automaattisesti."
+      ],
+      "opportunity_type": "underserved_audience",
+      "priority_score": 3
+    }
+  ],
+  "opportunity_zones": [
+    {
+      "id": "opp_01",
+      "description": "Katsastuspelon poistaminen ja asiantuntijuuden modernisointi lyhytvideoiden avulla.",
+      "rationale": "Kuluttajilla on valtava, todennettu tiedonjano ja stressi katsastuksen läpimenosta. Tuottamalla modernia, nopeatempoista sisältöä brändi voi inhimillistää katsastajan roolin, siirtää keskustelun pois hinnasta ja lunastaa Tietäjä-arkkityyppinsä.",
+      "risk_level": "low"
+    },
+    {
+      "id": "opp_02",
+      "description": "Sähköautoilijoiden epävarmuuden taklaaminen eAutotohtori-palvelun tarinallistamisella.",
+      "rationale": "EV-kanta kasvaa ja omistajia huolestuttaa akkujen kunto. eAutotohtorin tuominen eloon videosisällöllä asemoisi A-Katsastuksen uuden aikakauden edelläkävijäksi ja tavoittaisi ostovoimaisen kohderyhmän.",
+      "risk_level": "medium"
+    },
+    {
+      "id": "opp_03",
+      "description": "Nuorten kuskien ensimmäisen katsastuksen kynnyksen madaltaminen.",
+      "rationale": "Ajovarma-yhteyden kautta brändillä on jo kontakti nuoriin. Luomalla kohdennettua sisältöä ensimmäistä kertaa katsastukseen tuleville brändi voi napata uudet autoilijat elinikäisiksi asiakkaiksi ennen kuin he oppivat kilpailuttamaan hintoja.",
+      "risk_level": "low"
+    }
+  ],
+  "sources": [
+    {
+      "title": "A-Katsastus verkkosivusto (Palvelut ja yritystieto)",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGluQ646bxgBnZgNCNZ4h22Iy2yDVMnUpRXYo2-l5LNoQqlinHh4h5paHiCfpmqWHL0vcxJYIwSwaaRqLj5I47a8hRxsfdT-CgjO_oVMtsPRnyG0nJsVw==",
+      "type": "company_site",
+      "date_accessed": "2026-05-26",
+      "relevance": "Ydinpositiointi ja palvelutarjooma."
+    },
+    {
+      "title": "STT Info (Tiedotteet: Muutosneuvottelut ja uusi TJ)",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE17cZgZQVHKVBtNmKC5ztC-sEN95KlySnVjHtvVvmRQvsxJpubFYSUIh09esqjUhOPfoYYfP8nk9YxbJNcQMsNWsnToFMRwBi_4EkObpu-lHqDqY0XCsoeIIvLtemq58q6kLNDviGZVgk43rn48QZ7kpL3dcEoLfOc4fKc8b7NzKcUtOhUD7sp63TAME2IsAtd8b_QiAUui1G-UKRSs9rkeOcXnGJRn-jZgH-lrwxLrmJiQPpRXYIr8iOC4kONoBg2lbT6rtgZbyHP2r-DtleJkIQe-Xmc2Mb2IXNyCJT4C7-k",
+      "type": "news",
+      "date_accessed": "2026-05-26",
+      "relevance": "Kustannustehokkuus ja tehostamispaineet."
+    },
+    {
+      "title": "YouTube (A-Katsastus kanava)",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEeCKtbnQEzv_-WrAUC8XwAXZrNqt-MAg_EKNqbqQ2HdS18RoOiN88kGa5ipzkU9bRDzJ132RjYyaW7KDy0LgBJhTdfz8zEaNXwlkZrF1a4-nGlYR7j7Id7ItCxDfxhovmZoa6_2StHREd9qQ8idj5yYbdcE4ONYawOA==",
+      "type": "video",
+      "date_accessed": "2026-05-26",
+      "relevance": "Sisältömarkkinoinnin aukot ja yleisön sitoutuminen."
+    },
+    {
+      "title": "Theseus (Opinnäytetyöt/Tutkimukset)",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnT2sbM4B2zm1LYwwS0ZkCvYGCqlLiEk1-TnENezpjet2RsUPK-55qt6v92IILt7wr8X5TLScNeiNOz8x6pCa5fD4LJRdZDj1ezAz4fmwrXvRoQch1MNW8C_IsPsGRvxnCfTKjpx4cWN0nCmyzKy8BLy0gVhr6Oz0di5FTqA==",
+      "type": "report",
+      "date_accessed": "2026-05-26",
+      "relevance": "Alan yleinen kilpailutilanne."
+    },
+    {
+      "title": "Reddit (Kuluttajakeskustelu)",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1P2gqT2KyUu6Zzsy6DwqdkwKSbZPaP8dfFsAoa8m-6WqFcknNp-VMn3MHaUPMEWM028D9glczdhJNwQaIbOcvPzURorAdGX6HgAUbVXfCwQCZDafO0XOaK0wqfnJCD8fPnVxxC58ns90xZSElpqNDCJUsHYpC5hyp8O6fxEzvV4lN_u5WlBiGH419P-PzCbgkYeNYMA==",
+      "type": "social",
+      "date_accessed": "2026-05-26",
+      "relevance": "Kuluttajien asenteet ja kilpailupaineet."
+    }
+  ]
+}
