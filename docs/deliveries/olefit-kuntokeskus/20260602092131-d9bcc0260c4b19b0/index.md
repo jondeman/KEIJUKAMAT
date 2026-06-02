@@ -16,6 +16,9 @@
 - [Concept 03](concepts/concept_03.md)
 
 ## Treatments
+- [olefit_-kuntokeskus_TREATMENT_01_20260602_093044.md](treatments/olefit_-kuntokeskus_TREATMENT_01_20260602_093044.md)
+- [olefit_-kuntokeskus_TREATMENT_02_20260602_093224.md](treatments/olefit_-kuntokeskus_TREATMENT_02_20260602_093224.md)
+- [olefit_-kuntokeskus_TREATMENT_03_20260602_093412.md](treatments/olefit_-kuntokeskus_TREATMENT_03_20260602_093412.md)
 
 ## One-Pagers
 - [One-Pager 01](onepagers/concept_01.png)
